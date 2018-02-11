@@ -27,7 +27,7 @@ book_listing = function() {
     if (!grepl('[.]xml$', xml)) {
       return(data.frame(url = readLines(xml), lastmod = NA))
     }
-    xmldoc = as_list(read_xml(xml))
+    xmldoc = as_list(read_xml(xml))[[1]]
     meta = lapply(xmldoc, function(site) {
       if (length(site) < 2) return()
       loc = unlist(site$loc)
