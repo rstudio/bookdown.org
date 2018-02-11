@@ -9,7 +9,7 @@ pinned_urls = c(
   "http://r4ds.had.co.nz/",
   "http://adv-r.hadley.nz/",
   "https://bookdown.org/rdpeng/rprogdatascience/",
-  "http://tidytextmining.com/",
+  "https://tidytextmining.com/",
   "https://bookdown.org/rdpeng/exdata/",
   "https://bookdown.org/csgillespie/efficientR/",
   "https://otexts.org/fpp2/",
