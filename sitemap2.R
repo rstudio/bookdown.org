@@ -9,9 +9,9 @@ xml <- "https://bookdown.org/sitemap.xml"
 book_list <- xml2::as_list(read_xml(xml))[[1]]
 book_urls <- tibble(
   url = map_chr(book_list, list("loc", 1)),
-  lastmod = map_chr(book_list, list("lastmod", 1)) %>% strptime(., '%Y-%m-%dT%H:%M:%SZ', 'UTC') %>% as.POSIXct(),
-  from = "bookdown.org"
-) %>%
+  lastmod = map_chr(book_list, list("lastmod", 1)) %>%
+    strptime(format = '%Y-%m-%dT%H:%M:%SZ', tz = 'UTC') %>% as.POSIXct(),
+  from = "bookdown.org") %>%
   # and from external websites
   bind_rows(
     tibble(
@@ -20,15 +20,17 @@ book_urls <- tibble(
       from = "external"
     )
   )
-  
+
 
 # helpers -----------------------------------------------------------------
 
+# one xml_find for two use case
 xml_find = function(x, xpath, all = FALSE) {
   FUN = if (all) xml_find_all else xml_find_first
   tryCatch(FUN(x, xpath), error = function(e) NULL)
 }
 
+# check if covers url is accessible or do not use it
 check_cover <- function(cover, url) {
   # relative URL to absolute
   if (!grepl('^https?://', cover)) cover = paste0(url, cover)
@@ -37,6 +39,7 @@ check_cover <- function(cover, url) {
   cover
 }
 
+# get list of authors from url or html content
 clean_authors <- function(author, url) {
   if (is.null(author) || length(author) == 0) {
     author = unlist(strsplit(url, '/'))  # https://bookdown.org/user/book
@@ -53,25 +56,26 @@ clean_authors <- function(author, url) {
 
 # Get books meta ----------------------------------------------------------
 
+# get metadata for a book from html content
 get_book_meta <- function(url) {
   tibble(
     html = url %>%
       possibly(~ read_html(.x, encoding = "UTF-8") %>% list(), otherwise = NA_character_)(),
-    title = map_chr(html, 
-                    ~ xml_find(.x, ".//title") %>% 
+    title = map_chr(html,
+                    ~ xml_find(.x, ".//title") %>%
                       possibly(xml_text, otherwise = NA_character_)()),
-    date = map_chr(html, 
-                   ~ xml_find(.x, './/meta[@name="date"]') %>% 
+    date = map_chr(html,
+                   ~ xml_find(.x, './/meta[@name="date"]') %>%
                      possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)()),
-    description = map_chr(html, 
-                          ~ xml_find(.x, './/meta[@name="description"]') %>% 
+    description = map_chr(html,
+                          ~ xml_find(.x, './/meta[@name="description"]') %>%
                             possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)()),
     cover = map_chr(html,
-                    ~ xml_find(.x, './/meta[@property="og:image"]') %>% 
+                    ~ xml_find(.x, './/meta[@property="og:image"]') %>%
                       possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)() %>%
                       check_cover(url = url)),
-    repo = map_chr(html, 
-                   ~ xml_find(.x, './/meta[@name="github-repo"]') %>% 
+    repo = map_chr(html,
+                   ~ xml_find(.x, './/meta[@name="github-repo"]') %>%
                      possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)()),
     authors = map_chr(html,
                       ~ xml_find(.x, './/meta[@name="author"]', all = TRUE) %>%
