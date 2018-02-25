@@ -46,8 +46,6 @@ clean_authors <- function(author, url) {
   } else {
     author = xml_attr(author, 'content')
     author = paste(author, collapse = ', ')
-    if (title == 'A Minimal Book Example' && author == 'Yihui Xie' && !grepl('/yihui/', url))
-      author = NA_character_
   }
   author
 }
@@ -135,6 +133,17 @@ pinned_urls <- c(
   "https://otexts.org/fpp2/",
   "https://bookdown.org/yihui/blogdown/")
 
+books_metas %>%
+  # do not keep non accessible book
+  filter(! is.na(html)) %>%
+  # do not keep publication with no title
+  filter(! is.na(title)) %>%
+  # do not keep publication with no description
+  filter(! is.na(description)) %>%
+  # do not keep template book
+  filter(!(title == 'A Minimal Book Example' & authors == 'Yihui Xie' & !grepl('/yihui/', url))) %>%
+  # mark pinned url
+  mutate(pinned = url %in% pinned_urls)
 
 
 
