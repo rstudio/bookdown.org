@@ -9,8 +9,7 @@ xml <- "https://bookdown.org/sitemap.xml"
 book_list <- xml2::as_list(read_xml(xml))[[1]]
 book_urls <- tibble(
   url = map_chr(book_list, list("loc", 1)),
-  lastmod = map_chr(book_list, list("lastmod", 1)) %>%
-    strptime(format = '%Y-%m-%dT%H:%M:%SZ', tz = 'UTC') %>% as.POSIXct(),
+  lastmod = map_chr(book_list, list("lastmod", 1)),
   from = "bookdown.org") %>%
   # and from external websites
   bind_rows(
@@ -54,19 +53,25 @@ clean_authors <- function(author, url) {
 }
 
 
+
+
 # Get books meta ----------------------------------------------------------
 
 # get metadata for a book from html content
-get_book_meta <- function(url) {
+get_book_meta <- function(url, date) {
   tibble(
+    url = url,
     html = url %>%
       possibly(~ read_html(.x, encoding = "UTF-8") %>% list(), otherwise = NA_character_)(),
     title = map_chr(html,
                     ~ xml_find(.x, ".//title") %>%
                       possibly(xml_text, otherwise = NA_character_)()),
-    date = map_chr(html,
-                   ~ xml_find(.x, './/meta[@name="date"]') %>%
-                     possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)()),
+    date = if_else(is.na(date), 
+                   map_chr(html,
+                           ~ xml_find(.x, './/meta[@name="date"]') %>%
+                             possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)()
+                   ),
+                   date),
     description = map_chr(html,
                           ~ xml_find(.x, './/meta[@name="description"]') %>%
                             possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)()),
@@ -85,29 +90,36 @@ get_book_meta <- function(url) {
 
 # delete book parsed list
 unlink("listed.txt")
-
-book_meta <- book_urls %>%
+cache_rds <- "_book_meta_new.rds"
+books_metas <- book_urls %>%
   # exclude some specific books
   filter(! url %in% readLines("exclude.txt")) %>%
   # exclude all bookdown demo except official one
   filter(! (grepl('/bookdown-demo/$', url) & !grepl('/yihui/', url))) %>%
   # exclude all book from one author
-  filter(!grepl('^https://bookdown.org/ChaitaTest/', url))
-
-%>%
-  slice(1:2) %>%
-  map2_df( ~ {
+  filter(!grepl('^https://bookdown.org/ChaitaTest/', url)) %>%
+  # slice(1:2) %>%
+  select(url, lastmod) %>%
+  pmap_df( ~ {
     url <- .x
-    message("processing ", url)
-    if (file.exists('_book_meta_new.rds')) {
-      panels = readRDS('_book_meta_new.rds')
-      if (!is.na(date) && identical(panels[[url]][['date']], date)) {
-        return(structure(panels[[url]][['panel']], BOOK_DATE = as.Date(date)))
-      }
-    } else panels = list()
+    # pmap strips dates so they need to be character 
+    # https://github.com/tidyverse/purrr/issues/358
+    date <- .y
+    message("processing ", url, " ### ", appendLF = FALSE)
     cat(url, sep = '\n', file = 'listed.txt', append = TRUE)
-    get_book_meta(url)
-  }, .id = "url")
+    if (file.exists(cache_rds)) {
+      book_metas = readRDS(cache_rds)
+      if (!is.na(date) && identical(book_metas[[url]][['date']], date)) {
+        message("(from cache)")
+        return(book_metas[[url]])
+      }
+    } else book_metas = list()
+    message("(from url)")
+    book_meta <- get_book_meta(url, date)
+    book_metas[[url]] <- book_meta
+    saveRDS(book_metas, cache_rds)
+    book_meta
+  })
 
 
 # Cleaning published books ------------------------------------------------
