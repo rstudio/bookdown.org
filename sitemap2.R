@@ -82,7 +82,11 @@ get_book_meta <- function(url, date) {
                      possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)()),
     authors = map_chr(html,
                       ~ xml_find(.x, './/meta[@name="author"]', all = TRUE) %>%
-                        clean_authors(url = url))
+                        clean_authors(url = url)),
+    # get generator to identify 
+    generator = map_chr(html, 
+                        ~ xml_find(.x, './/meta[@name="generator"]') %>%
+                          possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)())
   )
 }
 
@@ -152,4 +156,4 @@ books_metas %>%
 
 
 
-  
+
