@@ -137,7 +137,7 @@ pinned_urls <- c(
   "https://otexts.org/fpp2/",
   "https://bookdown.org/yihui/blogdown/")
 
-books_metas %>%
+books_to_keep <- books_metas %>%
   # do not keep non accessible book
   filter(! is.na(html)) %>%
   # do not keep publication with no title
@@ -150,7 +150,35 @@ books_metas %>%
   mutate(pinned = url %in% pinned_urls)
 
 
+# render_post -------------------------------------------------------------
 
+make_post_filename <- function(url) {
+  new_post_name <- sub("^http[s]?://", "", url)
+  new_post_name <- sub("/$", "", new_post_name)
+  new_post_name <- gsub("/", "_", new_post_name)
+  new_post_name <- gsub("\\.", "-", new_post_name)
+  paste0(new_post_name, ".md")
+}
+
+write_md_post <- function(post_name, post_content, path = "content/post") {
+  new_post <- file.path(path, post_name)
+  writeLines(post_content, new_post)
+}
+
+template <- readLines("post_template.md", warn = FALSE, encoding = "UTF-8")
+
+books_to_keep %>%
+  mutate(post_content = pmap_chr(., 
+                             function(...) {
+                               ldata <- list(...)
+                               ldata <- ldata[!is.na(ldata)]
+                               whisker::whisker.render(template, data = ldata)
+                             })
+  ) %>%
+  select(url, post_content) %>%
+  mutate(post_name = make_post_filename(url)) %>%
+  select(-url) %>%
+  pwalk(write_md_post, path = "content/post")
 
 
 
