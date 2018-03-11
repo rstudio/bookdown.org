@@ -1,10 +1,3 @@
 ---
-title: "bookdown: Easy Book Publishing with R Markdown"
+site: blogdown:::blogdown_site
 ---
-
-> Write HTML, PDF, ePub, and Kindle books with R Markdown
-
-```{r, echo=FALSE, message=FALSE}
-source("sitemap.R")
-book_listing()
-```
