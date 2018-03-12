@@ -2,4 +2,5 @@ _site
 .DS_Store
 _book_meta.rds
 public
+blogdown
 

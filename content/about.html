@@ -1,0 +1,21 @@
+---
+title: "bookdown: Easy Book Publishing with R Markdown"
+---
+
+
+
+<p>The <a href="https://github.com/rstudio/bookdown"><strong>bookdown</strong></a> package is a free and open-source R package built on top of <a href="http://rmarkdown.rstudio.com">R Markdown</a> to make it really easy to write books and long-form articles/reports. Markdown is a very simple language but made powerful thanks to <a href="http://pandoc.org">Pandoc</a>, and <strong>bookdown</strong> has added a few important missing features related to writing books, such as figure/table caption numbering and cross-references, and embedding <a href="https://htmlwidgets.org">HTML widgets</a> or <a href="https://shiny.rstudio.com">Shiny apps</a>. We have tried hard to make everything work for all output formats (PDF, HTML, and EPUB, etc), so your readers can choose their favorite file format to read. Although the <strong>bookdown</strong> package was developed using R, it does not mean your book have to be related to R at all. You can certainly write poems or novels with <strong>bookdown</strong>!</p>
+<p>For book authors who want to get their books listed properly on the homepage, you will need to add a few optional fields in the YAML metadata in your <code>index.Rmd</code>:</p>
+<ul>
+<li><code>description</code>: A short description of your book; this should be plain text without any Markdown formatting such as <code>_italic_</code> or <code>**bold**</code>;</li>
+<li><code>github-repo:</code> A character string of your Github repo name of the form <code>user/repo</code>, e.g., <code>rstudio/bookdown</code>;</li>
+<li><code>cover-image</code>: The path to the cover image of your book;</li>
+<li><code>url</code>: The homepage of your book;</li>
+</ul>
+<p>Here is an example:</p>
+<pre class="yaml"><code>description: &quot;This is a minimal bookdown demo.&quot;
+github-repo: &quot;rstudio/bookdown-demo&quot;
+cover-image: &quot;images/cover.png&quot;
+url: &#39;https\://bookdown.org/yihui/bookdown-demo/&#39;</code></pre>
+<p>If your book is written with <strong>bookdown</strong> but not published to bookdown.org, please feel free to <a href="https://github.com/rstudio/bookdown/issues">let us know</a> the URL, and we can also list it on the homepage. Please note that the book list is updated manually, so your book will not be listed automatically on the homepage after you upload it.</p>
+<p>The website bookdown.org is a service provided by <a href="https://www.rstudio.com">RStudio Inc.</a> to host books. It is free for you to publish the static output files of your book, and you hold the full copyright of your own books. Please note that bookdown.org is based on <a href="https://www.rstudio.com/products/connect/">RStudio Connect</a>, so in theory you could publish any types of content here (single R Markdown reports, dashboards, Shiny apps, and so on), however, we only support books here, and reserve the right to stop serving other types of content you publish to bookdown.org. Please consider using RStudio Connect or <a href="https://www.shinyapps.io">ShinyApps.io</a> for publishing those types of content instead.</p>

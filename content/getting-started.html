@@ -1,0 +1,35 @@
+---
+title: "bookdown: Easy Book Publishing with R Markdown"
+---
+
+
+
+<div id="getting-started" class="section level1">
+<h1>Getting Started</h1>
+<div id="install" class="section level2 bigNumber color1">
+<h2>Install</h2>
+<p>First install the <strong>bookdown</strong> R package as follows:</p>
+<pre class="r"><code>install.packages(&#39;devtools&#39;)
+devtools::install_github(&#39;rstudio/bookdown&#39;)</code></pre>
+<p>It is important to install <strong>devtools</strong> first since bookdown’s installation requires its very latest version (v1.10).</p>
+<p>Next, install the latest <a href="https://www.rstudio.com/products/rstudio/download/preview/">Preview Release</a> of RStudio IDE (this release is required for the build and preview features described below).</p>
+</div>
+<div id="edit" class="section level2 bigNumber color2">
+<h2>Edit</h2>
+<p>The best way to get started is to fork or clone the the repository <a href="https://github.com/rstudio/bookdown-demo" class="uri">https://github.com/rstudio/bookdown-demo</a> (if you are not familiar with Git and GitHub, you can alternatively download it as a <a href="https://github.com/rstudio/bookdown-demo/archive/master.zip">zip file</a> and unzip it).</p>
+<p>Open the demo book as a project within RStudio, open the <code>index.Rmd</code> file, and click the <strong>Knit</strong> button:</p>
+<p><img src="images/knit-book.png" width=575 height=448></p>
+<p>Now you should see the index page of this book demo in the preview window:</p>
+<p><img src="images/preview-book.png" width=575 height=355></p>
+<p>The <strong>Knit</strong> button renders just the chapter you are currently editing (e.g. <code>index.Rmd</code>, <code>01-intro.Rmd</code>, etc.) using the default output format for the book. To build all chapters and all formats of the book you can use the <strong>Build Book</strong> button within the RStudio Build pane:</p>
+<p><img src="images/build-book.png" width=575 height=54></p>
+<p>By default the HTML, PDF, and ePub formats of the book will be compiled into the <code>_book</code> sub-directory of the project (you can also build a single format at a time using the <strong>Build Book</strong> menu).</p>
+<p>For the comprehensive documentation of <strong>bookdown</strong>, please see <a href="https://bookdown.org/yihui/bookdown" class="uri">https://bookdown.org/yihui/bookdown</a>.</p>
+</div>
+<div id="publish" class="section level2 bigNumber color2">
+<h2>Publish</h2>
+<p>To publish your books to bookdown.org, you need to first create an account by <a href="/connect/">signing in</a> with your Google account, and then call the function <code>publish_book()</code> in R:</p>
+<pre class="r"><code>bookdown::publish_book(render = &#39;local&#39;)</code></pre>
+<p>If it is the first time you have tried to publish the book, you will be asked to authorize <strong>bookdown</strong> to publish to your bookdown.org account.</p>
+</div>
+</div>
