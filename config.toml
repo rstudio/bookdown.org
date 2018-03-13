@@ -1,6 +1,6 @@
-baseurl = "/"
+baseurl = "https://wizardly-ritchie-d4e42c.netlify.com/"
 languageCode = "en-us"
-title = "A minimal Hugo website"
+title = "Bookdown"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -13,25 +13,25 @@ footnotereturnlinkcontents = "↩"
 #    note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
     name = "Books"
     url = "/post/"
-    weight = 3
+    weight = 1
 [[menu.main]]
     name = "Getting Started"
     url = "/getting-started/"
+    weight = 2
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+[[menu.main]]
+    name = "Home"
+    url = "/"
     weight = 4
 [[menu.main]]
     name = "Subscribe"
     url = "/index.xml"
 
 [params]
-    description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 -- 2018 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    description = "Write HTML, PDF, ePub, and Kindle books with R Markdown"
+    footer = "&copy; [RStudio](https://www.rstudio.com) 2017 -- 2018 | [Github](https://github.com/rstudio/bookdown)"

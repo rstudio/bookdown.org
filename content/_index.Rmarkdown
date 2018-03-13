@@ -5,6 +5,6 @@ title: Home
 
 # BOOKDOWN
 
-## _test website_
+## Write HTML, PDF, ePub, and Kindle books with R Markdown
 
-Some description
+![](https://bookdown.org/yihui/bookdown/images/logo.png)
