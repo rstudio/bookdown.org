@@ -1,0 +1,37 @@
+baseurl = "https://wizardly-ritchie-d4e42c.netlify.com/"
+languageCode = "en-us"
+title = "Bookdown"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "render_post"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+#[permalinks]
+#    post = "/post/:year/:month/:day/:slug/"
+#    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Books"
+    url = "/post/"
+    weight = 1
+[[menu.main]]
+    name = "Getting Started"
+    url = "/getting-started/"
+    weight = 2
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 4
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    description = "Write HTML, PDF, ePub, and Kindle books with R Markdown"
+    footer = "&copy; [RStudio](https://www.rstudio.com) 2017 -- 2018 | [Github](https://github.com/rstudio/bookdown)"
