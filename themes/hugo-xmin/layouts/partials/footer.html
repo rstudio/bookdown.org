@@ -1,5 +1,4 @@
   <footer>
-  {{ partial "foot_custom.html" . }}
   <div class="footer">
   {{ with .Site.Params.footer }}
   <div class="copyright">
@@ -13,5 +12,6 @@
   </div>
   </div>
   </footer>
+  {{ template "_internal/google_analytics.html" . }}
   </body>
 </html>
