@@ -3,19 +3,10 @@ body {
   margin: 0 auto 0;
   line-height: 1.5em;
 }
-main {
-  max-width: 800px;
-  hyphens: auto;
-}
-aside {
-  width: 300px;
-  padding-left: 2em;
-}
 .container, .menu ul, .footer, .full-width {
   max-width: 1100px;
   margin: 0 auto 0;
 }
-main, aside { display: table-cell; }
 .full-width {
   display: block;
   padding: 1em 0 1em;
@@ -71,11 +62,6 @@ hr {
 }
 .footnotes hr { margin-left: 0; }
 
-#TableOfContents, #TOC {
-  border: 1px solid #eee;
-  border-radius: 5px;
-}
-
 /* code */
 pre {
   border: 1px solid #ddd;
@@ -118,16 +104,6 @@ blockquote {
   margin: 5px auto 10px;
 }
 .summary { margin-top: .5em; }
-.pagination { text-align: center; }
-.pagination li { display: inline; }
-.pagination a { padding: 0 .2em; }
-.active a { text-decoration: none; }
-.post-nav span {
-  display: inline-block;
-  width: 45%;
-}
-.nav-prev { text-align: right; }
-.nav-next { text-align: left; }
 .footer, .footer a { color: #fff; }
 .more { font-style: italic; }
 
@@ -153,48 +129,9 @@ table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 tr:nth-child(even) { background: #eee }
 
-.search-form, .mktoFieldDescriptor .mktoFieldWrap {
-  box-shadow: 0 0 5px #71a5d4;
-  border-radius: 1px;
-}
-.search, .mktoEmailField {
-  width: 100%;
-  max-width: 300px;
-  height: 30px;
-  border: none;
-  padding: 1em;
-  box-sizing: border-box;
-}
-/* Marketo, you have no idea what you are doing */
-#mktoForm_2169, .mktoForm input { width: 100% !important; }
-.mktoForm { padding: inherit !important; }
-.mktoForm input {
-  padding: 1em !important;
-  font-size: 1em !important;
-}
-.mktoForm .mktoGutter, .mktoForm .mktoOffset { height: inherit !important; }
-.mktoForm .mktoFormCol, .mktoForm .mktoOffset, .mktoForm .mktoFieldWrap,.mktoForm .mktoGutter { float: none !important; }
-.mktoButtonWrap { margin-left: 0 !important; }
-.mktoButton {
-  padding: .6em 1em;
-  font-size: 1em;
-  background: #75aadb;
-  color: #fff;
-  font-weight: bolder;
-  border: none;
-}
-
 /* responsive */
 @media (max-width: 900px) {
   .container, main, aside { display: block; }
-  main, .search, .mktoEmailField { max-width: 100%; }
-  aside {
-    width: 100%;
-    padding: 0;
-    box-sizing: border-box;
-    border-top: 1px dashed #ddd;
-  }
-  aside .terms-list li { display: inline-block; }
 }
 @media (max-width: 800px) {
   .menu .left, .menu .right { float: none; }
@@ -203,7 +140,7 @@ tr:nth-child(even) { background: #eee }
   .menu .left:first-child { display: inline-block; }
   li.optional { display: none; }
   body { padding: initial; }
-  main, aside, .full-width { padding: 0 .5em 0; }
+  .full-width { padding: 0 .5em 0; }
   .article-list { margin-top: 1.5em; }
 }
 @media (max-width: 650px) {
