@@ -6,7 +6,7 @@ title: Home
 
 ## Write HTML, PDF, ePub, and Kindle books with R Markdown
 
-<img src="https://bookdown.org/yihui/bookdown/images/logo.png" alt="The bookdown logo" align="right" />
+<img src="https://bookdown.org/yihui/bookdown/images/logo.png" alt="The bookdown logo" align="right" style="margin-left:1em;max-width:30%;" />
 
 The **bookdown** package facilitates writing books and long-form articles/reports with R Markdown. Features include:
 
