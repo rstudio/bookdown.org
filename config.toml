@@ -1,4 +1,4 @@
-baseurl = "https://wizardly-ritchie-d4e42c.netlify.com/"
+baseurl = "https://bookdown.org/"
 relativeurls = true
 languageCode = "en-us"
 title = "Bookdown"
