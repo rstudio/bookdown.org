@@ -25,7 +25,7 @@ footnotereturnlinkcontents = "↩"
     weight = 2
 [[menu.main]]
     name = "Archive"
-    url = "/acchive/"
+    url = "/archive/"
     weight = 3
 [[menu.main]]
     name = "Log in"
