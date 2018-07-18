@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 This is a collection of data visualization handouts from Macroeconomics.
+
+[Link to the book](https://bookdown.org/tpemartin/data_visualization/)

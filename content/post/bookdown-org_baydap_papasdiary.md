@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 This is a selection of a papa’s diary originally posted on my blog. A family’s stories of two children are told. This book is being updated.
+
+[Link to the book](https://bookdown.org/baydap/papasdiary/)

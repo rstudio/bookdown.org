@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 IRT (GMMSGE01): Parametric IRT (dichotomous data)
+
+[Link to the book](https://bookdown.org/jorgetendeiro/ParametricIRT/)

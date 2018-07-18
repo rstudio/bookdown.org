@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 This is a beginner’s guide to applied econometrics using the free statistics software R.
+
+[Link to the book](https://bookdown.org/ccolonescu/RPoE4/)

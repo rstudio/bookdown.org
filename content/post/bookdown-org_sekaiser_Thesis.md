@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Revealed comparative advantage and network centrality
+
+[Link to the book](https://bookdown.org/sekaiser/Thesis/)

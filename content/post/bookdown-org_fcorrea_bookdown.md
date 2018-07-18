@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 A track of papers we read and papers we collect to read in future.
+
+[Link to the book](https://bookdown.org/fcorrea/bookdown/)

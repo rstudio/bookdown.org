@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Simple Simulation and the James-Stein Estimator
+
+[Link to the book](https://bookdown.org/content/922/)

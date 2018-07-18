@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Multivariate Analysis with Optimal Scaling
+
+[Link to the book](https://bookdown.org/jandeleeuw6/gifi/)

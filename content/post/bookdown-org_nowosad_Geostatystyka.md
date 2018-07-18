@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 Introduction to geostatistics with R (in Polish).
+
+[Link to the book](https://bookdown.org/nowosad/Geostatystyka/)

@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Arbeitsprozesse und Werkzeuge des wissenschaftlichen Arbeitens. Gekürzte Ausgabe aus 2001, aber viele Inhalte noch aktuell.
+
+[Link to the book](https://bookdown.org/pbaumgartner/wiss-arbeiten/)

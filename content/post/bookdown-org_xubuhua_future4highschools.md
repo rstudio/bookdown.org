@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 高中生的未來事件簿
+
+[Link to the book](https://bookdown.org/xubuhua/future4highschools/)

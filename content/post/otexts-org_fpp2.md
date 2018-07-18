@@ -8,3 +8,5 @@ pinned: TRUE
 ---
 
 2nd edition
+
+[Link to the book](https://otexts.org/fpp2/)

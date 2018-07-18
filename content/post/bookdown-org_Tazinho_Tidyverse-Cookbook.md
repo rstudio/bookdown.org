@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Simple cookbook for functions and idioms within the scope of the tidyverse.
+
+[Link to the book](https://bookdown.org/Tazinho/Tidyverse-Cookbook/)

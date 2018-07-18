@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 My book about adventures in a video game named Minecraft.
+
+[Link to the book](https://bookdown.org/nwstephens/the-final-war/)

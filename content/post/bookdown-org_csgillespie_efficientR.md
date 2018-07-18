@@ -8,3 +8,5 @@ pinned: TRUE
 ---
 
 Efficient R Programming is about increasing the amount of work you can do with R in a given amount of time. It’s about both computational and programmer efficiency.
+
+[Link to the book](https://bookdown.org/csgillespie/efficientR/)

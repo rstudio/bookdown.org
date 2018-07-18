@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Notes for Predictive Modeling
+
+[Link to the book](https://bookdown.org/egarpor/PM-UC3M/)

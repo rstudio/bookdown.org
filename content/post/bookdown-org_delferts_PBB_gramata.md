@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Piemēri darbā ar programmu R, lai risinātu statistikas problēmas bioloģijā.
+
+[Link to the book](https://bookdown.org/delferts/PBB_gramata/)

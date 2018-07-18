@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Gyeonggang Line
+
+[Link to the book](https://bookdown.org/content/813/)

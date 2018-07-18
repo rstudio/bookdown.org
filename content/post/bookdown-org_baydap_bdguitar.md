@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 This is a collection of my favorite songs with guitar chords, produced by bookdown.
+
+[Link to the book](https://bookdown.org/baydap/bdguitar/)

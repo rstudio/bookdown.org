@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Forthcoming book on geographic data with R.
+
+[Link to the book](https://bookdown.org/robinlovelace/geocompr/)

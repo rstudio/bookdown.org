@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 This document describes the concept of Mass Customisation as it applies to Business Analytics and provides case study implementations of R Studio
+
+[Link to the book](https://bookdown.org/twoshotamericano/dissertation2/)

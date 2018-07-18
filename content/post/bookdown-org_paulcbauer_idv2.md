@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Script developed for a workshop at the CUSO doctoral school on the 4th and 5th November 2016.
+
+[Link to the book](https://bookdown.org/paulcbauer/idv2/)

@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 An introduction into using R, RStudio, and R Markdown for new users
+
+[Link to the book](https://bookdown.org/chesterismay/rbasics/)

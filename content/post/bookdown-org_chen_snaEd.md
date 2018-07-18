@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 This is a course handbook written by Bodong Chen for his SNA course at UMN.
+
+[Link to the book](https://bookdown.org/chen/snaEd/)

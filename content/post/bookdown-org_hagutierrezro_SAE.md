@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Estedd lidbro plantea una introducción a la estimación de áreas pequeñas con el software R.
+
+[Link to the book](https://bookdown.org/hagutierrezro/SAE/)

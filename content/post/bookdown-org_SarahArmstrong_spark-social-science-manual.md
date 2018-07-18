@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Spark Social Science Manual
+
+[Link to the book](https://bookdown.org/SarahArmstrong/spark-social-science-manual/)

@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 This publication is the result of five months of work for our Data Product Architecture class project.
+
+[Link to the book](https://bookdown.org/rsanchezavalos/compranet/)

@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 The Unix Workbench
+
+[Link to the book](https://bookdown.org/sean/the-unix-workbench/)

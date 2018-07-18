@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 A Planter’s Punch that quickly got out of hand
+
+[Link to the book](https://bookdown.org/otho/ps_booklet/)

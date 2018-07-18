@@ -1,9 +1,12 @@
 ---
 title: "R Markdown: The Definitive Guide"
 author: "Yihui Xie, J. J. Allaire, Garrett Grolemund"
-date: "2018-02-27T22:15:03Z"
+date: "2018-07-15T17:42:50Z"
+cover: "https://bookdown.org/yihui/rmarkdown/images/cover.png"
 repo: "rstudio/rmarkdown-book"
 pinned: FALSE
 ---
 
-The definitive guide to the R Markdown ecosystem.
+The first official book authored by the core R Markdown developers that provides a comprehensive and accurate reference to the R Markdown ecosystem. With R Markdown, you can easily create reproducible data analysis reports, presentations, dashboards, interactive applications, books, dissertations, websites, and journal articles, while enjoying the simplicity of Markdown and the great power of R and other languages.
+
+[Link to the book](https://bookdown.org/yihui/rmarkdown/)

@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 A short course on nonparametric curve estimation
+
+[Link to the book](https://bookdown.org/egarpor/nonpar-eafit/)

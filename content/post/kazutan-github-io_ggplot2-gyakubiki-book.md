@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 これはggplot2逆引き集です。
+
+[Link to the book](https://kazutan.github.io/ggplot2-gyakubiki-book/)

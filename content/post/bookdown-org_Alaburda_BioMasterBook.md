@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Bandymas sukurti lengvą biologijos elektroninę knygą.
+
+[Link to the book](https://bookdown.org/Alaburda/BioMasterBook/)

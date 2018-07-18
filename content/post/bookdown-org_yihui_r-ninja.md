@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 本书要写什么其实我也不太清楚。迷迷瞪瞪中，感觉写一些奇门遁甲之术会比较有趣吧，算是程序猿/媛的自娱自乐了，如果在自娱自乐之外，读者能学到一些有用的技能，那就更好了。
+
+[Link to the book](https://bookdown.org/yihui/r-ninja/)

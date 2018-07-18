@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Руководство по пакету data.table: перевод виньеток, справочная иформация.
+
+[Link to the book](https://bookdown.org/statist_/DataTableManual/)

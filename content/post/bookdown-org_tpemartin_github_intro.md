@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Github 介紹
+
+[Link to the book](https://bookdown.org/tpemartin/github_intro/)

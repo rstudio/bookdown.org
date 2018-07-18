@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 (Very) basic steps to weight a survey sample
+
+[Link to the book](https://bookdown.org/jespasareig/Book_How_to_weight_a_survey/)

@@ -1,9 +1,11 @@
 ---
 title: "New statistics for the design researcher"
 author: "Martin Schmettow"
-date: "2018-03-01T14:56:58Z"
+date: "2018-04-07T14:05:23Z"
 repo: "schmettow/NewStats"
 pinned: FALSE
 ---
 
 A statistics book for designers, human factors specialists, UX researchers, applied psychologists and everyone else who works hard to make this world a better place.
+
+[Link to the book](https://bookdown.org/schmettow/new_statistics_for_the_design_researcher/)

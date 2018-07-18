@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Course book for Introduction to Exploratory Data Analysis with R (APS 135) in the Department of Animal and Plant Sciences, University of Sheffield.
+
+[Link to the book](https://dzchilds.github.io/eda-for-bio/)

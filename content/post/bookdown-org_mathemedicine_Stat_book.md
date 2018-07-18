@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 This is a basic statistics book written by JSKIM.
+
+[Link to the book](https://bookdown.org/mathemedicine/Stat_book/)

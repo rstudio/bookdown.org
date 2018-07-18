@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 我是世界最大黨
+
+[Link to the book](https://bookdown.org/Jessy/china/)

@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Documentation describing my analyses of 16S rRNA sequencing data.
+
+[Link to the book](https://rachaellappan.github.io/16S-analysis/)

@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 An open-source and fully-reproducible electronic textbook bridging the gap between traditional introductory statistics and data science courses.
+
+[Link to the book](http://moderndive.com/)

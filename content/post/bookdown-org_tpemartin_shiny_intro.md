@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Shiny (I)
+
+[Link to the book](https://bookdown.org/tpemartin/shiny_intro/)

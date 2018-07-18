@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 Sosyal Bilimler R Platformu
+
+[Link to the book](https://bookdown.org/burak2358/SARP-TR/)

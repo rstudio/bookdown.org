@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Mastering DFS Analytics
+
+[Link to the book](https://www.masteringdfsanalytics.com/)

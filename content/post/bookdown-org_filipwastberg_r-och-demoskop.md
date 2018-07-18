@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Det här är ett dokument för att komma igång med R på Demoskop
+
+[Link to the book](https://bookdown.org/filipwastberg/r-och-demoskop/)

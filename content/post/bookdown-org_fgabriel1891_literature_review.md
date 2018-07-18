@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Literature thesis: Building a framework for retrieving information on multispecies interactions from published literature
+
+[Link to the book](https://bookdown.org/fgabriel1891/literature_review/)

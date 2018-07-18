@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Veiledning i installasjon og bruk av VeraCrypt for sikker lagring og sletting av data ved Senter for klinisk dokumentajson og evaluering (SKDE), Helse Nord RHF.
+
+[Link to the book](https://bookdown.org/areedv/docSens/)

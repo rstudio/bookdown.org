@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook.
+
+[Link to the book](https://bookdown.org/tpemartin/Discussion/)

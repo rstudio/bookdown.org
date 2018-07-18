@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Chess Encounters
+
+[Link to the book](https://bookdown.org/aclark/chess/)

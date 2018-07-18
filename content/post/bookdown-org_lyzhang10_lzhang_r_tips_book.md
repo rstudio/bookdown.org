@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 R tips: 16 HOWTO’s with examples for data analysts
+
+[Link to the book](https://bookdown.org/lyzhang10/lzhang_r_tips_book/)

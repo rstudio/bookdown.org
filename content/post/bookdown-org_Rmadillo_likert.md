@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 This is a short overview of why averages don’t work well for evaluating Likert scale or other ordinal-scale data, and what to do instead, with examples using R.
+
+[Link to the book](https://bookdown.org/Rmadillo/likert/)

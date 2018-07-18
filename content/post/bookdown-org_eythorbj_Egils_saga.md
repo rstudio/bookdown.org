@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Egils saga Skalla-Grímssonar
+
+[Link to the book](https://bookdown.org/eythorbj/Egils_saga/)

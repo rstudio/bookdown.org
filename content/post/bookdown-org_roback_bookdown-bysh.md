@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Test.
+
+[Link to the book](https://bookdown.org/roback/bookdown-bysh/)

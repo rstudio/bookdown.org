@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Liquid biopsy pocket book (in Chinese), written by Bioinformatics engineers.
+
+[Link to the book](https://bookdown.org/youcai/Liquid_biopsy_PocketBook/)

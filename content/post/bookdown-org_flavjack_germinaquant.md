@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 A guide for analisis of germination variables and usage of GerminaQuant.
+
+[Link to the book](https://bookdown.org/flavjack/germinaquant/)

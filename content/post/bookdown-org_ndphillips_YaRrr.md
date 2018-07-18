@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 An introductory book to R written by, and for, R pirates
+
+[Link to the book](https://bookdown.org/ndphillips/YaRrr/)

@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 a book to accompany the course Programming for Psychologists
+
+[Link to the book](https://bookdown.org/schmettow/PfP_Book/)

@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 How to do comparative methods for evolution and ecology
+
+[Link to the book](https://bookdown.org/bomeara/comparative-methods/)

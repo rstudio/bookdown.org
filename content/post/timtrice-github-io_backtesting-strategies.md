@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Backtesting strategies with R
+
+[Link to the book](https://timtrice.github.io/backtesting-strategies/)

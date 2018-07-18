@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 This book is an introduction to functional programming and unit testing with the R programming language, for the purpose of data muning
+
+[Link to the book](https://b-rodrigues.github.io/fput/)

@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 The book discusses block relaxation, alternating least squares, augmentation, and majorization algorithms to minimize loss functions, with applications in statistics, multivariate analysis, and multidimensional scaling.
+
+[Link to the book](https://bookdown.org/jandeleeuw6/bras/)

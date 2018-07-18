@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 This book explores the fundamentals of financial analytics using R and various topics from finance.
+
+[Link to the book](https://bookdown.org/wfoote01/faur/)

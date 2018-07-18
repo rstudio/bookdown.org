@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 Novel methods for dose–response meta-analysis
+
+[Link to the book](https://bookdown.org/alecri/thesis/)

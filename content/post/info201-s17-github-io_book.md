@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 Technical reader for INFO-201: Technical Foundations of Informatics.
+
+[Link to the book](https://info201-s17.github.io/book/)

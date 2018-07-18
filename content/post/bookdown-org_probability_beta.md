@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 An interactive introduction to probability.
+
+[Link to the book](https://bookdown.org/probability/beta/)

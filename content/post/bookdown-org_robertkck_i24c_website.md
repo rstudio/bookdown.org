@@ -8,3 +8,5 @@ pinned: FALSE
 ---
 
 This website serves to illustrate the findings of the policy contribution ‘An approach to identify the sources of low-carbon growth for Europe’ and allows a deeper dive into the underlying data.
+
+[Link to the book](https://bookdown.org/robertkck/i24c_website/)

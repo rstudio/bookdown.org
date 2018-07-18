@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 Förutsägelse av framtida förekomst av cancer i Västra Sjukvårdsregionen.
+
+[Link to the book](https://bookdown.org/eriklgb/incidensprediktion/)

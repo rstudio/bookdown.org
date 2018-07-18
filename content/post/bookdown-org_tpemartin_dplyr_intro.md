@@ -6,3 +6,5 @@ pinned: FALSE
 ---
 
 dplyr 介紹
+
+[Link to the book](https://bookdown.org/tpemartin/dplyr_intro/)

@@ -7,3 +7,5 @@ pinned: FALSE
 ---
 
 A tutorial to <code>R bookdownplus</code>, an extension of <code>R bookdown</code> package. This books shows helps you write academic journal articles, guitar books, chemical equations, mails, calendars, and diaries, on the basis of R <code>bookdown</code>.
+
+[Link to the book](https://bookdown.org/baydap/bookdownplus/)
