@@ -8,3 +8,5 @@ date: "{{{date}}}"
 ---
 
 {{{description}}}
+
+[Link to the book]({{{url}}})
