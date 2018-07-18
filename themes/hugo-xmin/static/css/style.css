@@ -28,7 +28,7 @@ footer { background: #75aadb; }
   padding: 5px;
   border-radius: 5px;
 }
-.menu a, .pagination a, .article-meta a { color: #71a5d4; }
+.menu a, .article-meta a { color: #71a5d4; }
 .menu a:hover, .menu .active { background: #f8f8f8; }
 .menu, .article-meta, .post-nav { text-align: center; }
 .menu ul, .terms-list { padding-left: 0; }
