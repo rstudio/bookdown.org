@@ -4,17 +4,31 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <meta property="og:image" content="https://blog.rstudio.com/images/dev-blog-logo.png" />
+    <link rel="icon" type="image/png" href="{{ "/icons/favicon.png" | relURL }}" />
     <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
     {{ partial "head_custom.html" . }}
   </head>
 
   <body>
-    <nav>
-    <ul class="menu">
+    <nav class="menu">
+    {{ partial "icons.html" . }}
+    <ul>
+      {{ range .Site.Menus.logo }}
+      <li class="icon left">
+        <a href="{{ .URL | relURL }}"><img src="{{ relURL .Pre }}" alt="{{ .Name }}" title="{{ .Name }}" /></a>
+      </li>
+      {{ end }}
       {{ range .Site.Menus.main }}
-      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+      <li{{ if .Identifier }} class="optional"{{ end }}>
+        <a href="{{ .URL | relURL }}"{{ if eq .URL $.URL }} class="active"{{ end }}>{{ .Name }}</a>
+      </li>
+      {{ end }}
+      {{ range .Site.Menus.icons }}
+      <li class="icon right">
+        <a href="{{ .URL | relURL }}"><svg viewBox="0 0 16 16"><use xlink:href="#icon-{{ .Post }}"></use></svg></a>
+      </li>
       {{ end }}
     </ul>
-    <hr/>
     </nav>

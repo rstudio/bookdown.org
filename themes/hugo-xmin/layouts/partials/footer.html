@@ -1,9 +1,17 @@
   <footer>
   {{ partial "foot_custom.html" . }}
+  <div class="footer">
   {{ with .Site.Params.footer }}
-  <hr/>
+  <div class="copyright">
   {{ . | markdownify }}
+  </div>
   {{ end }}
+  <div>
+  {{ range .Site.Menus.icons }}
+  <a href="{{ .URL | relURL }}"><svg viewBox="0 0 16 16"><use xlink:href="#icon-{{ .Post }}"></use></svg></a>
+  {{ end }}
+  </div>
+  </div>
   </footer>
   </body>
 </html>

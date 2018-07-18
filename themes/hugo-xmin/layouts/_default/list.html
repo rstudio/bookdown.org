@@ -1,18 +1,28 @@
 {{ partial "header.html" . }}
 
-{{if not .IsHome }}
-<h1>{{ .Title }}</h1>
-{{ end }}
+<main class="full-width">
 
 {{ .Content }}
 
-<ul>
-  {{ range (where .Data.Pages "Section" "!=" "") }}
-  <li>
-    <span class="date">{{ .Date.Format "2006/01/02" }}</span>
-    <a href="{{ .URL }}">{{ .Title }}</a>
-  </li>
-  {{ end }}
-</ul>
+{{ range (where .Paginator.Pages "Section" "post") }}
+<section class="article-list">
+  <h1><a href="{{ .URL }}">{{ .Title }}</a></h1>
+  <div>
+    <span>{{ .Date.Format "2006-01-02" }}</span>
+    {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+  </div>
+  <div class="summary">
+    {{ $img := findRE "<img src=\"[^\"]+\"" .Content 1 }}
+    {{ range $img }}
+    <div class="thumbnail">{{ (print . " alt=\"Thumbnail\" />") | safeHTML }}</div>
+    {{ end }}
+    {{ default .Summary .Description }}
+    <a href="{{ .URL }}" class="more" title="Read More...">Read more &rarr;</a>
+  </div>
+</section>
+{{ end }}
+
+{{ template "_internal/pagination.html" . }}
+</main>
 
 {{ partial "footer.html" . }}
