@@ -2,3 +2,5 @@
 .Rproj.user
 render_post/_book_meta.rds
 *.Rproj
+blogdown
+public
