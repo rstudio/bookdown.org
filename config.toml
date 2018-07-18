@@ -9,6 +9,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "render_post"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 
+[[menu.logo]]
+    name = "Bookdown"
+    pre = "https://bookdown.org/yihui/bookdown/images/logo.png"
+    url = "/"
+    weight = 1
+
 [[menu.main]]
     name = "Home"
     url = "/"
@@ -25,14 +31,22 @@ footnotereturnlinkcontents = "↩"
     name = "Log in"
     url = "/connect/"
     weight = 4
-[[menu.main]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 5
-[[menu.main]]
+
+[[menu.icons]]
     name = "Github"
+    post = "github"
     url = "https://github.com/rstudio/bookdown"
-    weight = 6
+    weight = 1
+[[menu.icons]]
+    name = "Twitter"
+    post = "twitter"
+    url = "https://twitter.com/rstudio"
+    weight = 2
+[[menu.icons]]
+    name = "RSS"
+    post = "rss"
+    url = "/index.xml"
+    weight = 3
 
 [params]
     description = "Write HTML, PDF, ePub, and Kindle books with R Markdown"
