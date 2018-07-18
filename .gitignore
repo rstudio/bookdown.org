@@ -1,6 +1,4 @@
-_site
 .DS_Store
-_book_meta.rds
-public
-blogdown
-
+.Rproj.user
+render_post/_book_meta.rds
+*.Rproj

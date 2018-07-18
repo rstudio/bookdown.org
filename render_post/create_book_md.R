@@ -64,7 +64,7 @@ get_book_meta <- function(url, date) {
     title = map_chr(html,
                     ~ xml_find(.x, ".//title") %>%
                       possibly(xml_text, otherwise = NA_character_)()),
-    date = if_else(is.na(date), 
+    date = if_else(is.na(date),
                    map_chr(html,
                            ~ xml_find(.x, './/meta[@name="date"]') %>%
                              possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)()
@@ -83,8 +83,8 @@ get_book_meta <- function(url, date) {
     authors = map_chr(html,
                       ~ xml_find(.x, './/meta[@name="author"]', all = TRUE) %>%
                         clean_authors(url = url)),
-    # get generator to identify 
-    generator = map_chr(html, 
+    # get generator to identify
+    generator = map_chr(html,
                         ~ xml_find(.x, './/meta[@name="generator"]') %>%
                           possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)())
   )
@@ -92,7 +92,7 @@ get_book_meta <- function(url, date) {
 
 # delete book parsed list
 unlink("render_post/listed.txt")
-cache_rds <- "render_post/_book_meta_new.rds"
+cache_rds <- "render_post/_book_meta.rds"
 books_metas <- book_urls %>%
   # exclude some specific books
   filter(! url %in% readLines("render_post/exclude.txt")) %>%
@@ -104,7 +104,7 @@ books_metas <- book_urls %>%
   select(url, lastmod) %>%
   pmap_df( ~ {
     url <- .x
-    # pmap strips dates so they need to be character 
+    # pmap strips dates so they need to be character
     # https://github.com/tidyverse/purrr/issues/358
     date <- .y
     message("processing ", url, " ### ", appendLF = FALSE)
@@ -170,7 +170,7 @@ write_md_post <- function(post_name, post_content, path = "content/post") {
 template <- readLines("render_post/post_template.md", warn = FALSE, encoding = "UTF-8")
 
 books_to_keep %>%
-  mutate(post_content = pmap_chr(., 
+  mutate(post_content = pmap_chr(.,
                              function(...) {
                                ldata <- list(...)
                                ldata <- ldata[!is.na(ldata)]
