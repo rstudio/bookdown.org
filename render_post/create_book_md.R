@@ -160,7 +160,7 @@ make_post_filename <- function(url) {
   paste0(new_post_name, ".md")
 }
 
-write_md_post <- function(post_name, post_content, path = "content/post") {
+write_md_post <- function(post_name, post_content, path = "content/archive") {
   new_post <- file.path(path, post_name)
   con <- file(new_post, open = "w+",  encoding = "native.enc")
   on.exit(close(con))
@@ -180,10 +180,4 @@ books_to_keep %>%
   select(url, post_content) %>%
   mutate(post_name = make_post_filename(url)) %>%
   select(-url) %>%
-  pwalk(write_md_post, path = "content/post")
-
-
-
-
-
-
+  pwalk(write_md_post)

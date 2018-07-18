@@ -4,7 +4,7 @@
 
 {{ .Content }}
 
-{{ range (where .Paginator.Pages "Section" "post") }}
+{{ range (where .Paginator.Pages "Section" "archive") }}
 <section class="article-list">
   <h1><a href="{{ .URL }}">{{ .Title }}</a></h1>
   <div>
