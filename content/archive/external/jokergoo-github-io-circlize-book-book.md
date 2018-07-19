@@ -2,7 +2,7 @@
 title: "Circular Visualization in R"
 author: "Zuguang Gu"
 date: ""
-link: "http://zuguang.de/circlize_book/book/"
+link: "https://jokergoo.github.io/circlize_book/book/"
 repo: "jokergoo/circlize_book"
 pinned: false
 ---

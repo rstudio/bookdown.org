@@ -284,8 +284,8 @@ https://www.masteringdfsanalytics.com/
 https://tidytextmining.com/
 https://b-rodrigues.github.io/fput/
 https://kazutan.github.io/ggplot2-gyakubiki-book/
-http://moderndive.com/
+https://moderndive.com/
 https://dzchilds.github.io/eda-for-bio/
-https://info201-s17.github.io/book/
-http://zuguang.de/circlize_book/book/
+https://info201.github.io/
+https://jokergoo.github.io/circlize_book/book/
 https://rachaellappan.github.io/16S-analysis/
