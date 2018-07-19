@@ -126,6 +126,7 @@ books_metas <- book_urls %>%
 
 pinned_urls <- c(
   "https://bookdown.org/yihui/bookdown/",
+  "https://bookdown.org/yihui/rmarkdown/",
   "http://r4ds.had.co.nz/",
   "https://adv-r.hadley.nz/",
   "https://bookdown.org/rdpeng/rprogdatascience/",
