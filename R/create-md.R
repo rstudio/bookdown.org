@@ -12,7 +12,10 @@ book_urls <- tibble(
   # and from external websites
   bind_rows(
     tibble(
-      url = readLines("external.txt"),
+      url = grep(
+        '^https://bookdown[.]org', c(readLines("home.txt"), readLines("external.txt")),
+        value = TRUE, invert = TRUE
+      ),
       lastmod = as.POSIXct(NA),
       from = "external"
     )
