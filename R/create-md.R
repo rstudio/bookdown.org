@@ -132,6 +132,10 @@ books_metas = book_urls %>%
 books_to_keep = books_metas %>%
   # should have a substantial TOC (at least 9 items)
   filter(toc_len >= 9) %>%
+  # remove possibly duplicated book by the same author (choose the latest)
+  group_by(authors, title) %>%
+  filter(is.na(date) | date == max(date)) %>%
+  ungroup() %>%
   # pencentiles of TOC lengths, which probably indicates the size of the book
   mutate(toc_weight = normalize_toc_len(toc_len)) %>%
   # mark pinned url (to be displayed on homepage)
