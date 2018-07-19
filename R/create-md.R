@@ -159,6 +159,8 @@ write_md_post <- function(post_name, post_content, path = "../content/archive") 
 
 template <- xfun::read_utf8("template.md")
 
+xfun::in_dir('../content/archive', unlink(c('internal/*.md', 'external/*.md')))
+
 books_to_keep %>%
   mutate(post_content = pmap_chr(.,
                              function(...) {
