@@ -18,6 +18,6 @@ The **bookdown** package facilitates writing books and long-form articles/report
 - LaTeX equations, theorems, and proofs work for all output formats.
 - Can be published to GitHub, bookdown.org, and any web servers.
 - Integrated with the RStudio IDE.
-- One-click publishing to <https://bookdown.org>.
+- One-click publishing to https\://bookdown.org.
 
-## Featured books
+Below is a list of featured books. For a full list, please see the [archive](/archive/) page.
