@@ -1,27 +1,33 @@
 {{ partial "header.html" . }}
 
-<main class="full-width">
+<main class="full-width {{ if .IsHome }}home{{ end }}">
 
 {{ .Content }}
 
-{{ range (where .Site.RegularPages "Section" "archive") }}
+{{ if .IsHome }}
+{{ .Scratch.Set "PageList" (where .Site.RegularPages "Params.pinned" true) }}
+{{ else }}
+{{ .Scratch.Set "PageList" (where .Site.RegularPages "Section" "archive") }}
+{{ end }}
+
+<div class="item-list">
+{{ range (.Scratch.Get "PageList") }}
 <section class="article-list">
-  <h1><a href="{{ .URL }}">{{ .Title }}</a></h1>
+  <h1><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h1>
   <div>
-    <span>{{ .Date.Format "2006-01-02" }}</span>
+    {{ if .Params.date }}<span>{{ .Date.Format "2006-01-02" }}</span>{{ end }}
     {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
   </div>
   <div class="summary">
-    {{ $img := findRE "<img src=\"[^\"]+\"" .Content 1 }}
-    {{ range $img }}
-    <div class="thumbnail">{{ (print . " alt=\"Thumbnail\" />") | safeHTML }}</div>
+    {{ if .Params.cover }}
+    <div class="thumbnail"><a href="{{ .Params.link }}"><img src="{{ .Params.cover }}" alt="{{ .Title }}" /></a></div>
     {{ end }}
-    {{ default .Summary .Description }}
-    <a href="{{ .URL }}" class="more" title="Read More...">Read more &rarr;</a>
+    <p>{{ .Content | plainify | safeHTML }}
+    <a href="{{ .Params.link }}" class="more" title="Read More..." target="_blank">Read more &rarr;</a></p>
   </div>
 </section>
 {{ end }}
-
+</div>
 </main>
 
 {{ partial "footer.html" . }}

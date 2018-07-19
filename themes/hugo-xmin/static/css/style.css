@@ -51,7 +51,10 @@ footer { background: #75aadb; }
   justify-content: space-between;
 }
 .footer a { text-decoration: none; }
-footer { padding: 1em 0 1em; }
+footer {
+  padding: 1em 0 1em;
+  margin-top: 1em;
+}
 footer svg { padding: .1em; }
 
 hr {
@@ -87,7 +90,18 @@ blockquote {
   text-transform: uppercase;
   font-size: .8em;
 }
-.article-list { margin-top: 2em; }
+.item-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.article-list {
+  margin-top: 1em;
+  width: 48%;
+  box-shadow: 0 0 8px #ccc;
+  box-sizing: border-box;
+  padding: 1em;
+}
 .article-list a, .footer a {
   text-decoration: none;
   color: #000;
@@ -104,12 +118,17 @@ blockquote {
   margin: 5px auto 10px;
 }
 .summary { margin-top: .5em; }
+.summary::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 .footer, .footer a { color: #fff; }
 .more { font-style: italic; }
 
 .thumbnail {
-  height: 5.1em;
-  width: 6.8em;
+  height: 6.9em;
+  width: 4.5em;
   float: left;
   overflow: hidden;
   margin: auto 1em .1em auto;
@@ -120,6 +139,11 @@ blockquote {
   height: 100%;
   object-fit: cover;
 }
+.home .thumbnail {
+  height: 13.8em;
+  width: 9em;
+}
+
 table {
   margin: 1em auto auto;
   border-top: 1px solid #666;
@@ -131,7 +155,7 @@ tr:nth-child(even) { background: #eee }
 
 /* responsive */
 @media (max-width: 900px) {
-  .container, main, aside { display: block; }
+  .container, main { display: block; }
 }
 @media (max-width: 800px) {
   .menu .left, .menu .right { float: none; }
@@ -141,7 +165,7 @@ tr:nth-child(even) { background: #eee }
   li.optional { display: none; }
   body { padding: initial; }
   .full-width { padding: 0 .5em 0; }
-  .article-list { margin-top: 1.5em; }
+  .article-list { width: 100%; }
 }
 @media (max-width: 650px) {
   .menu .left span, .thumbnail { display: none; }
@@ -149,6 +173,5 @@ tr:nth-child(even) { background: #eee }
   .menu ul { display: table-row; }
   .menu .left:first-child, .menu .right { display: table-cell; }
   .menu .active { background: none; }
-  aside .hide-small { display: none; }
   .menu, .footer { padding: .5em 1em; }
 }
