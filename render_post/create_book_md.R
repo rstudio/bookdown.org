@@ -147,7 +147,7 @@ books_to_keep <- books_metas %>%
   # do not keep template book
   filter(!(title == 'A Minimal Book Example' & authors == 'Yihui Xie' & !grepl('/yihui/', url))) %>%
   # mark pinned url
-  mutate(pinned = url %in% pinned_urls)
+  mutate(pinned = tolower(url %in% pinned_urls))
 
 
 # render_post -------------------------------------------------------------
