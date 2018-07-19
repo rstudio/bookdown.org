@@ -52,7 +52,7 @@ footer { background: #75aadb; }
 .footer a { text-decoration: none; }
 footer {
   padding: 1em 0 1em;
-  margin-top: 1em;
+  margin-top: 2em;
 }
 footer svg { padding: .1em; }
 
