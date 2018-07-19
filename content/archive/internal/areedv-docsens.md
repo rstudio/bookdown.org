@@ -3,6 +3,7 @@ title: "Lokal lagring og bruk av sensitive data"
 author: "Are Edvardsen, SKDE"
 date: "2017-08-31T12:50:05Z"
 link: "https://bookdown.org/areedv/docSens/"
+toc_weight: "0.4%"
 cover: "https://bookdown.org/areedv/docSens/images/logo.svg"
 pinned: false
 ---

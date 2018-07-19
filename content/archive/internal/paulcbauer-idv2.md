@@ -3,6 +3,7 @@ title: "Interactive Data Visualization (2nd Day)"
 author: "Paul C. Bauer & Richard Traunmüller"
 date: "2016-11-23T00:14:07Z"
 link: "https://bookdown.org/paulcbauer/idv2/"
+toc_weight: "9.5%"
 pinned: false
 ---
 

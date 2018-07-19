@@ -3,6 +3,7 @@ title: "Getting started with mdatools for R"
 author: "Sergey Kucheryavskiy"
 date: "2016-09-12T10:37:18Z"
 link: "https://bookdown.org/svkucheryavski/mdatools/"
+toc_weight: "2.9%"
 repo: "svkucheryavski/mdatools.bookdown"
 pinned: false
 ---

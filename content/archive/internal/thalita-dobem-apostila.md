@@ -3,6 +3,7 @@ title: "Noções de Inferência no R"
 author: "Thalita do Bem Mattos"
 date: "2018-03-28T20:02:25Z"
 link: "https://bookdown.org/thalita_dobem/Apostila/"
+toc_weight: "1.3%"
 pinned: false
 ---
 

@@ -3,6 +3,7 @@ title: "Tidyverse Cookbook"
 author: "Malte Grosser"
 date: "2017-04-21T20:22:27Z"
 link: "https://bookdown.org/Tazinho/Tidyverse-Cookbook/"
+toc_weight: "10.1%"
 repo: "Tazinho/Tidyverse-Cookbook"
 pinned: false
 ---

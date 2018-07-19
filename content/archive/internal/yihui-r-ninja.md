@@ -3,6 +3,7 @@ title: "R语言忍者秘笈"
 author: "谢益辉, 肖楠, 坑主三, 坑主四"
 date: "2018-02-12T16:12:15Z"
 link: "https://bookdown.org/yihui/r-ninja/"
+toc_weight: "4.6%"
 cover: "https://bookdown.org/yihui/r-ninja/images/cover.jpg"
 repo: "yihui/r-ninja"
 pinned: false

@@ -3,6 +3,7 @@ title: "Social Network Analysis in Education"
 author: "chen"
 date: "2017-04-18T03:06:17Z"
 link: "https://bookdown.org/chen/snaEd/"
+toc_weight: "12.4%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"
 repo: "meefen/sna-ed"
 pinned: false

@@ -3,6 +3,7 @@ title: "Dengue Forecasting Project"
 author: "Raghvendra Jain"
 date: "2016-12-15T10:22:45Z"
 link: "https://bookdown.org/raghavendrajain/predictingdengue/"
+toc_weight: "3.5%"
 repo: "bookdownDengue"
 pinned: false
 ---

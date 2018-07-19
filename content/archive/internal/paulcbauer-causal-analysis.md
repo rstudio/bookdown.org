@@ -3,6 +3,7 @@ title: "(Applied) Causal Analysis"
 author: "Paul C. Bauer"
 date: "2018-05-30T09:22:19Z"
 link: "https://bookdown.org/paulcbauer/causal_analysis/"
+toc_weight: "100%"
 pinned: false
 ---
 

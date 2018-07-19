@@ -3,6 +3,7 @@ title: "R for Data Science"
 author: "Garrett Grolemund, Hadley Wickham"
 date: ""
 link: "http://r4ds.had.co.nz/"
+toc_weight: "100%"
 cover: "http://r4ds.had.co.nz/cover.png"
 repo: "hadley/r4ds"
 pinned: true

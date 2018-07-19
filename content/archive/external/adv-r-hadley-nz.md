@@ -3,6 +3,7 @@ title: "Advanced R"
 author: "Hadley Wickham"
 date: ""
 link: "https://adv-r.hadley.nz/"
+toc_weight: "100%"
 cover: "http://adv-r.hadley.nz/cover.png"
 repo: "hadley/adv-r"
 pinned: true

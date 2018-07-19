@@ -3,6 +3,7 @@ title: "R Markdown: The Definitive Guide"
 author: "Yihui Xie, J. J. Allaire, Garrett Grolemund"
 date: "2018-07-15T17:42:50Z"
 link: "https://bookdown.org/yihui/rmarkdown/"
+toc_weight: "100%"
 cover: "https://bookdown.org/yihui/rmarkdown/images/cover.png"
 repo: "rstudio/rmarkdown-book"
 pinned: true

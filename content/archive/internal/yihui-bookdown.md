@@ -3,6 +3,7 @@ title: "bookdown: Authoring Books and Technical Documents with R Markdown"
 author: "Yihui Xie"
 date: "2018-04-20T15:44:27Z"
 link: "https://bookdown.org/yihui/bookdown/"
+toc_weight: "7.3%"
 cover: "https://bookdown.org/yihui/bookdown/images/cover.jpg"
 repo: "rstudio/bookdown"
 pinned: true

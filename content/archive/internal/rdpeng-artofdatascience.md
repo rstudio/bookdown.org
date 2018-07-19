@@ -3,6 +3,7 @@ title: "The Art of Data Science"
 author: "Roger D. Peng and Elizabeth Matsui"
 date: "2017-04-26T14:14:09Z"
 link: "https://bookdown.org/rdpeng/artofdatascience/"
+toc_weight: "9.6%"
 repo: "rdpeng/artofdatascience"
 pinned: false
 ---

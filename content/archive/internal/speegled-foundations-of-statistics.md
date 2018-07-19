@@ -3,6 +3,7 @@ title: "Foundations of Statistics with R"
 author: "Darrin Speegle"
 date: "2018-06-10T14:05:05Z"
 link: "https://bookdown.org/speegled/foundations-of-statistics/"
+toc_weight: "100%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

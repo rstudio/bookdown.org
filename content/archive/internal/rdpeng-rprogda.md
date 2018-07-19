@@ -3,6 +3,7 @@ title: "Mastering Software Development in R"
 author: "Roger D. Peng, Sean Kross, and Brooke Anderson"
 date: "2017-09-21T01:26:09Z"
 link: "https://bookdown.org/rdpeng/RProgDA/"
+toc_weight: "100%"
 repo: "rdpeng/RProgDA"
 pinned: false
 ---

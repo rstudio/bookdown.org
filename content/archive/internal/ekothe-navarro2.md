@@ -3,6 +3,7 @@ title: "Learning statistics with R: A tutorial for psychology students and other
 author: "DJ Navarro"
 date: "2018-07-15T09:03:42Z"
 link: "https://bookdown.org/ekothe/navarro2/"
+toc_weight: "100%"
 pinned: false
 ---
 

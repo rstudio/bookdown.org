@@ -3,6 +3,7 @@ title: "Math 390.4: Data Science with R"
 author: "The Queens College Collective Consciousness"
 date: "2018-02-03T22:23:01Z"
 link: "https://bookdown.org/gdia/Math-3904-Data-Science/"
+toc_weight: "0.4%"
 repo: "gd6/QC-Data-Study-Guide"
 pinned: false
 ---

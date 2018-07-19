@@ -3,6 +3,7 @@ title: "Exploratory Data Analysis with R"
 author: "Roger D. Peng"
 date: "2016-09-14T16:50:53Z"
 link: "https://bookdown.org/rdpeng/exdata/"
+toc_weight: "100%"
 cover: "https://bookdown.org/rdpeng/exdata/cover_sm.png"
 repo: "rdpeng/exdata"
 pinned: true

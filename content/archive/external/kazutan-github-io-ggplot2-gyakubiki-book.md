@@ -3,6 +3,7 @@ title: "ggplot2逆引き集"
 author: "@kazutan"
 date: "2016-11-20"
 link: "https://kazutan.github.io/ggplot2-gyakubiki-book/"
+toc_weight: "7.7%"
 repo: "kazutan/ggplot2-gyakubiki-book"
 pinned: false
 ---

@@ -3,6 +3,7 @@ title: "recoding Introduction to Mediation, Moderation, and Conditional Process 
 author: "A Solomon Kurz"
 date: "2018-07-16T00:46:48Z"
 link: "https://bookdown.org/ajkurz/ajkurz/"
+toc_weight: "100%"
 repo: "ASKURZ/recoding-Hayes-2018"
 pinned: false
 ---

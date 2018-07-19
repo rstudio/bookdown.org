@@ -3,6 +3,7 @@ title: "Do not use averages with Likert scale data"
 author: "Dwight Barry"
 date: "2017-01-05T05:48:14Z"
 link: "https://bookdown.org/Rmadillo/likert/"
+toc_weight: "2.1%"
 cover: "https://bookdown.org/Rmadillo/likert/images/likert_cover.jpg"
 repo: "Rmadillo/likert"
 pinned: false

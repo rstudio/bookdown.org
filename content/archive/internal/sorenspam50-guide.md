@@ -3,6 +3,7 @@ title: "Guide til klinikophold"
 author: "Søren O’Neill"
 date: "2017-11-01T15:07:59Z"
 link: "https://bookdown.org/sorenspam50/guide/"
+toc_weight: "3.1%"
 pinned: false
 ---
 
