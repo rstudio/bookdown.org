@@ -1,3 +1,4 @@
+https://bookdown.org/emretoros/R_kitabi/
 https://bookdown.org/content/1530/
 https://bookdown.org/jmichaelrosenberg/docs2/
 https://bookdown.org/jmichaelrosenberg/docs/
@@ -276,10 +277,10 @@ https://bookdown.org/yihui/bookdown-demo/
 https://bookdown.org/yihui/bookdown/
 http://r4ds.had.co.nz/
 https://adv-r.hadley.nz/
+https://tidytextmining.com/
 https://otexts.org/fpp2/
 https://timtrice.github.io/backtesting-strategies/
 https://www.masteringdfsanalytics.com/
-https://tidytextmining.com/
 https://b-rodrigues.github.io/fput/
 https://kazutan.github.io/ggplot2-gyakubiki-book/
 https://moderndive.com/
