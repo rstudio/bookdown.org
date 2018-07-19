@@ -54,25 +54,29 @@ If it is the first time you have tried to publish the book, you will be asked to
 
 ## About bookdown.org
 
-The website bookdown.org is a service provided by [RStudio Inc.](https://www.rstudio.com) to host books. It is free for you to publish the static output files of your book, and you hold the full copyright of your own books. Please note that bookdown.org is based on [RStudio Connect](https://www.rstudio.com/products/connect/), so in theory you could publish any types of content here (single R Markdown reports, dashboards, Shiny apps, and so on), however, we only support books here, and _reserve the right to stop serving and delete other types of content_ you publish to bookdown.org. Please consider using RStudio Connect or [ShinyApps.io](https://www.shinyapps.io) for publishing those types of content instead.
+The website bookdown.org is a service provided by [RStudio Inc.](https://www.rstudio.com) to host books. It is free for you to publish the static output files of your book, and you hold the full copyright of your own books. Please note that bookdown.org is based on [RStudio Connect](https://www.rstudio.com/products/connect/), so in theory you could publish any types of content here (single R Markdown reports, slides, dashboards, Shiny apps, and so on). However, we only support books here, and _reserve the right to stop serving and delete other types of content_ you publish to bookdown.org. Please consider using RStudio Connect, [ShinyApps.io](https://www.shinyapps.io), other hosting services, or your own server for publishing those types of content instead.
 
-## How to get your book featured on bookdown.org
+## How to get your book listed on bookdown.org
 
-For book authors who want to get their books featured and listed properly on the bookdown.org homepage, please first make sure the book has substantial content (it does not have to be finished, but should not only be a skeleton). You also need to add a few optional fields in the YAML metadata in your `index.Rmd`:
+Books on the bookdown.org homepage are selected manually by us according to their quality and completeness. You are welcome to submit a pull request on Github after editing the file [`R/home.txt`](https://github.com/rstudio/bookdown.org/edit/master/R/home.txt), if you have an interesting book that has been published or at least nearly finished.
 
-- `description`: A short description of your book; this should be plain text _without_ any Markdown formatting such as `_italic_` or `**bold**`;
+The list of books on the [archive](/archive/) page is generated automatically from all available books published to bookdown.org. Please note that a lot of them are still incomplete.
+
+To make sure your book is properly listed on either the homepage or the archive page, you need to add a few optional fields in the YAML metadata in your `index.Rmd`:
+
+- `description`: A summary of your book (usually in a paragraph of a few sentences); this should be plain text _without_ using any Markdown syntax such as `_italic_` or `**bold**` or `[text](url)`;
 - `github-repo:` A character string of your Github repo name of the form `user/repo`, e.g., `rstudio/bookdown`;
 - `cover-image`: The path to the cover image of your book;
-- `url`: The homepage of your book.
+- `url`: The homepage of your book (we only support HTTPS).
 
 Here is an example:
 
 ```yaml
-description: "This is a minimal bookdown demo."
+description: "This is a minimal bookdown demo. It shows the basics of ..."
 github-repo: "rstudio/bookdown-demo"
 cover-image: "images/cover.png"
+# you need to use single quotes and escape : in the url
 url: 'https\://bookdown.org/yihui/bookdown-demo/'
 ```
 
-If your book is written with **bookdown** but not published to bookdown.org, please feel free to [let us know](https://github.com/rstudio/bookdown/issues) the URL, and we can also list it on the homepage. Please note that the book list is updated manually, so your book will not be listed automatically on the homepage after you upload it.
-
+If your book is written with **bookdown** but not published to bookdown.org, you may edit the file [`R/external.txt`](https://github.com/rstudio/bookdown.org/edit/master/R/external.txt) on Github and submit a pull request.
