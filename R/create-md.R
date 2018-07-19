@@ -29,6 +29,11 @@ xml_find = function(x, xpath, all = FALSE) {
   tryCatch(FUN(x, xpath), error = function(e) NULL)
 }
 
+# normalize to [0, 1]
+normalize = function(x) {
+  r = range(x, na.rm = TRUE)
+  (x - r[1])/(r[2] - r[1])
+}
 
 # Get books meta ----------------------------------------------------------
 
@@ -125,6 +130,8 @@ books_metas = book_urls %>%
 books_to_keep = books_metas %>%
   # should have a substantial TOC (at least 9 items)
   filter(toc_len >= 9) %>%
+  # pencentiles of TOC lengths, which probably indicates the size of the book
+  mutate(toc_pct = paste0(100 * round(normalize(toc_len), 3), '%')) %>%
   # mark pinned url (to be displayed on homepage)
   mutate(pinned = tolower(url %in% readLines("home.txt")))
 
