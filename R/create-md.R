@@ -14,7 +14,7 @@ book_urls <- tibble(
   # and from external websites
   bind_rows(
     tibble(
-      url = readLines("render_post/external.txt"),
+      url = readLines("external.txt"),
       lastmod = as.POSIXct(NA),
       from = "external"
     )
@@ -91,11 +91,11 @@ get_book_meta <- function(url, date) {
 }
 
 # delete book parsed list
-unlink("render_post/listed.txt")
-cache_rds <- "render_post/_book_meta.rds"
+unlink("listed.txt")
+cache_rds <- "_book_meta.rds"
 books_metas <- book_urls %>%
   # exclude some specific books
-  filter(! url %in% readLines("render_post/exclude.txt")) %>%
+  filter(! url %in% readLines("exclude.txt")) %>%
   # exclude all bookdown demo except official one
   filter(! (grepl('/bookdown-demo/$', url) & !grepl('/yihui/', url))) %>%
   # exclude all book from one author
@@ -108,7 +108,7 @@ books_metas <- book_urls %>%
     # https://github.com/tidyverse/purrr/issues/358
     date <- .y
     message("processing ", url, " ### ", appendLF = FALSE)
-    cat(url, sep = '\n', file = 'render_post/listed.txt', append = TRUE)
+    cat(url, sep = '\n', file = 'listed.txt', append = TRUE)
     if (file.exists(cache_rds)) {
       book_metas = readRDS(cache_rds)
       if (!is.na(date) && identical(book_metas[[url]][['date']], date)) {
@@ -169,7 +169,7 @@ write_md_post <- function(post_name, post_content, path = "content/archive") {
   writeLines(enc2utf8(post_content), con = con, useBytes = TRUE)
 }
 
-template <- readLines("render_post/post_template.md", warn = FALSE, encoding = "UTF-8")
+template <- readLines("template.md", warn = FALSE, encoding = "UTF-8")
 
 books_to_keep %>%
   mutate(post_content = pmap_chr(.,
