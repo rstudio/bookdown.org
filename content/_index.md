@@ -8,7 +8,7 @@ title: Home
 
 <img src="https://bookdown.org/yihui/bookdown/images/logo.png" alt="The bookdown logo" align="right" style="margin-left:1em;max-width:30%;" />
 
-The **bookdown** package facilitates writing books and long-form articles/reports with R Markdown. Features include:
+The **bookdown** package is an [open-source R package](https://github.com/rstudio/bookdown) that facilitates writing books and long-form articles/reports with R Markdown. Features include:
 
 - Generate printer-ready books and ebooks from R Markdown documents.
 - A markup language easier to learn than LaTeX, and to write elements such as section headers, lists, quotes, figures, tables, and citations.
@@ -20,4 +20,4 @@ The **bookdown** package facilitates writing books and long-form articles/report
 - Integrated with the RStudio IDE.
 - One-click publishing to https\://bookdown.org.
 
-Below is a list of featured books. For a full list, please see the [archive](/archive/) page.
+Below is a list of featured books. For a full list, please see the [archive](/archive/) page. For the full documentation of the **bookdown** package, please see the free [online book](https://bookdown.org/yihui/bookdown/) _bookdown: Authoring Books and Technical Documents with R Markdown_.
