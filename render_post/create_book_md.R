@@ -153,11 +153,13 @@ books_to_keep <- books_metas %>%
 # render_post -------------------------------------------------------------
 
 make_post_filename <- function(url) {
-  new_post_name <- sub("^http[s]?://", "", url)
-  new_post_name <- sub("/$", "", new_post_name)
-  new_post_name <- gsub("/", "_", new_post_name)
-  new_post_name <- gsub("\\.", "-", new_post_name)
-  paste0(new_post_name, ".md")
+  name <- gsub("^http[s]?://|/$", "", tolower(url))
+  name <- gsub("[^a-z0-9]+", "-", name)
+  name <- gsub("--+", "-", name)
+  i <- grepl('^bookdown-org-', name)
+  name[i]  <- sub('^bookdown-org-', 'internal/', name[i])
+  name[!i] <- file.path('external', name[!i])
+  paste0(name, ".md")
 }
 
 write_md_post <- function(post_name, post_content, path = "content/archive") {
