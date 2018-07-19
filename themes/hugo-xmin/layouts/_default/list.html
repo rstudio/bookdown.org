@@ -16,7 +16,7 @@
   <h1><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h1>
   {{ with .Params.author }}<h2 class="author">by {{ . }}</h2>{{ end }}
   <div class="list-meta">
-    <span>{{ if .Params.date }}{{ .Date.Format "2006-01-02" }}{{ else }}{{ .Site.LastChange.Format "2006-01-02" }}{{ end }}</span>
+    <span>{{ if .Params.date }}{{ .Date.Format "2006-01-02" }}{{ else }}{{ .Site.LastChange.Format "2006-01-02" }}*{{ end }}</span>
     {{ with .Params.repo }}
     <span>
       {{ if $.IsHome }}
