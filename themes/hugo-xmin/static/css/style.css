@@ -16,7 +16,6 @@ body {
 /* header and footer areas */
 .menu { box-shadow: 0px 10px 10px -5px rgba(0,0,0,0.1); }
 .menu li, .terms-list li { display: inline-block; }
-aside .terms-list li { display: block; }
 .article-meta {
   background: #f8f8f8;
   margin-top: 1.5em;
@@ -36,7 +35,7 @@ footer { background: #75aadb; }
 .menu .right { float: right; }
 .menu .icon span { font-size: 1.3em; }
 .menu .icon a:hover { background: none; }
-.menu svg, .footer svg { width: 1em; }
+.menu svg, .list-meta svg, .footer svg { width: 1em; }
 .menu img, .menu svg { vertical-align: middle; }
 .menu .left img { height: 2em; }
 .menu .left { font-weight: 600; }
@@ -95,6 +94,10 @@ blockquote {
   flex-flow: row wrap;
   justify-content: space-between;
 }
+.list-meta {
+  display: flex;
+  justify-content: space-between;
+}
 .article-list {
   margin-top: 1em;
   width: 48%;
@@ -109,13 +112,21 @@ blockquote {
 .article-list h1 a {
   width: 100%;
   display: inline-block;
+  white-space: nowrap;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
 }
 .article-list h1 a:hover {
   color: #71a5d4;
+  white-space: initial;
 }
 .article-list h1 {
-  border-bottom: 1px solid #ddd;
   margin: 5px auto 10px;
+  line-height: initial;
+}
+.article-list .author {
+  border-bottom: 1px solid #ddd;
+  font-size: 1em;
 }
 .summary { margin-top: .5em; }
 .summary::after {
@@ -166,6 +177,7 @@ tr:nth-child(even) { background: #eee }
   body { padding: initial; }
   .full-width { padding: 0 .5em 0; }
   .article-list { width: 100%; }
+  .article-list h1 a { white-space: initial; }
 }
 @media (max-width: 650px) {
   .menu .left span, .thumbnail { display: none; }

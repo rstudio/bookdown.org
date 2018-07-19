@@ -14,9 +14,18 @@
 {{ range (.Scratch.Get "PageList") }}
 <section class="article-list">
   <h1><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h1>
-  <div>
-    {{ if .Params.date }}<span>{{ .Date.Format "2006-01-02" }}</span>{{ end }}
-    {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+  {{ with .Params.author }}<h2 class="author">by {{ . }}</h2>{{ end }}
+  <div class="list-meta">
+    <span>{{ if .Params.date }}{{ .Date.Format "2006-01-02" }}{{ else }}{{ .Site.LastChange.Format "2006-01-02" }}{{ end }}</span>
+    {{ with .Params.repo }}
+    <span>
+      {{ if $.IsHome }}
+      <a class="github-button" href="https://github.com/{{ . }}" data-show-count="true" data-size="large" aria-label="Star {{ . }} on GitHub">Star</a>
+      {{ else }}
+      <a href="https://github.com/{{ . }}"><svg viewBox="0 0 16 16"><use xlink:href="#icon-github"></use></svg></a>
+      {{ end }}
+      </span>
+    {{ end }}
   </div>
   <div class="summary">
     {{ if .Params.cover }}
