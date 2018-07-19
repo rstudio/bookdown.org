@@ -1,6 +1,4 @@
-library(purrr)
-library(dplyr)
-library(xml2)
+xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
 
 # Book listing ------------------------------------------------------------
 
@@ -163,13 +161,10 @@ make_post_filename <- function(url) {
 }
 
 write_md_post <- function(post_name, post_content, path = "content/archive") {
-  new_post <- file.path(path, post_name)
-  con <- file(new_post, open = "w+",  encoding = "native.enc")
-  on.exit(close(con))
-  writeLines(enc2utf8(post_content), con = con, useBytes = TRUE)
+  xfun::write_utf8(post_content, file.path(path, post_name))
 }
 
-template <- readLines("template.md", warn = FALSE, encoding = "UTF-8")
+template <- xfun::read_utf8("template.md")
 
 books_to_keep %>%
   mutate(post_content = pmap_chr(.,
