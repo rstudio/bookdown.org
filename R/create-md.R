@@ -86,7 +86,10 @@ get_book_meta <- function(url, date) {
     # get generator to identify
     generator = map_chr(html,
                         ~ xml_find(.x, './/meta[@name="generator"]') %>%
-                          possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)())
+                          possibly(~ xml_attr(.x, "content"), otherwise = NA_character_)()),
+    toc_len = if (grepl('gitbook', generator, ignore.case = TRUE)) {
+      length(xml_find(html[[1]], './/li[@class="chapter"]', TRUE))
+    } else NA_integer_
   )
 }
 
