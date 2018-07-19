@@ -3,8 +3,7 @@ xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
 # Book listing ------------------------------------------------------------
 
 # get book from sitemap
-xml <- "https://bookdown.org/sitemap.xml"
-book_list <- xml2::as_list(read_xml(xml))[[1]]
+book_list <- xml2::as_list(read_xml("https://bookdown.org/sitemap.xml"))[[1]]
 book_urls <- tibble(
   url = map_chr(book_list, list("loc", 1)),
   lastmod = map_chr(book_list, list("lastmod", 1)),
@@ -26,14 +25,14 @@ book_urls <- tibble(
 
 # one xml_find for two use case
 xml_find = function(x, xpath, all = FALSE) {
-  FUN = if (all) xml_find_all else xml_find_first
+  FUN <- if (all) xml_find_all else xml_find_first
   tryCatch(FUN(x, xpath), error = function(e) NULL)
 }
 
 # check if covers url is accessible or do not use it
 check_cover <- function(cover, url) {
   # relative URL to absolute
-  if (!grepl('^https?://', cover)) cover = paste0(url, cover)
+  if (!grepl('^https?://', cover)) cover <- paste0(url, cover)
   # is the cover image URL accessible?
   if (tryCatch(httr::http_error(cover), error = function(e) TRUE)) cover = NA_character_
   cover
@@ -111,12 +110,12 @@ books_metas <- book_urls %>%
     message("processing ", url, " ### ", appendLF = FALSE)
     cat(url, sep = '\n', file = 'listed.txt', append = TRUE)
     if (file.exists(cache_rds)) {
-      book_metas = readRDS(cache_rds)
+      book_metas <- readRDS(cache_rds)
       if (!is.na(date) && identical(book_metas[[url]][['date']], date)) {
         message("(from cache)")
         return(book_metas[[url]])
       }
-    } else book_metas = list()
+    } else book_metas <- list()
     message("(from url)")
     book_meta <- get_book_meta(url, date)
     book_metas[[url]] <- book_meta
