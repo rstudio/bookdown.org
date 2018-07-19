@@ -7,6 +7,10 @@
 
 <main class="full-width">
 {{ .Content }}
+
+{{ with .Params.link }}
+<p><a href="{{ . }}" target="_blank">{{ . }}</a></p>
+{{ end }}
 </main>
 
 {{ partial "footer.html" . }}
