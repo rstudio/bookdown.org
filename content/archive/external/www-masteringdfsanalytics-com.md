@@ -2,9 +2,8 @@
 title: "Mastering DFS Analytics"
 author: "M. Edward (Ed) Borasky"
 date: "2017-05-12"
-pinned: FALSE
+link: "https://www.masteringdfsanalytics.com/"
+pinned: false
 ---
 
 Mastering DFS Analytics
-
-[Link to the book](https://www.masteringdfsanalytics.com/)

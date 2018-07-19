@@ -1,0 +1,10 @@
+---
+title: "The Queens College Guide to the Foundations of Life"
+author: "The Queens College Collective Consciousness"
+date: "2018-01-31T19:54:52Z"
+link: "https://bookdown.org/gdia/Queens-College-Biology-Study-Guide/"
+repo: "sepqc/qcbio"
+pinned: false
+---
+
+This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook.
