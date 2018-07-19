@@ -8,7 +8,7 @@ The [**bookdown**](https://github.com/rstudio/bookdown) package is a free and op
 
 Below are a few simple steps for you to get started with writing a book using **bookdown**. For the comprehensive documentation of **bookdown**, please see <https://bookdown.org/yihui/bookdown>.
 
-### Install
+### 1. Install
 
 First install the **bookdown** R package as follows:
 
@@ -22,7 +22,7 @@ devtools::install_github('rstudio/bookdown')
 
 The [RStudio IDE](https://www.rstudio.com/products/rstudio/download/preview/) is recommended but not strictly required (we will show it in the next steps).
 
-### Edit
+### 2. Edit
 
 One way to get started is to fork or clone the the repository <https://github.com/rstudio/bookdown-demo> (if you are not familiar with Git and GitHub, you can alternatively download it as a [zip file](https://github.com/rstudio/bookdown-demo/archive/master.zip) and unzip it). Alternatively, if you are using a recent version of the RStudio IDE, you can directly create a book project in the IDE.
 
@@ -42,7 +42,7 @@ The **Knit** button renders just the chapter you are currently editing (e.g. `in
 
 By default the HTML, PDF, and ePub formats of the book will be compiled into the `_book` sub-directory of the project (you can also build a single format at a time using the **Build Book** menu).
 
-### Publish
+### 3. Publish
 
 To publish your books to bookdown.org, you need to first create an account by [signing in](/connect/) with your Google account, and then call the function `publish_book()` in R:
 
