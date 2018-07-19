@@ -124,17 +124,7 @@ books_metas <- book_urls %>%
 
 # Cleaning published books ------------------------------------------------
 
-pinned_urls <- c(
-  "https://bookdown.org/yihui/bookdown/",
-  "https://bookdown.org/yihui/rmarkdown/",
-  "http://r4ds.had.co.nz/",
-  "https://adv-r.hadley.nz/",
-  "https://bookdown.org/rdpeng/rprogdatascience/",
-  "https://tidytextmining.com/",
-  "https://bookdown.org/rdpeng/exdata/",
-  "https://bookdown.org/csgillespie/efficientR/",
-  "https://otexts.org/fpp2/",
-  "https://bookdown.org/yihui/blogdown/")
+pinned_urls <- readLines("home.txt")
 
 books_to_keep <- books_metas %>%
   # do not keep non accessible book
