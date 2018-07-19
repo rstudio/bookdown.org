@@ -1,8 +1,9 @@
 ---
 title: "A Minimal Book Example"
-author: "Xiangyun Huang"
-date: "2018-04-19T12:46:24Z"
-link: "https://bookdown.org/xiangyun/pandoc4everything/"
+author: "Yihui Xie (Daniel Kim translated it into Korean)"
+date: "2017-01-08T13:04:12Z"
+link: "https://bookdown.org/danielykim/bookdown-demo-kr/"
+repo: "danielykim/bookdown-demo-kr"
 pinned: false
 ---
 
