@@ -160,7 +160,7 @@ make_post_filename <- function(url) {
   paste0(name, ".md")
 }
 
-write_md_post <- function(post_name, post_content, path = "content/archive") {
+write_md_post <- function(post_name, post_content, path = "../content/archive") {
   xfun::write_utf8(post_content, file.path(path, post_name))
 }
 
