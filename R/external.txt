@@ -10,3 +10,7 @@ https://rachaellappan.github.io/16S-analysis/
 https://yijutseng.github.io/DataScienceRBook/
 http://fg2re.sellorm.com/
 https://plotly-book.cpsievert.me/
+https://m-clark.github.io/bayesian-basics/
+https://m-clark.github.io/generalized-additive-models/
+https://m-clark.github.io/mixed-models-with-R/
+https://m-clark.github.io/sem/

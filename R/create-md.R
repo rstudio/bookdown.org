@@ -59,8 +59,14 @@ cover_list = list(
 
 # get metadata for a book from html content
 get_book_meta = function(url, date) {
-  html = try(read_html(url, encoding = 'UTF-8'))
-  if (inherits(html, 'try-error')) return()
+  # try to read a URL for at most three times
+  i = 1
+  while (i < 4) {
+    html = try(read_html(url, encoding = 'UTF-8'))
+    if (!inherits(html, 'try-error')) break
+    i = i + 1; Sys.sleep(30)
+  }
+  if (i >= 4) return()
 
   title = xml_find(html, ".//title")
   if (length(title) == 0) return()
@@ -88,6 +94,7 @@ get_book_meta = function(url, date) {
   if (length(author) == 0) {
     if (length(author <- xml_find(html, './/*[@class="author"]'))) {
       author = xml_text(author)
+      author = gsub('https://.+/', '', author)  # https://m-clark.github.io/generalized-additive-models/
     } else {
       author = unlist(strsplit(url, '/'))  # https://bookdown.org/user/book
       author = author[length(author) - 1]
@@ -99,6 +106,7 @@ get_book_meta = function(url, date) {
     if (title == 'A Minimal Book Example' && author == 'Yihui Xie' && !grepl('/yihui/', url))
       return()
   }
+  author = trimws(gsub('\\s+', ' ', author))
 
   if (is.na(date)) {
     date = xml_find(html, './/meta[@name="date"]')
@@ -123,7 +131,7 @@ get_book_meta = function(url, date) {
   }
 
   repo = xml_find(html, './/meta[@name="github-repo"]')
-  if (!is.null(repo)) repo = xml_attr(repo, 'content')
+  if (!is.null(repo)) repo = gsub('^/+|/+$', '', xml_attr(repo, 'content'))
   generator = xml_find(html, './/meta[@name="generator"]')
   generator = if (length(generator)) xml_attr(generator, "content") else NA
   toc_len = if (grepl('gitbook', generator, ignore.case = TRUE)) {

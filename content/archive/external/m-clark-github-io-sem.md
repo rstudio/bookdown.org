@@ -1,0 +1,12 @@
+---
+title: "Graphical and Latent Variable Modeling"
+author: "Michael Clark"
+date: "2018-05-27"
+link: "https://m-clark.github.io/sem/"
+toc_weight: "100%"
+cover: "https://m-clark.github.io/sem/img/198R_1.png"
+repo: "m-clark/sem"
+pinned: false
+---
+
+This document focuses on structural equation modeling. It is conceptually based, and tries to generalize beyond the standard SEM treatment. It includes special emphasis on the lavaan package. Topics include: graphical models, including path analysis, bayesian networks, and network analysis, mediation, moderation, latent variable models, including principal components analysis and ‘factor analysis’, measurement models, structural equation models, mixture models, growth curves, item response theory, Bayesian nonparametric techniques, latent dirichlet allocation, and more.
