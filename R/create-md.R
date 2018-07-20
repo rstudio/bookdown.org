@@ -86,8 +86,12 @@ get_book_meta = function(url, date) {
 
   author = xml_find(html, './/meta[@name="author"]', all = TRUE)
   if (length(author) == 0) {
-    author = unlist(strsplit(url, '/'))  # https://bookdown.org/user/book
-    author = author[length(author) - 1]
+    if (length(author <- xml_find(html, './/*[@class="author"]'))) {
+      author = xml_text(author)
+    } else {
+      author = unlist(strsplit(url, '/'))  # https://bookdown.org/user/book
+      author = author[length(author) - 1]
+    }
   } else {
     author = xml_attr(author, 'content')
     author = paste(author, collapse = ', ')
@@ -124,6 +128,8 @@ get_book_meta = function(url, date) {
   generator = if (length(generator)) xml_attr(generator, "content") else NA
   toc_len = if (grepl('gitbook', generator, ignore.case = TRUE)) {
     length(xml_find(html, './/li[@class="chapter"]', TRUE))
+  } else if (length(toc <- xml_find(html, './/nav[@id="TOC"]'))) {
+    length(xml_find(toc, './/li', TRUE))
   } else NA
 
   data_frame(
