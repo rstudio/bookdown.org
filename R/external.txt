@@ -8,7 +8,7 @@ https://info201.github.io/
 https://zuguang.de/circlize_book/book/
 https://rachaellappan.github.io/16S-analysis/
 https://yijutseng.github.io/DataScienceRBook/
-http://fg2re.sellorm.com/
+https://fg2re.sellorm.com/
 https://plotly-book.cpsievert.me/
 https://m-clark.github.io/bayesian-basics/
 https://m-clark.github.io/generalized-additive-models/
