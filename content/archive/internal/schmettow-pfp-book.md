@@ -8,4 +8,4 @@ repo: "schmettow/PfP_book"
 pinned: false
 ---
 
-a book to accompany the course Programming for Psychologists
+a book to accompany the course Programming for Psychologists [...] This book is authored using [bookdown][https://bookdown.org/yihui/bookdown/]. ...

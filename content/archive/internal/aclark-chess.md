@@ -8,4 +8,4 @@ cover: "https://bookdown.org/aclark/chess/images/cover_fixed.png"
 pinned: false
 ---
 
-Chess Encounters
+Chess Encounters [...]  ...

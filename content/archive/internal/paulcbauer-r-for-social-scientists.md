@@ -8,4 +8,4 @@ repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-Script for a an R course at the European University Institute.
+Script for a an R course at the European University Institute. ...

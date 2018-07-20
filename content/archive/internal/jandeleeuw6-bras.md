@@ -7,4 +7,4 @@ toc_weight: "100%"
 pinned: false
 ---
 
-The book discusses block relaxation, alternating least squares, augmentation, and majorization algorithms to minimize loss functions, with applications in statistics, multivariate analysis, and multidimensional scaling.
+The book discusses block relaxation, alternating least squares, augmentation, and majorization algorithms to minimize loss functions, with applications in statistics, multivariate analysis, and multidimensional scaling. [...] Many recent algorithms in computational statistics are variations on a common theme. In this book we discuss four such classes of algorithms. Or, more precisely, we discuss a single large class of algorithms, and we show how various well-known classes of statistical algorithms fit into this common framework. The types of algorithms we consider are, in logical order, ...

@@ -8,4 +8,4 @@ repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-Förutsägelse av framtida förekomst av cancer i Västra Sjukvårdsregionen.
+Förutsägelse av framtida förekomst av cancer i Västra Sjukvårdsregionen. [...] Rapporten presenteras i tre format, samtliga med samma text- och bildmässiga innehåll men med något olika tekniska lösningar. Om du läser denna rapports HTML-version så når du övriga format via nedladdningsikonen i sidhuvudet (se figur ...

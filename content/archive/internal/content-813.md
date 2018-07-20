@@ -8,4 +8,4 @@ cover: "https://bookdown.org/content/813/pep.jpg"
 pinned: false
 ---
 
-Gyeonggang Line
+ The Gyeonggang Line runs from Pangyo station to Yeoju station. It is approximately 55 km in length. It is operated by Korail. Seoul subway data provided by Seoul City Traffic and Transportation Policy Division through the Seoul Open Data ...

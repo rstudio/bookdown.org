@@ -8,4 +8,4 @@ repo: "kazutan/ggplot2-gyakubiki-book"
 pinned: false
 ---
 
-これはggplot2逆引き集です。
+これはggplot2逆引き集です。 [...] これはQiitaで公開されているggplot2逆引きの記事を集めたものです。今のところ，@kazutanが作成した12本をまとめています。 なにかありましたら，以下のGithubリポジトリのissueもしくはTwitterの@kazutanまでおねがいします。 ...

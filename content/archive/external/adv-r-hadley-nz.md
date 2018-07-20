@@ -4,9 +4,9 @@ author: "Hadley Wickham"
 date: ""
 link: "https://adv-r.hadley.nz/"
 toc_weight: "100%"
-cover: "http://adv-r.hadley.nz/cover.png"
+cover: "https://adv-r.hadley.nz/cover.png"
 repo: "hadley/adv-r"
 pinned: true
 ---
 
-The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.
+ This is the website for work-in-progress 2nd edition of “Advanced R”, a book in Chapman & Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side. This edition is a work in progress. If you’re looking for the electronic version of the 1st edition, you can find it online at http://adv-r.had.co.nz/. You may also be interested in: “R for ...

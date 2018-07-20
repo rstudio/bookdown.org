@@ -7,4 +7,4 @@ toc_weight: "2.9%"
 pinned: false
 ---
 
-R tips: 16 HOWTO’s with examples for data analysts
+R tips: 16 HOWTO’s with examples for data analysts [...]  ...

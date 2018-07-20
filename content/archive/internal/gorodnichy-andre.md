@@ -7,4 +7,4 @@ toc_weight: "9.5%"
 pinned: false
 ---
 
-Poetry of Andrey Gorodnichy
+Poetry of Andrey Gorodnichy [...] Версия для печати: PDF, EPUB. Online: https://bookdown.org/gorodnichy/andre. ...

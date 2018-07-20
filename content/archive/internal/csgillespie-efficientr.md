@@ -9,4 +9,4 @@ repo: "csgillespie/efficientR"
 pinned: true
 ---
 
-Efficient R Programming is about increasing the amount of work you can do with R in a given amount of time. It’s about both computational and programmer efficiency.
+Efficient R Programming is about increasing the amount of work you can do with R in a given amount of time. It’s about both computational and programmer efficiency. [...] This is the online version of the O’Reilly book: Efficient R programming. Pull requests and general comments are welcome. Colin Gillespie is Senior lecturer (Associate professor) at Newcastle University, UK. His research interests are high performance statistical computing and Bayesian statistics. He is regularly employed as a consultant by Jumping Rivers and has been teaching R since 2005 at a variety of levels, ranging ...

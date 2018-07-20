@@ -7,4 +7,4 @@ toc_weight: "100%"
 pinned: false
 ---
 
-Test.
+Test. [...] Broadening Your Statistical Horizons (BYSH): Generalized Linear Models and Multilevel Models is intended to be accessible to undergraduate students who have successfully completed a regression course through, for example, a textbook like Stat2. We started teaching this course at St. Olaf in 2003 so students would be able to deal with the non-normal, correlated world we live in. It has been offered at St. Olaf every year since; in fact, it is required for all statistics concentrators. Even though there is no mathematical prerequisite, we still introduce fairly sophisticated topics ...

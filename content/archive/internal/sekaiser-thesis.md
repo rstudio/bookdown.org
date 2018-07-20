@@ -7,4 +7,4 @@ toc_weight: "2.4%"
 pinned: false
 ---
 
-Revealed comparative advantage and network centrality
+Revealed comparative advantage and network centrality ...

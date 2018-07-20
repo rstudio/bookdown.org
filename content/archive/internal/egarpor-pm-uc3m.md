@@ -7,4 +7,4 @@ toc_weight: "10.8%"
 pinned: false
 ---
 
-Notes for Predictive Modeling
+Notes for Predictive Modeling [...] The reason is because they are hosted at https websites with auto-signed SSL ...

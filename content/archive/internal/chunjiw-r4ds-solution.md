@@ -8,4 +8,4 @@ repo: "chunjiw/r4ds-solution"
 pinned: false
 ---
 
-This book provides selected solutions to the exercises in the wonderful book <em>R for Data Science</em> by Wickham Hadley.
+This book provides selected solutions to the exercises in the wonderful book <em>R for Data Science</em> by Wickham Hadley. [...] This is the website for “Selected Solutions to R4DS Exercises”. This is a joint advanture between Chunji Wang, Ron, Luna, Zhiyin, Chengcheng…. We started the “R4DS Study Club” on Sep 22nd, 2017; If you want to join us, please contact us! The chapter labels in this book is the same as the original R4DS book; go to the corresponding chapter for solutions. You might need to read the beginning of the chapter to load some packages or create some variables that are ...

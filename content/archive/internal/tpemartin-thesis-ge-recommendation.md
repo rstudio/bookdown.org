@@ -7,4 +7,4 @@ toc_weight: "0.4%"
 pinned: false
 ---
 
-碩士論文
+碩士論文 [...] 電子書網址： Github repo:https://github.com/tpemartin/thesis-GE-recommendation bookdown使用者說明 LyX 註冊RSconnect bookdown::publish_book()或bookdown::publish_book(account="帳戶名") ...

@@ -8,4 +8,4 @@ repo: "seankross/the-unix-workbench"
 pinned: false
 ---
 
-The Unix Workbench
+The Unix Workbench [...] Cover Image: A Goldsmith in his Shop by Petrus Christus This work by Sean Kross is licensed CC0. Zero rights ...

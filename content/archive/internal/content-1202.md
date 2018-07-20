@@ -7,4 +7,4 @@ toc_weight: "4.9%"
 pinned: false
 ---
 
-Dit zijn de lecture notes van het opleidingsonderdeel Business Process Management
+Dit zijn de lecture notes van het opleidingsonderdeel Business Process Management [...] Dit document bevatten de lecture notes voor het opleidingsonderdeel Business Process Management (3637), gedoceerd aan de Universiteit Hasselt. Deze lecture notes dienen ter ondersteuning van de colleges en bevatten zowel een “bullet-point” samenvatting van de voornaamste topics alsook een verzameling van bronnen voor verdere verdieping in de ...

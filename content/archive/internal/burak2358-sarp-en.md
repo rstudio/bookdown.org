@@ -9,4 +9,4 @@ repo: "burakaydin/SARP-EN"
 pinned: false
 ---
 
-R book for social scientists
+R book for social scientists [...] The online version of this platform is licensed under the CC0 by Burak AYDIN. We aim to create a platform for the applied social scientists in which we can demonstrate basic statistical procedures using R (R Core Team 2016b) and real data. We prefer to name this material as a platform given that (a) it is open for contribution, (b) it will have dynamic content and (c) it can serve as a mainboard for Plug-ins and Add-ons . This R material is created with Bookdown (Xie 2016), an advanced system constructed on R Markdown (Allaire et al. 2016) and the R ...

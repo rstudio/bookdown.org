@@ -8,4 +8,4 @@ repo: "ccolonescu/RPoE"
 pinned: false
 ---
 
-This is a beginner’s guide to applied econometrics using the free statistics software R.
+This is a beginner’s guide to applied econometrics using the free statistics software R. [...]  ...

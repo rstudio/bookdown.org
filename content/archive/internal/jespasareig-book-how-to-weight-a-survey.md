@@ -8,4 +8,4 @@ repo: "JosepER/Book_How_to_weight_a_survey"
 pinned: false
 ---
 
-(Very) basic steps to weight a survey sample
+(Very) basic steps to weight a survey sample [...] This is an introductory guide to survey weighting. It provides a step-by-step walkthrough of the main procedures and explains the statistical principles behind them. The guide includes R code to implement all stages of survey weighting and reproduces the weighting procedures of the 7th European Social Survey in the UK. This text avoids technical notation and language and is targeted to social scientists with a basic level of statistics and probability theory. Readers without knowledge of R should be able to benefit from this text as it ...

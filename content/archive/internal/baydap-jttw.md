@@ -9,4 +9,4 @@ repo: "dapengde/jttw"
 pinned: false
 ---
 
-my photo album.
+my photo album. ...

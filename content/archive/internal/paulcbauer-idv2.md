@@ -7,4 +7,4 @@ toc_weight: "9.5%"
 pinned: false
 ---
 
-Script developed for a workshop at the CUSO doctoral school on the 4th and 5th November 2016.
+Script developed for a workshop at the CUSO doctoral school on the 4th and 5th November 2016. [...] This document serves as slides and script for the second day of the workshop Data Visualization taught by Paul C. Bauer and Richard Traunmüller for the Programme doctoral en science politique (PDSPO) (Bern, 4-5 of November 2016). The present material is licensed under a Creative Commons Attribution-ShareAlike License 3.0. Regarding further use of this material contact Paul. Some of the material is inspired by the official shiny tutorial and Plotly for R by Carston Sievert. For potential future ...

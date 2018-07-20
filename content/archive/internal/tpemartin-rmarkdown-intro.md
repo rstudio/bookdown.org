@@ -7,4 +7,4 @@ toc_weight: "1.3%"
 pinned: false
 ---
 
-dplyr 介紹
+dplyr 介紹 [...] 一個標準化的純文字語法（syntax），用來表達豐富的排版意境。 Wiki範例 本身不會產生word, html或pdf檔，而是透過其他應用程式，如pandoc，來進一步生成相關文件格式。 ...

@@ -8,4 +8,4 @@ repo: "bookdownDengue"
 pinned: false
 ---
 
-This is a book that contains experiments and results about the predictions of dengue outtbreaks in Thailand.
+This is a book that contains experiments and results about the predictions of dengue outtbreaks in Thailand. [...] This is a sample book written in Markdown. For now, you have to install the development versions of bookdown from Github:  ...

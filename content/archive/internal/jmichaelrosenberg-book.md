@@ -8,4 +8,4 @@ repo: "jrosen48/dser"
 pinned: false
 ---
 
-This is an introduction and tutorial for data science in educational research.
+This is an introduction and tutorial for data science in educational research. ...

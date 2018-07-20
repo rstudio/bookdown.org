@@ -9,4 +9,4 @@ repo: "nwstephens/the-final-war"
 pinned: false
 ---
 
-My book about adventures in a video game named Minecraft.
+My book about adventures in a video game named Minecraft. [...] This book is about my adventures in a video game named ...

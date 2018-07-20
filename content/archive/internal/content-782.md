@@ -9,4 +9,4 @@ repo: "courtiol/IsoriX_docs"
 pinned: false
 ---
 
-This book is the official documentation for the R package IsoriX.
+This book is the official documentation for the R package IsoriX. [...]  ...

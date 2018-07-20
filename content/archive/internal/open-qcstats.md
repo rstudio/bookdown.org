@@ -8,4 +8,4 @@ repo: "opencuny/qc-stats"
 pinned: false
 ---
 
-This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook.
+This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook. [...] This is a guide to learning statistics at Queens College. Currently we support the following courses directly with ...

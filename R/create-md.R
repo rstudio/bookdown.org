@@ -50,9 +50,21 @@ get_book_meta = function(url, date) {
   if (title == '') return()
 
   description = xml_find(html, './/meta[@name="description"]')
-  if (is.null(description)) return()
-  description = xml_attr(description, 'content')
-  if (is.na(description) || description == 'NA') return()
+  if (!is.null(description)) description = xml_attr(description, 'content')
+  if (length(description) == 0 || is.na(description) || description == 'NA') description = ''
+  if (nchar(description) < 400) {
+    # compute a summary from normal paragraphs without any attributes
+    paragraphs = xml_text(xml_find(html, './/p[not(@*)]', TRUE))
+    if (description == '' && length(paragraphs) == 0) return()
+    description = paste(
+      c(if (description != '' && length(grep(description, paragraphs, fixed = TRUE)) == 0)
+        c(description, '[...]'), paragraphs), collapse = ' '
+    )
+    description = gsub('\\s{2,}', ' ', description)
+    # fewer characters for wider chars
+    description = substr(description, 1, 600 * nchar(description) / nchar(description, 'width'))
+    description = paste(sub(' +[^ ]{1,20}$', '', description), '...')
+  }
 
   author = xml_find(html, './/meta[@name="author"]', all = TRUE)
   if (length(author) == 0) {

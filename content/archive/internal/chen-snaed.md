@@ -9,4 +9,4 @@ repo: "meefen/sna-ed"
 pinned: false
 ---
 
-This is a course handbook written by Bodong Chen for his SNA course at UMN.
+This is a course handbook written by Bodong Chen for his SNA course at UMN. [...] This site is the course portal of CI5330 - Social Network Analysis in Education, taught by Prof. Bodong Chen at the University of Minnesota in Spring ’17. Content on this site is actively built and refined throughout the semester. This site or book is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Last update: 2017-04-17  ...

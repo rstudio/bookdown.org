@@ -8,4 +8,4 @@ repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-This is a basic statistics book written by JSKIM.
+This is a basic statistics book written by JSKIM. [...] This is a basic statistics book written by Jinseob ...

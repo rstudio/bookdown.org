@@ -8,4 +8,4 @@ repo: "opencuny/qc-big-bio"
 pinned: false
 ---
 
-This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook.
+This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook. [...] This is a collaboratively written guide for courses at queens college that focus on the biology of big things, like communities and cats, which ...

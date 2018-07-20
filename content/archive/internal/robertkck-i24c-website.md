@@ -9,4 +9,4 @@ repo: "robertkck/i24c"
 pinned: false
 ---
 
-This website serves to illustrate the findings of the policy contribution ‘An approach to identify the sources of low-carbon growth for Europe’ and allows a deeper dive into the underlying data.
+This website serves to illustrate the findings of the policy contribution ‘An approach to identify the sources of low-carbon growth for Europe’ and allows a deeper dive into the underlying data. [...] This website serves to illustrate the findings of the policy contribution “An approach to identify the sources of low-carbon growth for Europe” (Zachmann 2016) and allows a deeper dive into the underlying data. The website is focused on presenting figures and deliberately only offers short descriptions and interpretations. The research underlying this report has been financially supported by the  ...

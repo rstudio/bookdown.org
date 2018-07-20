@@ -7,4 +7,4 @@ toc_weight: "100%"
 pinned: false
 ---
 
-<em>Learning Statistics with R</em> covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students, focusing on the use of the R statistical software.
+<em>Learning Statistics with R</em> covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students, focusing on the use of the R statistical software. [...] Learning Statistics with R covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students, focusing on the use of the R statistical software. The book discusses how to get started in R as well as giving an introduction to data manipulation and writing scripts. From a statistical perspective, the book discusses descriptive statistics and ...

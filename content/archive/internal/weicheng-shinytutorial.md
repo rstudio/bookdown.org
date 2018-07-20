@@ -7,4 +7,4 @@ toc_weight: "1.3%"
 pinned: false
 ---
 
-This is a shiny tutorial.
+This is a shiny tutorial. [...] Some basic knowlege about the R lanuage is requred. It would be helpful if you have some basic knowlege about HTML, CSS and javascript, but they are not ...

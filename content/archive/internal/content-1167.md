@@ -7,4 +7,4 @@ toc_weight: "10.1%"
 pinned: false
 ---
 
-Dit zijn de lecture notes van het opleidingsonderdeel Exploratieve en Descriptieve Data Analyse
+Dit zijn de lecture notes van het opleidingsonderdeel Exploratieve en Descriptieve Data Analyse [...] Dit boek bevat de lecture notes voor de cursus “Exploratieve en Descriptieve Data Analyse” (1ste Ba Handelsingenieur/Handelsingenieur in de Beleidsinformatica) aan de Universiteit Hasselt. Het idee van dit document is een begeleidende tekst aan te reiken ter ondersteuning van de slide-decks die gebruikt worden tijdens de hoorcolleges. Deze tekst is “bullet-point” gewijs opgebouwd en helpt het verhaal dat tijdens het hoorcollege wordt verteld terug op te roepen. Daarnaast zal er per hoofdstuk ...

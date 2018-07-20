@@ -9,4 +9,4 @@ repo: "ndphillips/ThePiratesGuideToR"
 pinned: false
 ---
 
-An introductory book to R written by, and for, R pirates
+An introductory book to R written by, and for, R pirates [...] The purpose of this book is to help you learn R from the ...

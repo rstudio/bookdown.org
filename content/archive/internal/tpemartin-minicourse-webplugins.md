@@ -7,4 +7,4 @@ toc_weight: "1.7%"
 pinned: false
 ---
 
-迷你課程
+迷你課程 [...] 電子書網址：https://bookdown.org/tpemartin/minicourse-webplugins/ 首先你必需： 在Atom: 點privacypolicy.html 將以下兩個訊息換成你的訊息 https://your_website_url your_email ...

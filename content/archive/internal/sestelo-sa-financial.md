@@ -8,4 +8,4 @@ repo: "sestelo/sa_financial"
 pinned: false
 ---
 
-This is a short course on survival analysis applied to the financial field.
+This is a short course on survival analysis applied to the financial field. [...] This book is designed to provide a guide for a short course on survival analysis. It is mainly focussed on applying the stastical tecnquines developed in the survival field to the financial industry. The emphasis is placed in understanding the methods, building intuition about when aplying each of them and showing their application through the use of statistical ...

@@ -8,4 +8,4 @@ repo: "Robinlovelace/geocompr"
 pinned: false
 ---
 
-Forthcoming book on geographic data with R.
+Forthcoming book on geographic data with R. [...] Welcome to the online home of Geocomputation with R, a forthcoming book with CRC Press. Inspired by bookdown and other open source projects we are developing this book in the open. This approach encourages contributions, ensures reproducibility and provides access to the material as it evolves. The book’s development can be divided into four main phases: Currently we are working on Part 3. New chapters will be added to this website as the project progresses, hosted at geocompr.robinlovelace.net and kept up-to-date thanks to Travis, which ...

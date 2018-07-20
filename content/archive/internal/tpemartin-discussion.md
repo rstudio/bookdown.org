@@ -8,4 +8,4 @@ repo: "tpemartin/E.minor-Economic-Forum"
 pinned: false
 ---
 
-This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook.
+This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook. ...

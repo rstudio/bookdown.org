@@ -8,4 +8,4 @@ repo: "opencuny/qcCS"
 pinned: false
 ---
 
-This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook.
+This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook. [...] This is a collaboratively written guide for courses at queens college that involve a lot of computational thinking which currently ...

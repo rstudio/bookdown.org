@@ -8,4 +8,4 @@ repo: "tpemartin/Macroeconomics"
 pinned: false
 ---
 
-This is a collection of data visualization handouts from Macroeconomics.
+This is a collection of data visualization handouts from Macroeconomics. ...

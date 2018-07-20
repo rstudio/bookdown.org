@@ -7,4 +7,4 @@ toc_weight: "9.1%"
 pinned: false
 ---
 
-Sosyal Bilimler Araştırmaları için R
+Sosyal Bilimler Araştırmaları için R [...] Bu döküman sosyal bilimler araştırmalarında R programlama dilinin kullanımını anlatmaktadır. İçeriği ile ilgili geri bildirimler için emretoros@gmail.com adresine email ...
