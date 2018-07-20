@@ -8,3 +8,4 @@ https://bookdown.org/rdpeng/exdata/
 https://bookdown.org/csgillespie/efficientR/
 https://otexts.org/fpp2/
 https://bookdown.org/yihui/blogdown/
+http://serialmentor.com/dataviz/
