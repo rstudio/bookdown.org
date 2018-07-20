@@ -1,4 +1,5 @@
-xfun::in_dir('R', sys.source('create-md.R', environment()))
+setwd(blogdown:::site_root())
+sys.source('R/create-md.R', environment())
 
 if ('yihui' %in% rsconnect::accounts('bookdown.org')[['name']]) {
   blogdown::hugo_build()

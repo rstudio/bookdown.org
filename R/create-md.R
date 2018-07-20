@@ -1,3 +1,5 @@
+if (basename(getwd()) != 'R') setwd('R')
+
 xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
 
 # Book listing ------------------------------------------------------------
