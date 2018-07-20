@@ -8,3 +8,4 @@ https://info201.github.io/
 https://jokergoo.github.io/circlize_book/book/
 https://rachaellappan.github.io/16S-analysis/
 https://yijutseng.github.io/DataScienceRBook/
+http://fg2re.sellorm.com/
