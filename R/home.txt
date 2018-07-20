@@ -9,4 +9,6 @@ https://bookdown.org/csgillespie/efficientR/
 https://otexts.org/fpp2/
 https://bookdown.org/yihui/blogdown/
 http://serialmentor.com/dataviz/
+https://www.datascienceatthecommandline.com/
+https://www.gastonsanchez.com/r4strings/
 https://plotly-book.cpsievert.me/
