@@ -9,3 +9,4 @@ https://zuguang.de/circlize_book/book/
 https://rachaellappan.github.io/16S-analysis/
 https://yijutseng.github.io/DataScienceRBook/
 http://fg2re.sellorm.com/
+https://plotly-book.cpsievert.me/

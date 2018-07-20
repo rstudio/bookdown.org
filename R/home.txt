@@ -11,4 +11,3 @@ https://bookdown.org/yihui/blogdown/
 https://serialmentor.com/dataviz/
 https://www.datascienceatthecommandline.com/
 https://www.gastonsanchez.com/r4strings/
-https://plotly-book.cpsievert.me/
