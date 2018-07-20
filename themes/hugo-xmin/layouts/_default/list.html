@@ -20,7 +20,7 @@
     {{ with .Params.repo }}
     <span>
       {{ if $.IsHome }}
-      <a class="github-button" href="https://github.com/{{ . }}" data-show-count="true" data-size="large" aria-label="Star {{ . }} on GitHub">Star</a>
+      <a class="github-button" href="https://github.com/{{ . }}" data-show-count="{{ not $.Site.IsServer }}" data-size="large" aria-label="Star {{ . }} on GitHub">Star</a>
       {{ else }}
       <a href="https://github.com/{{ . }}"><svg viewBox="0 0 16 16"><use xlink:href="#icon-github"></use></svg></a>
       {{ end }}
