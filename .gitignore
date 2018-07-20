@@ -1,6 +1,6 @@
 .DS_Store
 .Rproj.user
-render_post/_book_meta.rds
+R/_book_meta.rds
 *.Rproj
 blogdown
 public
