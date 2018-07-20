@@ -28,7 +28,8 @@ book_urls = tibble(
 # one xml_find for two use case
 xml_find = function(x, xpath, all = FALSE) {
   FUN = if (all) xml_find_all else xml_find_first
-  tryCatch(FUN(x, xpath), error = function(e) NULL)
+  res = tryCatch(FUN(x, xpath), error = function(e) NULL)
+  if (length(res) > 0) res
 }
 
 # normalize to [0, 1] and highlight high percentages
