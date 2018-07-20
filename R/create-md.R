@@ -32,6 +32,11 @@ xml_find = function(x, xpath, all = FALSE) {
   if (length(res) > 0) res
 }
 
+# test if a URL is not accessible
+na_url = function(x) {
+  tryCatch(httr::http_error(x), error = function(e) TRUE)
+}
+
 # normalize to [0, 1] and highlight high percentages
 normalize_toc_len = function(x) {
   x[x >= quantile(x, .8, na.rm = TRUE)] = max(x, na.rm = TRUE)
@@ -39,6 +44,16 @@ normalize_toc_len = function(x) {
   x = (x - r[1])/(r[2] - r[1])
   paste0(100 * round(x, 3), '%')
 }
+
+# alternative book covers
+cover_list = list(
+  'https://www.gastonsanchez.com/r4strings/' = 'https://www.gastonsanchez.com/r4strings/images/cover.png',
+  'https://www.datascienceatthecommandline.com/' = 'https://www.datascienceatthecommandline.com/images/cover.png',
+  'https://serialmentor.com/dataviz/' = 'https://images-na.ssl-images-amazon.com/images/I/511%2BvIP1-aL._SX331_BO1,204,203,200_.jpg',
+  'https://bookdown.org/rdpeng/RProgDA/' = 'https://bookdown.org/rdpeng/RProgDA/cover-image_sm.png',
+  'https://zuguang.de/circlize_book/book/' = 'https://zuguang.de/circlize_book/book/images/circlize_cover.jpg'
+)
+
 
 # Get books meta ----------------------------------------------------------
 
@@ -95,8 +110,12 @@ get_book_meta = function(url, date) {
     cover = xml_attr(cover, 'content')
     # relative URL to absolute
     if (!grepl('^https?://', cover)) cover = paste0(url, cover)
-    # is the cover image URL accessible?
-    if (tryCatch(httr::http_error(cover), error = function(e) TRUE)) cover = NULL
+    if (na_url(cover)) cover = NULL
+  }
+  # does the alternative cover URL work?
+  if (is.null(cover)) {
+    cover = cover_list[[url]]
+    if (!is.null(cover) && na_url(cover)) cover = NULL
   }
 
   repo = xml_find(html, './/meta[@name="github-repo"]')
