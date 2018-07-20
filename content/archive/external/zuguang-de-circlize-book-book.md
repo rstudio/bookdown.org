@@ -4,6 +4,7 @@ author: "Zuguang Gu"
 date: ""
 link: "https://zuguang.de/circlize_book/book/"
 toc_weight: "11.9%"
+cover: "https://zuguang.de/circlize_book/book/images/circlize_cover.jpg"
 repo: "jokergoo/circlize_book"
 pinned: false
 ---
