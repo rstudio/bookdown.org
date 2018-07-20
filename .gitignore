@@ -4,3 +4,4 @@ R/_book_meta.rds
 *.Rproj
 blogdown
 public
+rsconnect
