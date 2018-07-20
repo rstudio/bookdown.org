@@ -104,6 +104,7 @@ blockquote {
   box-shadow: 0 0 8px #ccc;
   box-sizing: border-box;
   padding: 1em;
+  position: relative;
 }
 .article-list a, .footer a {
   text-decoration: none;
@@ -133,6 +134,13 @@ blockquote {
   content: "";
   clear: both;
   display: table;
+}
+.book-number {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: .5em;
+  font-size: .9em;
 }
 .footer, .footer a { color: #fff; }
 .more { font-style: italic; }

@@ -11,7 +11,7 @@
 {{ end }}
 
 <div class="item-list">
-{{ range (.Scratch.Get "PageList") }}
+{{ range $index, $element := (.Scratch.Get "PageList") }}
 <section class="article-list"{{if not $.IsHome }}{{ with .Params.toc_weight }} style="background: linear-gradient(to top, #75aadb, white {{ . }});"{{ end }}{{ end }}>
   <h1><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h1>
   {{ with .Params.author }}<h2 class="author">by {{ . }}</h2>{{ end }}
@@ -34,6 +34,7 @@
     <p>{{ .Content | plainify | safeHTML }}
     <a href="{{ .Params.link }}" class="more" title="Read More..." target="_blank">Read more &rarr;</a></p>
   </div>
+  <span class="book-number">{{ add $index 1 }}</span>
 </section>
 {{ end }}
 </div>
