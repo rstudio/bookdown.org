@@ -72,7 +72,7 @@ get_book_meta = function(url, date) {
   if (length(description) == 0 || is.na(description) || description == 'NA') description = ''
   if (nchar(description) < 400) {
     # compute a summary from normal paragraphs without any attributes
-    paragraphs = xml_text(xml_find(html, './/p[not(@*)]', TRUE))
+    paragraphs = if (length(paragraphs <- xml_find(html, './/p[not(@*)]', TRUE))) xml_text(paragraphs)
     if (description == '' && length(paragraphs) == 0) return()
     description = paste(
       c(if (description != '' && length(grep(description, paragraphs, fixed = TRUE)) == 0)
