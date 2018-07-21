@@ -62,11 +62,14 @@ book_length = function(url) {
 }
 
 match_tags = function(text) {
-  tags = sort(unique(readLines('tags.txt')))
+  tags = trimws(sort(tools::toTitleCase(unique(readLines('tags.txt')))))
   writeLines(tags, 'tags.txt')
-  m = gregexpr(paste(tags, collapse = '|'), text)
+  tags_low = tolower(tags)
+  m = gregexpr(paste(tags, collapse = '|'), text, ignore.case = TRUE)
   unlist(lapply(regmatches(text, m), function(x) {
-    if (length(x) == 0) NA else paste0('[', paste(unique(x), collapse = ', '), ']')
+    if (length(x) == 0) return(NA)
+    x = tags[match(tolower(x), tags_low)]
+    paste0('[', paste(unique(x), collapse = ', '), ']')
   }))
 }
 
