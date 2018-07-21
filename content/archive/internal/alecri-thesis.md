@@ -2,6 +2,7 @@
 title: "Novel methods for dose–response meta-analysis"
 author: "Alessio Crippa"
 date: "2018-03-06T13:58:59Z"
+tags: [Meta-Analysis, Medicine]
 link: "https://bookdown.org/alecri/thesis/"
 length_weight: "32.8%"
 pinned: false

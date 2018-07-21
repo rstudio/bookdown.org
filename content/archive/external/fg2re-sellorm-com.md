@@ -2,6 +2,7 @@
 title: "Field Guide to the R Ecosystem"
 author: "Mark Sellors"
 date: "2018-01-12"
+tags: [Guide]
 link: "https://fg2re.sellorm.com/"
 length_weight: "10.6%"
 repo: "sellorm/field-guide-to-the-r-ecosystem"

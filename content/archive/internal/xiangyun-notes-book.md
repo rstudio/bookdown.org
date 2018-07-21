@@ -2,6 +2,7 @@
 title: "学习笔记"
 author: "黄湘云"
 date: "2018-04-27T05:11:29Z"
+tags: [笔记, Package, Github]
 link: "https://bookdown.org/xiangyun/notes-book/"
 length_weight: "4.5%"
 pinned: false

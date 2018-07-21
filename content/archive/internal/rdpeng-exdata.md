@@ -2,7 +2,7 @@
 title: "Exploratory Data Analysis with R"
 author: "Roger D. Peng"
 date: "2016-09-14T16:50:53Z"
-tags: [Data Analysis]
+tags: [Exploratory Data Analysis, Models, Multivariate]
 link: "https://bookdown.org/rdpeng/exdata/"
 length_weight: "34%"
 cover: "https://bookdown.org/rdpeng/exdata/cover_sm.png"

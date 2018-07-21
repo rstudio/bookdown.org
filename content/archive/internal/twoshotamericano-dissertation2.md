@@ -2,6 +2,7 @@
 title: "Applications of Multivariate Analysis in Business"
 author: "Ed Anderson"
 date: "2017-10-29T10:08:17Z"
+tags: [Multivariate, Business Analytics]
 link: "https://bookdown.org/twoshotamericano/dissertation2/"
 length_weight: "25.7%"
 repo: "rstudio/bookdown-demo"

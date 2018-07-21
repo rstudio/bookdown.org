@@ -2,6 +2,7 @@
 title: "Notes"
 author: "Miao YU"
 date: "2017-06-20T21:16:07Z"
+tags: [笔记, Python]
 link: "https://bookdown.org/yufree/Notes/"
 length_weight: "40.6%"
 repo: "yufree/notes"

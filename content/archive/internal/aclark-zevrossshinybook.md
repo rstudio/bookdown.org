@@ -2,7 +2,7 @@
 title: "R Powered Web Applications with Shiny"
 author: "Zev Ross (with Andrew Clark)"
 date: "2016-11-08T18:23:28Z"
-tags: [Shiny]
+tags: [Web Applications, Shiny, Package]
 link: "https://bookdown.org/aclark/zevRossShinyBook/"
 length_weight: "5.3%"
 pinned: false

@@ -2,7 +2,7 @@
 title: "Selected Solutions to R4DS Exercises"
 author: "Chunji Wang"
 date: "2017-11-03T23:41:51Z"
-tags: [Data Science]
+tags: [Data Science, Package]
 link: "https://bookdown.org/chunjiw/r4ds-solution/"
 length_weight: "17.9%"
 repo: "chunjiw/r4ds-solution"

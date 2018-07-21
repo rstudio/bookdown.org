@@ -2,7 +2,7 @@
 title: "GerminaQuant"
 author: "Flavio Lozano Isla, Omar Benites Alfaro, Marcelo Francisco Pompelli"
 date: "2016-10-11T05:33:53Z"
-tags: [Shiny]
+tags: [Guide, Shiny, Package]
 link: "https://bookdown.org/flavjack/GermBook/"
 length_weight: "8.2%"
 cover: "https://bookdown.org/flavjack/GermBook/img/germinaquant.png"

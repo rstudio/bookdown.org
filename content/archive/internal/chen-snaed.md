@@ -2,6 +2,7 @@
 title: "Social Network Analysis in Education"
 author: "chen"
 date: "2017-04-18T03:06:17Z"
+tags: [Network, Education, Course]
 link: "https://bookdown.org/chen/snaEd/"
 length_weight: "22.4%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"

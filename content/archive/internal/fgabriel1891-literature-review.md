@@ -2,6 +2,7 @@
 title: "Literature thesis: Building a framework for retrieving information on multispecies interactions from published literature"
 author: "Gabriel Muñoz"
 date: "2017-04-28T12:16:08Z"
+tags: [Ecology, Geographic]
 link: "https://bookdown.org/fgabriel1891/literature_review/"
 length_weight: "21.9%"
 pinned: false

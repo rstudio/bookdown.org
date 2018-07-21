@@ -2,6 +2,7 @@
 title: "Estimacdiión en dominios pequeños"
 author: "Grupo SAE - USTA"
 date: "2018-01-12T21:47:32Z"
+tags: [Github]
 link: "https://bookdown.org/hagutierrezro/SAE/"
 length_weight: "3.8%"
 repo: "rstudio/bookdown-demo"

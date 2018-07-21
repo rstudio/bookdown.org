@@ -2,6 +2,7 @@
 title: "R語言套件之道"
 author: "Cheng-Chung Li"
 date: "2017-07-04T12:05:33Z"
+tags: [Package, 臺灣, Github]
 link: "https://bookdown.org/content/683/"
 length_weight: "3.7%"
 repo: "askia318/RPackagesBook"

@@ -1,84 +1,83 @@
 Advanced R
 Bayesian
+Biology
+Business Analytics
+Causal Analysis
+Conference
+Course
 Data Analysis
 Data Science
+Digital Currency
+Ecology
+Econometrics
+Education
 Epidemiology
+Exploratory Data Analysis
+Financial Analytics
+Forecasting
+Functional Programming
+Generalized Additive Model
+Geographic
+ggplot2
+Github
+GPU
+Guide
+HPC
+James-Stein Estimator
+Liquid Biopsy
+Machine Learning
+Macroeconomics
+Market
+Medicine
+Meta-Analysis
+Metabolomics
+Mixed Models
 Models
+Multivariate
+Network
+Network Centrality
+Nonparametric Estimation
+Numerical Analysis
+Package
+Poetry
+Population Health
+Predictive Model
 Psychology
 Python
 R Markdown
 R Programming
+Seminar
+Sequencing
 Shiny
+Simulation
+Social Science
+Social Survey
+Software Development
+Spatial Data
+Spiderman
+Sports
 Statistical Computing
 Statistical Methods
 Statistics
+String
 Survival Analysis
-Visualization
-unit test
-functional programming
-Course
-Guide
-まとめ
-Machine learning
-generalized additive model
-mixed models
-textbook
-Forecasting
-package
-sequencing
 Text Mining
-tidy
-market
-string
-sports
-Conference
-Web Applications
+Textbook
+Tidy
 Tidyverse
-Biology
-meta-analysis
-medicine
-tutorial
-育儿
-Numerical Analysis
-ecology
-econometrics
-醫學
-Network
-HPC
-GPU
-臺灣
-James-Stein Estimator
-Simulation
-nonparametric estimation
-Predictive Model
-Social Science
-psychology
-Poetry
-translation
-Digital Currency
-Multivariate
-Social Survey
-education
-video game
-Causal Analysis
-seminar
-Exploratory Data Analysis
-software development
-geographic
+Translation
+Tutorial
+Unit Test
 Unix
-network centrality
-Population Health
-Github
-Macroeconomics
-ggplot2
-Business Analytics
-financial analytics
-数据科学
-Spatial Data
-spiderman
+Video Game
+Visualization
+Web Applications
+まとめ
 奇门遁甲
-统计之都
-Liquid biopsy
 数据分析
-metabolomics
+数据科学
 笔记
+统计之都
+育儿
+臺灣
+醫學

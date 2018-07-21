@@ -2,6 +2,7 @@
 title: "Economic Forum"
 author: "Mau-Ting Lin"
 date: "2017-12-13T03:16:40Z"
+tags: [Package]
 link: "https://bookdown.org/tpemartin/Discussion/"
 length_weight: "26.1%"
 repo: "tpemartin/E.minor-Economic-Forum"

@@ -2,6 +2,7 @@
 title: "A Minimal Book Example"
 author: "Yihui Xie (Daniel Kim translated it into Korean)"
 date: "2017-01-08T13:04:12Z"
+tags: [Package, Github]
 link: "https://bookdown.org/danielykim/bookdown-demo-kr/"
 length_weight: "3.8%"
 repo: "danielykim/bookdown-demo-kr"

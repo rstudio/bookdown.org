@@ -2,6 +2,7 @@
 title: "R Studio: A 3D Printer for Business Analytics"
 author: "Ed Anderson"
 date: "2017-08-06T13:33:16Z"
+tags: [Business Analytics]
 link: "https://bookdown.org/twoshotamericano/thesisfinal2/"
 length_weight: "15.5%"
 repo: "rstudio/bookdown-demo"

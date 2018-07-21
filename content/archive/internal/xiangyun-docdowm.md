@@ -2,6 +2,7 @@
 title: "A Minimal Book Example"
 author: "xiangyun"
 date: "2018-04-27T10:32:45Z"
+tags: [Package]
 link: "https://bookdown.org/xiangyun/docdowm/"
 length_weight: "4.6%"
 pinned: false

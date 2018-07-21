@@ -2,7 +2,7 @@
 title: "An Introduction to Statistical and Data Sciences via R"
 author: "Chester Ismay and Albert Y. Kim"
 date: ""
-tags: [Data Science]
+tags: [Data Science, Textbook, Statistics, Course]
 link: "https://moderndive.com/"
 length_weight: "100%"
 cover: "https://moderndive.com/images/logos/book_cover.png"

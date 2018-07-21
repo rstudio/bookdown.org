@@ -2,7 +2,7 @@
 title: "Scalable Machine Learning and Data Science with Microsoft R Server and Spark"
 author: "Ali Zaidi, Machine Learning and Data Science, Microsoft"
 date: "2016-06-01T01:31:01Z"
-tags: [Data Science, Shiny]
+tags: [Machine Learning, Data Science, Data Analysis, Shiny]
 link: "https://bookdown.org/alizaidi/mrs-spark-ml/"
 length_weight: "18.5%"
 repo: "rstudio/bookdown-demo"

@@ -2,6 +2,7 @@
 title: "useR2016 Conference Videos"
 author: "Andrew Clark"
 date: "2016-07-19T22:16:26Z"
+tags: [Conference, Sports, Shiny]
 link: "https://bookdown.org/aclark/useR2016videos/"
 length_weight: "8.2%"
 cover: "https://bookdown.org/aclark/useR2016videos/images/logo.png"

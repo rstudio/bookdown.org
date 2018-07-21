@@ -2,6 +2,7 @@
 title: "Egils saga Skalla-Grímssonar"
 author: "eythorbj"
 date: "2017-05-15T17:21:46Z"
+tags: [R Markdown]
 link: "https://bookdown.org/eythorbj/Egils_saga/"
 length_weight: "100%"
 pinned: false

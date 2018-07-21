@@ -2,6 +2,7 @@
 title: "A Minimal Book Example"
 author: "Xiangyun Huang"
 date: "2018-04-19T12:46:24Z"
+tags: [Package, Github]
 link: "https://bookdown.org/xiangyun/pandoc4everything/"
 length_weight: "3.8%"
 pinned: false

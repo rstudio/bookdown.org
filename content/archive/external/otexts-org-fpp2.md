@@ -2,6 +2,7 @@
 title: "Forecasting: Principles and Practice"
 author: "Rob J Hyndman and George Athanasopoulos"
 date: ""
+tags: [Forecasting, Textbook]
 link: "https://otexts.org/fpp2/"
 length_weight: "100%"
 cover: "https://Otexts.org/fpp2/fpp2_cover.jpg"

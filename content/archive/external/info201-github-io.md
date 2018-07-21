@@ -2,6 +2,7 @@
 title: "Technical Foundations of Informatics"
 author: "Michael Freeman and Joel Ross"
 date: "2018-04-26"
+tags: [Course]
 link: "https://info201.github.io/"
 length_weight: "23.8%"
 cover: "https://info201.github.io/img/cover-img.png"

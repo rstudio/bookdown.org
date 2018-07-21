@@ -2,6 +2,7 @@
 title: "plotly for R"
 author: "Carson Sievert"
 date: ""
+tags: [Package, ggplot2, Advanced R]
 link: "https://plotly-book.cpsievert.me/"
 length_weight: "14.8%"
 repo: "ropensci/plotly"

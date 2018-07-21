@@ -2,6 +2,7 @@
 title: "Meta-Workflow"
 author: "Miao YU"
 date: "2018-07-04T20:12:23Z"
+tags: [Metabolomics, Data Analysis, Github]
 link: "https://bookdown.org/yufree/Metabolomics/"
 length_weight: "19.2%"
 repo: "yufree/metaworkflow"

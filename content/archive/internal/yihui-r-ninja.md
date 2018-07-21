@@ -2,6 +2,7 @@
 title: "R语言忍者秘笈"
 author: "谢益辉, 肖楠, 坑主三, 坑主四"
 date: "2018-02-12T16:12:15Z"
+tags: [奇门遁甲, 数据分析, 统计之都]
 link: "https://bookdown.org/yihui/r-ninja/"
 length_weight: "23.2%"
 cover: "https://bookdown.org/yihui/r-ninja/images/cover.jpg"

@@ -2,6 +2,7 @@
 title: "R bookdownplus Textbook"
 author: "Peng Zhao"
 date: "2017-11-01T15:24:37Z"
+tags: [Textbook, Tutorial, Package]
 link: "https://bookdown.org/baydap/bookdownplus/"
 length_weight: "15.5%"
 repo: "pzhaonet/bookdownplus-textbook"

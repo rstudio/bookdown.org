@@ -2,6 +2,7 @@
 title: "The Queens College Political Guide"
 author: "The Queens College Collective Consciousness"
 date: "2018-02-26T00:09:16Z"
+tags: [Guide, Package, Course]
 link: "https://bookdown.org/open/politics/"
 length_weight: "9.6%"
 repo: "opencuny/qc-politics"

@@ -2,7 +2,7 @@
 title: "APS 135: Introduction to Exploratory Data Analysis with R"
 author: "Dylan Z. Childs"
 date: "2018-02-12"
-tags: [Data Analysis]
+tags: [Exploratory Data Analysis, Course]
 link: "https://dzchilds.github.io/eda-for-bio/"
 length_weight: "24.1%"
 repo: "dzchilds/eda-for-bio"

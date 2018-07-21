@@ -2,7 +2,7 @@
 title: "認識 R 的美好"
 author: "郭耀仁"
 date: "2018-05-12T01:37:34Z"
-tags: [Python]
+tags: [Python, Market]
 link: "https://bookdown.org/tonykuoyj/eloquentr/"
 length_weight: "19.3%"
 pinned: false

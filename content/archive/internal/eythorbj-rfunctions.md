@@ -2,6 +2,7 @@
 title: "Föll í R - Dæmi"
 author: "Eyþór Björnsson"
 date: "2017-05-23T22:00:30Z"
+tags: [Github, R Markdown]
 link: "https://bookdown.org/eythorbj/Rfunctions/"
 length_weight: "10.1%"
 pinned: false

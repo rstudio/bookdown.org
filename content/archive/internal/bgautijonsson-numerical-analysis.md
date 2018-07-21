@@ -2,6 +2,7 @@
 title: "Numerical Analysis: Notes"
 author: "Brynjólfur Gauti Jónsson"
 date: "2018-02-23T22:26:58Z"
+tags: [Numerical Analysis, Package, Course]
 link: "https://bookdown.org/bgautijonsson/numerical_analysis/"
 length_weight: "7.1%"
 pinned: false

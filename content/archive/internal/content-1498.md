@@ -2,6 +2,7 @@
 title: "HPC con R para Investigadores"
 author: "Johanna Orellana Alvear - johanna.orellana@ucuenca.edu.ec"
 date: "2018-07-13T04:16:41Z"
+tags: [HPC]
 link: "https://bookdown.org/content/1498/"
 length_weight: "17.8%"
 pinned: false

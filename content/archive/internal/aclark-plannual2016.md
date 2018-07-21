@@ -2,6 +2,7 @@
 title: "Premier League Annual"
 author: "Andrew Clark"
 date: "2016-10-29T00:33:47Z"
+tags: [Visualization]
 link: "https://bookdown.org/aclark/PLAnnual2016/"
 length_weight: "8.6%"
 pinned: false

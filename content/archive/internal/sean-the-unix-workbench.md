@@ -2,6 +2,7 @@
 title: "The Unix Workbench"
 author: "Sean Kross"
 date: "2017-06-29T17:38:48Z"
+tags: [Unix]
 link: "https://bookdown.org/sean/the-unix-workbench/"
 length_weight: "33.4%"
 repo: "seankross/the-unix-workbench"

@@ -2,6 +2,7 @@
 title: "Mastering DFS Analytics"
 author: "M. Edward (Ed) Borasky"
 date: "2017-05-12"
+tags: [Sports]
 link: "https://www.masteringdfsanalytics.com/"
 length_weight: "8.9%"
 pinned: false

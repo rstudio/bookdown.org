@@ -2,7 +2,7 @@
 title: "A list of R conferences and meetings"
 author: "csgillespie"
 date: "2016-12-21T14:29:54Z"
-tags: [Data Science]
+tags: [Conference, Data Science]
 link: "https://bookdown.org/csgillespie/meetingsR/"
 length_weight: "7.7%"
 repo: "jumpingrivers/meetingsR"

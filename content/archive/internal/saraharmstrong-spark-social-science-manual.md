@@ -2,6 +2,7 @@
 title: "Spark Social Science Manual"
 author: "Research Programming, The Urban Institute"
 date: "2016-10-03T17:56:40Z"
+tags: [Social Science]
 link: "https://bookdown.org/SarahArmstrong/spark-social-science-manual/"
 length_weight: "12.6%"
 repo: "rstudio/spark-social-science-manual"

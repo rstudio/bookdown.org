@@ -2,6 +2,7 @@
 title: "Notes and Codes while Learning R"
 author: "Scott Ming"
 date: "2016-07-31T01:24:12Z"
+tags: [笔记, 数据科学, Github]
 link: "https://bookdown.org/scottming/rns/"
 length_weight: "12.7%"
 repo: "scottming/rns"

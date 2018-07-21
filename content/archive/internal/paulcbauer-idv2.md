@@ -2,7 +2,7 @@
 title: "Interactive Data Visualization (2nd Day)"
 author: "Paul C. Bauer & Richard Traunmüller"
 date: "2016-11-23T00:14:07Z"
-tags: [Visualization]
+tags: [Visualization, Shiny, Tutorial]
 link: "https://bookdown.org/paulcbauer/idv2/"
 length_weight: "20.4%"
 pinned: false

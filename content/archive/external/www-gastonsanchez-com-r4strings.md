@@ -2,6 +2,7 @@
 title: "Handling Strings with R"
 author: "Gaston Sanchez"
 date: "2018-04-19"
+tags: [String]
 link: "https://www.gastonsanchez.com/r4strings/"
 length_weight: "15.6%"
 cover: "https://www.gastonsanchez.com/r4strings/images/cover.png"

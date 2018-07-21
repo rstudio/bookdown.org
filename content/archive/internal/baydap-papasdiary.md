@@ -2,6 +2,7 @@
 title: "Papa’s Three Laws"
 author: "大鹏&朋友"
 date: "2017-07-20T09:17:01Z"
+tags: [育儿]
 link: "https://bookdown.org/baydap/papasdiary/"
 length_weight: "38.4%"
 cover: "https://bookdown.org/baydap/papasdiary/images/cover.jpg"

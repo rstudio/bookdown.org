@@ -2,6 +2,7 @@
 title: "Data lunch 2feb: The use of Bookdown to write documents and reports"
 author: "Gabriel Muñoz"
 date: "2017-02-03T20:29:48Z"
+tags: [Package, Github]
 link: "https://bookdown.org/fgabriel1891/datalunch2feb/"
 length_weight: "9.2%"
 pinned: false

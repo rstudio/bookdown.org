@@ -2,6 +2,7 @@
 title: "The Queens College Guide to Ecosystems"
 author: "The Queens College Collective Consciousness"
 date: "2018-02-26T01:20:28Z"
+tags: [Guide, Package, Course, Biology]
 link: "https://bookdown.org/open/qcbigbio/"
 length_weight: "28%"
 repo: "opencuny/qc-big-bio"

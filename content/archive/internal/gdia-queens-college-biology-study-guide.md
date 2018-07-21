@@ -2,6 +2,7 @@
 title: "The Queens College Guide to the Foundations of Life"
 author: "The Queens College Collective Consciousness"
 date: "2018-01-31T19:54:52Z"
+tags: [Guide, Package, Github]
 link: "https://bookdown.org/gdia/Queens-College-Biology-Study-Guide/"
 length_weight: "26.6%"
 repo: "sepqc/qcbio"

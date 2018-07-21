@@ -2,6 +2,7 @@
 title: "Gopnik Guide to Biology"
 author: "Paulius Alaburda"
 date: "2017-06-26T08:50:47Z"
+tags: [Guide, Biology]
 link: "https://bookdown.org/Alaburda/BioMasterBook/"
 length_weight: "12.1%"
 pinned: false
