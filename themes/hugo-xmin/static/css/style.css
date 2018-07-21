@@ -7,11 +7,11 @@ body {
   max-width: 1100px;
   margin: 0 auto 0;
 }
+.menu, .container, .footer, .full-width { padding: 0 1em 0; }
 .full-width {
   display: block;
-  padding: 1em 0 1em;
+  padding: 1em;
 }
-.menu, .container, .footer, .full-width { padding: 0 1em 0; }
 
 /* header and footer areas */
 .menu { box-shadow: 0px 10px 10px -5px rgba(0,0,0,0.1); }
@@ -52,7 +52,7 @@ footer { background: #75aadb; }
 .footer a { text-decoration: none; }
 footer {
   padding: 1em 0 1em;
-  margin-top: 2em;
+  margin-top: 1em;
 }
 footer svg { padding: .1em; }
 
