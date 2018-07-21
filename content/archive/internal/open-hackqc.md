@@ -3,7 +3,7 @@ title: "Hack QC"
 author: "by The Queens College Collective Consciousness"
 date: "2018-02-26T01:23:05Z"
 link: "https://bookdown.org/open/hackqc/"
-toc_weight: "1.4%"
+length_weight: "5.9%"
 repo: "opencuny/qcCS"
 pinned: false
 ---

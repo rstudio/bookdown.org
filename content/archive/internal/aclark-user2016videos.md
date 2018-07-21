@@ -3,7 +3,7 @@ title: "useR2016 Conference Videos"
 author: "Andrew Clark"
 date: "2016-07-19T22:16:26Z"
 link: "https://bookdown.org/aclark/useR2016videos/"
-toc_weight: "0.8%"
+length_weight: "8.2%"
 cover: "https://bookdown.org/aclark/useR2016videos/images/logo.png"
 repo: "pssguy/user2016"
 pinned: false

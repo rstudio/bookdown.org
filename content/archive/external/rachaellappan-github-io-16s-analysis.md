@@ -3,7 +3,7 @@ title: "16S rRNA analysis"
 author: "R.Lappan"
 date: ""
 link: "https://rachaellappan.github.io/16S-analysis/"
-toc_weight: "7.2%"
+length_weight: "14.3%"
 repo: "rachaellappan/16S-analysis"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Data Science Live Book"
 author: "Pablo Casas"
 date: ""
 link: "https://livebook.datascienceheroes.com/"
-toc_weight: "100%"
+length_weight: "0%"
 cover: "https://livebook.datascienceheroes.com/introduction/data_science_live_book_cover.png"
 repo: "pablo14/data-science-live-book"
 pinned: false

@@ -3,7 +3,7 @@ title: "Bayesian Basics"
 author: "Michael Clark"
 date: "2018-07-16"
 link: "https://m-clark.github.io/bayesian-basics/"
-toc_weight: "7.8%"
+length_weight: "14.9%"
 cover: "https://m-clark.github.io/bayesian-basics/img/nineteeneightyR.png"
 repo: "m-clark/bayesian-basics"
 pinned: false

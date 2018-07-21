@@ -3,7 +3,7 @@ title: "Data Science at the Command Line"
 author: "Jeroen Janssens"
 date: "2018-02-08"
 link: "https://www.datascienceatthecommandline.com/"
-toc_weight: "100%"
+length_weight: "21.9%"
 cover: "https://www.datascienceatthecommandline.com/images/cover.png"
 pinned: true
 ---

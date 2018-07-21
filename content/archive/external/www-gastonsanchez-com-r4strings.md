@@ -3,7 +3,7 @@ title: "Handling Strings with R"
 author: "Gaston Sanchez"
 date: "2018-04-19"
 link: "https://www.gastonsanchez.com/r4strings/"
-toc_weight: "13.3%"
+length_weight: "15.6%"
 cover: "https://www.gastonsanchez.com/r4strings/images/cover.png"
 repo: "gastonstat/r4strings"
 pinned: true

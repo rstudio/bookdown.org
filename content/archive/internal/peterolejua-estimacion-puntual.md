@@ -3,7 +3,7 @@ title: "Notas sobre Estimación Puntual"
 author: "Peter Olejua"
 date: "2017-04-06T23:37:14Z"
 link: "https://bookdown.org/peterolejua/estimacion_puntual/"
-toc_weight: "1.3%"
+length_weight: "7.5%"
 repo: "rstudio/Notas-estimacion-puntual"
 pinned: false
 ---

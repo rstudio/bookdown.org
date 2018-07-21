@@ -3,7 +3,7 @@ title: "现代科研指北"
 author: "于淼"
 date: "2018-07-16T05:18:14Z"
 link: "https://bookdown.org/yufree/sciguide/"
-toc_weight: "12.1%"
+length_weight: "17.6%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "Föll í R - Dæmi"
 author: "Eyþór Björnsson"
 date: "2017-05-23T22:00:30Z"
 link: "https://bookdown.org/eythorbj/Rfunctions/"
-toc_weight: "2.2%"
+length_weight: "10.1%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "R_Dplyr_minicourse"
 author: "陳柏銘PoMingChen"
 date: "2018-05-03T11:59:55Z"
 link: "https://bookdown.org/PoMingChen/Dplyr_minicourse/"
-toc_weight: "1.8%"
+length_weight: "10.7%"
 pinned: false
 ---
 

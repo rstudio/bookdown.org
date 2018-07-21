@@ -1,9 +1,9 @@
 ---
 title: "Lösningar i R till vissa uppgifter från övningskompendierna (samt lite annat kul)"
 author: "Erik Stenberg"
-date: "2018-04-19T10:41:14Z"
-link: "https://bookdown.org/erikstenberg/a4a85/"
-toc_weight: "3.8%"
+date: "2018-04-19T10:15:16Z"
+link: "https://bookdown.org/erikstenberg/a4a84/"
+length_weight: "13.5%"
 repo: "shitoushan/losningar"
 pinned: false
 ---

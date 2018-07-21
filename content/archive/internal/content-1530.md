@@ -3,7 +3,7 @@ title: "An Incomplete Solutions Guide to the NIST/SEMATECH e-Handbook of Statist
 author: "Ray Hoobler"
 date: "2018-07-17T06:27:51Z"
 link: "https://bookdown.org/content/1530/"
-toc_weight: "8.5%"
+length_weight: "34%"
 repo: "RayJamesHoobler/Applied-Statistical-Techniques"
 pinned: false
 ---

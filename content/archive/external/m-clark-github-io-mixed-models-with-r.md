@@ -3,7 +3,7 @@ title: "Mixed Models in R"
 author: "Michael Clark"
 date: "2018-04-11"
 link: "https://m-clark.github.io/mixed-models-with-R/"
-toc_weight: "6.9%"
+length_weight: "13.4%"
 cover: "https://m-clark.github.io/mixed-models-with-R/img/nineteeneightyR.png"
 repo: "m-clark/mixed-models-with-R"
 pinned: false

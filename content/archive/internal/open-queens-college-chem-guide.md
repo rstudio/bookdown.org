@@ -3,7 +3,7 @@ title: "The Queens College Alchemy Guide"
 author: "The Queens College Collective Consciousness"
 date: "2018-02-26T01:19:49Z"
 link: "https://bookdown.org/open/queens-college-chem-guide/"
-toc_weight: "1.5%"
+length_weight: "4.6%"
 repo: "sepqc/qc-chem"
 pinned: false
 ---

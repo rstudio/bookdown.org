@@ -3,7 +3,7 @@ title: "Data Visualization"
 author: "Kieran Healy"
 date: ""
 link: "https://socviz.co/"
-toc_weight: "9.2%"
+length_weight: "0%"
 cover: "https://socviz.co/assets/dv-cover-executive-b.jpg"
 pinned: true
 ---

@@ -3,7 +3,7 @@ title: "plotly for R"
 author: "Carson Sievert"
 date: ""
 link: "https://plotly-book.cpsievert.me/"
-toc_weight: "7.1%"
+length_weight: "14.8%"
 repo: "ropensci/plotly"
 pinned: false
 ---

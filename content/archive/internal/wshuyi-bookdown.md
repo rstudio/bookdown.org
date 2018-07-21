@@ -3,7 +3,7 @@ title: "如何高效入门数据科学？"
 author: "王树义"
 date: "2018-07-20T14:19:04Z"
 link: "https://bookdown.org/wshuyi/bookdown/"
-toc_weight: "0%"
+length_weight: "6.7%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "Sosyal Bilimler Araştırmaları İçin R"
 author: "Emre Toros"
 date: "2018-07-20T08:53:19Z"
 link: "https://bookdown.org/emretoros/R_kitabi/"
-toc_weight: "9.1%"
+length_weight: "38.2%"
 pinned: false
 ---
 
