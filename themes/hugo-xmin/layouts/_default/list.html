@@ -2,12 +2,16 @@
 
 <main class="full-width {{ if .IsHome }}home{{ end }}">
 
+{{if and (not .IsHome) (not (eq .Section "archive")) }}
+<h1>{{ .Title }}</h1>
+{{ end }}
+
 {{ .Content }}
 
 {{ if .IsHome }}
 {{ .Scratch.Set "PageList" (where .Site.RegularPages "Params.pinned" true) }}
 {{ else }}
-{{ .Scratch.Set "PageList" (where .Site.RegularPages "Section" "archive") }}
+{{ .Scratch.Set "PageList" (where .Data.Pages "Section" "archive") }}
 {{ end }}
 
 <div class="item-list">

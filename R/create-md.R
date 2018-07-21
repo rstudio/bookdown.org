@@ -61,6 +61,15 @@ book_length = function(url) {
   if (length(x) == 0) 0 else as.numeric(x)
 }
 
+match_tags = function(text) {
+  tags = sort(unique(readLines('tags.txt')))
+  writeLines(tags, 'tags.txt')
+  m = gregexpr(paste(tags, collapse = '|'), text)
+  unlist(lapply(regmatches(text, m), function(x) {
+    if (length(x) == 0) NA else paste0('[', paste(unique(x), collapse = ', '), ']')
+  }))
+}
+
 # Get books meta ----------------------------------------------------------
 
 # get metadata for a book from html content
@@ -189,8 +198,8 @@ books_to_keep = books_metas %>%
   group_by(title, description) %>%
   filter(is.na(date) | date == max(date)) %>%
   ungroup() %>%
-  # pencentiles of TOC lengths, which probably indicates the size of the book
   mutate(length_weight = normalize_book_len(book_len)) %>%
+  mutate(tags = match_tags(paste(title, description))) %>%
   # mark pinned url (to be displayed on homepage)
   mutate(pinned = tolower(url %in% readLines("home.txt")))
 

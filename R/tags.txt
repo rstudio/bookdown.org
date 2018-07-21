@@ -1,0 +1,16 @@
+Advanced R
+Bayesian
+Data Analysis
+Data Science
+Epidemiology
+Models
+Psychology
+Python
+R Markdown
+R Programming
+Shiny
+Statistical Computing
+Statistical Methods
+Statistics
+Survival Analysis
+Visualization
