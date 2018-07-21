@@ -2,6 +2,7 @@
 title: "Broadening Your Statistical Horizons"
 author: "J. Legler and P. Roback"
 date: "2018-02-10T18:57:22Z"
+tags: [Models]
 link: "https://bookdown.org/roback/bookdown-bysh/"
 length_weight: "100%"
 pinned: false

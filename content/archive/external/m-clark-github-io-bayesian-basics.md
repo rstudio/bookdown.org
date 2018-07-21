@@ -2,6 +2,7 @@
 title: "Bayesian Basics"
 author: "Michael Clark"
 date: "2018-07-16"
+tags: [Bayesian]
 link: "https://m-clark.github.io/bayesian-basics/"
 length_weight: "14.9%"
 cover: "https://m-clark.github.io/bayesian-basics/img/nineteeneightyR.png"

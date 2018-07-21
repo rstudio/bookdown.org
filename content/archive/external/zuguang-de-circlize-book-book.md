@@ -2,6 +2,7 @@
 title: "Circular Visualization in R"
 author: "Zuguang Gu"
 date: ""
+tags: [Visualization]
 link: "https://zuguang.de/circlize_book/book/"
 length_weight: "17.2%"
 cover: "https://zuguang.de/circlize_book/book/images/circlize_cover.jpg"

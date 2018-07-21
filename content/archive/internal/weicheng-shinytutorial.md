@@ -2,6 +2,7 @@
 title: "Shiny Tutorial"
 author: "Weicheng Zhu"
 date: "2016-05-25T19:26:11Z"
+tags: [Shiny]
 link: "https://bookdown.org/weicheng/shinyTutorial/"
 length_weight: "9.6%"
 pinned: false

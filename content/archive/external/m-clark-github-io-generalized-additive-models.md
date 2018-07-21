@@ -2,6 +2,7 @@
 title: "Generalized Additive Models"
 author: "Michael Clark"
 date: "2018-07-07"
+tags: [Models]
 link: "https://m-clark.github.io/generalized-additive-models/"
 length_weight: "14.3%"
 cover: "https://m-clark.github.io/generalized-additive-models/img/nineteeneightyR.png"

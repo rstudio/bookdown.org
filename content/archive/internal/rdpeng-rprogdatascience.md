@@ -2,6 +2,7 @@
 title: "R Programming for Data Science"
 author: "Roger D. Peng"
 date: "2016-12-22T15:16:15Z"
+tags: [R Programming, Data Science]
 link: "https://bookdown.org/rdpeng/rprogdatascience/"
 length_weight: "36.9%"
 cover: "https://bookdown.org/rdpeng/rprogdatascience/cover_sm.png"

@@ -2,6 +2,7 @@
 title: "Data Visualization Project"
 author: "Chiayi Yen"
 date: "2018-06-17T22:47:04Z"
+tags: [Visualization]
 link: "https://bookdown.org/cyyen/thesis/"
 length_weight: "7.7%"
 pinned: false

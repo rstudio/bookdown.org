@@ -2,6 +2,7 @@
 title: "Probability and Statistics"
 author: "Rob Carroll"
 date: "2017-08-28T17:57:17Z"
+tags: [Statistics]
 link: "https://bookdown.org/robertjcarroll/ProbStatsFSU/"
 length_weight: "4.6%"
 pinned: false

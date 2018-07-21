@@ -2,6 +2,7 @@
 title: "Data Science Live Book"
 author: "Pablo Casas"
 date: ""
+tags: [Data Science]
 link: "https://livebook.datascienceheroes.com/"
 length_weight: "0%"
 cover: "https://livebook.datascienceheroes.com/introduction/data_science_live_book_cover.png"

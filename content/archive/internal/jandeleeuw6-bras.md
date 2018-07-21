@@ -2,6 +2,7 @@
 title: "Block Relaxation Methods in Statistics"
 author: "Jan de Leeuw"
 date: "2016-04-01T20:14:01Z"
+tags: [Statistics]
 link: "https://bookdown.org/jandeleeuw6/bras/"
 length_weight: "100%"
 pinned: false

@@ -2,6 +2,7 @@
 title: "Statistical Analysis and Visualization for Spatial Data"
 author: "Xiangyun Huang"
 date: "2018-05-18T03:03:04Z"
+tags: [Visualization, R Markdown]
 link: "https://bookdown.org/xiangyun/geospatial/"
 length_weight: "7%"
 pinned: false

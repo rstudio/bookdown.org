@@ -2,6 +2,7 @@
 title: "Notes on R for AML100"
 author: "Jordan T. Bates"
 date: "2017-06-20T18:10:10Z"
+tags: [R Markdown]
 link: "https://bookdown.org/jtbates/AML100_R/"
 length_weight: "4%"
 repo: "jtbates/AML100_R"

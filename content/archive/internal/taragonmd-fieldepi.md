@@ -2,6 +2,7 @@
 title: "Field Epidemiology with R"
 author: "Tomás J. Aragón"
 date: "2018-07-18T04:54:29Z"
+tags: [Epidemiology, R Markdown]
 link: "https://bookdown.org/taragonmd/fieldepi/"
 length_weight: "5.9%"
 pinned: false

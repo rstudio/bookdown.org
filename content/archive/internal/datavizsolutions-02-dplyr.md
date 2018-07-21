@@ -2,6 +2,7 @@
 title: "Data Science and Visualizations with R"
 author: "Jonathan Wong"
 date: "2017-07-16T15:20:29Z"
+tags: [Data Science, Visualization]
 link: "https://bookdown.org/datavizsolutions/02-dplyr/"
 length_weight: "6%"
 pinned: false

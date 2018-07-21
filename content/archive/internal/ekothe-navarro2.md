@@ -2,6 +2,7 @@
 title: "Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6.1)"
 author: "DJ Navarro"
 date: "2018-07-15T09:03:42Z"
+tags: [Statistics]
 link: "https://bookdown.org/ekothe/navarro2/"
 length_weight: "100%"
 pinned: false

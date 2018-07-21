@@ -2,6 +2,7 @@
 title: "Efficient R programming"
 author: "Colin Gillespie, Robin Lovelace"
 date: "2016-11-30T14:15:05Z"
+tags: [R Programming, Bayesian]
 link: "https://bookdown.org/csgillespie/efficientR/"
 length_weight: "42.9%"
 cover: "https://csgillespie.github.io/efficientR/figures/f0_web.png"

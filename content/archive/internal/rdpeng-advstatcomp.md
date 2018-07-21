@@ -2,6 +2,7 @@
 title: "Advanced Statistical Computing"
 author: "Roger D. Peng"
 date: "2018-07-17T05:00:23Z"
+tags: [Statistical Computing]
 link: "https://bookdown.org/rdpeng/advstatcomp/"
 length_weight: "3.9%"
 repo: "rdpeng/advstatcomp"

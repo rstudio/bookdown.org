@@ -2,6 +2,7 @@
 title: "Hello Py: Python 程式設計"
 author: "Pyradise"
 date: "2018-05-14T08:16:53Z"
+tags: [Python]
 link: "https://bookdown.org/tonykuoyj/hello-py/"
 length_weight: "13.4%"
 pinned: false

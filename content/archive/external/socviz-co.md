@@ -2,6 +2,7 @@
 title: "Data Visualization"
 author: "Kieran Healy"
 date: ""
+tags: [Visualization]
 link: "https://socviz.co/"
 length_weight: "0%"
 cover: "https://socviz.co/assets/dv-cover-executive-b.jpg"

@@ -2,6 +2,7 @@
 title: "Advanced R"
 author: "Hadley Wickham"
 date: ""
+tags: [Advanced R]
 link: "https://adv-r.hadley.nz/"
 length_weight: "35.2%"
 cover: "https://adv-r.hadley.nz/cover.png"
