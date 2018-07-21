@@ -38,8 +38,9 @@ na_url = function(x) {
 }
 
 # normalize to [0, 1] and highlight high percentages
-normalize_toc_len = function(x) {
-  x[x >= quantile(x, .8, na.rm = TRUE)] = max(x, na.rm = TRUE)
+normalize_book_len = function(x) {
+  x = sqrt(x)
+  x[x >= quantile(x, .9, na.rm = TRUE)] = max(x, na.rm = TRUE)
   r = range(x, na.rm = TRUE)
   x = (x - r[1])/(r[2] - r[1])
   paste0(100 * round(x, 3), '%')
@@ -54,6 +55,11 @@ cover_list = list(
   'https://zuguang.de/circlize_book/book/' = 'https://zuguang.de/circlize_book/book/images/circlize_cover.jpg'
 )
 
+# the length of search_index.json indicates the length of the book
+book_length = function(url) {
+  x = httr::headers(httr::HEAD(paste0(url, 'search_index.json')))$`content-length`
+  if (length(x) == 0) 0 else as.numeric(x)
+}
 
 # Get books meta ----------------------------------------------------------
 
@@ -134,16 +140,11 @@ get_book_meta = function(url, date) {
   if (!is.null(repo)) repo = gsub('^/+|/+$', '', xml_attr(repo, 'content'))
   generator = xml_find(html, './/meta[@name="generator"]')
   generator = if (length(generator)) xml_attr(generator, "content") else NA
-  toc_len = if (grepl('gitbook', generator, ignore.case = TRUE)) {
-    length(xml_find(html, './/li[@class="chapter"]', TRUE))
-  } else if (length(toc <- xml_find(html, './/nav[@id="TOC"]'))) {
-    length(xml_find(toc, './/li', TRUE))
-  } else NA
 
   data_frame(
     url = url, title = title, authors = author, date = date, description = description,
     cover = if (is.null(cover)) NA else cover,
-    repo = if (is.null(repo)) NA else repo, toc_len = toc_len
+    repo = if (is.null(repo)) NA else repo, book_len = book_length(url)
   )
 }
 
@@ -178,8 +179,8 @@ books_metas = book_urls %>%
 # Cleaning published books ------------------------------------------------
 
 books_to_keep = books_metas %>%
-  # should have a substantial TOC (at least 9 items)
-  filter(toc_len >= 9) %>%
+  # should have substantial content (> 5000 bytes)
+  filter(book_len == 0 | book_len > 5000) %>%
   # remove possibly duplicated book by the same author (choose the latest)
   group_by(authors, title) %>%
   filter(is.na(date) | date == max(date)) %>%
@@ -189,7 +190,7 @@ books_to_keep = books_metas %>%
   filter(is.na(date) | date == max(date)) %>%
   ungroup() %>%
   # pencentiles of TOC lengths, which probably indicates the size of the book
-  mutate(toc_weight = normalize_toc_len(toc_len)) %>%
+  mutate(length_weight = normalize_book_len(book_len)) %>%
   # mark pinned url (to be displayed on homepage)
   mutate(pinned = tolower(url %in% readLines("home.txt")))
 
