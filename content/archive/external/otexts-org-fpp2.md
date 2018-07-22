@@ -6,7 +6,6 @@ tags: [Forecasting, Textbook]
 link: "https://otexts.org/fpp2/"
 length_weight: "100%"
 cover: "https://Otexts.org/fpp2/fpp2_cover.jpg"
-repo: "robjhyndman/fpp2"
 pinned: true
 ---
 
