@@ -15,3 +15,8 @@ https://m-clark.github.io/generalized-additive-models/
 https://m-clark.github.io/mixed-models-with-R/
 https://m-clark.github.io/sem/
 https://livebook.datascienceheroes.com/
+https://m-clark.github.io/introduction-to-machine-learning/
+https://m-clark.github.io/text-analysis-with-R/
+https://m-clark.github.io/data-processing-and-visualization/
+https://m-clark.github.io/Introduction-to-Rmarkdown/
+https://m-clark.github.io/clustered-data/

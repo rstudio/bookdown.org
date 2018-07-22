@@ -1,0 +1,13 @@
+---
+title: "Machine Learning"
+author: "Michael Clark https://m-clark.github.io"
+date: "2018-05-06"
+tags: [Machine Learning, Package, Python, Github]
+link: "https://m-clark.github.io/introduction-to-machine-learning/"
+length_weight: "15%"
+cover: "https://m-clark.github.io/introduction-to-machine-learning/img/nineteeneightyR.png"
+repo: "m-clark/introduction-to-machine-learning"
+pinned: false
+---
+
+This document provides an introduction to machine learning for applied researchers. While conceptual in nature, demonstrations are provided for several common machine learning approaches of a supervised nature. In addition, all the R examples, which utilize the caret package, are also provided in Python via scikit-learn. [...] Michael Clark https://m-clark.github.io  ...
