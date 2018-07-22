@@ -1,9 +1,9 @@
 ---
 title: "An Incomplete Solutions Guide to the NIST/SEMATECH e-Handbook of Statistical Methods"
 author: "Ray Hoobler"
-date: "2018-07-17T06:27:51Z"
+date: "2018-07-22T17:08:28Z"
 tags: [Guide, Statistical Methods, Tidyverse, ggplot2, Package, Exploratory Data Analysis]
-link: "https://bookdown.org/content/1530/"
+link: "https://bookdown.org/RayJamesHoobler/incompletesolutionsguide/"
 length_weight: "34%"
 repo: "RayJamesHoobler/Applied-Statistical-Techniques"
 pinned: false
