@@ -1,0 +1,13 @@
+language: r
+sudo: false
+cache: packages
+pandoc: false
+latex: false
+
+r_packages:
+  - xfun
+
+install: false
+
+script:
+  - Rscript R/create-md.R

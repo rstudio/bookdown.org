@@ -2,6 +2,8 @@ if (basename(getwd()) != 'R') setwd('R')
 
 xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
 
+if (Sys.getenv('TRAVIS_BRANCH') == 'master' && !interactive()) q('no')
+
 # Book listing ------------------------------------------------------------
 
 # get book from sitemap
