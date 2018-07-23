@@ -6,23 +6,31 @@ if (Sys.getenv('TRAVIS_BRANCH') == 'master' && !interactive()) q('no')
 
 # Book listing ------------------------------------------------------------
 
-# get book from sitemap
-book_list = xml2::as_list(read_xml("https://bookdown.org/sitemap.xml"))[[1]]
-book_urls = tibble(
-  url = map_chr(book_list, list("loc", 1)),
-  lastmod = map_chr(book_list, list("lastmod", 1)),
-  from = "bookdown.org") %>%
-  # and from external websites
-  bind_rows(
-    tibble(
-      url = grep(
-        '^https://bookdown[.]org', c(readLines("home.txt"), readLines("external.txt")),
-        value = TRUE, invert = TRUE
-      ),
-      lastmod = as.POSIXct(NA),
-      from = "external"
-    )
+book_urls = if (file.size('staging.txt') > 0) {
+  tibble(
+    url = readLines('staging.txt'),
+    lastmod = as.POSIXct(NA),
+    from = "external"
   )
+} else {
+  # get book from sitemap
+  book_list = xml2::as_list(read_xml("https://bookdown.org/sitemap.xml"))[[1]]
+  tibble(
+    url = map_chr(book_list, list("loc", 1)),
+    lastmod = map_chr(book_list, list("lastmod", 1)),
+    from = "bookdown.org") %>%
+    # and from external websites
+    bind_rows(
+      tibble(
+        url = grep(
+          '^https://bookdown[.]org', c(readLines("home.txt"), readLines("external.txt")),
+          value = TRUE, invert = TRUE
+        ),
+        lastmod = as.POSIXct(NA),
+        from = "external"
+      )
+    )
+}
 
 
 # helpers -----------------------------------------------------------------
