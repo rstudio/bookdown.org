@@ -82,4 +82,6 @@ If you don't want your book to be publicly listed on bookdown.org, you may eithe
 
 ![Make a book private on bookdown.org](https://user-images.githubusercontent.com/163582/43099998-9718029c-8e89-11e8-9abd-01934120d9dc.png)
 
+Books are also classified by [tags](/tags/) on this website. If you want your book to show up on a certain tag page, you need to make sure the tag appears in your book description (case-insensitive). To request a new tag to be added, you may edit the file [`R/tags.txt`](https://github.com/rstudio/bookdown.org/edit/master/R/tags.txt).
+
 We hope you will enjoy **bookdown** and find this website useful. Looking forward to your own awesome books!
