@@ -5,7 +5,7 @@
 {{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
 </div>
 
-<main class="full-width">
+<main class="single">
 {{ .Content }}
 
 {{ with .Params.link }}

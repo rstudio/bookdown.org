@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<main class="full-width {{ if .IsHome }}home{{ end }}">
+<main class="{{ if .IsHome }}home{{ end }}">
 
 {{if and (not .IsHome) (not (eq .Section "archive")) }}
 <h1>{{ .Title }}</h1>

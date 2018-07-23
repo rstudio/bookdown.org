@@ -3,12 +3,12 @@ body {
   margin: 0 auto 0;
   line-height: 1.5em;
 }
-.container, .menu ul, .footer, .full-width {
+.container, .menu ul, .footer, main {
   max-width: 1100px;
   margin: 0 auto 0;
 }
-.menu, .container, .footer, .full-width { padding: 0 1em 0; }
-.full-width {
+.menu, .container, .footer, main { padding: 0 1em 0; }
+main {
   display: block;
   padding: 1em;
 }
@@ -29,7 +29,7 @@ footer { background: #75aadb; }
 }
 .menu a, .article-meta a { color: #71a5d4; }
 .menu a:hover, .menu .active { background: #f8f8f8; }
-.menu, .article-meta, .post-nav { text-align: center; }
+.menu, .article-meta, .single h2 { text-align: center; }
 .menu ul, .terms-list { padding-left: 0; }
 .menu .left { float: left; }
 .menu .right { float: right; }
@@ -162,6 +162,7 @@ blockquote {
   height: 13.8em;
   width: 9em;
 }
+.single h2 { padding: 1em 0;}
 
 table {
   margin: 1em auto auto;
@@ -174,7 +175,7 @@ tr:nth-child(even) { background: #eee }
 
 /* responsive */
 @media (max-width: 900px) {
-  .container, main { display: block; }
+  .container { display: block; }
 }
 @media (max-width: 800px) {
   .menu .left, .menu .right { float: none; }
@@ -183,7 +184,7 @@ tr:nth-child(even) { background: #eee }
   .menu .left:first-child { display: inline-block; }
   li.optional { display: none; }
   body { padding: initial; }
-  .full-width { padding: 0 .5em 0; }
+  main { padding: 0 .5em 0; }
   .article-list { width: 100%; }
   .article-list h1 a { white-space: initial; }
 }
