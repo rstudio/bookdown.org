@@ -55,6 +55,7 @@ na_url = function(x) {
 normalize_book_len = function(x) {
   x = sqrt(x)
   x[x >= quantile(x, .9, na.rm = TRUE)] = max(x, na.rm = TRUE)
+  if (length(x) <= 1) return('0%')
   r = range(x, na.rm = TRUE)
   x = (x - r[1])/(r[2] - r[1])
   paste0(100 * round(x, 3), '%')
