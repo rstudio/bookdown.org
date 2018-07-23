@@ -5,7 +5,8 @@ xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
 xfun::pkg_load2(c('httr', 'whisker'))
 
 # exit if on Travis and not a pull request build
-if (Sys.getenv('TRAVIS') == 'true' && Sys.getenv('TRAVIS_PULL_REQUEST') == 'false') q('no')
+is_pr = Sys.getenv('TRAVIS_PULL_REQUEST') == 'false'
+if (Sys.getenv('TRAVIS') == 'true' && is_pr) q('no')
 
 # Book listing ------------------------------------------------------------
 
@@ -238,7 +239,9 @@ write_md_post = function(post_name, post_content, path = "../content/archive") {
 
 template = xfun::read_utf8("template.md")
 
-xfun::in_dir('../content/archive', unlink(c('internal/*.md', 'external/*.md')))
+if (!is_pr) {
+  xfun::in_dir('../content/archive', unlink(c('internal/*.md', 'external/*.md')))
+}
 
 books_to_keep %>%
   mutate(post_content = pmap_chr(., function(...) {
