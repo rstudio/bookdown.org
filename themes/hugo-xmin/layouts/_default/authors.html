@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+
+<main>
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+<div class="item-list">
+{{ range (.Site.RegularPages.GroupByParam "author") }}
+<section class="article-list">
+<h2>{{ .Key }}</h2>
+<ul>
+  {{ range .Pages }}
+  <li><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+</section>
+{{ end }}
+</div>
+</main>
+
+{{ partial "footer.html" . }}
