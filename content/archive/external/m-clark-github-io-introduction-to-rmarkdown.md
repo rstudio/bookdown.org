@@ -1,6 +1,6 @@
 ---
 title: "Introduction to R Markdown"
-author: "Michael Clark workshops"
+author: "Michael Clark"
 date: "2018-06-09"
 tags: [R Markdown]
 link: "https://m-clark.github.io/Introduction-to-Rmarkdown/"

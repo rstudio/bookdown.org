@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning"
-author: "Michael Clark https://m-clark.github.io"
+author: "Michael Clark"
 date: "2018-05-06"
 tags: [Machine Learning, Package, Python, Github]
 link: "https://m-clark.github.io/introduction-to-machine-learning/"

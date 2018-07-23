@@ -127,7 +127,6 @@ get_book_meta = function(url, date) {
   if (length(author) == 0) {
     if (length(author <- xml_find(html, './/*[@class="author"]'))) {
       author = xml_text(author)
-      author = gsub('https://.+/', '', author)  # https://m-clark.github.io/generalized-additive-models/
     } else {
       author = unlist(strsplit(url, '/'))  # https://bookdown.org/user/book
       author = author[length(author) - 1]
@@ -139,6 +138,7 @@ get_book_meta = function(url, date) {
     if (title == 'A Minimal Book Example' && author == 'Yihui Xie' && !grepl('/yihui/', url))
       return()
   }
+  author = gsub('https?://.+', '', author)  # https://m-clark.github.io/generalized-additive-models/
   author = trimws(gsub('\\s+', ' ', author))
 
   if (is.na(date)) {
