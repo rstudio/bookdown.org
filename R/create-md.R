@@ -1,5 +1,6 @@
 if (basename(getwd()) != 'R') setwd('R')
 
+if (!requireNamespace('xfun')) install.packages('xfun')
 xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
 
 if (Sys.getenv('TRAVIS_BRANCH') == 'master' && !interactive()) q('no')

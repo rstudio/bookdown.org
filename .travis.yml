@@ -4,9 +4,6 @@ cache: packages
 pandoc: false
 latex: false
 
-r_packages:
-  - xfun
-
 install:
   - true
 
