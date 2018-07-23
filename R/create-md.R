@@ -5,7 +5,7 @@ xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
 xfun::pkg_load2(c('httr', 'whisker'))
 
 # exit if on Travis and not a pull request build
-is_pr = Sys.getenv('TRAVIS_PULL_REQUEST') != ''
+is_pr = Sys.getenv('TRAVIS_PULL_REQUEST') != 'false'
 if (Sys.getenv('TRAVIS') == 'true' && !is_pr) q('no')
 
 # Book listing ------------------------------------------------------------
