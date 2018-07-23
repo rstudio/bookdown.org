@@ -7,7 +7,8 @@ latex: false
 r_packages:
   - xfun
 
-install: false
+install:
+  - true
 
 script:
   - Rscript R/create-md.R
