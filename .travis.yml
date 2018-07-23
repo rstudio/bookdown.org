@@ -9,3 +9,4 @@ install:
 
 script:
   - Rscript R/create-md.R
+  - git diff

@@ -3,7 +3,8 @@ if (basename(getwd()) != 'R') setwd('R')
 if (!requireNamespace('xfun')) install.packages('xfun')
 xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
 
-if (Sys.getenv('TRAVIS_BRANCH') == 'master' && !interactive()) q('no')
+# exit if on Travis and not a pull request build
+if (Sys.getenv('TRAVIS') == 'true' && Sys.getenv('TRAVIS_PULL_REQUEST') == 'false') q('no')
 
 # Book listing ------------------------------------------------------------
 
