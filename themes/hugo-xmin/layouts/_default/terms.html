@@ -9,10 +9,64 @@
     <a href="{{ (print "/" $.Data.Plural "/" $key | urlize) | relURL }}">
       {{ $key }}
     </a>
-    ({{ len $value }})
+    <span>({{ len $value }})</span>
   </li>
   {{ end }}
 </ul>
+
+<svg id="tag-cloud" width="700" height="700" style="margin:auto;display:block;" font-family="serif" font-size="12" color="white" text-anchor="middle"></svg>
+<script src="//d3js.org/d3.v4.min.js"></script>
+<script>
+(function() {
+
+  var term, terms = document.querySelectorAll('.terms-list > li'), data = [];
+  for (var i = 0; i < terms.length; i++) {
+    term = terms[i];
+    data[i] = {
+      tag: term.firstElementChild.innerText.replace(/^\s+|\s+$/g, ''),
+      href: term.firstElementChild.href,
+      value: +term.lastElementChild.innerText.replace(/[^0-9]/g, '')
+    }
+  }
+
+  var diameter = 700;
+
+  var pack = d3.pack()
+    .size([diameter, diameter])
+    .padding(1.5);
+
+  var svg = d3.select("#tag-cloud");
+
+  var root = d3.hierarchy({children: data})
+    .sum(function(d) { return d.value; });
+
+  var node = svg.selectAll(".node")
+    .data(pack(root).leaves())
+    .enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+
+  node.append("circle")
+      .attr("r", function(d) { return d.r; })
+      .style("fill", 'steelblue');
+
+  node.append("text")
+    .selectAll("tspan")
+    .data(function(d) { return [{text: d.data.tag, href: d.data.href, size: d.r}]; })
+    .enter().append("tspan")
+      .attr("x", 0)
+      .attr("y", 3)
+      .append("a")
+      .attr("xlink:href", function(d) { return d.href; })
+      .style("font", function(d) { return d.size / 3 + "px serif"; })
+      .style("cursor", "pointer")
+      .text(function(d) { return d.text; });
+
+  node.append("title")
+      .text(function(d) { return d.data.tag; });
+
+})();
+</script>
 </main>
 
 {{ partial "footer.html" . }}
