@@ -5,7 +5,7 @@ date: ""
 tags: [Data Science]
 link: "http://r4ds.had.co.nz/"
 length_weight: "100%"
-cover: "http://r4ds.had.co.nz/cover.png"
+cover: "https://user-images.githubusercontent.com/163582/43116490-922feb70-8ecd-11e8-92bf-4eb2d483c1ef.png"
 repo: "hadley/r4ds"
 pinned: true
 ---
