@@ -92,7 +92,7 @@ match_tags = function(text) {
 # Get books meta ----------------------------------------------------------
 
 # get metadata for a book from html content
-get_book_meta = function(url, date) {
+get_book_meta = function(url, date = NA) {
   # try to read a URL for at most three times
   i = 1
   while (i < 4) {
