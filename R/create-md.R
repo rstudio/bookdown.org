@@ -188,15 +188,13 @@ books_metas = book_urls %>%
     # pmap strips dates so they need to be character
     # https://github.com/tidyverse/purrr/issues/358
     date = .y
-    message("processing ", url, " ### ", appendLF = FALSE)
     if (file.exists(cache_rds)) {
       book_metas = readRDS(cache_rds)
       if (!is.na(date) && identical((book_meta <- book_metas[[url]])[['date']], date)) {
-        message("(from cache)")
         return(if (!is.null(book_meta[['title']])) book_meta)
       }
     } else book_metas = list()
-    message("(from url)")
+    message("processing ", url)
     book_meta = get_book_meta(url, date)
     book_metas[[url]] = if (is.null(book_meta)) list(date = date) else book_meta
     saveRDS(book_metas, cache_rds)
