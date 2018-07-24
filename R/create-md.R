@@ -241,7 +241,7 @@ write_md_post = function(post_name, post_content, path = "../content/archive") {
 
 template = xfun::read_utf8("template.md")
 
-if (!is_pr) {
+if (Sys.getenv('TRAVIS') == '') {
   xfun::in_dir('../content/archive', unlink(c('internal/*.md', 'external/*.md')))
 }
 
