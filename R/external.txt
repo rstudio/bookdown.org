@@ -20,4 +20,4 @@ https://m-clark.github.io/text-analysis-with-R/
 https://m-clark.github.io/data-processing-and-visualization/
 https://m-clark.github.io/Introduction-to-Rmarkdown/
 https://m-clark.github.io/clustered-data/
-http://wangcc.me/LSHTMlearningnote/
+https://wangcc.me/LSHTMlearningnote/
