@@ -3,8 +3,9 @@ title: "醫學統計學"
 author: "王 超辰 Chaochen Wang"
 date: ""
 tags: [醫學]
-link: "http://wangcc.me/LSHTMlearningnote/"
-length_weight: "0%"
+link: "https://wangcc.me/LSHTMlearningnote/"
+length_weight: "100%"
+cover: "https://wangcc.me/LSHTMlearningnote/img/cover.jpg"
 repo: "winterwang/LSHTMlearningnote"
 pinned: false
 ---
