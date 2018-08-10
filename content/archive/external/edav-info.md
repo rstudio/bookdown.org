@@ -4,7 +4,7 @@ author: "Zach Bogart, Joyce Robbins"
 date: ""
 tags: [Course]
 link: "https://edav.info/"
-length_weight: "12.7%"
+length_weight: "13.2%"
 repo: "jtr13/EDAV"
 pinned: false
 ---

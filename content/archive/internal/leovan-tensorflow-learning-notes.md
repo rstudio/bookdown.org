@@ -1,10 +1,10 @@
 ---
 title: "TensorFlow 学习笔记"
 author: "Leo Van | 范叶亮"
-date: "2018-07-25T11:54:49Z"
+date: "2018-08-08T02:48:59Z"
 tags: [笔记]
 link: "https://bookdown.org/leovan/TensorFlow-Learning-Notes/"
-length_weight: "13.1%"
+length_weight: "24.6%"
 repo: "leovan/TensorFlow-Learning-Notes"
 pinned: false
 ---

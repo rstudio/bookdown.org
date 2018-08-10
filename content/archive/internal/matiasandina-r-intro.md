@@ -1,9 +1,9 @@
 ---
 title: "Introducción a estadística con R"
 author: "Matias Andina"
-date: "2018-07-27T01:10:02Z"
+date: "2018-08-09T01:55:41Z"
 link: "https://bookdown.org/matiasandina/R-intro/"
-length_weight: "17.6%"
+length_weight: "23.1%"
 repo: "matiasandina/R-intro"
 pinned: false
 ---

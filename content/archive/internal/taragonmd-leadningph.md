@@ -1,10 +1,10 @@
 ---
 title: "Leading Population Health"
 author: "Tomás J. Aragón"
-date: "2018-07-18T15:25:43Z"
+date: "2018-08-07T20:50:08Z"
 tags: [Population Health, Medicine, Epidemiology]
 link: "https://bookdown.org/taragonmd/leadningph/"
-length_weight: "8.5%"
+length_weight: "11.9%"
 pinned: false
 ---
 
