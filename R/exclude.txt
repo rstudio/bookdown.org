@@ -3,3 +3,7 @@ https://bookdown.org/yihui/bookdown-demo3/
 https://bookdown.org/home/
 https://bookdown.org/Jessy/china/
 https://bookdown.org/Jessy/china2/
+https://bookdown.org/xiangyun/geospatial/
+https://bookdown.org/xiangyun/docdowm/
+https://bookdown.org/xiangyun/pandoc4everything/
+https://bookdown.org/xiangyun/notes-book/
