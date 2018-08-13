@@ -1,3 +1,4 @@
+https://bookdown.org/robinlovelace/geocompr/
 https://bookdown.org/yihui/bookdown-demo2/
 https://bookdown.org/yihui/bookdown-demo3/
 https://bookdown.org/home/
