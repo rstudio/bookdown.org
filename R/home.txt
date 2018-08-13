@@ -12,3 +12,4 @@ https://serialmentor.com/dataviz/
 https://www.datascienceatthecommandline.com/
 https://www.gastonsanchez.com/r4strings/
 https://socviz.co/
+https://geocompr.robinlovelace.net/
