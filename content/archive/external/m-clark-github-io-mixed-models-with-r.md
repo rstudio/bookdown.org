@@ -1,7 +1,7 @@
 ---
 title: "Mixed Models in R"
 author: "Michael Clark"
-date: "2018-08-06"
+date: "2018-08-14"
 tags: [Mixed Models, Models, Package]
 link: "https://m-clark.github.io/mixed-models-with-R/"
 length_weight: "13.4%"
