@@ -2,7 +2,6 @@ https://timtrice.github.io/backtesting-strategies/
 https://www.masteringdfsanalytics.com/
 https://b-rodrigues.github.io/fput/
 https://kazutan.github.io/ggplot2-gyakubiki-book/
-https://moderndive.com/
 https://dzchilds.github.io/eda-for-bio/
 https://info201.github.io/
 https://zuguang.de/circlize_book/book/
