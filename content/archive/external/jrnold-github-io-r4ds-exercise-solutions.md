@@ -1,7 +1,7 @@
 ---
 title: "R for Data Science Solutions"
 author: "Jeffrey B. Arnold"
-date: ""
+date: "2018-08-17"
 tags: [Data Science, Tidy]
 link: "https://jrnold.github.io/r4ds-exercise-solutions/"
 length_weight: "23.1%"

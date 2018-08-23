@@ -1,12 +1,12 @@
 ---
 title: "edav.info/"
 author: "Zach Bogart, Joyce Robbins"
-date: ""
-tags: [Course]
+date: "2018-08-15"
+tags: [Exploratory Data Analysis, Visualization, Course, Textbook]
 link: "https://edav.info/"
-length_weight: "13.2%"
+length_weight: "13.1%"
 repo: "jtr13/EDAV"
 pinned: false
 ---
 
-Everything you need to do well in EDAV [...] Students often want to know how they can excel in a course. The standard answer given is usually something like: Just read the syllabus, focus on the topics discussed therein, and be able to understand their nuances. — Typical Prof This answer is often given after a quick sigh and delivered in a surprisingly condescending tone. We don’t like this answer. Our answer is to provide you with edav.info/. This site is one of the best ways to help you with this course. We hope that you find the confidence to dive in and explore this resource and its ...
+This book is a collaborative collection of resources designed to help students succeed in GR5702 Exploratory Data Analysis and Visualization, a course offered at Columbia University. While the course lectures and textbook focus on theoretical issues, this book, in contrast, provides coding tips and examples to assist students as they create their own analyses and visualizations. It is our hope that students will contribute to edav.info and it will grow with the course.

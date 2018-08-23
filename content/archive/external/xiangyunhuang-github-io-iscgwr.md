@@ -4,7 +4,7 @@ author: "黄湘云"
 date: ""
 tags: [Statistical Computing, 数据分析, R Markdown]
 link: "https://xiangyunhuang.github.io/ISCGwR/"
-length_weight: "11.2%"
+length_weight: "11.3%"
 repo: "XiangyunHuang/ISCGwR"
 pinned: false
 ---

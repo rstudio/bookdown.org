@@ -1,7 +1,7 @@
 ---
 title: "Advanced R Solutions"
 author: "Malte Grosser, Henning Bumann, Peter Hurford & Robert Krzyzanowski"
-date: "2018-08-13T21:00:11Z"
+date: "2018-08-21T09:42:37Z"
 tags: [Advanced R, Github]
 link: "https://bookdown.org/Tazinho/Advanced-R-Solutions/"
 length_weight: "100%"

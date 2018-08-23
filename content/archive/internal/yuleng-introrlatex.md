@@ -1,10 +1,10 @@
 ---
 title: "An Introduction to R and LaTeX"
 author: "Yuleng Zeng"
-date: "2018-08-14T19:09:26Z"
+date: "2018-08-22T17:55:25Z"
 tags: [Course]
 link: "https://bookdown.org/Yuleng/introrlatex/"
-length_weight: "10%"
+length_weight: "10.1%"
 repo: "rstudio/yuleng"
 pinned: false
 ---
