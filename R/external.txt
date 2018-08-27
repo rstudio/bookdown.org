@@ -26,3 +26,4 @@ https://xiangyunhuang.github.io/ISCGwR/
 https://jrnold.github.io/r4ds-exercise-solutions/
 https://vcris.dhr.virginia.gov/vcris/help/
 https://beta.rstats4ag.org/
+https://rkabacoff.github.io/datavis/
