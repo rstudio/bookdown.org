@@ -1,1 +1,1 @@
-http://rkabacoff.github.io/datavis
+https://rkabacoff.github.io/datavis
