@@ -1,10 +1,10 @@
 ---
 title: "Basic Social Justice Orientations scale testing"
 author: "Cristóbal Moya"
-date: "2018-08-22T06:32:33Z"
+date: "2018-08-24T05:50:49Z"
 tags: [Package, Statistics]
 link: "https://bookdown.org/cristobalmoya/reproducibility_bsjo/"
-length_weight: "13.8%"
+length_weight: "14.8%"
 pinned: false
 ---
 
