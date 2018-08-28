@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Finance. Exercises"
 author: "A. Blasco & J. Ribal"
-date: "2018-08-27T16:25:36Z"
+date: "2018-08-28T15:04:51Z"
 tags: [Course]
 link: "https://bookdown.org/JavierRibal/IF_exercises/"
-length_weight: "27.6%"
+length_weight: "27.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

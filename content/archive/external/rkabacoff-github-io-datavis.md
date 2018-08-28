@@ -1,10 +1,11 @@
 ---
 title: "Data Visualization with R"
 author: "Rob Kabacoff"
-date: "2018-08-27"
+date: "2018-08-28"
 tags: [Visualization, Guide, Multivariate, Geographic, Models, ggplot2, Package]
 link: "https://rkabacoff.github.io/datavis/"
 length_weight: "16.8%"
+cover: "https://rkabacoff.github.io/datavis/img/cover.png"
 repo: "rkabacoff/datavis"
 pinned: false
 ---

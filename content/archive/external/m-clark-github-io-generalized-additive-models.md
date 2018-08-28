@@ -1,7 +1,7 @@
 ---
 title: "Generalized Additive Models"
 author: "Michael Clark"
-date: "2018-07-21"
+date: "2018-08-27"
 tags: [Generalized Additive Model, Models, Package]
 link: "https://m-clark.github.io/generalized-additive-models/"
 length_weight: "14.3%"
