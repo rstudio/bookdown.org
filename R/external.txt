@@ -29,3 +29,4 @@ https://beta.rstats4ag.org/
 https://rkabacoff.github.io/datavis/
 https://myrbookfr.netlify.com/
 https://myrbooksp.netlify.com/
+https://rafalab.github.io/dsbook/
