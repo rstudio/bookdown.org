@@ -1,7 +1,7 @@
 ---
 title: "Graphical & Latent Variable Modeling"
 author: "Michael Clark"
-date: "2018-07-28"
+date: "2018-09-07"
 tags: [Package, Models, Bayesian, Network]
 link: "https://m-clark.github.io/sem/"
 length_weight: "25.1%"

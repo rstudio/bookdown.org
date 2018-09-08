@@ -1,10 +1,10 @@
 ---
 title: "Population Health Data Science with R"
 author: "Tomás J. Aragón"
-date: "2018-08-22T06:03:15Z"
+date: "2018-09-05T05:52:17Z"
 tags: [Population Health, Data Science, Statistical Computing]
 link: "https://bookdown.org/taragonmd/phds/"
-length_weight: "25.6%"
+length_weight: "26.2%"
 pinned: false
 ---
 

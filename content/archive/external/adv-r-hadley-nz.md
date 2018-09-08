@@ -4,7 +4,7 @@ author: "Hadley Wickham"
 date: ""
 tags: [Advanced R, R Programming]
 link: "https://adv-r.hadley.nz/"
-length_weight: "35.2%"
+length_weight: "35.5%"
 cover: "https://adv-r.hadley.nz/cover.png"
 repo: "hadley/adv-r"
 pinned: true
