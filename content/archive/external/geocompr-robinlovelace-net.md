@@ -1,7 +1,7 @@
 ---
 title: "Geocomputation with R"
 author: "Robin Lovelace, Jakub Nowosad, Jannes Muenchow"
-date: "2018-09-07"
+date: "2018-09-08"
 tags: [Geographic, Data Analysis, Visualization]
 link: "https://geocompr.robinlovelace.net/"
 length_weight: "30.6%"
