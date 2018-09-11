@@ -30,3 +30,4 @@ https://myrbookfr.netlify.com/
 https://myrbooksp.netlify.com/
 https://rafalab.github.io/dsbook/
 https://carrknight.github.io/poseidon/tutorial/
+https://twinetbook.john-coene.com/
