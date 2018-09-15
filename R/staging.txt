@@ -1,0 +1,24 @@
+---
+title: "Flexible Imputation of Missing Data. Second Edition"
+author: "Stef van Buuren"
+date: "2018-09-15"
+tags: [Github]
+link: "https://stefvanbuuren.name/fimd"
+cover: "https://stefvanbuuren.name/fimd/fig/cover_border.png"
+repo: "stefvanbuuren/fimdbook"
+---
+
+Missing data pose challenges to real-life data analysis. Simple ad-hoc fixes, like deletion or mean imputation, only work under highly restrictive conditions, which are often not met in practice. Multiple imputation replaces each missing value by multiple plausible values. The variability between these replacements reflects our ignorance of the true (but missing) value. Each of the completed data set is then analyzed by standard methods, and the results are pooled to obtain unbiased estimates with correct confidence intervals. Multiple imputation is a general approach that also inspires novel solutions to old problems by reformulating the task at hand as a missing-data problem.
+
+This is the second edition of a popular book on multiple imputation, focused on explaining the application of methods through detailed worked examples using the MICE package as developed by the author. This new edition incorporates the recent developments in this fast-moving field.
+
+What’s new:
+
+-	Makes new methods for multilevel data imputation accessible to practitioners;
+-	Explores a novel approach for answering *what-if* questions by individual causal effects;
+-	Presents efficient workflows building on recent advances in R;
+-	Highlights theoretical advances on convergence, compatibility, misspecification and stability of the MICE algorithm;
+-	Builds insight into imputation methods through strong and consistent visuals;
+-	All examples are tested using MICE 3.0.
+
+This class-tested book avoids mathematical and technical details as much as possible: formulas are accompanied by verbal statements that explain the formula in accessible terms. The book sharpens the reader’s intuition on how to think about missing data, and provides all the tools needed to execute a well-grounded quantitative analysis in the presence of missing data.
