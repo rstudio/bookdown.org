@@ -1,10 +1,10 @@
 ---
 title: "Tidy Portfoliomanagement in R"
 author: "Sebastian Stöckl"
-date: "2018-09-13T16:32:37Z"
+date: "2018-09-21T00:15:34Z"
 tags: [Tidy]
 link: "https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/"
-length_weight: "20.3%"
+length_weight: "23.6%"
 pinned: false
 ---
 

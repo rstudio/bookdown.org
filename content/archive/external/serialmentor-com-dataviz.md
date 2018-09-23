@@ -4,7 +4,7 @@ author: "Claus O. Wilke"
 date: ""
 tags: [Visualization, Guide]
 link: "https://serialmentor.com/dataviz/"
-length_weight: "23.5%"
+length_weight: "24.7%"
 cover: "https://images-na.ssl-images-amazon.com/images/I/511%2BvIP1-aL._SX331_BO1,204,203,200_.jpg"
 repo: "clauswilke/dataviz"
 pinned: true

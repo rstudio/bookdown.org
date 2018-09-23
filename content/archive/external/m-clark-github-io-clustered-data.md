@@ -1,11 +1,11 @@
 ---
 title: "Clustered Data"
-author: "Michael Clark"
-date: "2018-07-18"
+author: "Michael Clark m-clark.github.io"
+date: "2018-09-16"
 link: "https://m-clark.github.io/clustered-data/"
-length_weight: "9.9%"
+length_weight: "10%"
 repo: "m-clark/clustered-data"
 pinned: false
 ---
 
-This document provides a brief comparison of various approaches to dealing with clustered data situations. ...
+This document provides a brief comparison of various approaches to dealing with clustered data situations. [...]  ...
