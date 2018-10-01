@@ -1,7 +1,7 @@
 ---
 title: "Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA"
 author: "Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue"
-date: "2018-09-21"
+date: "2018-09-26"
 tags: [Tutorial, Models]
 link: "https://becarioprecario.bitbucket.io/spde-gitbook/"
 length_weight: "0%"
