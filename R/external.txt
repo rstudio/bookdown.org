@@ -33,3 +33,4 @@ https://carrknight.github.io/poseidon/tutorial/
 https://twinetbook.john-coene.com/
 https://nacnudus.github.io/spreadsheet-munging-strategies/
 https://becarioprecario.bitbucket.io/spde-gitbook/
+https://jonathanweisberg.org/vip/
