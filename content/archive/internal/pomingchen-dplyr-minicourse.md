@@ -1,10 +1,10 @@
 ---
 title: "R_Dplyr_minicourse"
 author: "陳柏銘PoMingChen"
-date: "2018-05-03T11:59:55Z"
+date: "2018-10-12T16:23:49Z"
 tags: [Course]
 link: "https://bookdown.org/PoMingChen/Dplyr_minicourse/"
-length_weight: "10.7%"
+length_weight: "12.9%"
 pinned: false
 ---
 
