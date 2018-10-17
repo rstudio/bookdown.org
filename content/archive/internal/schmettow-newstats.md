@@ -1,9 +1,9 @@
 ---
 title: "New statistics for the design researcher"
 author: "Martin Schmettow"
-date: "2018-04-07T14:05:23Z"
+date: "2018-10-16T17:49:34Z"
 tags: [Statistics, Bayesian]
-link: "https://bookdown.org/schmettow/new_statistics_for_the_design_researcher/"
+link: "https://bookdown.org/schmettow/NewStats/"
 length_weight: "100%"
 repo: "schmettow/NewStats"
 pinned: false

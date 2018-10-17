@@ -1,10 +1,10 @@
 ---
 title: "Meta-Workflow"
 author: "Miao YU"
-date: "2018-07-04T20:12:23Z"
+date: "2018-10-15T22:30:26Z"
 tags: [Metabolomics, Data Analysis, Github]
 link: "https://bookdown.org/yufree/Metabolomics/"
-length_weight: "19.2%"
+length_weight: "20.3%"
 repo: "yufree/metaworkflow"
 pinned: false
 ---

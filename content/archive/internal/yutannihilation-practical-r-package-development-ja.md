@@ -1,10 +1,10 @@
 ---
 title: "Practical R Package Development (Japanese)"
 author: "Hiroaki Yutani"
-date: "2018-10-10T11:22:02Z"
+date: "2018-10-13T07:24:37Z"
 tags: [Package]
 link: "https://bookdown.org/yutannihilation/practical-r-package-development-ja/"
-length_weight: "8.8%"
+length_weight: "9.6%"
 pinned: false
 ---
 

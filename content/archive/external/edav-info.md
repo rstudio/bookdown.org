@@ -1,10 +1,11 @@
 ---
 title: "edav.info/"
 author: "Zach Bogart, Joyce Robbins"
-date: "2018-10-12"
+date: "2018-10-15"
 tags: [Exploratory Data Analysis, Visualization, Course, Textbook]
 link: "https://edav.info/"
-length_weight: "13.9%"
+length_weight: "14.1%"
+cover: "https://edav.info/images/edav_link_logo.png"
 repo: "jtr13/EDAV"
 pinned: false
 ---

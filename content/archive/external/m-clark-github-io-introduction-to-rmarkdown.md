@@ -1,10 +1,10 @@
 ---
 title: "Introduction to R Markdown"
-author: "Michael Clark m-clark.github.io"
-date: "2018-09-16"
+author: "Michael Clark"
+date: "2018-10-15"
 tags: [R Markdown]
 link: "https://m-clark.github.io/Introduction-to-Rmarkdown/"
-length_weight: "11.8%"
+length_weight: "11.9%"
 cover: "https://m-clark.github.io/Introduction-to-Rmarkdown/img/nineteeneightyR.png"
 repo: "m-clark/Introduction-to-Rmarkdown"
 pinned: false

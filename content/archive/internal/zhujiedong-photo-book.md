@@ -1,8 +1,8 @@
 ---
 title: "R 语言分析 LI-6400 和 LI-6800 光合仪的数据"
-author: "祝介东"
-date: "2018-09-19T03:39:49Z"
-link: "https://bookdown.org/zhujiedong/_book2/"
+author: "祝介东 北京力高泰科技有限公司"
+date: "2018-10-15T11:13:40Z"
+link: "https://bookdown.org/zhujiedong/photo_book/"
 length_weight: "21.3%"
 repo: "zhujiedong/R_analysis_LI-6400_LI_6800"
 pinned: false
