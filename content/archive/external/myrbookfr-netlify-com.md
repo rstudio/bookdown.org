@@ -1,10 +1,10 @@
 ---
 title: "Se former au logiciel R : initiation et perfectionnement"
 author: "François Rebaudo"
-date: "2018-09-28"
+date: "2018-10-19"
 tags: [Guide, Github]
 link: "https://myrbookfr.netlify.com/"
-length_weight: "31.3%"
+length_weight: "31.6%"
 cover: "https://myrbookfr.netlify.com/myFigures/cover.png"
 repo: "frareb/myRBook_FR"
 pinned: false
