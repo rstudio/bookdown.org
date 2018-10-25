@@ -63,7 +63,6 @@ normalize_book_len = function(x) {
 
 # alternative book covers
 cover_list = list(
-  'http://r4ds.had.co.nz/' = 'https://user-images.githubusercontent.com/163582/43116490-922feb70-8ecd-11e8-92bf-4eb2d483c1ef.png',
   'https://www.gastonsanchez.com/r4strings/' = 'https://www.gastonsanchez.com/r4strings/images/cover.png',
   'https://www.datascienceatthecommandline.com/' = 'https://www.datascienceatthecommandline.com/images/cover.png',
   'https://serialmentor.com/dataviz/' = 'https://images-na.ssl-images-amazon.com/images/I/511%2BvIP1-aL._SX331_BO1,204,203,200_.jpg',
