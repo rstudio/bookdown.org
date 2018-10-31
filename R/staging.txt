@@ -1,1 +1,1 @@
-https://rubenfcasal.github.io/bookdown_intro
+https://rubenfcasal.github.io/bookdown_intro/
