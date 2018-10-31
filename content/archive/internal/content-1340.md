@@ -1,10 +1,10 @@
 ---
 title: "Marketing department KULeuven: R tutorial"
 author: "content"
-date: "2018-06-15T15:27:01Z"
+date: "2018-10-31T08:08:09Z"
 tags: [Market, Tutorial]
 link: "https://bookdown.org/content/1340/"
-length_weight: "25.3%"
+length_weight: "26.4%"
 pinned: false
 ---
 

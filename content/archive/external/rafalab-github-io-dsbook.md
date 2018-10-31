@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Data Science"
 author: "Rafael A. Irizarry"
-date: "2018-10-24"
+date: "2018-10-29"
 tags: [Data Science, Data Analysis, Machine Learning, R Programming, Visualization, ggplot2, Unix, Github, R Markdown]
 link: "https://rafalab.github.io/dsbook/"
-length_weight: "100%"
+length_weight: "42.7%"
 pinned: false
 ---
 
