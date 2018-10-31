@@ -35,3 +35,4 @@ https://nacnudus.github.io/spreadsheet-munging-strategies/
 https://becarioprecario.bitbucket.io/spde-gitbook/
 https://jonathanweisberg.org/vip/
 https://advanced-r-solutions.rbind.io/
+https://rubenfcasal.github.io/bookdown_intro/
