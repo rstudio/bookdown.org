@@ -139,6 +139,7 @@ get_book_meta = function(url, date = NA) {
       return()
   }
   author = gsub('https?://.+', '', author)  # https://m-clark.github.io/generalized-additive-models/
+  author = gsub('copyright [0-9]+', '', author, ignore.case = TRUE)  # https://thinkstats.org/
   author = trimws(gsub('\\s+', ' ', author))
 
   if (is.na(date)) {
