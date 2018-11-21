@@ -1,10 +1,10 @@
 ---
 title: "Vehicular emissions inventory with VEIN"
 author: "Sergio Ibarra-Espinosa"
-date: "2018-10-25T14:42:34Z"
+date: "2018-11-15T02:19:34Z"
 tags: [Package]
 link: "https://bookdown.org/zergioibarra/veinbook/"
-length_weight: "33%"
+length_weight: "33.8%"
 repo: "ibarraespinosa/veinbook"
 pinned: false
 ---

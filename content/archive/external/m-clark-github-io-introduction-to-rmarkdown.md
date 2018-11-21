@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R Markdown"
 author: "Michael Clark"
-date: "2018-10-15"
+date: "2018-11-10"
 tags: [R Markdown]
 link: "https://m-clark.github.io/Introduction-to-Rmarkdown/"
 length_weight: "11.9%"

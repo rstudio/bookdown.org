@@ -1,7 +1,7 @@
 ---
 title: "The twinetverse"
 author: "John Coene"
-date: "2018-08-16"
+date: "2018-11-18"
 tags: [Guide, Network, Package, Github]
 link: "https://twinetbook.john-coene.com/"
 length_weight: "9.5%"
