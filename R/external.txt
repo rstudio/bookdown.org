@@ -37,3 +37,4 @@ https://jonathanweisberg.org/vip/
 https://advanced-r-solutions.rbind.io/
 https://rubenfcasal.github.io/bookdown_intro/
 https://thinkstats.org/
+https://b-rodrigues.github.io/modern_R/
