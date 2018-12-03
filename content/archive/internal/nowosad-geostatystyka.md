@@ -1,10 +1,10 @@
 ---
 title: "Geostatystyka w R"
 author: "Jakub Nowosad"
-date: "2018-11-28T12:23:05Z"
+date: "2018-12-01T18:33:35Z"
 tags: [Statistics]
 link: "https://bookdown.org/nowosad/Geostatystyka/"
-length_weight: "26.9%"
+length_weight: "27%"
 cover: "https://bookdown.org/nowosad/Geostatystyka/Rfigs/book_cover2.png"
 repo: "nowosad/geostat_book"
 pinned: false

@@ -1,10 +1,10 @@
 ---
 title: "Advanced R Solutions"
 author: "Malte Grosser & Henning Bumann"
-date: "2018-11-28"
+date: "2018-12-02"
 tags: [Advanced R, Github]
 link: "https://advanced-r-solutions.rbind.io/"
-length_weight: "0%"
+length_weight: "28%"
 cover: "https://advanced-r-solutions.rbind.io/images/advrs_cover.png"
 repo: "Tazinho/Advanced-R-Solutions"
 pinned: false
