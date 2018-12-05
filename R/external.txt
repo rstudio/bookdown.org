@@ -24,7 +24,7 @@ https://cookdown.ellisvalentiner.com/
 https://xiangyunhuang.github.io/ISCGwR/
 https://jrnold.github.io/r4ds-exercise-solutions/
 https://vcris.dhr.virginia.gov/vcris/help/
-https://beta.rstats4ag.org/
+https://rstats4ag.org/
 https://rkabacoff.github.io/datavis/
 https://myrbookfr.netlify.com/
 https://myrbooksp.netlify.com/
