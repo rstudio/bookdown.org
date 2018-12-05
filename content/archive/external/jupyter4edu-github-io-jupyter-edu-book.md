@@ -1,10 +1,10 @@
 ---
 title: "Teaching and Learning with Jupyter"
 author: "Lorena A. Barba, Lecia J. Barker, Douglas S. Blank, Jed Brown, Allen B. Downey, Timothy George, Lindsey J. Heagy, Kyle T. Mandli, Jason K. Moore, David Lippert, Kyle E. Niemeyer, Ryan R. Watkins, Richard H. West, Elizabeth Wickes, Carol Willing, and Michael Zingale"
-date: "2018-12-03"
+date: "2018-12-05"
 tags: [Data Analysis, Course]
 link: "https://jupyter4edu.github.io/jupyter-edu-book/"
-length_weight: "18.8%"
+length_weight: "19%"
 repo: "jupyter4edu/jupyter-edu-book"
 pinned: false
 ---

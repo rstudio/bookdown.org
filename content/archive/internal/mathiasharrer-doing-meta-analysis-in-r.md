@@ -1,7 +1,7 @@
 ---
 title: "Doing Meta Analysis in R"
 author: "Mathias Harrer, B.Sc. & Dr. habil. David Ebert"
-date: "2018-12-03T19:25:57Z"
+date: "2018-12-04T21:08:56Z"
 tags: [Guide, Meta-Analysis, Psychology, Statistics]
 link: "https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/"
 length_weight: "32.5%"

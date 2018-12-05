@@ -1,7 +1,7 @@
 ---
 title: "Sosyal Bilimler Arastirmalari icin R"
 author: "Emre Toros"
-date: "2018-11-09T17:07:15Z"
+date: "2018-12-05T11:36:00Z"
 link: "https://bookdown.org/emretoros/R_kitabi/"
 length_weight: "13.6%"
 pinned: false
