@@ -1,11 +1,11 @@
 ---
 title: "Text Mining with R"
 author: "Julia Silge and David Robinson"
-date: "2018-09-23"
+date: "2018-12-21"
 tags: [Text Mining, Guide, Tidy, Package, Github]
 link: "https://tidytextmining.com/"
 length_weight: "20%"
-cover: "https://tidytextmining.com/images/cover.png"
+cover: "https://www.tidytextmining.com/images/cover.png"
 repo: "dgrtwo/tidy-text-mining"
 pinned: true
 ---

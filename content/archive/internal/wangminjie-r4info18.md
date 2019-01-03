@@ -1,10 +1,10 @@
 ---
 title: "基于R语言的科研信息分析与服务"
 author: "王敏杰"
-date: "2018-10-23T10:12:58Z"
+date: "2019-01-01T05:22:02Z"
 tags: [数据科学, Tidyverse]
-link: "https://bookdown.org/wangminjie/r4info14/"
-length_weight: "28%"
+link: "https://bookdown.org/wangminjie/r4info18/"
+length_weight: "28.8%"
 repo: "ybj2004/bookdown-chinese"
 pinned: false
 ---

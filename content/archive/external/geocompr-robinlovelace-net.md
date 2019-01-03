@@ -1,8 +1,8 @@
 ---
 title: "Geocomputation with R"
 author: "Robin Lovelace, Jakub Nowosad, Jannes Muenchow"
-date: "2018-12-05"
-tags: [Geographic, Data Analysis, Visualization]
+date: "2018-12-22"
+tags: [Geographic, Visualization, Data Science, Spatial Data]
 link: "https://geocompr.robinlovelace.net/"
 length_weight: "31.1%"
 cover: "https://geocompr.robinlovelace.net/images/cover.png"
@@ -10,6 +10,4 @@ repo: "Robinlovelace/geocompr"
 pinned: true
 ---
 
-A book on geographic data with R. [...] This is the online home of Geocomputation with R, a book on geographic data analysis, visualization and modeling. Note: This book has been published by CRC Press in the R Series.
-The online version of this book is free to read here. Inspired by bookdown and the Free and Open Source Software for Geospatial (FOSS4G) movement, this book is open source.
-This ensures its contents are reproducible and publicly accessible for people worldwide. The online version of the book is hosted at geocompr.robinlovelace.net and kept up-to-date by Travis, which provides ...
+Geocomputation with R is for people who want to analyze, visualize and model geographic data with open source software. It is based on R, a statistical programming language that has powerful data processing, visualization, and geospatial capabilities. The book equips you with the knowledge and skills to tackle a wide range of issues manifested in geographic data, including those with scientific, societal, and environmental implications. This book will interest people from many backgrounds, especially Geographic Information Systems (GIS) users interested in applying their domain-specific knowledge in a powerful open source language for data science, and R users interested in extending their skills to handle spatial data.

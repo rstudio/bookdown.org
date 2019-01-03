@@ -1,9 +1,9 @@
 ---
 title: "现代科研指北"
 author: "于淼"
-date: "2018-09-28T21:22:03Z"
+date: "2018-12-31T21:27:36Z"
 link: "https://bookdown.org/yufree/sciguide/"
-length_weight: "19%"
+length_weight: "8.4%"
 pinned: false
 ---
 

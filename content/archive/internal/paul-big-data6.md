@@ -1,10 +1,10 @@
 ---
 title: "Big data and Social Science"
 author: "Paul C. Bauer"
-date: "2018-11-22T22:42:25Z"
+date: "2018-12-07T00:09:22Z"
 tags: [Social Science, Seminar, Course, Data Analysis]
-link: "https://bookdown.org/paul/big-data4/"
-length_weight: "32.2%"
+link: "https://bookdown.org/paul/big-data6/"
+length_weight: "34.5%"
 pinned: false
 ---
 

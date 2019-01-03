@@ -1,10 +1,10 @@
 ---
 title: "ntpu-programming-for-data-science.utf8.md"
 author: "tpemartin"
-date: "2018-12-02T20:43:05Z"
+date: "2018-12-26T06:56:39Z"
 tags: [Course, Data Analysis]
 link: "https://bookdown.org/tpemartin/ntpu-programming-for-data-science/"
-length_weight: "14.8%"
+length_weight: "18.5%"
 pinned: false
 ---
 

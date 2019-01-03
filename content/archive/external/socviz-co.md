@@ -9,7 +9,7 @@ cover: "https://socviz.co/assets/dv-cover-executive-b.jpg"
 pinned: true
 ---
 
-A practical introduction. [...] Forthcoming, Princeton University Press. Incomplete draft. This version: 2018-04-25. You should look at your data. Graphs and charts let you explore and
+A practical introduction. [...] Published by Princeton University Press. Incomplete draft. This version: 2018-04-25. You should look at your data. Graphs and charts let you explore and
 learn about the structure of the information you collect. Good data
 visualizations also make it easier to communicate your ideas and
 findings to other people. Beyond that, producing effective plots from
