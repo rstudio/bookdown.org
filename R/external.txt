@@ -40,3 +40,6 @@ https://thinkstats.org/
 https://b-rodrigues.github.io/modern_R/
 https://jupyter4edu.github.io/jupyter-edu-book/
 https://learningstatisticswithr-bookdown.netlify.com/
+https://tidyeval.tidyverse.org/
+https://langcog.github.io/wordbank-book/
+https://tradestatistics.github.io/documentation/
