@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Data Exploration and Analysis with R"
 author: "Michael Mahoney"
-date: "2018-12-23T19:44:52Z"
+date: "2019-01-07T16:34:27Z"
 tags: [Course, Data Analysis, Github]
 link: "https://bookdown.org/mikemahoney218/LectureBook/"
 length_weight: "100%"

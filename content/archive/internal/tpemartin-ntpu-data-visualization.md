@@ -1,10 +1,10 @@
 ---
 title: "ntpu-data-visualization.utf8.md"
 author: "tpemartin"
-date: "2019-01-03T01:32:42Z"
+date: "2019-01-03T04:52:13Z"
 tags: [Visualization, Course, R Programming, Data Science]
 link: "https://bookdown.org/tpemartin/ntpu-data-visualization/"
-length_weight: "18.1%"
+length_weight: "18.7%"
 pinned: false
 ---
 

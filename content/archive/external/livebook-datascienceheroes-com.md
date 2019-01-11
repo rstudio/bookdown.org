@@ -5,7 +5,6 @@ date: ""
 tags: [Data Science, Data Analysis, Machine Learning, Predictive Model]
 link: "https://livebook.datascienceheroes.com/"
 length_weight: "0%"
-cover: "https://livebook.datascienceheroes.com/introduction/data_science_live_book_cover.png"
 repo: "pablo14/data-science-live-book"
 pinned: false
 ---
