@@ -5,7 +5,7 @@ date: ""
 tags: [Forecasting, Textbook]
 link: "https://otexts.org/fpp2/"
 length_weight: "100%"
-cover: "https://Otexts.org/fpp2/fpp2_cover.jpg"
+cover: "https://Otexts.com/fpp2/fpp2_cover.jpg"
 pinned: true
 ---
 

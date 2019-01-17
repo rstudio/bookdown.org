@@ -1,7 +1,7 @@
 ---
 title: "Réalisation de Mini Projets R"
 author: "Mamadou Lamine Diamban"
-date: "2019-01-10T22:18:07Z"
+date: "2019-01-16T17:49:39Z"
 link: "https://bookdown.org/content/2191/"
 length_weight: "22.4%"
 repo: "rstudio/bookdown"

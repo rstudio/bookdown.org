@@ -1,10 +1,10 @@
 ---
 title: "An Introduction to R, LaTeX, and Statistical Inference"
 author: "Yuleng Zeng"
-date: "2018-11-28T15:43:08Z"
+date: "2019-01-11T20:25:56Z"
 tags: [Course]
 link: "https://bookdown.org/Yuleng/method/"
-length_weight: "11.8%"
+length_weight: "11.9%"
 repo: "rstudio/yuleng"
 pinned: false
 ---

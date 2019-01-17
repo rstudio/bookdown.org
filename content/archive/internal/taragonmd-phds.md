@@ -4,7 +4,7 @@ author: "Tomás J. Aragón"
 date: "2018-11-04T00:06:19Z"
 tags: [Population Health, Data Science, Statistical Computing]
 link: "https://bookdown.org/taragonmd/phds/"
-length_weight: "100%"
+length_weight: "42.5%"
 pinned: false
 ---
 
