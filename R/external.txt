@@ -44,3 +44,4 @@ https://tidyeval.tidyverse.org/
 https://langcog.github.io/wordbank-book/
 https://tradestatistics.github.io/documentation/
 https://coleridge-initiative.github.io/big-data-and-social-science/
+https://kellobri.github.io/shiny-prod-book/
