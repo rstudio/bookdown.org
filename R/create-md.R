@@ -169,7 +169,7 @@ get_book_meta = function(url, date = NA) {
   generator = xml_find(html, './/meta[@name="generator"]')
   generator = if (length(generator)) xml_attr(generator, "content") else NA
 
-  data_frame(
+  tibble(
     url = url, title = title, authors = author, date = date, description = description,
     cover = if (is.null(cover)) NA else cover,
     repo = if (is.null(repo)) NA else repo, book_len = book_length(url)
