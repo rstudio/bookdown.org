@@ -1,10 +1,10 @@
 ---
 title: "Gijón Air Pollution - An exercise of visualization and forecasting"
 author: "Sergio Berdiales"
-date: "2019-01-17T12:38:59Z"
+date: "2019-01-17T22:40:50Z"
 tags: [Visualization, Forecasting, Data Science, Course, Python]
-link: "https://bookdown.org/sergioberdiales/_book19/"
-length_weight: "25.2%"
+link: "https://bookdown.org/sergioberdiales/tfm-kschool_gijon_air_pollution/"
+length_weight: "25.7%"
 pinned: false
 ---
 

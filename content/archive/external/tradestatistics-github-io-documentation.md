@@ -1,11 +1,11 @@
 ---
 title: "Open Trade Statistics Documentation"
 author: "Pachá (Mauricio Vargas Sepúlveda)"
-date: "2019-01-05"
+date: "2019-01-18"
 tags: [Statistics]
 link: "https://tradestatistics.github.io/documentation/"
-length_weight: "4.7%"
-repo: "tradestatistics/ts-documentation"
+length_weight: "6.3%"
+repo: "tradestatistics/documentation"
 pinned: false
 ---
 
