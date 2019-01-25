@@ -1,10 +1,10 @@
 ---
 title: "Vis Wisdom"
 author: "Sara Altman, Bill Behrman"
-date: "2019-01-14T08:57:18Z"
+date: "2019-01-25T19:26:16Z"
 tags: [Visualization, ggplot2]
 link: "https://bookdown.org/content/2138/"
-length_weight: "16.1%"
+length_weight: "18.9%"
 repo: "dcl-docs/vis-wisdom"
 pinned: false
 ---

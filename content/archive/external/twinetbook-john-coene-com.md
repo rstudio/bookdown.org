@@ -4,7 +4,7 @@ author: "John Coene"
 date: "2018-11-18"
 tags: [Guide, Network, Package, Github]
 link: "https://twinetbook.john-coene.com/"
-length_weight: "9.5%"
+length_weight: "17.7%"
 cover: "https://twinetbook.john-coene.com/images/cover.png"
 repo: "JohnCoene/twinetverse"
 pinned: false

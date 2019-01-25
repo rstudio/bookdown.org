@@ -1,10 +1,10 @@
 ---
 title: "The Queens College Winter Ecology Open Notebook"
 author: "The Queens College Collective Consciousness"
-date: "2019-01-19T20:50:31Z"
+date: "2019-01-25T01:34:51Z"
 tags: [Ecology]
 link: "https://bookdown.org/open/qccold/"
-length_weight: "17.6%"
+length_weight: "21%"
 repo: "opencuny/qccold"
 pinned: false
 ---
