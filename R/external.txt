@@ -21,7 +21,6 @@ https://m-clark.github.io/clustered-data/
 https://wangcc.me/LSHTMlearningnote/
 https://edav.info/
 https://cookdown.ellisvalentiner.com/
-https://xiangyunhuang.github.io/ISCGwR/
 https://jrnold.github.io/r4ds-exercise-solutions/
 https://vcris.dhr.virginia.gov/vcris/help/
 https://rstats4ag.org/
@@ -45,3 +44,4 @@ https://langcog.github.io/wordbank-book/
 https://tradestatistics.github.io/documentation/
 https://coleridge-initiative.github.io/big-data-and-social-science/
 https://kellobri.github.io/shiny-prod-book/
+https://mixomicsteam.github.io/Bookdown/
