@@ -1,7 +1,7 @@
 ---
 title: "The Good Loser – Analysis of Conjoint Experiment"
 author: "sveinungarnesen78"
-date: "2019-01-25T13:14:23Z"
+date: "2019-01-28T08:05:58Z"
 link: "https://bookdown.org/sveinungarnesen78/Bookdown-goodloser/"
 length_weight: "19.1%"
 pinned: false

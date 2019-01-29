@@ -1,10 +1,10 @@
 ---
 title: "Applied Social Network Analysis in Education"
 author: "chen"
-date: "2019-01-22T04:08:22Z"
+date: "2019-01-28T17:48:57Z"
 tags: [Network, Education, Course]
 link: "https://bookdown.org/chen/snaEd/"
-length_weight: "7.9%"
+length_weight: "9.9%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"
 repo: "meefen/sna-ed"
 pinned: false
