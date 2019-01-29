@@ -1,0 +1,6 @@
+I just made significant updates to https://bookdown.org/roback/bookdown-bysh/, including adding a description, github-repo (proback/BYSH), 
+and cover-image to index.Rmd (I'm not exactly sure how to preview what the description and cover-image will look like on bookdown.org...)  
+I would like to request an update to my listing in the archive section - I'm hoping this is the appropriate channel.  
+
+Thanks so much!  
+Paul Roback
