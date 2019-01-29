@@ -1,11 +1,12 @@
 ---
 title: "Broadening Your Statistical Horizons"
-author: "J. Legler and P. Roback"
-date: "2018-02-10T18:57:22Z"
-tags: [Models, Course, Textbook, Statistics]
+author: "Julie Legler and Paul Roback"
+date: "2019-01-29T16:57:25Z"
+tags: [Textbook, Models, Course]
 link: "https://bookdown.org/roback/bookdown-bysh/"
 length_weight: "100%"
+repo: "proback/BYSH"
 pinned: false
 ---
 
-Test. [...] Broadening Your Statistical Horizons (BYSH): Generalized Linear Models and Multilevel Models is intended to be accessible to undergraduate students who have successfully completed a regression course through, for example, a textbook like Stat2. We started teaching this course at St. Olaf in 2003 so students would be able to deal with the non-normal, correlated world we live in. It has been offered at St. Olaf every year since; in fact, it is required for all statistics concentrators. Even though there is no mathematical prerequisite, we still introduce fairly sophisticated topics ...
+An applied textbook on generalized linear models and multilevel models for advanced undergraduates, featuring many real, unique data sets. It is intended to be accessible to undergraduate students who have successfully completed a regression course. Even though there is no mathematical prerequisite, we still introduce fairly sophisticated topics such as likelihood theory, zero-inflated Poisson, and parametric bootstrapping in an intuitive and applied manner. We believe strongly in case studies featuring real data and real research questions; thus, most of the data in the textbook arises from collaborative research conducted by the authors and their students, or from student projects. Our goal is that, after working through this material, students will develop an expanded toolkit and a greater appreciation for the wider world of data and statistical modeling.
