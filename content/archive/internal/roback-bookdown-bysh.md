@@ -1,10 +1,11 @@
 ---
 title: "Broadening Your Statistical Horizons"
 author: "Julie Legler and Paul Roback"
-date: "2019-01-29T16:57:25Z"
+date: "2019-01-30T04:53:07Z"
 tags: [Textbook, Models, Course]
 link: "https://bookdown.org/roback/bookdown-bysh/"
 length_weight: "100%"
+cover: "https://bookdown.org/roback/bookdown-bysh/data/cover.png"
 repo: "proback/BYSH"
 pinned: false
 ---

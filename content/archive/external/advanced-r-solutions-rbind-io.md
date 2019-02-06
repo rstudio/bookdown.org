@@ -4,7 +4,7 @@ author: "Malte Grosser & Henning Bumann"
 date: ""
 tags: [Advanced R, Github]
 link: "https://advanced-r-solutions.rbind.io/"
-length_weight: "28.5%"
+length_weight: "28.4%"
 cover: "https://advanced-r-solutions.rbind.io/images/advrs_cover.png"
 repo: "Tazinho/Advanced-R-Solutions"
 pinned: false

@@ -1,10 +1,10 @@
 ---
 title: "R Markdown: The Definitive Guide"
 author: "Yihui Xie, J. J. Allaire, Garrett Grolemund"
-date: "2018-12-20T22:59:18Z"
+date: "2019-01-30T05:25:57Z"
 tags: [R Markdown, Guide, Data Analysis]
 link: "https://bookdown.org/yihui/rmarkdown/"
-length_weight: "100%"
+length_weight: "42.5%"
 cover: "https://bookdown.org/yihui/rmarkdown/images/cover.png"
 repo: "rstudio/rmarkdown-book"
 pinned: true

@@ -1,7 +1,7 @@
 ---
 title: "Lab Manual for the RIPL_Effect Research Team (RIPLRT)"
 author: "Authors: The RIPL_Effect Research Team"
-date: "2018-12-04T15:17:58Z"
+date: "2019-02-05T00:38:47Z"
 tags: [Population Health, Data Analysis]
 link: "https://bookdown.org/friveram/labmanualriplrt/"
 length_weight: "11.6%"
