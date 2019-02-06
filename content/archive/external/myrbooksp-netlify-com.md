@@ -4,7 +4,7 @@ author: "François Rebaudo"
 date: "2019-01-22"
 tags: [Github]
 link: "https://myrbooksp.netlify.com/"
-length_weight: "34.9%"
+length_weight: "18.3%"
 cover: "https://myrbooksp.netlify.com/myFigures/cover.png"
 repo: "frareb/myRBook_SP"
 pinned: false
