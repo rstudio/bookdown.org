@@ -46,3 +46,4 @@ https://coleridge-initiative.github.io/big-data-and-social-science/
 https://kellobri.github.io/shiny-prod-book/
 https://mixomicsteam.github.io/Bookdown/
 https://ulyngs.github.io/cog-design-space-ict-self-control/
+https://surgicalinformatics.github.io/healthyr_book/
