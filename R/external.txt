@@ -2,13 +2,16 @@ https://advanced-r-solutions.rbind.io/
 https://b-rodrigues.github.io/fput/
 https://b-rodrigues.github.io/modern_R/
 https://becarioprecario.bitbucket.io/spde-gitbook/
+https://bradleyboehmke.github.io/hands-on-machine-learning-with-r/
 https://carrknight.github.io/poseidon/tutorial/
 https://coleridge-initiative.github.io/big-data-and-social-science/
 https://cookdown.ellisvalentiner.com/
 https://dzchilds.github.io/eda-for-bio/
 https://edav.info/
+https://envirometrix.github.io/PredictiveSoilMapping/
 https://fg2re.sellorm.com/
 https://info201.github.io/
+https://jokergoo.github.io/ComplexHeatmap-reference/book/
 https://jonathanweisberg.org/vip/
 https://jrnold.github.io/r4ds-exercise-solutions/
 https://jupyter4edu.github.io/jupyter-edu-book/
@@ -31,6 +34,7 @@ https://myrbookfr.netlify.com/
 https://myrbooksp.netlify.com/
 https://nacnudus.github.io/spreadsheet-munging-strategies/
 https://plotly-book.cpsievert.me/
+https://r-pkgs.org/
 https://rachaellappan.github.io/16S-analysis/
 https://rafalab.github.io/dsbook/
 https://rkabacoff.github.io/datavis/

@@ -1,10 +1,10 @@
 ---
 title: "Generalized Additive Models"
 author: "Michael Clark"
-date: "2018-08-27"
+date: "2019-02-10"
 tags: [Generalized Additive Model, Models, Package]
 link: "https://m-clark.github.io/generalized-additive-models/"
-length_weight: "14.3%"
+length_weight: "14.4%"
 cover: "https://m-clark.github.io/generalized-additive-models/img/nineteeneightyR.png"
 repo: "m-clark/generalized-additive-models"
 pinned: false

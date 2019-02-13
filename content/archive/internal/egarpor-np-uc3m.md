@@ -1,10 +1,10 @@
 ---
 title: "Notes for Nonparametric Statistics"
 author: "Eduardo García Portugués"
-date: "2019-02-05T18:54:41Z"
+date: "2019-02-12T04:45:32Z"
 tags: [Statistics, Data Science, Course]
 link: "https://bookdown.org/egarpor/NP-UC3M/"
-length_weight: "25.4%"
+length_weight: "26.1%"
 cover: "https://bookdown.org/egarpor/NP-UC3M/images/figures/cover.png"
 pinned: false
 ---

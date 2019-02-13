@@ -4,7 +4,7 @@ author: "Ewen Harrison and Riinu Ots"
 date: ""
 tags: [Data Analysis, Course]
 link: "https://surgicalinformatics.github.io/healthyr_book/"
-length_weight: "14.1%"
+length_weight: "14.2%"
 repo: "SurgicalInformatics/healthyr_book"
 pinned: false
 ---
