@@ -8,6 +8,11 @@ xfun::pkg_load2(c('httr', 'whisker'))
 is_pr = Sys.getenv('TRAVIS_PULL_REQUEST') != 'false'
 if (Sys.getenv('TRAVIS') == 'true' && !is_pr) q('no')
 
+local({
+  x = readLines('external.txt')
+  writeLines(sort(unique(x)), 'external.txt')
+})
+
 # Book listing ------------------------------------------------------------
 
 book_urls = if (file.size('staging.txt') > 0) {
