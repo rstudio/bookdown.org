@@ -19,24 +19,24 @@ book_urls = if (file.size('staging.txt') > 0) {
   tibble(
     url = readLines('staging.txt'),
     lastmod = as.POSIXct(NA),
-    from = "external"
+    from = 'external'
   )
 } else {
   # get book from sitemap
-  book_list = xml2::as_list(read_xml("https://bookdown.org/sitemap.xml"))[[1]]
+  book_list = xml2::as_list(read_xml('https://bookdown.org/sitemap.xml'))[[1]]
   tibble(
-    url = map_chr(book_list, list("loc", 1)),
-    lastmod = map_chr(book_list, list("lastmod", 1)),
-    from = "bookdown.org") %>%
+    url = map_chr(book_list, list('loc', 1)),
+    lastmod = map_chr(book_list, list('lastmod', 1)),
+    from = 'bookdown.org') %>%
     # and from external websites
     bind_rows(
       tibble(
         url = grep(
-          '^https://bookdown[.]org', c(readLines("home.txt"), readLines("external.txt")),
+          '^https://bookdown[.]org', c(readLines('home.txt'), readLines('external.txt')),
           value = TRUE, invert = TRUE
         ),
         lastmod = as.POSIXct(NA),
-        from = "external"
+        from = 'external'
       )
     )
 }
@@ -106,7 +106,7 @@ get_book_meta = function(url, date = NA) {
   }
   if (i >= 4) return()
 
-  title = xml_find(html, ".//title")
+  title = xml_find(html, './/title')
   if (length(title) == 0) return()
   title = xml_text(title)
   if (title == '') return()
@@ -172,7 +172,7 @@ get_book_meta = function(url, date = NA) {
   repo = xml_find(html, './/meta[@name="github-repo"]')
   if (!is.null(repo)) repo = gsub('^/+|/+$', '', xml_attr(repo, 'content'))
   generator = xml_find(html, './/meta[@name="generator"]')
-  generator = if (length(generator)) xml_attr(generator, "content") else NA
+  generator = if (length(generator)) xml_attr(generator, 'content') else NA
 
   tibble(
     url = url, title = title, authors = author, date = date, description = description,
@@ -181,10 +181,10 @@ get_book_meta = function(url, date = NA) {
   )
 }
 
-cache_rds = "_book_meta.rds"
+cache_rds = '_book_meta.rds'
 books_metas = book_urls %>%
   # exclude some specific books
-  filter(! url %in% readLines("exclude.txt")) %>%
+  filter(! url %in% readLines('exclude.txt')) %>%
   # exclude all bookdown demo except official one
   filter(! (grepl('/bookdown-demo/$', url) & !grepl('/yihui/', url))) %>%
   select(url, lastmod) %>%
@@ -199,7 +199,7 @@ books_metas = book_urls %>%
         return(if (!is.null(book_meta[['title']])) book_meta)
       }
     } else book_metas = list()
-    message("processing ", url)
+    message('processing ', url)
     book_meta = get_book_meta(url, date)
     book_metas[[url]] = if (is.null(book_meta)) list(date = date) else book_meta
     saveRDS(book_metas, cache_rds)
@@ -223,26 +223,26 @@ books_to_keep = books_metas %>%
   mutate(length_weight = normalize_book_len(book_len)) %>%
   mutate(tags = match_tags(paste(title, description))) %>%
   # mark pinned url (to be displayed on homepage)
-  mutate(pinned = tolower(url %in% readLines("home.txt")))
+  mutate(pinned = tolower(url %in% readLines('home.txt')))
 
 
 # render_post -------------------------------------------------------------
 
 make_post_filename = function(url) {
-  name = gsub("^http[s]?://|/$", "", tolower(url))
-  name = gsub("[^a-z0-9]+", "-", name)
-  name = gsub("--+", "-", name)
+  name = gsub('^http[s]?://|/$', '', tolower(url))
+  name = gsub('[^a-z0-9]+', '-', name)
+  name = gsub('--+', '-', name)
   i = grepl('^bookdown-org-', name)
   name[i]  = sub('^bookdown-org-', 'internal/', name[i])
   name[!i] = file.path('external', name[!i])
-  paste0(name, ".md")
+  paste0(name, '.md')
 }
 
-write_md_post = function(post_name, post_content, path = "../content/archive") {
+write_md_post = function(post_name, post_content, path = '../content/archive') {
   xfun::write_utf8(post_content, file.path(path, post_name))
 }
 
-template = xfun::read_utf8("template.md")
+template = xfun::read_utf8('template.md')
 
 if (Sys.getenv('TRAVIS') == '') {
   xfun::in_dir('../content/archive', unlink(c('internal/*.md', 'external/*.md')))
