@@ -1,7 +1,7 @@
 ---
 title: "Handling Strings with R"
 author: "Gaston Sanchez"
-date: "2018-12-04"
+date: "2019-02-17"
 tags: [String]
 link: "https://www.gastonsanchez.com/r4strings/"
 length_weight: "16.3%"

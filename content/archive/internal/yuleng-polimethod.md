@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to R, LaTeX, and Statistical Inference"
 author: "Yuleng Zeng"
-date: "2019-01-29T21:23:23Z"
+date: "2019-02-18T18:15:20Z"
 tags: [Course]
 link: "https://bookdown.org/Yuleng/polimethod/"
 length_weight: "14.8%"

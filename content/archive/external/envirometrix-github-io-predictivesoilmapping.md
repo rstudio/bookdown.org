@@ -1,7 +1,7 @@
 ---
 title: "Predictive Soil Mapping with R"
 author: "Tomislav Hengl and Robert A. MacMillan"
-date: "2019-02-12"
+date: "2019-02-26"
 tags: [Machine Learning, R Programming, Tutorial]
 link: "https://envirometrix.github.io/PredictiveSoilMapping/"
 length_weight: "35.1%"

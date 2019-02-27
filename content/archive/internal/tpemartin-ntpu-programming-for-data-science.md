@@ -1,11 +1,11 @@
 ---
-title: "ntpu-programming-for-data-science.utf8.md"
+title: "課程大綱 | ntpu-programming-for-data-science.utf8.md"
 author: "tpemartin"
-date: "2018-12-26T06:56:39Z"
+date: "2019-02-27T07:01:27Z"
 tags: [Course, Data Analysis]
 link: "https://bookdown.org/tpemartin/ntpu-programming-for-data-science/"
-length_weight: "18.5%"
+length_weight: "19%"
 pinned: false
 ---
 
-資料科學程式設計（一） [...] This course is to build the foundation for being a data scientist–who masters both data analysis and data engineering. There are two programming languages that will be taught through the course: R and Javascript. R will serve as the data analysis backend, while Javascipt will serve as the communication tool interacting with cloud services–such as Google G Suite. After taking the course, students will be able to create their own data services that can automate routine works and enhance their productivities. ...
+資料科學程式設計（一） [...] 電子書網址：https://bookdown.org/tpemartin/ntpu-programming-for-data-science/電子書加個人註記：https://via.hypothes.is/https://bookdown.org/tpemartin/ntpu-programming-for-data-science/ gitter chatroom: https://gitter.im/ntpuecon/course-program-for-data-science107-2 This course is to build the foundation for being a data scientist–who masters both data analysis and data engineering. There are two programming languages that will be taught through the course: R and Javascript. R will serve as the data analysis backend, while ...
