@@ -5,6 +5,7 @@ https://becarioprecario.bitbucket.io/spde-gitbook/
 https://bradleyboehmke.github.io/hands-on-machine-learning-with-r/
 https://carrknight.github.io/poseidon/tutorial/
 https://christophm.github.io/interpretable-ml-book/
+https://claut.gitlab.io/man_ccia/
 https://coleridge-initiative.github.io/big-data-and-social-science/
 https://cookdown.ellisvalentiner.com/
 https://dzchilds.github.io/eda-for-bio/
