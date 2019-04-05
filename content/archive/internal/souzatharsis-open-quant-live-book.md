@@ -1,7 +1,7 @@
 ---
 title: "The Open Quant Live Book"
 author: "Thársis T. P. Souza"
-date: "2019-02-18T00:08:32Z"
+date: "2019-03-04T02:11:45Z"
 tags: [Data Analysis, Machine Learning, Github]
 link: "https://bookdown.org/souzatharsis/open-quant-live-book/"
 length_weight: "14.5%"

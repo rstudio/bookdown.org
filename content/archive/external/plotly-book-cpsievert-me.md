@@ -1,12 +1,12 @@
 ---
-title: "plotly for R"
+title: "Interactive web-based data visualization with R, plotly, and shiny"
 author: "Carson Sievert"
-date: ""
-tags: [Package, ggplot2, Advanced R]
+date: "2019-04-04"
+tags: [Visualization, Shiny, Guide, Data Analysis, Package, Data Science, Tidyverse]
 link: "https://plotly-book.cpsievert.me/"
-length_weight: "14.8%"
+length_weight: "24.1%"
 repo: "ropensci/plotly"
 pinned: false
 ---
 
-An overview of the R package plotly [...] This website explains and partially documents the R package plotly, a high-level interface to the open source JavaScript graphing library plotly.js (which powers plot.ly). The R package already has numerous examples and documentation on https://plot.ly/r and https://plot.ly/ggplot2, but this website provides more of a cohesive narrative to help explain fundamental concepts and recent developments. By reading from start to finish, readers new to R and plotly should be able to get up and running fairly quickly. That being said, advanced R and plotly ...
+A useR guide to creating highly interactive graphics for exploratory and expository visualization. [...] This is the website for “Interactive web-based data visualization with R, plotly, and shiny”. In this book, you’ll gain insight and practical skills for creating interactive and dynamic web graphics for data analysis from R. It makes heavy use of plotly for rendering graphics, but you’ll also learn about other R packages that augment a data science workflow, such as the tidyverse and shiny. Along the way, you’ll gain insight into best practices for visualization of high-dimensional data, ...

@@ -1,10 +1,10 @@
 ---
 title: "Steem Handbook"
 author: "Steem 中文社区集体创作"
-date: "2018-10-19T11:09:39Z"
-link: "https://bookdown.org/baydap/steemh/"
+date: "2019-03-30T13:47:23Z"
+link: "https://bookdown.org/steem_guides/steemh/"
 length_weight: "100%"
-repo: "pzhaonet/steem-guides"
+repo: "steem-guides/steem-guides"
 pinned: false
 ---
 

@@ -1,10 +1,11 @@
 ---
-title: "The Good Loser – Analysis of Conjoint Experiment"
+title: "The Good Loser – Results from Three Survey Experiments"
 author: "sveinungarnesen78"
-date: "2019-02-06T21:10:19Z"
+date: "2019-03-28T18:38:49Z"
+tags: [Conference]
 link: "https://bookdown.org/sveinungarnesen78/Bookdown-goodloser/"
-length_weight: "24.8%"
+length_weight: "38.4%"
 pinned: false
 ---
 
-The Good Loser – Analysis of Conjoint Experiment [...] This is the analysis report for the conjoint experiment of the Good Loser Project by Peter Esaiasson, Hannah Werner, and Sveinung Arnesen. The experiment was fielded in Norway during the fall of 2018 through the 13th wave of Norwegian Citizen Panel (NCP). The NCP is a research-purpose internet panel with over 6000 active participants. It is based on a probability sample of the general Norwegian population above the age of 18 drawn from the Norwegian National Registry. The survey is based on a online questionnaire with postal recruitment. ...
+The Good Loser – Results from Three Survey Experiments [...] This is the analysis report for the Good Loser Project by Peter Esaiasson, Hannah Werner, and Sveinung Arnesen. The study comprises three survey embedded experiments; one video vignette experiment in Norway, one text vignette experiment in Sweden, and one conjoint experiment in Norway. The study has been presented at the Barcelona-Gothenburg-Bergen workshop on Experiments in Political Science in 2018, and will be presented at the 2019 Conference of the Midwestern Political Science Association in Chicago, USA. About Study I – Swedish  ...

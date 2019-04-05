@@ -1,4 +1,5 @@
 https://advanced-r-solutions.rbind.io/
+https://argoshare.is.ed.ac.uk/healthyr_book/
 https://b-rodrigues.github.io/fput/
 https://b-rodrigues.github.io/modern_R/
 https://becarioprecario.bitbucket.io/spde-gitbook/
@@ -12,6 +13,7 @@ https://dzchilds.github.io/eda-for-bio/
 https://edav.info/
 https://envirometrix.github.io/PredictiveSoilMapping/
 https://fg2re.sellorm.com/
+https://geanders.github.io/navy_public_health/
 https://info201.github.io/
 https://jokergoo.github.io/ComplexHeatmap-reference/book/
 https://jonathanweisberg.org/vip/
@@ -36,17 +38,16 @@ https://myrbookfr.netlify.com/
 https://myrbooksp.netlify.com/
 https://nacnudus.github.io/spreadsheet-munging-strategies/
 https://plotly-book.cpsievert.me/
+https://privefl.github.io/advr38book/
 https://r-pkgs.org/
 https://rachaellappan.github.io/16S-analysis/
 https://rafalab.github.io/dsbook/
 https://rkabacoff.github.io/datavis/
 https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
-https://surgicalinformatics.github.io/healthyr_book/
 https://thinkstats.org/
 https://tidyeval.tidyverse.org/
 https://timtrice.github.io/backtesting-strategies/
-https://tradestatistics.github.io/documentation/
 https://twinetbook.john-coene.com/
 https://ulyngs.github.io/cog-design-space-ict-self-control/
 https://vcris.dhr.virginia.gov/vcris/help/

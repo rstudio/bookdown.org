@@ -1,10 +1,10 @@
 ---
 title: "Modern R with the tidyverse"
 author: "Bruno Rodrigues"
-date: "2019-02-09"
+date: "2019-03-20"
 tags: [Tidyverse, Data Science, Machine Learning, Statistics, Models]
 link: "https://b-rodrigues.github.io/modern_R/"
-length_weight: "15.3%"
+length_weight: "16.3%"
 pinned: false
 ---
 

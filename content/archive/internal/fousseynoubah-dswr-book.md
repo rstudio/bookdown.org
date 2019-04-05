@@ -1,10 +1,10 @@
 ---
 title: "Data Science avec R"
 author: "Fousseynou Bah"
-date: "2019-02-27T11:34:04Z"
+date: "2019-03-18T15:56:41Z"
 tags: [Data Science]
 link: "https://bookdown.org/fousseynoubah/dswr_book/"
-length_weight: "19.7%"
+length_weight: "32.5%"
 pinned: false
 ---
 

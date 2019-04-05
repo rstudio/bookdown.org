@@ -11,3 +11,5 @@ https://bookdown.org/xiangyun/notes-book/
 https://bookdown.org/Tazinho/Advanced-R-Solutions/
 https://bookdown.org/lauramoria/2018/
 https://bookdown.org/lauramoria/atlasToestand/
+https://bookdown.org/lauramoria/NaardermeerWsa/
+https://bookdown.org/content/2440/
