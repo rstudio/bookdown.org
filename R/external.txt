@@ -43,6 +43,7 @@ https://r-pkgs.org/
 https://rachaellappan.github.io/16S-analysis/
 https://rafalab.github.io/dsbook/
 https://rkabacoff.github.io/datavis/
+https://ropensci.github.io/dev_guide/
 https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
 https://thinkstats.org/
