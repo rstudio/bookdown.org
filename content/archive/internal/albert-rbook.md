@@ -1,10 +1,10 @@
 ---
 title: "Asymmetric Information and Its Applications"
 author: "Albert Haoran LEI"
-date: "2019-04-03T15:57:09Z"
+date: "2019-04-16T13:21:32Z"
 tags: [Course, Market, Models]
 link: "https://bookdown.org/Albert/Rbook/"
-length_weight: "10.9%"
+length_weight: "16.7%"
 pinned: false
 ---
 

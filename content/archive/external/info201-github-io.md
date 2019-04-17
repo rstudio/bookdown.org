@@ -1,10 +1,10 @@
 ---
 title: "Technical Foundations of Informatics"
 author: "Michael Freeman and Joel Ross"
-date: "2018-12-18"
+date: "2019-04-07"
 tags: [Course, Textbook, Data Science]
 link: "https://info201.github.io/"
-length_weight: "24.5%"
+length_weight: "24.6%"
 cover: "https://info201.github.io/img/cover-img.png"
 repo: "info201/book"
 pinned: false

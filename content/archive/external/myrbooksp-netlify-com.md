@@ -1,10 +1,10 @@
 ---
 title: "Aprender R: iniciación y perfeccionamiento"
 author: "François Rebaudo"
-date: "2019-03-28"
+date: "2019-04-10"
 tags: [Github]
 link: "https://myrbooksp.netlify.com/"
-length_weight: "18.3%"
+length_weight: "18.4%"
 cover: "https://myrbooksp.netlify.com/myFigures/cover.png"
 repo: "frareb/myRBook_SP"
 pinned: false

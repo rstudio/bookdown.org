@@ -1,10 +1,10 @@
 ---
 title: "Interactive web-based data visualization with R, plotly, and shiny"
 author: "Carson Sievert"
-date: "2019-04-04"
+date: "2019-04-06"
 tags: [Visualization, Shiny, Guide, Data Analysis, Package, Data Science, Tidyverse]
 link: "https://plotly-book.cpsievert.me/"
-length_weight: "24.1%"
+length_weight: "24.4%"
 repo: "ropensci/plotly"
 pinned: false
 ---

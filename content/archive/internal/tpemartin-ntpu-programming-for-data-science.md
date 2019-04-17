@@ -1,10 +1,10 @@
 ---
 title: "課程大綱 | ntpu-programming-for-data-science.utf8.md"
 author: "tpemartin"
-date: "2019-03-29T11:58:42Z"
+date: "2019-04-17T06:32:59Z"
 tags: [Course, Data Analysis]
 link: "https://bookdown.org/tpemartin/ntpu-programming-for-data-science/"
-length_weight: "20.2%"
+length_weight: "19.7%"
 pinned: false
 ---
 
