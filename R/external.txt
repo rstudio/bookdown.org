@@ -5,6 +5,7 @@ https://b-rodrigues.github.io/modern_R/
 https://becarioprecario.bitbucket.io/spde-gitbook/
 https://bradleyboehmke.github.io/hands-on-machine-learning-with-r/
 https://carrknight.github.io/poseidon/tutorial/
+https://chabefer.github.io/STCI/
 https://christophm.github.io/interpretable-ml-book/
 https://claut.gitlab.io/man_ccia/
 https://coleridge-initiative.github.io/big-data-and-social-science/
@@ -21,6 +22,7 @@ https://jrnold.github.io/r4ds-exercise-solutions/
 https://jupyter4edu.github.io/jupyter-edu-book/
 https://kazutan.github.io/ggplot2-gyakubiki-book/
 https://kellobri.github.io/shiny-prod-book/
+https://koalaverse.github.io/machine-learning-in-R/
 https://langcog.github.io/wordbank-book/
 https://learningstatisticswithr-bookdown.netlify.com/
 https://livebook.datascienceheroes.com/
