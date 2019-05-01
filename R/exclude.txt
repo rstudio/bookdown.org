@@ -13,3 +13,4 @@ https://bookdown.org/lauramoria/2018/
 https://bookdown.org/lauramoria/atlasToestand/
 https://bookdown.org/lauramoria/NaardermeerWsa/
 https://bookdown.org/content/2440/
+https://bookdown.org/thea_knowles/dissertating_rmd/
