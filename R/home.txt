@@ -9,8 +9,8 @@ https://otexts.org/fpp2/
 https://bookdown.org/yihui/blogdown/
 https://serialmentor.com/dataviz/
 https://www.datascienceatthecommandline.com/
-https://www.gastonsanchez.com/r4strings/
 https://socviz.co/
 https://geocompr.robinlovelace.net/
 https://moderndive.com/
 https://rstudio-education.github.io/hopr/
+https://r-graphics.org/
