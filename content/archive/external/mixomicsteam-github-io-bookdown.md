@@ -1,10 +1,10 @@
 ---
 title: "mixOmics vignette"
 author: "Kim-Anh Le Cao & Sebastien Dejean"
-date: "2019-01-08"
+date: "2019-04-26"
 tags: [Package, Multivariate]
 link: "https://mixomicsteam.github.io/Bookdown/"
-length_weight: "11.1%"
+length_weight: "11.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

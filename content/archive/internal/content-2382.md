@@ -1,9 +1,9 @@
 ---
 title: "Introduktion till R"
 author: "Filip Wästberg"
-date: "2019-04-04T10:10:55Z"
+date: "2019-04-24T13:58:06Z"
 link: "https://bookdown.org/content/2382/"
-length_weight: "24.6%"
+length_weight: "27.2%"
 pinned: false
 ---
 

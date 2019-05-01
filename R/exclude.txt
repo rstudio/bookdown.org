@@ -15,3 +15,4 @@ https://bookdown.org/lauramoria/NaardermeerWsa/
 https://bookdown.org/content/2440/
 https://bookdown.org/thea_knowles/dissertating_rmd/
 https://bookdown.org/cteplovs/ismaykim/
+https://bookdown.org/cteplovs/moderndive/

@@ -1,22 +1,20 @@
 ---
 title: "Statistical Tools for Causal Inference"
 author: "The SKY Community"
-date: "2019-04-17"
+date: "2019-04-30"
 link: "https://chabefer.github.io/STCI/"
-length_weight: "8.3%"
+length_weight: "11.8%"
 repo: "chabefer/STCI"
 pinned: false
 ---
 
 This is an open source collaborative book. [...] $$
 \newcommand{\uns}[1]{\mathbf{1}[#1]}
-$$
-$$
 \newcommand{\esp}[1]{\mathbf{E}[#1]}
+\newcommand{\Ind}{\perp\kern-5pt\perp}
 $$ div.sourceCode { overflow-x: auto; }
 table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode { margin: 0; padding: 0; vertical-align: baseline; border: none; }
 table.sourceCode { width: 100%; line-height: 100%; }
 td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
 td.sourceCode { padding-left: 5px; }
-code > span.kw { color: #007020; font-weight: bold; } /* Keyword */
-code > ...
+code > span.kw { color: #007020; font-weight: ...
