@@ -3,7 +3,6 @@ https://argoshare.is.ed.ac.uk/healthyr_book/
 https://b-rodrigues.github.io/fput/
 https://b-rodrigues.github.io/modern_R/
 https://becarioprecario.bitbucket.io/spde-gitbook/
-https://bradleyboehmke.github.io/hands-on-machine-learning-with-r/
 https://carrknight.github.io/poseidon/tutorial/
 https://chabefer.github.io/STCI/
 https://christophm.github.io/interpretable-ml-book/
@@ -15,6 +14,7 @@ https://edav.info/
 https://envirometrix.github.io/PredictiveSoilMapping/
 https://fg2re.sellorm.com/
 https://geanders.github.io/navy_public_health/
+https://gvwilson.github.io/tidynomicon/
 https://info201.github.io/
 https://jokergoo.github.io/ComplexHeatmap-reference/book/
 https://jonathanweisberg.org/vip/
@@ -55,5 +55,6 @@ https://twinetbook.john-coene.com/
 https://ulyngs.github.io/cog-design-space-ict-self-control/
 https://vcris.dhr.virginia.gov/vcris/help/
 https://wangcc.me/LSHTMlearningnote/
+https://www.gastonsanchez.com/r4strings/
 https://www.masteringdfsanalytics.com/
 https://yijutseng.github.io/DataScienceRBook/
