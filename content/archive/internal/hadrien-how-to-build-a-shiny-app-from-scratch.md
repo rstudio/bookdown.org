@@ -1,10 +1,10 @@
 ---
 title: "Build a Shiny Application from Scratch"
 author: "Hadrien@rstudio.com"
-date: "2019-04-25T18:25:20Z"
+date: "2019-05-01T19:35:18Z"
 tags: [Shiny, Package, Web Applications, R Programming, Data Analysis, Visualization]
 link: "https://bookdown.org/hadrien/how_to_build_a_shiny_app_from_scratch/"
-length_weight: "9%"
+length_weight: "9.8%"
 pinned: false
 ---
 

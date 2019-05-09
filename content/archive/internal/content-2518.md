@@ -1,10 +1,10 @@
 ---
 title: "DWQ’s irTools package: An automated approach to water quality assessment"
 author: "Jake Vander Laan, Elise Hinman, & Emilie Flemer, Utah Division of Water Quality"
-date: "2019-04-30T15:19:58Z"
+date: "2019-05-03T18:59:25Z"
 tags: [Package, Github]
 link: "https://bookdown.org/content/2518/"
-length_weight: "10.4%"
+length_weight: "10.5%"
 pinned: false
 ---
 
