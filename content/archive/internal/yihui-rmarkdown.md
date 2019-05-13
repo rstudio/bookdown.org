@@ -4,7 +4,7 @@ author: "Yihui Xie, J. J. Allaire, Garrett Grolemund"
 date: "2019-03-19T15:41:36Z"
 tags: [R Markdown, Guide, Data Analysis]
 link: "https://bookdown.org/yihui/rmarkdown/"
-length_weight: "100%"
+length_weight: "42.5%"
 cover: "https://bookdown.org/yihui/rmarkdown/images/cover.png"
 repo: "rstudio/rmarkdown-book"
 pinned: true
