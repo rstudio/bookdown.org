@@ -56,5 +56,6 @@ https://ulyngs.github.io/cog-design-space-ict-self-control/
 https://vcris.dhr.virginia.gov/vcris/help/
 https://wangcc.me/LSHTMlearningnote/
 https://www.gastonsanchez.com/r4strings/
+https://www.jamoviguide.com/
 https://www.masteringdfsanalytics.com/
 https://yijutseng.github.io/DataScienceRBook/
