@@ -25,7 +25,6 @@ https://kellobri.github.io/shiny-prod-book/
 https://koalaverse.github.io/machine-learning-in-R/
 https://langcog.github.io/wordbank-book/
 https://learningstatisticswithr-bookdown.netlify.com/
-https://livebook.datascienceheroes.com/
 https://m-clark.github.io/bayesian-basics/
 https://m-clark.github.io/clustered-data/
 https://m-clark.github.io/data-processing-and-visualization/
@@ -41,7 +40,6 @@ https://myrbooksp.netlify.com/
 https://nacnudus.github.io/spreadsheet-munging-strategies/
 https://plotly-book.cpsievert.me/
 https://privefl.github.io/advr38book/
-https://r-pkgs.org/
 https://rachaellappan.github.io/16S-analysis/
 https://rafalab.github.io/dsbook/
 https://rkabacoff.github.io/datavis/

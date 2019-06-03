@@ -14,3 +14,5 @@ https://geocompr.robinlovelace.net/
 https://moderndive.com/
 https://rstudio-education.github.io/hopr/
 https://r-graphics.org/
+https://livebook.datascienceheroes.com/
+https://r-pkgs.org/
