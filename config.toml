@@ -36,9 +36,13 @@ footnotereturnlinkcontents = "↩"
     url = "/authors/"
     weight = 5
 [[menu.main]]
+    name = "Contest"
+    url = "/contest/"
+    weight = 6
+[[menu.main]]
     name = "Log in"
     url = "http://bookdown.org/connect/"
-    weight = 6
+    weight = 7
 
 [[menu.icons]]
     name = "Github"
