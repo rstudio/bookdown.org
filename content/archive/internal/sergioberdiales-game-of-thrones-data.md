@@ -1,10 +1,10 @@
 ---
 title: "Juego de Tronos - Explorando sus datos"
 author: "Sergio Berdiales"
-date: "2019-05-10T09:25:26Z"
+date: "2019-05-27T13:13:55Z"
 tags: [Github]
 link: "https://bookdown.org/sergioberdiales/game_of_thrones_data/"
-length_weight: "5.9%"
+length_weight: "8.1%"
 pinned: false
 ---
 

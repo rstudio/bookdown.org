@@ -1,10 +1,10 @@
 ---
 title: "Applied Causal Analysis"
 author: "Paul C. Bauer"
-date: "2019-05-07T10:58:32Z"
+date: "2019-05-14T10:50:52Z"
 tags: [Causal Analysis, Seminar]
-link: "https://bookdown.org/paul/applied_causal_analysis3/"
-length_weight: "38.7%"
+link: "https://bookdown.org/paul/applied_causal_analysis4/"
+length_weight: "38.8%"
 pinned: false
 ---
 

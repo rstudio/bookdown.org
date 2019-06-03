@@ -1,7 +1,7 @@
 ---
 title: "Math Prefresher for Political Scientists"
 author: ""
-date: "2019-02-04T23:38:52Z"
+date: "2019-05-19T20:23:33Z"
 tags: [Github]
 link: "https://bookdown.org/kuriwaki/prefresher/"
 length_weight: "100%"

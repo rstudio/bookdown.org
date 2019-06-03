@@ -1,10 +1,10 @@
 ---
 title: "The Tidynomicon"
 author: "Greg Wilson"
-date: "2019-05-10"
+date: "2019-05-18"
 tags: [Tidy, Guide, Python, R Programming]
 link: "https://gvwilson.github.io/tidynomicon/"
-length_weight: "20.9%"
+length_weight: "21.7%"
 repo: "gvwilson/tidynomicon"
 pinned: false
 ---

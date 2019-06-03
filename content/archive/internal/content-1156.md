@@ -1,9 +1,9 @@
 ---
 title: "Lecture Notes voor Beleidsinformatica"
 author: "B. Depaire"
-date: "2018-05-07T09:16:29Z"
+date: "2019-06-01T11:44:23Z"
 link: "https://bookdown.org/content/1156/"
-length_weight: "28.8%"
+length_weight: "30.4%"
 pinned: false
 ---
 

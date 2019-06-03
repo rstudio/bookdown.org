@@ -1,10 +1,10 @@
 ---
 title: "Data Science with R: A Resource Compendium"
 author: "Martin Monkman"
-date: "2019-05-11T15:11:30Z"
+date: "2019-06-03T00:19:23Z"
 tags: [Data Science, Github, Package]
 link: "https://bookdown.org/martin_monkman/DataScienceResources_book/"
-length_weight: "23.5%"
+length_weight: "23.8%"
 repo: "MonkmanMH/DataScienceResources_book"
 pinned: false
 ---

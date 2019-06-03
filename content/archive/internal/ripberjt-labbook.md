@@ -1,9 +1,9 @@
 ---
 title: "Lab Guide to Quantitative Research Methods in Political Science, Public Policy & Public Administration."
-author: "josiesmith"
-date: "2019-05-09T16:40:18Z"
+author: "ripberjt"
+date: "2019-05-09T16:45:29Z"
 tags: [Guide, Course, Seminar, Statistics]
-link: "https://bookdown.org/josiesmith/labbook/"
+link: "https://bookdown.org/ripberjt/labbook/"
 length_weight: "100%"
 pinned: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "R 数据分析指南与速查手册"
 author: "郭晓"
-date: "2019-05-12T14:36:49Z"
+date: "2019-05-26T04:32:11Z"
 tags: [数据分析, 笔记]
 link: "https://bookdown.org/xiao/RAnalysisBook/"
 length_weight: "28.9%"
