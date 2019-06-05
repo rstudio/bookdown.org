@@ -24,6 +24,10 @@ footnotereturnlinkcontents = "↩"
     url = "/about/"
     weight = 2
 [[menu.main]]
+    name = "Documentation"
+    url = "https://bookdown.org/yihui/bookdown/"
+    weight = 2
+[[menu.main]]
     name = "Archive"
     url = "/archive/"
     weight = 3
