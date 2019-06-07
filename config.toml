@@ -25,28 +25,28 @@ footnotereturnlinkcontents = "↩"
     weight = 2
 [[menu.main]]
     name = "Documentation"
-    url = "https://bookdown.org/yihui/bookdown/"
-    weight = 2
+    url = "//bookdown.org/yihui/bookdown/"
+    weight = 3
 [[menu.main]]
     name = "Archive"
     url = "/archive/"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 4
+    weight = 5
 [[menu.main]]
     name = "Authors"
     url = "/authors/"
-    weight = 5
+    weight = 6
 [[menu.main]]
     name = "Contest"
     url = "/contest/"
-    weight = 6
+    weight = 7
 [[menu.main]]
     name = "Log in"
     url = "http://bookdown.org/connect/"
-    weight = 7
+    weight = 8
 
 [[menu.icons]]
     name = "Github"
