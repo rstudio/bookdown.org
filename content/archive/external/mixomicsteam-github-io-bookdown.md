@@ -1,12 +1,12 @@
 ---
 title: "mixOmics vignette"
-author: "Kim-Anh Le Cao & Sebastien Dejean"
-date: "2019-04-26"
+author: "Kim-Anh Le Cao, Sebastien Dejean, Al J Abadi"
+date: ""
 tags: [Package, Multivariate]
 link: "https://mixomicsteam.github.io/Bookdown/"
-length_weight: "11.3%"
-repo: "rstudio/bookdown-demo"
+length_weight: "11.2%"
+repo: "mixOmicsTeam/mixOmics"
 pinned: false
 ---
 
-Bookdown vignette for the R package mixOmics [...] mixOmics is an R toolkit dedicated to the exploration and integration of biological data sets with a specific focus on variable selection. The package currently includes nineteen multivariate methodologies, mostly developed by the mixOmics team (see some of our references in 1.2.3). Originally, all methods were designed for omics data, however, their application is not limited to biological data only. Other applications where integration is required can be considered, but mostly for the case where the predictor variables are continuous (see ...
+Vignette for the R package mixOmics [...] mixOmics is an R toolkit dedicated to the exploration and integration of biological data sets with a specific focus on variable selection. The package currently includes nineteen multivariate methodologies, mostly developed by the mixOmics team (see some of our references in 1.2.3). Originally, all methods were designed for omics data, however, their application is not limited to biological data only. Other applications where integration is required can be considered, but mostly for the case where the predictor variables are continuous (see also ...

@@ -1,7 +1,7 @@
 ---
 title: "數量方法（一）"
 author: "林茂廷老師"
-date: "2019-04-10T01:02:02Z"
+date: "2019-06-12T03:12:35Z"
 link: "https://bookdown.org/tpemartin/econometric_analysis/"
 length_weight: "23.3%"
 pinned: false

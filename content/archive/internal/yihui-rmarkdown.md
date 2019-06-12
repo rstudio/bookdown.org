@@ -1,7 +1,7 @@
 ---
 title: "R Markdown: The Definitive Guide"
 author: "Yihui Xie, J. J. Allaire, Garrett Grolemund"
-date: "2019-05-16T20:20:20Z"
+date: "2019-06-03T16:25:18Z"
 tags: [R Markdown, Guide, Data Analysis]
 link: "https://bookdown.org/yihui/rmarkdown/"
 length_weight: "42.6%"
