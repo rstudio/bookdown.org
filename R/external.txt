@@ -38,6 +38,7 @@ https://mixomicsteam.github.io/Bookdown/
 https://myrbookfr.netlify.com/
 https://myrbooksp.netlify.com/
 https://nacnudus.github.io/spreadsheet-munging-strategies/
+https://physikbuch.schule/
 https://plotly-book.cpsievert.me/
 https://privefl.github.io/advr38book/
 https://rachaellappan.github.io/16S-analysis/
