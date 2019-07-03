@@ -47,6 +47,7 @@ https://rkabacoff.github.io/datavis/
 https://ropensci.github.io/dev_guide/
 https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
+https://soilmapper.org/
 https://thinkstats.org/
 https://tidyeval.tidyverse.org/
 https://timtrice.github.io/backtesting-strategies/
