@@ -25,7 +25,7 @@
       {{ end }}
       {{ range .Site.Menus.main }}
       <li{{ if .Identifier }} class="optional"{{ end }}>
-        <a href="{{ .URL | relURL }}"{{ if eq .URL $.URL }} class="active"{{ end }}>{{ .Name }}</a>
+        <a href="{{ .URL | relURL }}"{{ if eq .URL $.RelPermalink }} class="active"{{ end }}>{{ .Name }}</a>
       </li>
       {{ end }}
       {{ range .Site.Menus.icons }}
