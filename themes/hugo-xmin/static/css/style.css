@@ -129,7 +129,10 @@ blockquote {
   border-bottom: 1px solid #ddd;
   font-size: 1em;
 }
-.summary { margin-top: .5em; }
+.summary {
+  margin-top: .5em;
+  overflow-x: hidden;
+}
 .summary::after {
   content: "";
   clear: both;
