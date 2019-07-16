@@ -1,9 +1,9 @@
 ---
 title: "数理统计讲义"
 author: "何志坚"
-date: "2019-07-01T03:52:17Z"
+date: "2019-07-04T03:26:02Z"
 link: "https://bookdown.org/hezhijian87/stat/"
-length_weight: "13.5%"
+length_weight: "20.8%"
 pinned: false
 ---
 

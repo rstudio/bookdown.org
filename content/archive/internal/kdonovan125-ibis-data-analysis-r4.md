@@ -1,10 +1,10 @@
 ---
 title: "Data Analysis and Processing with R based on IBIS data"
 author: "Kevin Donovan"
-date: "2019-05-24T18:50:34Z"
+date: "2019-07-11T17:52:29Z"
 tags: [Data Analysis, Course, Network]
-link: "https://bookdown.org/kdonovan125/ibis_data_analysis_r/"
-length_weight: "40.6%"
+link: "https://bookdown.org/kdonovan125/ibis_data_analysis_r4/"
+length_weight: "41%"
 pinned: false
 ---
 

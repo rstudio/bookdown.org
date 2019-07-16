@@ -1,7 +1,7 @@
 ---
 title: "jamoviで学ぶ心理統計"
 author: "Danielle J Navarro & Dvid R Foxcroft（著） 芝田征司（訳）"
-date: "2019-06-12T21:35:03Z"
+date: "2019-07-10T06:07:17Z"
 tags: [Translation, Statistics]
 link: "https://bookdown.org/sbtseiji/lswjamoviJ/"
 length_weight: "100%"
