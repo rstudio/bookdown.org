@@ -1,10 +1,10 @@
 ---
 title: "Great Salt Lake Nutrient Analyses"
 author: "Jake Vander Laan, Utah Division of Water Quality"
-date: "2019-07-12T19:56:02Z"
+date: "2019-07-17T19:13:03Z"
 tags: [Github]
 link: "https://bookdown.org/jakevl/gsl-nutrients-2019/"
-length_weight: "18.5%"
+length_weight: "17.6%"
 pinned: false
 ---
 

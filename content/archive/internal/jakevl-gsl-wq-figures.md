@@ -1,7 +1,7 @@
 ---
 title: "Great Salt Lake Nutrient Analyses - figures only"
 author: "Jake Vander Laan, Utah Division of Water Quality"
-date: "2019-07-12T19:58:52Z"
+date: "2019-07-17T19:11:45Z"
 link: "https://bookdown.org/jakevl/gsl-wq-figures/"
 length_weight: "4.8%"
 pinned: false
