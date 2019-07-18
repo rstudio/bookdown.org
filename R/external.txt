@@ -9,6 +9,7 @@ https://christophm.github.io/interpretable-ml-book/
 https://claut.gitlab.io/man_ccia/
 https://coleridge-initiative.github.io/big-data-and-social-science/
 https://cookdown.ellisvalentiner.com/
+https://datasciencepractice.study/
 https://dzchilds.github.io/eda-for-bio/
 https://edav.info/
 https://envirometrix.github.io/PredictiveSoilMapping/
