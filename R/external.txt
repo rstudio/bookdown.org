@@ -12,6 +12,7 @@ https://cookdown.ellisvalentiner.com/
 https://datasciencepractice.study/
 https://dzchilds.github.io/eda-for-bio/
 https://edav.info/
+https://edwinth.github.io/AMLwR/
 https://envirometrix.github.io/PredictiveSoilMapping/
 https://fg2re.sellorm.com/
 https://geanders.github.io/navy_public_health/
