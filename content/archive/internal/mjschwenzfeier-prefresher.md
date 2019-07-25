@@ -1,9 +1,9 @@
 ---
 title: "Math Prefresher for Political Scientists"
-author: ""
-date: "2019-05-19T20:23:33Z"
+author: "mjschwenzfeier"
+date: "2019-07-18T18:50:16Z"
 tags: [Github]
-link: "https://bookdown.org/kuriwaki/prefresher/"
+link: "https://bookdown.org/mjschwenzfeier/prefresher/"
 length_weight: "100%"
 repo: "IQSS/prefresher"
 pinned: false

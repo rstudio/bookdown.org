@@ -1,6 +1,6 @@
 ---
 title: "Big Data and Social Science"
-author: "Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, Julia Lane"
+author: "Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter and Julia Lane"
 date: ""
 tags: [Social Science, Statistics]
 link: "https://coleridge-initiative.github.io/big-data-and-social-science/"

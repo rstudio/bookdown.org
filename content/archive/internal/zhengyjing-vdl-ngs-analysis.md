@@ -1,9 +1,9 @@
 ---
 title: "NGS Analysis Protocol"
 author: "Ying Zheng"
-date: "2019-06-10T17:01:08Z"
+date: "2019-07-24T16:22:27Z"
 link: "https://bookdown.org/zhengyjing/VDL-NGS-analysis/"
-length_weight: "4.5%"
+length_weight: "5.4%"
 pinned: false
 ---
 

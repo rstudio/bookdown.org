@@ -1,9 +1,9 @@
 ---
 title: "An R Exercise in Data Collection, Cleaning, and Merging U.S. Census Data"
 author: "Sean Conner"
-date: "2019-06-05T15:00:39Z"
+date: "2019-07-22T21:23:08Z"
 tags: [Tutorial, Social Science]
-link: "https://bookdown.org/scconner7/R_Census_Data_Cleaning_Tutorial/"
+link: "https://bookdown.org/scconner7/r_census_data_cleaning_tutorial/"
 length_weight: "29.3%"
 pinned: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "R for Data Science: Exercise Solutions"
 author: "Jeffrey B. Arnold"
-date: "2019-07-17"
+date: "2019-07-24"
 tags: [Data Science, Github]
 link: "https://jrnold.github.io/r4ds-exercise-solutions/"
 length_weight: "26.5%"

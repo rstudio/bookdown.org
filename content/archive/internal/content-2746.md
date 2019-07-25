@@ -1,10 +1,10 @@
 ---
 title: "Learn RDataTable"
 author: "Vikram Singh Rawat"
-date: "2019-07-15T14:32:50Z"
+date: "2019-07-22T16:28:09Z"
 tags: [Guide, Package]
 link: "https://bookdown.org/content/2746/"
-length_weight: "5.9%"
+length_weight: "7.4%"
 pinned: false
 ---
 
