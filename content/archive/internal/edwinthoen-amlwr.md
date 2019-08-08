@@ -1,10 +1,10 @@
 ---
 title: "Agile Machine Learning with R"
 author: "Edwin Thoen"
-date: ""
+date: "2019-07-16T14:51:14Z"
 tags: [Machine Learning, Statistics, Course]
-link: "https://edwinth.github.io/AMLwR/"
-length_weight: "8.9%"
+link: "https://bookdown.org/edwinthoen/AMLwR/"
+length_weight: "12.5%"
 pinned: false
 ---
 

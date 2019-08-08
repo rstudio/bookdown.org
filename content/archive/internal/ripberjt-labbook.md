@@ -1,7 +1,7 @@
 ---
 title: "Lab Guide to Quantitative Research Methods in Political Science, Public Policy & Public Administration."
-author: "ripberjt"
-date: "2019-05-09T16:45:29Z"
+author: "Joseph Ripberger, Cody Adams, Alex Davis, and Josie Davis"
+date: "2019-08-07T16:36:26Z"
 tags: [Guide, Course, Seminar, Statistics]
 link: "https://bookdown.org/ripberjt/labbook/"
 length_weight: "100%"
