@@ -1,0 +1,13 @@
+# My understanding is that all I need to do is paste the link to the book's webpage. 
+# Hardcover out in October, eBook in November, happy for this to wait until then if that's preferable.
+# I will also add `description`, `github-repo`, and `cover-image` information. 
+# Please let me know what else might be needed since this looks atypical. Thanks!
+https://www.springer.com/us/book/9783030211257
+
+# description: A summary of your book (if shorter than 400 characters, more text from your book’s homepage will be used). The description should be plain text without using any Markdown syntax such as _italic_ or **bold** or [text](url).
+# github-repo: A character string of your Github repo name of the form user/repo, e.g., rstudio/bookdown.
+# cover-image: The path to the cover image of your book (must be accessible via HTTPS).
+
+# description: This book develops a novel approach to distributive justice by building a theory based on a concept of desert. As a work of applied political theory, it presents a simple but powerful theoretical argument and a detailed proposal to eliminate unmerited inequality, poverty, and economic immobility, speaking to the underlying moral principles of both progressives who already support egalitarian measures and also conservatives who have previously rejected egalitarianism on the grounds of individual freedom, personal responsibility, hard work, or economic efficiency. By using an agnostic, flexible, data-driven approach to isolate luck and ultimately measure desert, this proposal makes equal opportunity initiatives both more accurate and effective as it adapts to a changing economy. It grants to each individual the freedom to genuinely choose their place in the distribution. It provides two policy variations that are perfectly economically efficient, and two others that are conditionally so. It straightforwardly aligns outcomes with widely shared, fundamental moral intuitions. Lastly, it demonstrates much of the above by modeling four policy variations using 40 years of survey data from the Panel Study of Income Dynamics.
+# github-repo: https://gitlab.com/ntrlshrp/desserts
+# cover-image: https://images.springer.com/sgw/books/raw/9783030211257.tif  ### a smaller file is currently located here: https://images.springer.com/sgw/books/medium/9783030211257.jpg
