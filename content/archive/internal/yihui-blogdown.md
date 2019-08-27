@@ -1,7 +1,7 @@
 ---
 title: "blogdown: Creating Websites with R Markdown"
 author: "Yihui Xie, Amber Thomas, Alison Presmanes Hill"
-date: "2019-08-07T14:21:12Z"
+date: "2019-08-16T16:21:04Z"
 tags: [R Markdown, Guide, Package, Spiderman]
 link: "https://bookdown.org/yihui/blogdown/"
 length_weight: "34.4%"

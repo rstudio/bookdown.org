@@ -1,7 +1,7 @@
 ---
 title: "Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R"
 author: "Hank Jenkins-Smith, Joseph Ripberger, Gary Copeland, Matthew Nowlin, Tyler Hughes, Aaron Fister, Wesley Wehde, and Josie Davis"
-date: "2019-08-07T16:39:27Z"
+date: "2019-08-20T11:34:03Z"
 tags: [Textbook]
 link: "https://bookdown.org/ripberjt/qrmbook/"
 length_weight: "100%"

@@ -1,7 +1,7 @@
 ---
 title: "R for Statistics in EPH"
 author: "Daniel J Carter"
-date: "2019-05-29T11:47:24Z"
+date: "2019-08-20T15:32:05Z"
 tags: [Statistics]
 link: "https://bookdown.org/danieljcarter/r4steph/"
 length_weight: "20.2%"

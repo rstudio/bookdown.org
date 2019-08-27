@@ -1,9 +1,9 @@
 ---
 title: "Statistical Tools for Causal Inference"
 author: "The SKY Community"
-date: "2019-04-30"
+date: "2019-08-25"
 link: "https://chabefer.github.io/STCI/"
-length_weight: "11.8%"
+length_weight: "14.6%"
 repo: "chabefer/STCI"
 pinned: false
 ---
@@ -12,9 +12,12 @@ This is an open source collaborative book. [...] $$
 \newcommand{\uns}[1]{\mathbf{1}[#1]}
 \newcommand{\esp}[1]{\mathbf{E}[#1]}
 \newcommand{\Ind}{\perp\kern-5pt\perp}
-$$ div.sourceCode { overflow-x: auto; }
-table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode { margin: 0; padding: 0; vertical-align: baseline; border: none; }
-table.sourceCode { width: 100%; line-height: 100%; }
-td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
-td.sourceCode { padding-left: 5px; }
-code > span.kw { color: #007020; font-weight: ...
+\newcommand{\var}[1]{\mathbf{V}[ #1 ]}
+\newcommand{\cov}[1]{\mathbf{C}[ #1 ]}
+\newcommand{\plim}[1]{\text{plim}_{ #1 \rightarrow \infty}}
+\newcommand{\plims}{\text{plim}}
+\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
+\DeclareMathOperator{\diag}{diag}
+$$ a.sourceLine { display: inline-block; line-height: 1.25; }
+a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
+a.sourceLine:empty { height:  ...

@@ -4,7 +4,7 @@ author: "黄湘云"
 date: "2019-07-31T07:12:17Z"
 tags: [数据分析, R Programming, 数据科学, Python]
 link: "https://bookdown.org/xiangyun/RGraphics/"
-length_weight: "100%"
+length_weight: "42.5%"
 repo: "XiangyunHuang/RGraphics"
 pinned: false
 ---
