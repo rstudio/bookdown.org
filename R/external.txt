@@ -44,6 +44,7 @@ https://pbiecek.github.io/PM_VEE/
 https://physikbuch.schule/
 https://plotly-book.cpsievert.me/
 https://privefl.github.io/advr38book/
+https://r4crim.com/
 https://rachaellappan.github.io/16S-analysis/
 https://rafalab.github.io/dsbook/
 https://rkabacoff.github.io/datavis/
