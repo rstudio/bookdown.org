@@ -2,6 +2,7 @@ https://advanced-r-solutions.rbind.io/
 https://argoshare.is.ed.ac.uk/healthyr_book/
 https://b-rodrigues.github.io/fput/
 https://b-rodrigues.github.io/modern_R/
+https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/
 https://becarioprecario.bitbucket.io/spde-gitbook/
 https://carrknight.github.io/poseidon/tutorial/
 https://chabefer.github.io/STCI/
@@ -52,7 +53,9 @@ https://rmd4sci.njtierney.com/
 https://ropensci.github.io/dev_guide/
 https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
+https://sctyner.github.io/OpenForSciR/
 https://soilmapper.org/
+https://steverxd.github.io/Stat_tests/
 https://thinkstats.org/
 https://tidyeval.tidyverse.org/
 https://timtrice.github.io/backtesting-strategies/
