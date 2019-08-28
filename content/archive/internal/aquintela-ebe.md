@@ -1,7 +1,7 @@
 ---
 title: "Estadística Básica Edulcorada"
 author: "Alejandro Quintela del Rio"
-date: "2019-08-25T21:44:19Z"
+date: "2019-08-28T12:08:42Z"
 link: "https://bookdown.org/aquintela/EBE/"
 length_weight: "100%"
 cover: "https://bookdown.org/aquintela/EBE/Figure/kimyon.png"

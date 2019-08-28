@@ -1,11 +1,11 @@
 ---
 title: "Bayesian Hierarchical Models in Ecology"
 author: "Steve Midway"
-date: "2019-08-27T00:56:47Z"
+date: "2019-08-28T03:50:53Z"
 tags: [Bayesian, Models, Ecology, Course]
 link: "https://bookdown.org/steve_midway/BHME/"
-length_weight: "11.3%"
+length_weight: "12.4%"
 pinned: false
 ---
 
-This is a book that is build on lectures from a course of the same name. [...] Welcome to the Bayesian Hierarchical Models in Ecology. To start, let’s calrify the title of this text—it should be Hierarchical Models in Ecology Using Bayesian Inference. A Bayesian Hierarchical Model is more a term of convenience than accuracy, as hierarchical models need not be Bayesian and Bayesian models can take many forms. However, hierarchical models and Bayesian inference do work together very nicely, as you will see, and so hopefully the title is not too misleading. In creating this course and format, I ...
+This is a book that is build on lectures from a course of the same name. [...] Welcome to Bayesian Hierarchical Models in Ecology. This is an ebook that is also serving as the course materials for a graduate class of the same name. There will be numerous and on-going changes to this book, so please check back. And don’t hesistate to email me if you have questions, comments, or for anything else. To start, let’s calrify the title of this text—it should be Hierarchical Models in Ecology Using Bayesian Inference. A Bayesian Hierarchical Model is more a term of convenience than accuracy, as ...
