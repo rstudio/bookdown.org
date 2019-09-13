@@ -4,6 +4,7 @@ https://b-rodrigues.github.io/fput/
 https://b-rodrigues.github.io/modern_R/
 https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/
 https://becarioprecario.bitbucket.io/spde-gitbook/
+https://brian.weatherson.org/gutenberg-files/humedialogues/
 https://carrknight.github.io/poseidon/tutorial/
 https://chabefer.github.io/STCI/
 https://christophm.github.io/interpretable-ml-book/
