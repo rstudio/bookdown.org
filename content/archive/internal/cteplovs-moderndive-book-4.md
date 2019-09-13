@@ -1,9 +1,9 @@
 ---
 title: "Statistical Inference via Data Science"
 author: "Chester Ismay, Albert Y. Kim, and Chris Teplovs"
-date: "2019-08-20T19:06:50Z"
+date: "2019-08-30T18:34:18Z"
 tags: [Data Science, Textbook, Tidyverse]
-link: "https://bookdown.org/cteplovs/moderndive_book/"
+link: "https://bookdown.org/cteplovs/moderndive_book_4/"
 length_weight: "100%"
 cover: "https://moderndive.com/images/logos/book_cover.png"
 repo: "moderndive/moderndive_book"

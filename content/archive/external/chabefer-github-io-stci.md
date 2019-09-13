@@ -1,9 +1,9 @@
 ---
 title: "Statistical Tools for Causal Inference"
 author: "The SKY Community"
-date: "2019-08-25"
+date: "2019-09-13"
 link: "https://chabefer.github.io/STCI/"
-length_weight: "15.2%"
+length_weight: "17.6%"
 repo: "chabefer/STCI"
 pinned: false
 ---
@@ -18,6 +18,5 @@ This is an open source collaborative book. [...] $$
 \newcommand{\plims}{\text{plim}}
 \newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
 \DeclareMathOperator{\diag}{diag}
-$$ a.sourceLine { display: inline-block; line-height: 1.25; }
-a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
-a.sourceLine:empty { height:  ...
+$$ div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode { margin: 0; padding: 0; vertical-align: baseline; border: none; ...

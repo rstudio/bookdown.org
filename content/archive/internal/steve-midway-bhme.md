@@ -1,10 +1,10 @@
 ---
 title: "Bayesian Hierarchical Models in Ecology"
 author: "Steve Midway"
-date: "2019-08-28T03:50:53Z"
+date: "2019-09-09T18:30:32Z"
 tags: [Bayesian, Models, Ecology, Course]
 link: "https://bookdown.org/steve_midway/BHME/"
-length_weight: "12.4%"
+length_weight: "17%"
 pinned: false
 ---
 

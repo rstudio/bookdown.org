@@ -1,10 +1,10 @@
 ---
 title: "The Open Quant Live Book"
 author: "OpenQuants.com"
-date: "2019-08-27T02:11:50Z"
+date: "2019-09-03T02:44:51Z"
 tags: [Data Analysis, Machine Learning, Guide]
 link: "https://bookdown.org/souzatharsis/open-quant-live-book/"
-length_weight: "19.1%"
+length_weight: "21.8%"
 cover: "https://bookdown.org/souzatharsis/open-quant-live-book/./fig/cover.jpg"
 repo: "souzatharsis/open-quant-live-book"
 pinned: false

@@ -1,9 +1,9 @@
 ---
 title: "e-Business"
 author: "Robert Batzinger"
-date: "2019-06-25T09:00:18Z"
+date: "2019-09-04T22:19:58Z"
 link: "https://bookdown.org/rbatzing/ebusiness/"
-length_weight: "24.5%"
+length_weight: "24.2%"
 repo: "rbatzing/ebusiness"
 pinned: false
 ---

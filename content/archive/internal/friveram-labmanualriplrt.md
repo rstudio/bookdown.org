@@ -1,11 +1,11 @@
 ---
-title: "Lab Manual for the RIPL_Effect Research Team (RIPLRT)"
-author: "Authors: The RIPL_Effect Research Team"
-date: "2019-05-27T19:41:59Z"
-tags: [Population Health, Data Analysis]
+title: "Lab Manual for the Respiratory and Immunology Project and Laboratory Research Team (RIPLRT)"
+author: "Authors: The RIPLRT"
+date: "2019-09-04T03:01:43Z"
+tags: [Guide]
 link: "https://bookdown.org/friveram/labmanualriplrt/"
-length_weight: "11.6%"
+length_weight: "12.9%"
 pinned: false
 ---
 
-This book constitute the lab manual for the RIPL_Effect Research Team (RIPLRT). The output format for this example is bookdown::gitbook. [...] It looks like you recently joined the RIPL (Respiratory and Immunology Project) Effect Research Lab at Larkin University College of Biomedical Sciences. That’s great! We’re really glad to have you here, and will do what we can to make your time in the lab amazing. We hope you’ll learn a lot about respiratory health and immunology (also population health), develop new skills (coding, data analysis, writing, giving talks), make new friends, and have a ...
+This book constitute the lab manual for the RIPL_Effect Research Team (RIPLRT). The output format for this example is bookdown::gitbook. [...] Welcome to the RIPLRT RIPLRT (Respiratory and Immunology Project and Laboratory Research Team) at Larkin University College of Biomedical Sciences. If you are reading this lab manual because you recently joined the RIPLRT, welcome! If you are a current member of the RIPLRT, frequently refer to our lab manual to refresh our guidelines, policies, platforms, among others. We also look forward to immerse you in different learning experiences, such as in ...

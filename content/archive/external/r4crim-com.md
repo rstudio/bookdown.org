@@ -1,7 +1,7 @@
 ---
 title: "R for Criminology"
 author: "Jacob Kaplan"
-date: "2019-08-27"
+date: "2019-09-01"
 link: "https://r4crim.com/"
 length_weight: "23.5%"
 repo: "jacobkap/r4crim"

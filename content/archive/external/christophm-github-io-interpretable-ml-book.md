@@ -1,10 +1,10 @@
 ---
 title: "Interpretable Machine Learning"
 author: "Christoph Molnar"
-date: "2019-08-27"
+date: "2019-09-07"
 tags: [Machine Learning, Guide, Models]
 link: "https://christophm.github.io/interpretable-ml-book/"
-length_weight: "30.4%"
+length_weight: "31%"
 repo: "christophM/interpretable-ml-book"
 pinned: false
 ---
