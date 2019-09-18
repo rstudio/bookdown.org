@@ -1,10 +1,10 @@
 ---
 title: "Introduction to R"
 author: "Filip Wästberg"
-date: "2019-09-09T15:40:14Z"
+date: "2019-09-17T17:28:05Z"
 tags: [Package]
 link: "https://bookdown.org/content/2880/"
-length_weight: "27%"
+length_weight: "33.3%"
 pinned: false
 ---
 

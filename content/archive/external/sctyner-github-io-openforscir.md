@@ -1,7 +1,7 @@
 ---
 title: "Open Forensic Science in R"
 author: "Editor: Sam Tyner, Ph.D."
-date: "2019-08-02"
+date: "2019-09-17"
 tags: [Statistics]
 link: "https://sctyner.github.io/OpenForSciR/"
 length_weight: "19.5%"
