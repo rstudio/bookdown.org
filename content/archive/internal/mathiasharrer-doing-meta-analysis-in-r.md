@@ -1,7 +1,7 @@
 ---
 title: "Doing Meta-Analysis in R"
 author: "Mathias Harrer, B.Sc.¹, Prof. Dr. Pim Cuijpers², Prof. Dr. Toshi A. Furukawa³, Assoc. Prof. Dr. David D. Ebert²"
-date: "2019-09-06T07:59:52Z"
+date: "2019-09-20T13:47:22Z"
 tags: [Meta-Analysis, Guide, Psychology, Statistics]
 link: "https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/"
 length_weight: "100%"

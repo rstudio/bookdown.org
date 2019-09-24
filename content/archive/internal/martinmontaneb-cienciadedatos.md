@@ -3,7 +3,7 @@ title: "Ciencia de datos para curiosos"
 author: "Martin Montane"
 date: "2019-09-03T19:22:16Z"
 link: "https://bookdown.org/martinmontaneb/CienciaDeDatos/"
-length_weight: "42.2%"
+length_weight: "100%"
 cover: "https://bookdown.org/martinmontaneb/CienciaDeDatos/Figuras/GatoCurioso.png"
 pinned: false
 ---

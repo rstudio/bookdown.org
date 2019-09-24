@@ -1,10 +1,10 @@
 ---
 title: "Data Analysis for Psychology in R (dapR1) - Labs"
 author: "Department of Psychology, University of Edinburgh"
-date: "2019-09-18T11:20:50Z"
+date: "2019-09-22T13:38:12Z"
 tags: [Data Analysis, Psychology, Course, Statistics, Visualization]
 link: "https://bookdown.org/animestina/dapr1_labs/"
-length_weight: "10%"
+length_weight: "12.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

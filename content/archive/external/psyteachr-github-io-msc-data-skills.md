@@ -4,7 +4,7 @@ author: "psyteachr.github.io"
 date: "2019-08-19"
 tags: [Course, Tidy, Simulation, Models]
 link: "https://psyteachr.github.io/msc-data-skills/"
-length_weight: "6.3%"
+length_weight: "5.8%"
 pinned: false
 ---
 

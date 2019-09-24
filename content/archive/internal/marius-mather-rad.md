@@ -1,9 +1,9 @@
 ---
 title: "Rad: R for academics"
 author: "Marius Mather"
-date: "2019-09-12T23:41:52Z"
+date: "2019-09-23T04:01:58Z"
 link: "https://bookdown.org/marius_mather/Rad/"
-length_weight: "21.3%"
+length_weight: "24.2%"
 cover: "https://bookdown.org/marius_mather/Rad/Images/Cover.png"
 pinned: false
 ---

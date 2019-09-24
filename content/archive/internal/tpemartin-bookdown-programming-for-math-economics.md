@@ -1,10 +1,10 @@
 ---
 title: "經濟數學程式設計專題"
 author: "國立臺北大學 林茂廷老師"
-date: "2019-09-12T05:45:44Z"
+date: "2019-09-19T09:32:48Z"
 tags: [Package, Python]
 link: "https://bookdown.org/tpemartin/bookdown-programming-for-math-economics/"
-length_weight: "4.7%"
+length_weight: "11.8%"
 pinned: false
 ---
 

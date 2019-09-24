@@ -1,10 +1,10 @@
 ---
-title: "R for Criminology"
+title: "Crime by the Numbers"
 author: "Jacob Kaplan"
-date: "2019-09-01"
+date: "2019-09-23"
 link: "https://r4crim.com/"
-length_weight: "23.5%"
-repo: "jacobkap/r4crim"
+length_weight: "21.3%"
+repo: "jacobkap/crimebythenumbers"
 pinned: false
 ---
 

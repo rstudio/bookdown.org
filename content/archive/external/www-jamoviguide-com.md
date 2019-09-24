@@ -1,10 +1,10 @@
 ---
 title: "The jamovi quickstart guide"
 author: "Jonas Rafi"
-date: "2019-06-04"
+date: "2019-09-24"
 tags: [Guide, Tutorial]
 link: "https://www.jamoviguide.com/"
-length_weight: "6.6%"
+length_weight: "7.3%"
 repo: "jRafi/jamoviguide.com"
 pinned: false
 ---
