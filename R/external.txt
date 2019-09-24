@@ -20,6 +20,7 @@ https://fg2re.sellorm.com/
 https://geanders.github.io/navy_public_health/
 https://gvwilson.github.io/tidynomicon/
 https://info201.github.io/
+https://jamoviguiden.se/
 https://jokergoo.github.io/ComplexHeatmap-reference/book/
 https://jonathanweisberg.org/vip/
 https://jrnold.github.io/r4ds-exercise-solutions/
