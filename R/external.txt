@@ -58,6 +58,7 @@ https://rubenfcasal.github.io/bookdown_intro/
 https://sctyner.github.io/OpenForSciR/
 https://soilmapper.org/
 https://steverxd.github.io/Stat_tests/
+https://thesis.earo.me/
 https://thinkstats.org/
 https://tidyeval.tidyverse.org/
 https://timtrice.github.io/backtesting-strategies/
