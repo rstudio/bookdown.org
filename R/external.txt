@@ -1,4 +1,5 @@
 https://advanced-r-solutions.rbind.io/
+https://agailloty.github.io/suicide-evolution/
 https://argoshare.is.ed.ac.uk/healthyr_book/
 https://b-rodrigues.github.io/fput/
 https://b-rodrigues.github.io/modern_R/
@@ -10,12 +11,14 @@ https://chabefer.github.io/STCI/
 https://christophm.github.io/interpretable-ml-book/
 https://claut.gitlab.io/man_ccia/
 https://coleridge-initiative.github.io/big-data-and-social-science/
+https://compgenomr.github.io/book/
 https://cookdown.ellisvalentiner.com/
 https://datasciencepractice.study/
 https://dzchilds.github.io/eda-for-bio/
 https://edav.info/
 https://edwinth.github.io/AMLwR/
 https://envirometrix.github.io/PredictiveSoilMapping/
+https://f0nzie.github.io/rtorch-minimal-book/
 https://fg2re.sellorm.com/
 https://geanders.github.io/navy_public_health/
 https://gvwilson.github.io/tidynomicon/
@@ -48,6 +51,7 @@ https://physikbuch.schule/
 https://plotly-book.cpsievert.me/
 https://privefl.github.io/advr38book/
 https://psyteachr.github.io/msc-data-skills/
+https://r-spatial.org/book/
 https://r4crim.com/
 https://rachaellappan.github.io/16S-analysis/
 https://rafalab.github.io/dsbook/
