@@ -58,6 +58,7 @@ https://rafalab.github.io/dsbook/
 https://rkabacoff.github.io/datavis/
 https://rmd4sci.njtierney.com/
 https://ropensci.github.io/dev_guide/
+https://rpsystats.com/
 https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
 https://sctyner.github.io/OpenForSciR/
