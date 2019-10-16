@@ -1,9 +1,9 @@
 ---
 title: "Kursmaterial till Certifierad Data Scientist"
 author: "Ferrologic"
-date: "2019-03-12T12:51:22Z"
+date: "2019-10-14T11:48:50Z"
 tags: [Data Science]
-link: "https://bookdown.org/content/2395/"
+link: "https://bookdown.org/content/3137/"
 length_weight: "14.9%"
 pinned: false
 ---

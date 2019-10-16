@@ -1,7 +1,7 @@
 ---
 title: "Réalisation de Mini Projets R"
 author: "content"
-date: "2019-09-10T15:43:00Z"
+date: "2019-09-26T21:27:50Z"
 tags: [Tidyverse]
 link: "https://bookdown.org/content/2957/"
 length_weight: "24.4%"

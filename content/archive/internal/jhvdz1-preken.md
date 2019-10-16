@@ -1,9 +1,9 @@
 ---
 title: "Preken"
 author: "JHvdZ"
-date: "2019-09-15T06:26:00Z"
+date: "2019-10-05T19:30:48Z"
 link: "https://bookdown.org/jhvdz1/preken/"
-length_weight: "13.4%"
+length_weight: "15.4%"
 pinned: false
 ---
 

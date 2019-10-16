@@ -1,10 +1,10 @@
 ---
 title: "Text as Data para Ciências Sociais"
 author: "Davi Moreira"
-date: "2019-08-25T20:05:05Z"
+date: "2019-10-08T21:14:26Z"
 tags: [Tutorial]
 link: "https://bookdown.org/davi_moreira/txt4cs/"
-length_weight: "7.9%"
+length_weight: "13.4%"
 pinned: false
 ---
 

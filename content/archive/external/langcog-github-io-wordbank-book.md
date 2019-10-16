@@ -3,7 +3,7 @@ title: "Variability and Consistency in Early Language Learning"
 author: "Michael Frank, Mika Braginsky, Virginia Marchman, and Daniel Yurovsky"
 date: ""
 link: "https://langcog.github.io/wordbank-book/"
-length_weight: "29.7%"
+length_weight: "8.2%"
 repo: "langcog/wordbank-book"
 pinned: false
 ---

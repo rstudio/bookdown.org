@@ -1,7 +1,7 @@
 ---
 title: "jamoviguiden"
 author: "Jonas Rafi"
-date: "2019-09-24"
+date: "2019-10-02"
 tags: [Guide]
 link: "https://jamoviguiden.se/"
 length_weight: "7.3%"

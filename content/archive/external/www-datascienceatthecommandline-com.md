@@ -1,7 +1,7 @@
 ---
 title: "Data Science at the Command Line"
 author: "Jeroen Janssens"
-date: "2019-08-16"
+date: "2019-10-15"
 tags: [Data Science, Guide]
 link: "https://www.datascienceatthecommandline.com/"
 length_weight: "21.9%"
