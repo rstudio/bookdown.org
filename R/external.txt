@@ -16,6 +16,7 @@ https://cookdown.ellisvalentiner.com/
 https://datasciencepractice.study/
 https://dzchilds.github.io/eda-for-bio/
 https://edav.info/
+https://edwinth.github.io/ADSwR/
 https://edwinth.github.io/AMLwR/
 https://envirometrix.github.io/PredictiveSoilMapping/
 https://f0nzie.github.io/rtorch-minimal-book/
