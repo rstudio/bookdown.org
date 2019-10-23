@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Probability and Simulation"
 author: "Kevin Ross"
-date: "2019-10-15T07:10:38Z"
+date: "2019-10-16T22:10:39Z"
 tags: [Simulation, Textbook, Package, Python, Github, Models]
 link: "https://bookdown.org/kevin_davisross/probbook/"
 length_weight: "100%"

@@ -1,10 +1,10 @@
 ---
 title: "Lecture Notes for Project Management"
 author: "B. Depaire"
-date: "2019-10-06T19:34:36Z"
+date: "2019-10-22T07:57:48Z"
 tags: [Course]
 link: "https://bookdown.org/content/1785/"
-length_weight: "14%"
+length_weight: "16.7%"
 pinned: false
 ---
 

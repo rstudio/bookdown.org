@@ -1,10 +1,10 @@
 ---
-title: "心理学读书笔记"
-author: "R语言讨论小组"
-date: "2019-10-16T14:05:19Z"
+title: "R语言在心理学中的应用"
+author: "R语言学习小组"
+date: "2019-10-19T09:11:33Z"
 tags: [笔记, R Markdown, Package]
 link: "https://bookdown.org/wangminjie/R4psy/"
-length_weight: "11.3%"
+length_weight: "12.1%"
 repo: "ybj2004/bookdown_ds4psy"
 pinned: false
 ---

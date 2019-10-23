@@ -1,7 +1,7 @@
 ---
 title: "Contributing to GNU R"
 author: "Lionel Henry"
-date: "2019-09-20T16:42:12Z"
+date: "2019-10-19T11:20:28Z"
 tags: [Guide]
 link: "https://bookdown.org/lionel/contributing/"
 length_weight: "10.2%"

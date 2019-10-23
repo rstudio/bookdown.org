@@ -1,9 +1,9 @@
 ---
 title: "进阶 R 图形"
 author: "Maxine"
-date: "2019-10-12T10:23:42Z"
-link: "https://bookdown.org/Maxine/advanced_r/"
-length_weight: "16.7%"
+date: "2019-10-20T15:41:06Z"
+link: "https://bookdown.org/Maxine/advanced_plot2/"
+length_weight: "17.7%"
 pinned: false
 ---
 

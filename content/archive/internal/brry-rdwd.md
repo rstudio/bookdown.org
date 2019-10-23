@@ -1,10 +1,10 @@
 ---
 title: "rdwd"
 author: "Berry Boessenkool, berry-b@gmx.de"
-date: "2019-10-14T20:48:27Z"
+date: "2019-10-17T19:29:52Z"
 tags: [Package, Github]
 link: "https://bookdown.org/brry/rdwd/"
-length_weight: "13.6%"
+length_weight: "14.3%"
 pinned: false
 ---
 

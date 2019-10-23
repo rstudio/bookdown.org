@@ -1,10 +1,10 @@
 ---
 title: "PostgreSQL Explained for R-Users and R-Programmers"
 author: "Ben Gonzalez"
-date: "2019-10-14T18:02:08Z"
+date: "2019-10-18T21:38:50Z"
 tags: [Package, Github]
 link: "https://bookdown.org/gonzalezben81/SQLQueries/"
-length_weight: "13.4%"
+length_weight: "13.7%"
 pinned: false
 ---
 

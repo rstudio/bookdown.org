@@ -1,9 +1,9 @@
 ---
 title: "An Introduction to Acceptance Sampling and SPC with R"
 author: "John Lawson"
-date: "2019-10-14T16:05:24Z"
+date: "2019-10-18T15:31:10Z"
 tags: [Statistics]
-link: "https://bookdown.org/lawson/an_introduction_to_acceptance_sampling_and_spc_with_r11/"
+link: "https://bookdown.org/lawson/an_introduction_to_acceptance_sampling_and_spc_with_r12/"
 length_weight: "40.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false

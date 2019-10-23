@@ -1,10 +1,10 @@
 ---
 title: "可视化软件工具与应用 课程作业"
 author: "闫求识"
-date: "2019-10-16T17:16:01Z"
+date: "2019-10-23T15:07:30Z"
 tags: [Github, Data Science]
 link: "https://bookdown.org/Maxine/cuc-dataviz-/"
-length_weight: "12.2%"
+length_weight: "12.5%"
 pinned: false
 ---
 
