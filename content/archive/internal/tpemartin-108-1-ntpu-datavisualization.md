@@ -1,10 +1,10 @@
 ---
 title: "課程介紹 | ntpu-datavisualization.utf8.md"
 author: "tpemartin"
-date: "2019-10-23T05:49:00Z"
+date: "2019-10-30T04:35:45Z"
 tags: [Visualization, Course, R Programming, Data Science]
 link: "https://bookdown.org/tpemartin/108-1-ntpu-datavisualization/"
-length_weight: "17.4%"
+length_weight: "7%"
 pinned: false
 ---
 

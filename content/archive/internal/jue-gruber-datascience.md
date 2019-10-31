@@ -1,7 +1,7 @@
 ---
 title: "Data Science für Klein- und Mittelbetriebe"
 author: "Jürgen Gruber"
-date: "2019-04-24T19:34:35Z"
+date: "2019-10-27T09:42:04Z"
 tags: [Data Science]
 link: "https://bookdown.org/jue_gruber/datascience/"
 length_weight: "4.1%"

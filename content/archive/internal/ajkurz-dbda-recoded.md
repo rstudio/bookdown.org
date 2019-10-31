@@ -1,10 +1,10 @@
 ---
 title: "Doing Bayesian Data Analysis in brms and the tidyverse"
 author: "A Solomon Kurz"
-date: "2019-10-19T19:19:47Z"
+date: "2019-10-28T13:44:48Z"
 tags: [Bayesian, Data Analysis, Tidyverse, Textbook, Models, ggplot2, Package]
 link: "https://bookdown.org/ajkurz/DBDA_recoded/"
-length_weight: "25%"
+length_weight: "100%"
 repo: "ASKurz/Doing-Bayesian-Data-Analysis-in-brms-and-the-tidyverse"
 pinned: false
 ---
