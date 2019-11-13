@@ -5,6 +5,7 @@ https://b-rodrigues.github.io/fput/
 https://b-rodrigues.github.io/modern_R/
 https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/
 https://becarioprecario.bitbucket.io/spde-gitbook/
+https://bradleyboehmke.github.io/HOML/
 https://brian.weatherson.org/gutenberg-files/humedialogues/
 https://carrknight.github.io/poseidon/tutorial/
 https://chabefer.github.io/STCI/
@@ -25,6 +26,7 @@ https://geanders.github.io/navy_public_health/
 https://gvwilson.github.io/tidynomicon/
 https://info201.github.io/
 https://jamoviguiden.se/
+https://jazznbass.github.io/scan-Book/
 https://jokergoo.github.io/ComplexHeatmap-reference/book/
 https://jonathanweisberg.org/vip/
 https://jrnold.github.io/r4ds-exercise-solutions/
@@ -74,6 +76,7 @@ https://twinetbook.john-coene.com/
 https://ulyngs.github.io/cog-design-space-ict-self-control/
 https://vcris.dhr.virginia.gov/vcris/help/
 https://wangcc.me/LSHTMlearningnote/
+https://www.econometrics-with-r.org/
 https://www.gastonsanchez.com/r4strings/
 https://www.jamoviguide.com/
 https://www.masteringdfsanalytics.com/
