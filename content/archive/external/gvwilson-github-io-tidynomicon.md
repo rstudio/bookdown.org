@@ -1,6 +1,6 @@
 ---
 title: "The Tidynomicon"
-author: "Greg Wilson"
+author: "Dhavide Aruliah and Greg Wilson"
 date: ""
 tags: [Tidy, Guide, Python, R Programming]
 link: "https://gvwilson.github.io/tidynomicon/"

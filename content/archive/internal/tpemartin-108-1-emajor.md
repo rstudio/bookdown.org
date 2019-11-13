@@ -1,10 +1,10 @@
 ---
 title: "資料科學程式設計–進階"
 author: "國立臺北大學 林茂廷老師"
-date: "2019-10-29T04:16:43Z"
+date: "2019-11-01T05:14:44Z"
 tags: [Package]
 link: "https://bookdown.org/tpemartin/108-1-emajor/"
-length_weight: "11.6%"
+length_weight: "11.7%"
 pinned: false
 ---
 

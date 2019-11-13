@@ -5,7 +5,6 @@ date: ""
 tags: [Statistics, Psychology, Course]
 link: "https://rpsystats.com/"
 length_weight: "11.7%"
-cover: "https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/cover.png"
 repo: "epongpipat/practical-ext-of-intro-stats-in-psy-using-R"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Réalisation de Mini Projets R"
 author: "content"
-date: "2019-09-26T21:27:50Z"
+date: "2019-11-12T19:00:12Z"
 tags: [Tidyverse]
 link: "https://bookdown.org/content/2957/"
-length_weight: "24.4%"
+length_weight: "26.4%"
 repo: "https://github.com/LamineDiamban/BlogDiamban.git"
 pinned: false
 ---

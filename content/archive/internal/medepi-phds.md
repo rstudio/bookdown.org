@@ -4,7 +4,7 @@ author: "Tomás J. Aragón"
 date: "2017-08-27T05:19:59Z"
 tags: [Population Health, Data Science, Statistical Computing, Epidemiology]
 link: "https://bookdown.org/medepi/phds/"
-length_weight: "42.2%"
+length_weight: "100%"
 pinned: false
 ---
 
