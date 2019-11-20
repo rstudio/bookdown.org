@@ -1,9 +1,9 @@
 ---
 title: "Modelltheoretische Grundlagen wirtschaftspolitischer Kontroversen"
 author: "mgwkshiny"
-date: "2019-10-10T12:27:19Z"
-link: "https://bookdown.org/mgwkshiny/mgwk5/"
-length_weight: "34.4%"
+date: "2019-11-14T16:46:37Z"
+link: "https://bookdown.org/mgwkshiny/mgwk6/"
+length_weight: "35%"
 pinned: false
 ---
 

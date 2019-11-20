@@ -5,7 +5,7 @@ date: "2019-06-10"
 tags: [Guide, Package, Data Science]
 link: "https://therinspark.com/"
 length_weight: "27.8%"
-cover: "https://therinspark.s3-us-west-2.amazonaws.com/mastering-spark-with-r.png"
+cover: "https://therinspark.com/mastering-spark-with-r.png"
 repo: "javierluraschi/the-r-in-spark"
 pinned: false
 ---
