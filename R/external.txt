@@ -20,6 +20,7 @@ https://edav.info/
 https://edwinth.github.io/ADSwR/
 https://edwinth.github.io/AMLwR/
 https://envirometrix.github.io/PredictiveSoilMapping/
+https://est-mult.netlify.com/
 https://f0nzie.github.io/rtorch-minimal-book/
 https://fg2re.sellorm.com/
 https://geanders.github.io/navy_public_health/
