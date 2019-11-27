@@ -1,9 +1,9 @@
 ---
 title: "Statistical Tools for Causal Inference"
 author: "The SKY Community"
-date: "2019-11-19"
+date: "2019-11-21"
 link: "https://chabefer.github.io/STCI/"
-length_weight: "23%"
+length_weight: "23.1%"
 repo: "chabefer/STCI"
 pinned: false
 ---
