@@ -68,10 +68,10 @@ https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
 https://sctyner.github.io/OpenForSciR/
 https://soilmapper.org/
+https://statsthinking21.org/
 https://steverxd.github.io/Stat_tests/
 https://therinspark.com/
 https://thesis.earo.me/
-https://thinkstats.org/
 https://tidyeval.tidyverse.org/
 https://timtrice.github.io/backtesting-strategies/
 https://twinetbook.john-coene.com/
