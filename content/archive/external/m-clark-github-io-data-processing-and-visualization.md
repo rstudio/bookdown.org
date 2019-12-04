@@ -1,10 +1,10 @@
 ---
 title: "Data Processing & Visualization"
 author: "Michael Clark"
-date: "2019-11-21"
+date: "2019-12-03"
 tags: [Visualization, Tidyverse, Package, ggplot2, Python]
 link: "https://m-clark.github.io/data-processing-and-visualization/"
-length_weight: "19.1%"
+length_weight: "19.6%"
 cover: "https://m-clark.github.io/data-processing-and-visualization/img/nineteeneightyR.png"
 repo: "m-clark/data-processing-and-visualization"
 pinned: false
