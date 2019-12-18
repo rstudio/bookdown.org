@@ -1,13 +1,12 @@
 ---
 title: "Aprender R: iniciación y perfeccionamiento"
 author: "François Rebaudo"
-date: "2019-04-10"
-tags: [Github]
+date: "2019-12-12"
 link: "https://myrbooksp.netlify.com/"
-length_weight: "18.4%"
+length_weight: "19.1%"
 cover: "https://myrbooksp.netlify.com/myFigures/cover.png"
 repo: "frareb/myRBook_SP"
 pinned: false
 ---
 
-Un guía para adquirir las bases de la programación con R y conducir de forma efectiva su gestión y análisis de datos. [...] Este libro está diseñado para actualizarse de acuerdo con las nuevas características de R y según la disponibilidad de sus colaboradores. Es un libro de colaboración, así que siéntase libre de compartir sus comentarios o colaborar directamente para mejorarlo. Si tiene algún comentario, sugerencia o si identifica errores, no dude en enviarme un correo electrónico (francois.rebaudo@ird.fr), o si está familiarizado con GitHub en el sitio web del proyecto ...
+Un guía para adquirir las bases de la programación con R y conducir de forma efectiva su gestión y análisis de datos. [...] Agradezco a todos los colaboradores que ayudaron a mejorar este libro con sus consejos, sugerencias de cambios y correcciones (en orden alfabético): Las versiones de gitbook, html y epub de este libro usan los iconos de fuente abierta de Font Awesome (https://fontawesome.com). La versión en PDF utiliza los iconos del proyecto Tango disponibles en openclipart (https://openclipart.org/). Este libro fue escrito con el paquete R bookdown (https://bookdown.org/). El código ...

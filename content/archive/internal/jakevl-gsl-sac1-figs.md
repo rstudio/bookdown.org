@@ -1,9 +1,9 @@
 ---
 title: "GSL causeway and salinity"
 author: "Jake Vander Laan (jvander@utah.gov), Utah Division of Water Quality"
-date: "2019-11-12T18:40:54Z"
+date: "2019-12-06T21:07:57Z"
 link: "https://bookdown.org/jakevl/gsl-sac1-figs/"
-length_weight: "8.8%"
+length_weight: "10%"
 pinned: false
 ---
 

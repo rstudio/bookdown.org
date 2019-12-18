@@ -15,6 +15,7 @@ https://coleridge-initiative.github.io/big-data-and-social-science/
 https://compgenomr.github.io/book/
 https://cookdown.ellisvalentiner.com/
 https://datasciencepractice.study/
+https://davidjohnbaker1.github.io/document/
 https://dzchilds.github.io/eda-for-bio/
 https://edav.info/
 https://edwinth.github.io/ADSwR/

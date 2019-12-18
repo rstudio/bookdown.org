@@ -1,10 +1,10 @@
 ---
 title: "Utah IR R tools user guide"
 author: "UDWQ Integrated report team"
-date: "2019-10-04T22:39:14Z"
+date: "2019-12-12T22:01:28Z"
 tags: [Guide, Package]
 link: "https://bookdown.org/jakevl/IR-R-tools-guide/"
-length_weight: "12.6%"
+length_weight: "13.1%"
 pinned: false
 ---
 
