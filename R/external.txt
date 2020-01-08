@@ -67,8 +67,10 @@ https://ropensci.github.io/dev_guide/
 https://rpsystats.com/
 https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
+https://rud.is/books/writing-frictionless-r-package-wrappers/
 https://sctyner.github.io/OpenForSciR/
 https://soilmapper.org/
+https://sparkfromr.com/
 https://statsthinking21.org/
 https://steverxd.github.io/Stat_tests/
 https://therinspark.com/
