@@ -1,10 +1,10 @@
 ---
 title: "数据科学中的 R 语言"
 author: "王敏杰"
-date: "2019-12-18T07:53:37Z"
+date: "2019-12-23T06:51:19Z"
 tags: [数据科学]
 link: "https://bookdown.org/wangminjie/R4DS/"
-length_weight: "31.4%"
+length_weight: "33%"
 repo: "perlatex/r_for_data_science"
 pinned: false
 ---

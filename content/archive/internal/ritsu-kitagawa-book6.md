@@ -1,9 +1,9 @@
 ---
 title: "『Rによる原因を推論する』"
 author: "北川 梨津，原 健人"
-date: "2019-12-17T13:31:45Z"
+date: "2019-12-21T12:07:24Z"
 link: "https://bookdown.org/ritsu_kitagawa/_book6/"
-length_weight: "17.7%"
+length_weight: "20.5%"
 cover: "https://bookdown.org/ritsu_kitagawa/_book6/gennin.png"
 repo: "rstudio/bookdown-demo"
 pinned: false

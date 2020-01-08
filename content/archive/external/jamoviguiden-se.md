@@ -1,13 +1,12 @@
 ---
 title: "jamoviguiden"
 author: "Jonas Rafi"
-date: "2019-10-02"
-tags: [Guide]
+date: "2020-01-05"
+tags: [Guide, Statistics, Psychology]
 link: "https://jamoviguiden.se/"
 length_weight: "7.3%"
 repo: "jRafi/jamoviguiden"
 pinned: false
 ---
 
-Lär dig göra independent samples t-test, paired samples t-test, one sample t-test, ANOVA, repeated measures ANOVA, factorial ANOVA, mixed ANOVA, linear regression, och logistic regression i jamovi. jamoviguiden innehåller även avsnitt om csv-filer och skalnivåer. [...] Jamoviguiden innehåller korta, lättillgängliga guider (med bilder!) över vanliga procedurer i jamovi.
-För att hålla innehållet kort så beskrivs inget (eller lite) om antaganden bakom statistiska tester eller hur resultaten ska tolkas. När du väl kommit igång är det ofta enkelt att utforska vidare på egen hand. Vill du lära dig ...
+Lär dig göra independent samples t-test, paired samples t-test, one sample t-test, ANOVA, repeated measures ANOVA, factorial ANOVA, mixed ANOVA, linear regression, och logistic regression i jamovi. jamoviguiden innehåller även avsnitt om csv-filer och skalnivåer. [...] Syftet med jamoviguiden är att tillhandahålla snabbstartsguider över vanliga procedurer i jamovi. För dig som söker en grundläggade introduktion till både statistik och jamovi rekommenderar jag gratisboken Learning statistics with jamovi av Danielle J. Navarro och David R. Foxcroft. jonas.rafi <at > psychology.su.se. Detta verk  ...

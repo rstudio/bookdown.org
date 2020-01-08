@@ -1,10 +1,10 @@
 ---
 title: "R Markdown Cookbook"
 author: "Yihui Xie"
-date: "2019-11-27T19:57:09Z"
+date: "2020-01-07T23:16:57Z"
 tags: [R Markdown, Github, Package]
 link: "https://bookdown.org/yihui/rmarkdown-cookbook/"
-length_weight: "32.3%"
+length_weight: "33.1%"
 repo: "yihui/rmarkdown-cookbook"
 pinned: false
 ---

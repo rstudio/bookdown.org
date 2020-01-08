@@ -1,10 +1,10 @@
 ---
 title: "Predictive Models: Explore, Explain, and Debug"
 author: "Przemyslaw Biecek and Tomasz Burzykowski"
-date: "2019-12-10"
+date: "2020-01-06"
 tags: [Predictive Model, Visualization]
 link: "https://pbiecek.github.io/PM_VEE/"
-length_weight: "22.1%"
+length_weight: "22.8%"
 repo: "pbiecek/PM_VEE"
 pinned: false
 ---

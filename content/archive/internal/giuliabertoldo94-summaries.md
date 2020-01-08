@@ -1,10 +1,10 @@
 ---
 title: "Summaries of my readings"
 author: "Giulia Bertoldo"
-date: "2019-11-26T09:21:43Z"
+date: "2019-12-26T13:22:23Z"
 tags: [Statistics, Guide]
 link: "https://bookdown.org/giuliabertoldo94/summaries/"
-length_weight: "22%"
+length_weight: "22.8%"
 pinned: false
 ---
 

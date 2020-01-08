@@ -1,10 +1,10 @@
 ---
 title: "数据分析残卷"
 author: "于淼"
-date: "2019-11-25T23:29:30Z"
+date: "2020-01-02T23:23:53Z"
 tags: [数据分析, 笔记]
 link: "https://bookdown.org/yufree/datadown/"
-length_weight: "38.8%"
+length_weight: "38.5%"
 pinned: false
 ---
 

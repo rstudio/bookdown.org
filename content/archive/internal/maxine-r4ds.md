@@ -1,10 +1,10 @@
 ---
 title: "R for data science: tidyverse and beyond"
 author: "Maxine"
-date: "2019-12-17T08:18:39Z"
+date: "2020-01-07T08:38:42Z"
 tags: [Data Science, Tidyverse, 笔记, Advanced R, Tidy, Models]
 link: "https://bookdown.org/Maxine/r4ds/"
-length_weight: "41.6%"
+length_weight: "100%"
 repo: "enixam/rfordatascience"
 pinned: false
 ---

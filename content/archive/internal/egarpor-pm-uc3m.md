@@ -1,7 +1,7 @@
 ---
 title: "Notes for Predictive Modeling"
 author: "Eduardo García Portugués"
-date: "2019-12-17T21:01:56Z"
+date: "2019-12-31T12:38:31Z"
 tags: [Predictive Model, Course]
 link: "https://bookdown.org/egarpor/PM-UC3M/"
 length_weight: "100%"

@@ -1,10 +1,10 @@
 ---
-title: "經濟資料視覺化處理"
-author: "林茂廷, 國立臺北大學經濟學系"
-date: "2019-12-25T12:15:30Z"
-tags: [Course, R Programming, Data Science]
-link: "https://bookdown.org/tpemartin/108-1-ntpu-datavisualization/"
-length_weight: "27.3%"
+title: "課程介紹 | ntpu-datavisualization.utf8.md"
+author: "tpemartin"
+date: "2019-10-02T07:20:30Z"
+tags: [Visualization, Course, R Programming, Data Science]
+link: "https://bookdown.org/tpemartin/course-108-1-datavisualization/"
+length_weight: "12.4%"
 pinned: false
 ---
 
