@@ -1,9 +1,9 @@
 ---
 title: "Twitter for R programmers"
-author: "Oscar Baruffa"
-date: "2019-11-03T15:58:31Z"
+author: "Oscar Baruffa, Veerle van Son"
+date: "2020-02-03T12:15:32Z"
 link: "https://bookdown.org/oscar_baruffa/Book-Twitter-for-R/"
-length_weight: "7%"
+length_weight: "8.8%"
 pinned: false
 ---
 

@@ -1,12 +1,11 @@
 ---
-title: "Exam PA Study Manual"
+title: "ExamPA.net Study Manual"
 author: "Sam Castillo"
-date: "2019-11-12T13:28:17Z"
-tags: [Predictive Model]
+date: "2020-01-11T01:47:50Z"
+tags: [Guide, Data Science, Machine Learning, Models, Statistics]
 link: "https://bookdown.org/castillo_sam_d/Exam-PA-Study-Manual/"
-length_weight: "23%"
-repo: "sdcastillo/PA-R-Study-Manual"
+length_weight: "5.1%"
 pinned: false
 ---
 
-Exam PA Study Manual [...] While this book is viewable online, a PDF download, practice exams, and answers to exercises are available by subscribing to the Artificial Actuary Sam Castillo is a predictive modeler at Milliman in Chicago, has been using R for four years, and is the owner of artificialactuary.com, a blog focused on the future of risk. A special thanks to Erlan Wheeler and David Hill for contributing ideas for this manual. This book is constantly being improved by the community. Your suggested improvements can be added to this book easily. See the 20:00 mark of ...
+ExamPA.net Study Manual [...] This is the study guide for ExamPA.net. While meeting all of the learning requirements of Exam PA, this book gives you data science and machine learning training. You will learn how to get your data into R, clean it, visualize it, and use models to derive business value. Just as a scientist sets up lab experiments to form and test hypothesis, you’ll build models and then test them on holdout sets. The statistics is just the first phase, as you’ll also learn how to explain the results in easy-to-understand, non-technical business ...

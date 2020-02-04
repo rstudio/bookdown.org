@@ -214,7 +214,7 @@ books_metas = book_urls %>%
 
 books_to_keep = books_metas %>%
   # should have substantial content (> 2500 bytes)
-  filter(book_len == 0 | book_len > 2500) %>%
+  filter(book_len == 0 | book_len > 2500 | !grepl('^https://bookdown[.]org/', url)) %>%
   # remove possibly duplicated book by the same author (choose the latest)
   group_by(authors, title) %>%
   filter(is.na(date) | date == max(date)) %>%

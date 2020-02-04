@@ -1,10 +1,10 @@
 ---
 title: "Panduan Lengkap Analisis Statistika Menggunakan R Commander"
 author: "Mohammad Rosidi"
-date: "2020-01-07T15:18:00Z"
+date: "2020-01-25T08:13:52Z"
 tags: [Tutorial]
 link: "https://bookdown.org/moh_rosidi2610/Rcmdr-book/"
-length_weight: "20.3%"
+length_weight: "23.6%"
 cover: "https://bookdown.org/moh_rosidi2610/Rcmdr-book/images/cover.png"
 repo: "mohrosidi/Rcmdr-book"
 pinned: false

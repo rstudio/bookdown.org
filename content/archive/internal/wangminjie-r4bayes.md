@@ -1,11 +1,11 @@
 ---
 title: "贝叶斯数据分析"
 author: "王敏杰"
-date: "2020-01-01T04:22:33Z"
+date: "2020-01-10T00:51:19Z"
 tags: [数据分析, Tidyverse, 数据科学]
 link: "https://bookdown.org/wangminjie/R4bayes/"
-length_weight: "3.7%"
-repo: "perlatex/PsyStat"
+length_weight: "9.9%"
+repo: "perlatex/R4bayes"
 pinned: false
 ---
 

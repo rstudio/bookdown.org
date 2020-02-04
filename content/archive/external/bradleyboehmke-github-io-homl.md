@@ -1,10 +1,10 @@
 ---
 title: "Hands-On Machine Learning with R"
 author: "Bradley Boehmke & Brandon Greenwell"
-date: "2019-12-06"
+date: "2020-02-01"
 tags: [Machine Learning, Models, Package]
 link: "https://bradleyboehmke.github.io/HOML/"
-length_weight: "32.9%"
+length_weight: "33%"
 repo: "bradleyboehmke/hands-on-machine-learning-with-r"
 pinned: false
 ---

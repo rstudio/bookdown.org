@@ -1,7 +1,7 @@
 ---
 title: "Programación - Desarrollo de Aplicaciones Web"
 author: "Sergio Berdiales"
-date: "2019-10-23T14:18:36Z"
+date: "2020-01-21T18:39:01Z"
 tags: [Python]
 link: "https://bookdown.org/sergioberdiales/programacion_fpii_desarrollo_aplicaciones_web/"
 length_weight: "10%"
