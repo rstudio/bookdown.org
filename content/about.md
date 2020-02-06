@@ -6,7 +6,7 @@ The [**bookdown**](https://github.com/rstudio/bookdown) package is a free and op
 
 ## About bookdown.org
 
-The website bookdown.org is a service provided by [RStudio Inc.](https://www.rstudio.com) to host books. It is free for you to publish the static output files of your book, and you hold the full copyright of your own books. Please note that bookdown.org is based on [RStudio Connect](https://www.rstudio.com/products/connect/), so in theory you could publish any types of content here (single R Markdown reports, slides, dashboards, Shiny apps, and so on). However, we only support books here, and _reserve the right to stop serving and delete other types of content_ you publish to bookdown.org. Please consider using RStudio Connect, [ShinyApps.io](https://www.shinyapps.io), other hosting services, or your own server for publishing those types of content instead.
+The website bookdown.org is a service provided by [RStudio, PBC](https://www.rstudio.com) to host books. It is free for you to publish the static output files of your book, and you hold the full copyright of your own books. Please note that bookdown.org is based on [RStudio Connect](https://www.rstudio.com/products/connect/), so in theory you could publish any types of content here (single R Markdown reports, slides, dashboards, Shiny apps, and so on). However, we only support books here, and _reserve the right to stop serving and delete other types of content_ you publish to bookdown.org. Please consider using RStudio Connect, [ShinyApps.io](https://www.shinyapps.io), other hosting services, or your own server for publishing those types of content instead.
 
 ## Getting started
 
