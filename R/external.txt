@@ -31,6 +31,7 @@ https://info201.github.io/
 https://iqss.github.io/prefresher/
 https://jamoviguiden.se/
 https://jazznbass.github.io/scan-Book/
+https://jmumford.github.io/MixedModelSeries/
 https://jokergoo.github.io/ComplexHeatmap-reference/book/
 https://jonathanweisberg.org/vip/
 https://jrnold.github.io/r4ds-exercise-solutions/
