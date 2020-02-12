@@ -4,7 +4,7 @@ author: "Jozef Hajnala"
 date: "2020-01-03"
 tags: [Package]
 link: "https://sparkfromr.com/"
-length_weight: "22.8%"
+length_weight: "11.7%"
 pinned: false
 ---
 
