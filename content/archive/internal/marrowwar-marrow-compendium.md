@@ -1,10 +1,10 @@
 ---
 title: "Marrow’s Compendium of Dragonslaying"
 author: "Marrow , Heartseeker-US"
-date: "2019-12-23T20:09:31Z"
+date: "2020-02-09T18:08:57Z"
 tags: [Guide]
 link: "https://bookdown.org/marrowwar/marrow_compendium/"
-length_weight: "13.7%"
+length_weight: "14.1%"
 pinned: false
 ---
 

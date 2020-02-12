@@ -1,10 +1,10 @@
 ---
 title: "Nighttime Lights and Malaria in the Peruvian Amazon"
 author: "Gabriel Carrasco-Escobar"
-date: "2019-12-10T05:15:13Z"
+date: "2020-02-07T05:54:49Z"
 tags: [Epidemiology]
 link: "https://bookdown.org/gabc91/NL_MAL/"
-length_weight: "9.1%"
+length_weight: "10.9%"
 pinned: false
 ---
 

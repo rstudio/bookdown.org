@@ -1,10 +1,10 @@
 ---
 title: "Modélisation de la transmission du paludisme à échelle micro-géographique"
 author: "Paul Taconet"
-date: "2019-10-02T15:00:04Z"
+date: "2020-02-05T19:45:06Z"
 tags: [Package, Github]
 link: "https://bookdown.org/paul_taconet/malamodbook/"
-length_weight: "11.6%"
+length_weight: "12.6%"
 pinned: false
 ---
 

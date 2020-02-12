@@ -1,10 +1,10 @@
 ---
 title: "Crypto Research Paper Tutorial Outline"
 author: "Riccardo Esclapon"
-date: "2020-02-04T07:40:17Z"
+date: "2020-02-07T17:52:44Z"
 tags: [Tutorial, Package, Tidyverse]
 link: "https://bookdown.org/ries9112/crypto-research-paper-outline/"
-length_weight: "15.1%"
+length_weight: "18.8%"
 pinned: false
 ---
 

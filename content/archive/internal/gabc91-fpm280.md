@@ -1,7 +1,7 @@
 ---
 title: "FPM280B - Practicum"
 author: "Gabriel Carrasco-Escobar"
-date: "2020-01-26T08:52:26Z"
+date: "2020-02-11T22:36:55Z"
 link: "https://bookdown.org/gabc91/fpm280/"
 length_weight: "16%"
 pinned: false

@@ -1,9 +1,9 @@
 ---
 title: "Reproducible Miracle"
 author: "Gökmen Altay"
-date: "2020-01-26T20:53:11Z"
+date: "2020-02-12T03:47:40Z"
 link: "https://bookdown.org/gokmenaltay19/Quran19/"
-length_weight: "38.6%"
+length_weight: "39.3%"
 pinned: false
 ---
 
