@@ -53,6 +53,8 @@ https://mixomicsteam.github.io/Bookdown/
 https://myrbookfr.netlify.com/
 https://myrbooksp.netlify.com/
 https://nacnudus.github.io/spreadsheet-munging-strategies/
+https://osca.bioconductor.org/
+https://paleolimbot.github.io/physical-geology/
 https://pbiecek.github.io/ema/
 https://physikbuch.schule/
 https://plotly-book.cpsievert.me/
@@ -78,6 +80,7 @@ https://therinspark.com/
 https://thesis.earo.me/
 https://tidyeval.tidyverse.org/
 https://timtrice.github.io/backtesting-strategies/
+https://tlverse.org/tlverse-handbook/
 https://twinetbook.john-coene.com/
 https://ulyngs.github.io/cog-design-space-ict-self-control/
 https://vcris.dhr.virginia.gov/vcris/help/
