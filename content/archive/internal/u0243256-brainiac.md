@@ -1,9 +1,9 @@
 ---
 title: "Neuroimaging Protocols"
 author: "Naomi J. Goodrich-Hunsaker, Ph.D."
-date: "2020-02-11T14:48:58Z"
+date: "2020-02-14T17:22:29Z"
 link: "https://bookdown.org/u0243256/brainiac/"
-length_weight: "21.4%"
+length_weight: "21.5%"
 pinned: false
 ---
 

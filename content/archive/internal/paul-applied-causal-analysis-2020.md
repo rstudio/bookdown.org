@@ -1,10 +1,10 @@
 ---
 title: "Applied Causal Analysis with R"
 author: "Paul C. Bauer"
-date: "2020-02-12T08:39:54Z"
+date: "2020-02-19T08:48:38Z"
 tags: [Causal Analysis, Seminar]
 link: "https://bookdown.org/paul/applied-causal-analysis-2020/"
-length_weight: "38.6%"
+length_weight: "38.8%"
 pinned: false
 ---
 

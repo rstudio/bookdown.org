@@ -1,10 +1,10 @@
 ---
 title: "Predict Crypto Database Quick Start Guide"
 author: "Ricky Esclapon - riccardo.esclapon@colorado.edu"
-date: "2020-02-12T02:41:05Z"
+date: "2020-02-13T13:17:10Z"
 tags: [Guide]
 link: "https://bookdown.org/ries9112/predictcryptodatabasequickstart/"
-length_weight: "13.1%"
+length_weight: "13%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

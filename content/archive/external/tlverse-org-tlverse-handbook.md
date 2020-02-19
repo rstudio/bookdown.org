@@ -1,10 +1,10 @@
 ---
 title: "The Hitchhiker’s Guide to the tlverse"
 author: "Jeremy Coyle, Nima Hejazi, Ivana Malenica, Rachael Phillips, Alan Hubbard, Mark van der Laan"
-date: "2020-02-07"
+date: "2020-02-14"
 tags: [Guide, Github]
 link: "https://tlverse.org/tlverse-handbook/"
-length_weight: "14.2%"
+length_weight: "18.7%"
 repo: "tlverse/tlverse-handbook"
 pinned: false
 ---

@@ -1,0 +1,12 @@
+---
+title: "Strengthening the Reporting of Observational Studies in Epidemiology STROBE (STROBE) Educational Expansion"
+author: "Melissa K Sharp"
+date: "2020-02-14T14:56:13Z"
+tags: [Epidemiology, Education, Population Health]
+link: "https://bookdown.org/melissaksharp/strobe_eduexpansion/"
+length_weight: "32.4%"
+repo: "sharpmel/STROBECourse"
+pinned: false
+---
+
+This site is a public, open-source repository for epidemiological research methods and reporting skills for observational studies. We aim to be as inclusive as possible but this site is based on the Strengthening the Reporting of Observational studies in Epidemiology Statement. [...] The purpose of this site is to create a public, open-source repository for epidemiological research methods and reporting skills for observational studies. Epidemiology, the study of diseases and population health, is a broad field with ever-changing methods and often heated debates about proper designs, ...

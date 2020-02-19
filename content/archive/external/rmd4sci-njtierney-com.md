@@ -1,10 +1,10 @@
 ---
 title: "RMarkdown for Scientists"
 author: "Nicholas Tierney"
-date: "2019-11-25"
+date: "2020-02-13"
 tags: [R Markdown, Guide, Statistics]
 link: "https://rmd4sci.njtierney.com/"
-length_weight: "19.5%"
+length_weight: "11.2%"
 pinned: false
 ---
 

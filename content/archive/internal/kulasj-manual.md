@@ -1,8 +1,8 @@
 ---
 title: "Eagle I.O Consultant Manual"
 author: "Eagle I.O"
-date: "2020-01-29T21:02:27Z"
-link: "https://bookdown.org/garciaprier1/manual/"
+date: "2020-01-29T20:46:56Z"
+link: "https://bookdown.org/kulasj/manual/"
 length_weight: "5.5%"
 pinned: false
 ---

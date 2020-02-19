@@ -1,10 +1,10 @@
 ---
 title: "Handout for Cognitive Diagnosis Modeling"
 author: "Wenchao Ma"
-date: "2020-02-11T23:30:30Z"
+date: "2020-02-18T02:34:17Z"
 tags: [Package]
 link: "https://bookdown.org/wenchaoma/cdm/"
-length_weight: "14.2%"
+length_weight: "21.3%"
 pinned: false
 ---
 
