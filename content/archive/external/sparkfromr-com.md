@@ -1,7 +1,7 @@
 ---
 title: "Using Spark from R for performance with arbitrary code"
 author: "Jozef Hajnala"
-date: "2020-01-03"
+date: "2020-02-20"
 tags: [Package]
 link: "https://sparkfromr.com/"
 length_weight: "22.8%"

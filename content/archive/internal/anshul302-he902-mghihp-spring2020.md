@@ -1,10 +1,10 @@
 ---
 title: "MGHIHP HE-902, Spring 2020"
 author: "Anshul Kumar"
-date: "2020-02-17T21:26:48Z"
+date: "2020-02-24T15:33:50Z"
 tags: [Course, Statistics, Guide]
 link: "https://bookdown.org/anshul302/HE902-MGHIHP-Spring2020/"
-length_weight: "28.2%"
+length_weight: "31%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

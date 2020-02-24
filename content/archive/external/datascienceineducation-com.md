@@ -4,7 +4,7 @@ author: "Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg
 date: ""
 tags: [Data Science, Education, Data Analysis]
 link: "https://datascienceineducation.com/"
-length_weight: "28.3%"
+length_weight: "27.8%"
 repo: "data-edu/data-science-in-education"
 pinned: false
 ---

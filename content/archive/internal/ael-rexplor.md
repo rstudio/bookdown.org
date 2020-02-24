@@ -1,9 +1,9 @@
 ---
 title: "Exploration de données avec R"
 author: "Anouar El Ghouch"
-date: "2020-02-07T20:51:13Z"
+date: "2020-02-20T19:21:12Z"
 link: "https://bookdown.org/ael/rexplor/"
-length_weight: "20.2%"
+length_weight: "20.3%"
 pinned: false
 ---
 

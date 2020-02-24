@@ -4,7 +4,7 @@ author: "Russell A. Poldrack"
 date: ""
 tags: [Statistics]
 link: "https://statsthinking21.org/"
-length_weight: "29.3%"
+length_weight: "29.4%"
 repo: "poldrack/psych10-book"
 pinned: false
 ---

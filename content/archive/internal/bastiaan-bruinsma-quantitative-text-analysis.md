@@ -1,10 +1,10 @@
 ---
 title: "Automated Content Analysis"
 author: "Kostas Gemenis & Bastiaan Bruinsma"
-date: "2020-02-19T12:02:08Z"
+date: "2020-02-21T08:32:01Z"
 tags: [Course, Seminar]
 link: "https://bookdown.org/bastiaan_bruinsma/quantitative_text_analysis/"
-length_weight: "29.8%"
+length_weight: "29.9%"
 pinned: false
 ---
 

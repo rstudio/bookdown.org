@@ -1,7 +1,7 @@
 ---
 title: "Social Advocacy & Ethical Life"
 author: "Yuleng Zeng"
-date: "2020-02-18T17:47:04Z"
+date: "2020-02-20T12:07:23Z"
 link: "https://bookdown.org/Yuleng/sael200-slides/"
 length_weight: "23.7%"
 repo: "rstudio/yuleng"
