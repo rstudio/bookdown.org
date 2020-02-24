@@ -42,6 +42,7 @@ https://kellobri.github.io/shiny-prod-book/
 https://koalaverse.github.io/machine-learning-in-R/
 https://langcog.github.io/wordbank-book/
 https://learningstatisticswithr-bookdown.netlify.com/
+https://lmlcr.gagolewski.com/
 https://m-clark.github.io/bayesian-basics/
 https://m-clark.github.io/clustered-data/
 https://m-clark.github.io/data-processing-and-visualization/
