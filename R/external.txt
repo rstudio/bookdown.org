@@ -71,6 +71,7 @@ https://rc2e.com/
 https://rkabacoff.github.io/datavis/
 https://rmd4sci.njtierney.com/
 https://ropensci.github.io/dev_guide/
+https://ropenscilabs.github.io/actions_sandbox/
 https://rpsystats.com/
 https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
@@ -93,4 +94,5 @@ https://www.econometrics-with-r.org/
 https://www.gastonsanchez.com/r4strings/
 https://www.jamoviguide.com/
 https://www.masteringdfsanalytics.com/
+https://www.t4rstats.com/
 https://yijutseng.github.io/DataScienceRBook/
