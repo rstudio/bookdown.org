@@ -1,7 +1,7 @@
 ---
 title: "HealthyR: R for health data analysis"
 author: "Ewen Harrison and Riinu Pius"
-date: "2020-02-24"
+date: "2020-03-08"
 tags: [Data Analysis]
 link: "https://argoshare.is.ed.ac.uk/healthyr_book/"
 length_weight: "100%"

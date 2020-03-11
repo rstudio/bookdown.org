@@ -1,9 +1,9 @@
 ---
 title: "CASA Lab Coding for Speech Group"
 author: "Director: Thea Knowles, PhD"
-date: "2020-01-27T23:12:15Z"
+date: "2020-03-10T15:16:43Z"
 link: "https://bookdown.org/thea_knowles/casa_coding_group/"
-length_weight: "4.3%"
+length_weight: "5.4%"
 pinned: false
 ---
 

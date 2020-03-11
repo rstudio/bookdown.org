@@ -1,10 +1,10 @@
 ---
-title: "Se former au logiciel R : initiation et perfectionnement"
+title: "R pour les scientifiques : Mise en œuvre de projets et valorisation des résultats"
 author: "François Rebaudo"
-date: "2020-01-27"
+date: "2020-03-11"
 tags: [Guide, Package]
 link: "https://myrbookfr.netlify.com/"
-length_weight: "38.1%"
+length_weight: "19.9%"
 cover: "https://myrbookfr.netlify.com/myFigures/cover.png"
 repo: "frareb/myRBook_FR"
 pinned: false

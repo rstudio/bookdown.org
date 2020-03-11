@@ -1,10 +1,10 @@
 ---
 title: "A guide to the 2017 European Internet Panel Study"
 author: "sveinungarnesen78"
-date: "2019-06-26T10:47:19Z"
+date: "2020-02-28T21:28:34Z"
 tags: [Guide, Social Science]
 link: "https://bookdown.org/sveinungarnesen78/eips2017-guide/"
-length_weight: "22%"
+length_weight: "21.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "现代应用统计"
 author: "黄湘云"
-date: "2020-02-07T02:35:12Z"
+date: "2020-03-08T10:16:14Z"
 tags: [笔记, Models, Statistics]
 link: "https://bookdown.org/xiangyun/masr/"
-length_weight: "36.7%"
+length_weight: "15.6%"
 pinned: false
 ---
 

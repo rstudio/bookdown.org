@@ -1,10 +1,10 @@
 ---
 title: "Explanatory Model Analysis"
 author: "Przemyslaw Biecek and Tomasz Burzykowski"
-date: "2020-01-27"
+date: "2020-03-08"
 tags: [Machine Learning, Models]
 link: "https://pbiecek.github.io/ema/"
-length_weight: "22.2%"
+length_weight: "23%"
 repo: "pbiecek/ema"
 pinned: false
 ---

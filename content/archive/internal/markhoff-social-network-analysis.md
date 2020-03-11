@@ -1,10 +1,10 @@
 ---
 title: "Methods for Network Analysis"
 author: "Mark Hoffman"
-date: "2020-02-20T08:51:45Z"
+date: "2020-03-06T06:37:03Z"
 tags: [Network, Seminar]
 link: "https://bookdown.org/markhoff/social_network_analysis/"
-length_weight: "10.2%"
+length_weight: "33.2%"
 pinned: false
 ---
 
