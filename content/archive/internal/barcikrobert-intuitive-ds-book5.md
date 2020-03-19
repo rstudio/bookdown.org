@@ -1,10 +1,10 @@
 ---
 title: "Intuitive Data Science"
 author: "Robert Barcik"
-date: "2019-12-25T20:01:13Z"
+date: "2020-03-16T06:53:59Z"
 tags: [Data Science, Market]
-link: "https://bookdown.org/barcikrobert/intuitive-ds-book4/"
-length_weight: "24.7%"
+link: "https://bookdown.org/barcikrobert/intuitive-ds-book5/"
+length_weight: "29.8%"
 pinned: false
 ---
 
