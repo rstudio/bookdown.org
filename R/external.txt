@@ -26,6 +26,7 @@ https://est-mult.netlify.com/
 https://f0nzie.github.io/rtorch-minimal-book/
 https://fg2re.sellorm.com/
 https://geanders.github.io/navy_public_health/
+https://gedevan-aleksizde.github.io/Japan.R2019/
 https://gvwilson.github.io/tidynomicon/
 https://howiuser.com/
 https://info201.github.io/
