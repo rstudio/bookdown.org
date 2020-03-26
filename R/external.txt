@@ -1,5 +1,6 @@
 https://advanced-r-solutions.rbind.io/
 https://agailloty.github.io/suicide-evolution/
+https://andrewmaclachlan.github.io/CASA0005repo/
 https://argoshare.is.ed.ac.uk/healthyr_book/
 https://b-rodrigues.github.io/fput/
 https://b-rodrigues.github.io/modern_R/
