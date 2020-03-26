@@ -1,10 +1,12 @@
 ---
-title: "Solutions for ‘Introdcution To The New Statistics’"
+title: "Solutions for ‘Introdcution to The New Statistics’"
 author: "Peter Baumgartner"
-date: "2020-03-16T09:31:41Z"
+date: "2020-03-23T15:02:18Z"
 tags: [Statistics, Tutorial, Package]
 link: "https://bookdown.org/pbaumgartner/itns-solutions/"
-length_weight: "17.5%"
+length_weight: "13.9%"
+cover: "https://bookdown.org/pbaumgartner/itns-solutions/img/cover-itns-min.png"
+repo: "petzi53/itns-solutions"
 pinned: false
 ---
 

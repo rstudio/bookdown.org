@@ -1,10 +1,10 @@
 ---
 title: "Sepages data pre-processing guide"
 author: "M. Rolland"
-date: "2020-03-04T10:47:48Z"
+date: "2020-03-24T14:48:13Z"
 tags: [Guide]
 link: "https://bookdown.org/mj_rolland/sepages_pipeline_doc/"
-length_weight: "7.7%"
+length_weight: "7.8%"
 pinned: false
 ---
 

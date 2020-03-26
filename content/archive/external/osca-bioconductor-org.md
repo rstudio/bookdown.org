@@ -1,9 +1,9 @@
 ---
 title: "Orchestrating Single-Cell Analysis with Bioconductor"
 author: ""
-date: "2020-01-09"
+date: "2020-03-24"
 link: "https://osca.bioconductor.org/"
-length_weight: "34.2%"
+length_weight: "35.1%"
 pinned: false
 ---
 

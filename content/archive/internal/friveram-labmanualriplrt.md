@@ -1,7 +1,7 @@
 ---
 title: "Lab Manual for the Respiratory and Immunology Project and Laboratory Research Team (RIPLRT)"
 author: "Authors: The RIPLRT"
-date: "2019-09-22T23:57:05Z"
+date: "2020-03-23T18:24:01Z"
 tags: [Guide]
 link: "https://bookdown.org/friveram/labmanualriplrt/"
 length_weight: "13.8%"
