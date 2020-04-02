@@ -1,10 +1,10 @@
 ---
 title: "Authentic Data Science"
 author: "Robert Barcik"
-date: "2020-03-23T06:30:45Z"
+date: "2020-03-27T09:43:45Z"
 tags: [Data Science, Market]
-link: "https://bookdown.org/barcikrobert/_book3/"
-length_weight: "31.8%"
+link: "https://bookdown.org/barcikrobert/_book4/"
+length_weight: "32.5%"
 pinned: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Literatura"
 author: "Goran Kardum"
-date: "2020-03-23T18:25:27Z"
+date: "2020-03-30T09:30:12Z"
 link: "https://bookdown.org/gkardum/r_znanost_obrazovanje/"
-length_weight: "6%"
+length_weight: "9.1%"
 repo: "gkardum/r-u-znanosti"
 pinned: false
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Skript zum MAS Modul Servotechnik"
 author: "Martin Pischtschan"
-date: "2020-03-25T19:53:22Z"
+date: "2020-03-26T23:18:07Z"
 link: "https://bookdown.org/martin_pischtschan/SKRIPT_ATT/"
-length_weight: "15.7%"
+length_weight: "16.1%"
 pinned: false
 ---
 
