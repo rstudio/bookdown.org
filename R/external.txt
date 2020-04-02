@@ -75,6 +75,7 @@ https://rmd4sci.njtierney.com/
 https://ropensci.github.io/dev_guide/
 https://ropenscilabs.github.io/actions_sandbox/
 https://rpsystats.com/
+https://rs-aspr.netlify.com/
 https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
 https://rud.is/books/writing-frictionless-r-package-wrappers/
