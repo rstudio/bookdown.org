@@ -1,10 +1,10 @@
 ---
 title: "A Very Short Course on Time Series Analysis"
 author: "Roger D. Peng"
-date: "2020-03-11T19:46:52Z"
+date: "2020-04-02T20:26:13Z"
 tags: [Course, Statistics]
 link: "https://bookdown.org/rdpeng/timeseriesbook/"
-length_weight: "27.9%"
+length_weight: "28.2%"
 repo: "rdpeng/timeseriesbook"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "資料科學與R語言"
 author: "曾意儒 Yi-Ju Tseng"
-date: "2019-10-20"
+date: "2020-04-07"
 tags: [Shiny, Github]
 link: "https://yijutseng.github.io/DataScienceRBook/"
-length_weight: "21.2%"
+length_weight: "21.1%"
 repo: "yijutseng/DataAnalyticsWithRBook"
 pinned: false
 ---

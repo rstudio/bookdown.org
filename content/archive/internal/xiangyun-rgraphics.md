@@ -1,7 +1,7 @@
 ---
 title: "数据科学与 R 语言"
 author: "黄湘云"
-date: "2019-11-17T11:59:17Z"
+date: "2020-04-03T02:07:00Z"
 tags: [数据科学, 数据分析, R Programming, Python]
 link: "https://bookdown.org/xiangyun/RGraphics/"
 length_weight: "100%"

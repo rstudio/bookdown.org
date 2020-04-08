@@ -1,9 +1,9 @@
 ---
 title: "일반화가법모형 소개"
 author: "문 건 웅"
-date: "2020-04-02T13:50:45Z"
+date: "2020-04-04T14:28:22Z"
 link: "https://bookdown.org/cardiomoon/gam/"
-length_weight: "21%"
+length_weight: "22.2%"
 pinned: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Elegant Bookdown Template"
-author: "黄湘云"
-date: "2020-03-21T10:01:24Z"
+author: "黄湘云 & 叶 飞"
+date: "2020-04-05T01:18:13Z"
 link: "https://bookdown.org/xiangyun/ElegantBookdown/"
-length_weight: "6.1%"
+length_weight: "7.7%"
 repo: "XiangyunHuang/ElegantBookdown"
 pinned: false
 ---

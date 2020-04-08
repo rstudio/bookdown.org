@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Quantitative Methods in R"
 author: "Eric van Holm, PhD"
-date: "2020-03-27T18:32:56Z"
+date: "2020-04-03T00:45:48Z"
 tags: [Textbook, Social Science, R Programming]
 link: "https://bookdown.org/ejvanholm/Textbook/"
-length_weight: "9.4%"
+length_weight: "11.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

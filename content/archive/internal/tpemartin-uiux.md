@@ -1,10 +1,10 @@
 ---
 title: "UI-UX"
-author: "林茂廷老師"
-date: "2020-03-28T04:54:14Z"
+author: "E.Major Taiwan"
+date: "2020-04-03T12:03:46Z"
 tags: [Github]
 link: "https://bookdown.org/tpemartin/uiux/"
-length_weight: "6.9%"
+length_weight: "7.5%"
 pinned: false
 ---
 
