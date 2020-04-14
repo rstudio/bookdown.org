@@ -66,4 +66,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "Write HTML, PDF, ePub, and Kindle books with R Markdown"
-    footer = "&copy; [RStudio, Inc.](https://www.rstudio.com) 2016 -- 2019"
+    footer = "&copy; [RStudio, PBC](https://www.rstudio.com) 2016 -- 2020"
