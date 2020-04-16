@@ -1,6 +1,6 @@
 ---
 title: "Data Science in Education Using R"
-author: "Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez"
+author: "Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez"
 date: ""
 tags: [Data Science, Education]
 link: "https://datascienceineducation.com/"

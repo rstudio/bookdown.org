@@ -1,10 +1,10 @@
 ---
 title: "Lab Notebook"
 author: "Naomi J. Goodrich-Hunsaker, Ph.D."
-date: "2020-04-08T15:04:59Z"
+date: "2020-04-14T17:18:17Z"
 tags: [Github]
 link: "https://bookdown.org/u0243256/mylabnotebook/"
-length_weight: "16.4%"
+length_weight: "16.5%"
 pinned: false
 ---
 
