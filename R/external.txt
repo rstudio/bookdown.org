@@ -22,6 +22,7 @@ https://dzchilds.github.io/eda-for-bio/
 https://edav.info/
 https://edwinth.github.io/ADSwR/
 https://edwinth.github.io/AMLwR/
+https://engineering-shiny.org/
 https://envirometrix.github.io/PredictiveSoilMapping/
 https://est-mult.netlify.com/
 https://f0nzie.github.io/rtorch-minimal-book/
