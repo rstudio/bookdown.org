@@ -3,7 +3,7 @@ title: "How I Use R"
 author: "David Keyes // R for the Rest of Us"
 date: ""
 link: "https://howiuser.com/"
-length_weight: "5.8%"
+length_weight: "4%"
 pinned: false
 ---
 

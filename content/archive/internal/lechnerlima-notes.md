@@ -1,10 +1,10 @@
 ---
 title: "Statistik Vorlesung"
 author: "Lisa Lechner"
-date: "2020-03-30T13:29:39Z"
+date: "2020-04-27T11:11:58Z"
 tags: [Statistics]
 link: "https://bookdown.org/lechnerlima/notes/"
-length_weight: "17.7%"
+length_weight: "19.7%"
 repo: "LisaLechner/statistik"
 pinned: false
 ---

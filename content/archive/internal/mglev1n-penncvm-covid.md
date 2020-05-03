@@ -1,10 +1,10 @@
 ---
 title: "COVID-19 Resources for Penn Cardiologists"
 author: "Michael Levin, MD; Yoav Karpenshif, MD; Megan Burke, MD; and Frank E. Silvestry MD on behalf of the Penn Cardiology Fellowship program"
-date: "2020-04-13T11:58:57Z"
+date: "2020-04-17T17:50:36Z"
 tags: [Medicine]
 link: "https://bookdown.org/mglev1n/PennCVM-COVID/"
-length_weight: "16.6%"
+length_weight: "16.7%"
 cover: "https://bookdown.org/mglev1n/PennCVM-COVID/images/SARS-CoV-2_without_background.png"
 repo: "mglev1n/PennCVM-COVID"
 pinned: false

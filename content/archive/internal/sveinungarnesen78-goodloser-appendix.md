@@ -1,12 +1,10 @@
 ---
-title: "The Good Loser"
-author: "Peter Esaiasson, Sveinung Arnesen, and Hannah Werner"
-date: "2020-04-15T22:33:21Z"
-tags: [Conference]
+title: "How to be civil about political loss – The importance of good loser messages"
+author: "sveinungarnesen78"
+date: "2020-04-28T21:45:31Z"
 link: "https://bookdown.org/sveinungarnesen78/Goodloser-appendix/"
-length_weight: "24.3%"
-repo: "SveinungA/Goodloser"
+length_weight: "23.7%"
 pinned: false
 ---
 
-The Good Loser [...] This is the analysis report for the Good Loser Project by Peter Esaiasson, Hannah Werner, and Sveinung Arnesen. The study comprises three survey embedded experiments; one video vignette experiment in Norway, one text vignette experiment in Sweden, and one conjoint experiment in Norway. The study has been presented at the Barcelona-Gothenburg-Bergen workshop on Experiments in Political Science in 2018, and at the 2019 Conference of the Midwestern Political Science Association in Chicago, ...
+How to be civil about political loss – The importance of good loser messages [...] This is the Supplementary Material for the manuscript entitled How to be civil about political loss – The importance of good loser messages. The study comprises three survey embedded experiments; one video vignette experiment in Norway, one text vignette experiment in Sweden, and one conjoint experiment in Norway. The experiment for Study I was fielded in Sweden in the fall of 2017 and spring of 2018 as an add-on to the fifth wave of the European Values Survey (EVS, PI Susanne Wallman Lundåsen). EVS is based on  ...

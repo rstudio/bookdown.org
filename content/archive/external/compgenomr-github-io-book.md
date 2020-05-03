@@ -1,11 +1,11 @@
 ---
 title: "Computational Genomics with R"
 author: "Altuna Akalin"
-date: "2019-09-24"
+date: "2020-04-23"
 tags: [Guide, Data Analysis, Course, Biology, Medicine]
 link: "https://compgenomr.github.io/book/"
-length_weight: "33.2%"
-repo: "compgenomr/bookdown"
+length_weight: "33.5%"
+repo: "compgenomr/book"
 pinned: false
 ---
 

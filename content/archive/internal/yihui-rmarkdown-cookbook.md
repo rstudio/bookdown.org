@@ -1,12 +1,12 @@
 ---
 title: "R Markdown Cookbook"
 author: "Yihui Xie and Christophe Dervieux"
-date: "2020-04-14T21:31:48Z"
+date: "2020-05-03T04:35:53Z"
 tags: [R Markdown, Github, Package]
 link: "https://bookdown.org/yihui/rmarkdown-cookbook/"
-length_weight: "37.2%"
+length_weight: "100%"
 repo: "yihui/rmarkdown-cookbook"
 pinned: false
 ---
 
-Examples, tips, and tricks of using R Markdown. [...] This book is in a very early stage of development. If you have any suggestions on what should be included within this book, please get in touch via GitHub. R Markdown is a powerful tool for combining analysis and reporting into the same document. Since the development of the rmarkdown package (Allaire et al. 2020), it has grown to become a diverse ecosystem of code, and reports, books and websites can all easily be generated directly from R code. There is a wealth of guidance which has grown over the past few years, and the book R ...
+Examples, tips, and tricks of using R Markdown. [...] This book is currently a draft. We plan to publish it around August 2020 with Chapman & Hall/CRC. If you have any feedback, please feel free to file an issue on GitHub. Thank you! R Markdown is a powerful tool for combining analysis and reporting into the same document. Since the birth of the rmarkdown package (Allaire et al. 2020) in early 2014, R Markdown has grown substantially from a package that supports a few output formats, to an extensive and diverse ecosystem that supports the creation of books, blogs, scientific articles, ...

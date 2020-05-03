@@ -1,7 +1,7 @@
 ---
-title: "Applet Codebook: HBN EMA for Mindlogger v0.29"
+title: "Applet Codebook: HBN EMA for Mindlogger v0.30"
 author: "Mike X."
-date: "2020-04-08T18:02:19Z"
+date: "2020-04-27T17:52:09Z"
 link: "https://bookdown.org/mikemxxiao/NIMH_Applet_Codebook/"
 length_weight: "16.2%"
 pinned: false
