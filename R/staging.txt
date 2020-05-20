@@ -1,0 +1,2 @@
+description: "The purpose of this site is to create a public, open-source repository for epidemiological research methods and reporting skills for observational studies."
+github-repo: "sharpmel/STROBECourse"
