@@ -1,7 +1,7 @@
 ---
 title: "R for data science: tidyverse and beyond"
 author: "Maxine"
-date: "2020-02-21T08:16:57Z"
+date: "2020-05-10T16:17:36Z"
 tags: [Data Science, Tidyverse, 笔记, Github]
 link: "https://bookdown.org/Maxine/r4ds/"
 length_weight: "100%"

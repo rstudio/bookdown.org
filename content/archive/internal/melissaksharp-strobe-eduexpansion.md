@@ -1,9 +1,9 @@
 ---
 title: "Strengthening the Reporting of Observational Studies in Epidemiology STROBE (STROBE) Educational Expansion"
 author: "Melissa K Sharp"
-date: "2020-02-14T14:56:13Z"
+date: "2020-05-10T22:27:38Z"
 tags: [Epidemiology, Education, Population Health]
-link: "https://bookdown.org/melissaksharp/strobe_eduexpansion/"
+link: "https://bookdown.org/melissaksharp/STROBE_eduexpansion/"
 length_weight: "32.4%"
 repo: "sharpmel/STROBECourse"
 pinned: false

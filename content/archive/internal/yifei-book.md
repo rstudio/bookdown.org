@@ -1,7 +1,7 @@
 ---
 title: "Some Notes on Mathematics"
 author: "Yifei Xiong"
-date: "2020-04-30T07:02:10Z"
+date: "2020-05-15T01:28:43Z"
 tags: [Package, 笔记]
 link: "https://bookdown.org/yifei/book/"
 length_weight: "14.7%"

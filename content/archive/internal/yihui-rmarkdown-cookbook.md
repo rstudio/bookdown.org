@@ -1,10 +1,10 @@
 ---
 title: "R Markdown Cookbook"
 author: "Yihui Xie and Christophe Dervieux"
-date: "2020-05-03T04:35:53Z"
+date: "2020-05-18T15:05:19Z"
 tags: [R Markdown, Github, Package]
 link: "https://bookdown.org/yihui/rmarkdown-cookbook/"
-length_weight: "100%"
+length_weight: "42.2%"
 repo: "yihui/rmarkdown-cookbook"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "All About Rachel"
 author: "Jess L"
-date: "2020-05-01T12:27:48Z"
+date: "2020-05-04T20:31:24Z"
 tags: [Package]
 link: "https://bookdown.org/Jess/Allabouther/"
-length_weight: "8.2%"
+length_weight: "8.5%"
 pinned: false
 ---
 

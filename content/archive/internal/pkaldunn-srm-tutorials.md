@@ -1,10 +1,10 @@
 ---
 title: "Scientific Research Methods: Tutorials"
 author: "Peter K. Dunn"
-date: "2020-04-22T07:03:10Z"
+date: "2020-05-21T08:01:09Z"
 tags: [Tutorial, Course]
 link: "https://bookdown.org/pkaldunn/SRM-tutorials/"
-length_weight: "27.6%"
+length_weight: "27.2%"
 pinned: false
 ---
 

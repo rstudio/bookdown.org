@@ -5,7 +5,7 @@ date: ""
 tags: [Social Science, Statistics, Course, Data Analysis, Package]
 link: "https://rs-aspr.netlify.com/"
 length_weight: "0%"
-cover: "https://rs-aspr.netlify.com/img/cover_image.jpg"
+cover: "https://rs-aspr.netlify.app/img/cover_image.jpg"
 repo: "robertschnitman/aspr"
 pinned: false
 ---

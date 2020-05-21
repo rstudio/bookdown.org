@@ -1,10 +1,10 @@
 ---
 title: "Predictive Models of English Premier League Goal Scoring"
-author: "An Honors Thesis submitted in partial fulfillment of the requirements for graduation with Departmental Honors in Mathematics"
-date: "2020-05-03T15:00:42Z"
+author: "An Honors Thesis submitted in partial fulfillment of the requirements for graduating with Departmental Honors in Mathematics"
+date: "2020-05-20T13:55:54Z"
 tags: [Predictive Model]
 link: "https://bookdown.org/theqdata/honors_thesis/"
-length_weight: "19.3%"
+length_weight: "19.7%"
 pinned: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "My Data Science Notes"
 author: "Michael Foley"
-date: "2020-04-03T10:50:42Z"
+date: "2020-05-20T11:52:25Z"
 tags: [Data Science, Tutorial]
 link: "https://bookdown.org/mpfoley1973/data-sci/"
-length_weight: "14.1%"
+length_weight: "100%"
 pinned: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Notes of English Writing for Academic Pursuit"
 author: "Zhilin Su"
-date: "2020-04-16T04:09:40Z"
+date: "2020-05-21T03:55:43Z"
 link: "https://bookdown.org/zhilinsu1312/note-EWAP/"
-length_weight: "7.5%"
+length_weight: "9.9%"
 repo: "zhilinsu/social-neuroscience"
 pinned: false
 ---

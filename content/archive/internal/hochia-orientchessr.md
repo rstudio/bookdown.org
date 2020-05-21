@@ -1,10 +1,10 @@
 ---
 title: "Chinese Chess in R"
 author: "Hochia"
-date: "2020-03-25T03:41:09Z"
+date: "2020-05-05T14:35:28Z"
 tags: [Package]
 link: "https://bookdown.org/Hochia/orientchessr/"
-length_weight: "6.5%"
+length_weight: "5%"
 repo: "Hochia/oc-bkd"
 pinned: false
 ---

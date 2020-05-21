@@ -1,11 +1,10 @@
 ---
 title: "现代应用统计与 R 语言"
 author: "黄湘云"
-date: "2020-04-17T08:19:30Z"
-tags: [笔记, Models, Statistics]
+date: "2020-05-16T05:39:36Z"
 link: "https://bookdown.org/xiangyun/masr/"
-length_weight: "9.1%"
+length_weight: "13.7%"
 pinned: false
 ---
 
-线性模型理论及其应用，特别是各个模型的适用范围、参数估计方法、模型检验和诊断，重视理论和算法实现的并重，同时附以真实的案例分析。恪守所有的模型都是线性模型的原则，将线性模型、广义线性模型、广义可加模型、线性混合效应模型、广义线性混合效应模型和广义可加混合效应模型融合到同一框架下。应用层面，我们还要考虑数据集的平衡问题、缺失问题和异常问题。应用场景包括环境污染、流行病学和风险控制等领域。 [...] 这只是零碎的个人笔记，距离一本书还很遥远！ Essentially, all models are wrong, but some are useful. — George Box (Box and Draper 1987) 写作灵感来自 Common statistical tests are linear models (or: how to teach stats) 参考文献 《Modern Applied Statistics with S》（第四版）(Venables and Ripley 2002) 和 《Mixed-effects models in S ...
+线性模型理论及其应用，特别是各个模型的适用范围、参数估计方法、模型检验和诊断，重视理论和算法实现的并重，同时附以真实的案例分析。恪守所有的模型都是线性模型的原则，将线性模型、广义线性模型、广义可加模型、线性混合效应模型、广义线性混合效应模型和广义可加混合效应模型融合到同一框架下。应用层面，我们还要考虑数据集的平衡问题、缺失问题和异常问题。应用场景包括环境污染、流行病学和风险控制等领域。 [...] Book in early development. Planned release in 202X. 可以说，点估计、区间估计、假设检验、统计功效是每一个学数理统计的学生都绕不过去的坎，离开学校从事数据相关的工作，它们仍然是必备的工具。所以，本书会覆盖相关内容，但是和高校的教材最大的区别是更加注重它们之间的区别和联系，毕竟每一个统计概念都是经过了千锤百炼，而我们的主流教材始终如一地遵循的一个基本套路，就是突然给出一大堆定义、命题或定理，紧接着冗长的证明过程，然 ...

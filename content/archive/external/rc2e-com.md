@@ -4,7 +4,7 @@ author: "James (JD) Long, Paul Teetor"
 date: "2019-09-26"
 tags: [Statistics, Package]
 link: "https://rc2e.com/"
-length_weight: "35.5%"
+length_weight: "100%"
 repo: "CerebralMastication/R-Cookbook"
 pinned: false
 ---
