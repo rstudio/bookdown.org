@@ -35,7 +35,7 @@ book_urls = if (file.size('staging.txt') > 0) {
           '^https://bookdown[.]org', c(readLines('home.txt'), readLines('external.txt')),
           value = TRUE, invert = TRUE
         ),
-        lastmod = as.POSIXct(NA),
+        lastmod = NA,
         from = 'external'
       )
     )
