@@ -1,10 +1,10 @@
 ---
 title: "Efficient R programming"
 author: "Colin Gillespie, Robin Lovelace"
-date: "2020-05-10"
+date: "2020-05-26"
 tags: [R Programming, Statistical Computing, Bayesian, Statistics]
 link: "https://csgillespie.github.io/efficientR/"
-length_weight: "25.5%"
+length_weight: "25.6%"
 cover: "https://csgillespie.github.io/efficientR/figures/f0_web.png"
 repo: "csgillespie/efficientR"
 pinned: true

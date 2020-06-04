@@ -1,10 +1,10 @@
 ---
 title: "Handling Strings with R"
-author: "Gaston Sanchez"
-date: "2016-10-19"
+author: "Gaston Sanchez Chitra Venkatesh"
+date: ""
 tags: [String]
 link: "https://www.gastonsanchez.com/r4strings/"
-length_weight: "16.3%"
+length_weight: "16.7%"
 cover: "https://www.gastonsanchez.com/r4strings/images/cover.png"
 repo: "gastonstat/r4strings"
 pinned: false

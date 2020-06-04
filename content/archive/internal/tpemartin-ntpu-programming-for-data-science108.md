@@ -1,10 +1,10 @@
 ---
 title: "資料科學程式設計（一）"
 author: "林茂廷"
-date: "2020-05-21T16:36:13Z"
+date: "2020-06-03T12:58:11Z"
 tags: [Package, Course, Github]
 link: "https://bookdown.org/tpemartin/ntpu-programming-for-data-science108/"
-length_weight: "16.1%"
+length_weight: "8.8%"
 pinned: false
 ---
 

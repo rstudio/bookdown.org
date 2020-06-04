@@ -1,9 +1,9 @@
 ---
 title: "RSCD - JR"
 author: "Gabriel Carrasco"
-date: "2020-03-12T08:51:22Z"
+date: "2020-05-26T06:46:27Z"
 link: "https://bookdown.org/gabc91/RSCD_JR/"
-length_weight: "8.8%"
+length_weight: "9.7%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Yihui Xie and Christophe Dervieux"
 date: "2020-05-18T15:05:19Z"
 tags: [R Markdown, Github, Package]
 link: "https://bookdown.org/yihui/rmarkdown-cookbook/"
-length_weight: "42.2%"
+length_weight: "100%"
 repo: "yihui/rmarkdown-cookbook"
 pinned: false
 ---

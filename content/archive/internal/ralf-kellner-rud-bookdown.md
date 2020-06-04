@@ -1,7 +1,7 @@
 ---
 title: "Regression- und Datenanalyse"
 author: "Prof. Dr. Ralf Kellner"
-date: "2020-04-20T14:17:08Z"
+date: "2020-06-01T11:50:41Z"
 link: "https://bookdown.org/ralf_kellner/RuD_bookdown/"
 length_weight: "9%"
 pinned: false

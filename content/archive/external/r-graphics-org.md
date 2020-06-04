@@ -4,7 +4,7 @@ author: "Winston Chang"
 date: "2020-04-03"
 tags: [Guide]
 link: "https://r-graphics.org/"
-length_weight: "26.8%"
+length_weight: "100%"
 cover: "https://r-graphics.org/cover.jpg"
 repo: "wch/rgcookbook"
 pinned: true
