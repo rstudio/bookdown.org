@@ -1,10 +1,10 @@
 ---
 title: "Data Science for Public Health Economic Evaluation"
 author: "Robert Smith"
-date: "2020-05-27T15:11:55Z"
+date: "2020-07-05T09:28:10Z"
 tags: [Data Science, Course]
-link: "https://bookdown.org/rasmith3/r4phe/"
-length_weight: "20.5%"
+link: "https://bookdown.org/rasmith3/r4phe2/"
+length_weight: "24.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

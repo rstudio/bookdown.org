@@ -1,13 +1,14 @@
 ---
 title: "DondeRs Group"
 author: "Henrik Eckermann"
-date: "2020-05-27T13:34:29Z"
-tags: [R Programming, Course, Biology, Data Analysis, Visualization]
+date: "2020-06-23T12:05:58Z"
+tags: [R Programming, Biology, Data Analysis, Visualization]
 link: "https://bookdown.org/henrikeckermann/donders_r/"
-length_weight: "6%"
+length_weight: "6.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-This bookdown-project contains introductory material to learn the R programming language [...] This minmal website contains information about the R course-sessions we will organize such as: It will be updated regularly and I will point to updates in the course lectures! Instructor:
-My name is Henrik. I am a PhD-candidate in the Developmental Psychobiology lab group at the Donders Institute in Nijmegen. I find that the R programming language is an extremely useful tool for Scientists, especially (but not only) for data analysis and visualization. I can help you learning the basics of the R ...
+This bookdown-project contains introductory material to learn the R programming language [...] Instructor:
+My name is Henrik. I am a PhD-candidate in the Developmental Psychobiology lab group at the Donders Institute in Nijmegen. I find that the R programming language is an extremely useful tool for Scientists, especially (but not only) for data analysis and visualization. I can help you learning the basics of the R programming language and how to approach learning a programming language so you can advance in learning whatever is needed in your specific field. Target audience:
+Anyone at ...

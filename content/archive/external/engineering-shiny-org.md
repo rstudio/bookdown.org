@@ -1,7 +1,7 @@
 ---
 title: "Engineering Production-Grade Shiny Apps"
 author: "Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard"
-date: "2020-05-12"
+date: "2020-07-07"
 tags: [Shiny]
 link: "https://engineering-shiny.org/"
 length_weight: "26%"

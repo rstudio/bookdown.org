@@ -1,11 +1,10 @@
 ---
-title: "Automated Content Analysis"
+title: "Chapter 3 Background | Quantitative Text Analysis"
 author: "Kostas Gemenis & Bastiaan Bruinsma"
-date: "2020-02-21T08:32:01Z"
-tags: [Course, Seminar]
+date: "2020-07-07T17:37:33Z"
 link: "https://bookdown.org/bastiaan_bruinsma/quantitative_text_analysis/"
-length_weight: "29.9%"
+length_weight: "25.6%"
 pinned: false
 ---
 
-An overview of all the workshops for the course. [...] Throughout these seminars we will use R. R is an open-source programme that allows you to carry out a wide variety of statistical tasks. At its core, it is a modification of the programming languages S and Scheme, making it not only flexible but fast as well. R is available for Windows, Linux and OS X and receives regular updates. In its basic version, R uses a simple command line interface. To give it a friendlier look, environments such as RStudio and RCommander are available. Apart from looking better, these environments also provide ...
+Theory and Methods for Quantitative Text Analysis [...] Before we start, it might be a good idea to cover some background first. Thus, here we will look at a concept that is central to any type of quantitative text analysis: reliability. This concept is often used to test if the method we are using functions well and is in any way consistent. While it shares some resemblance with validity, this concept differs in that it focuses on the content of the measurement itself. Thus, validity refers to the degree to which we measure what we think we are measuring (King, Keohane, and Verba 1994, 25). ...

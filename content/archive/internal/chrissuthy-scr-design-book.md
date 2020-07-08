@@ -1,10 +1,10 @@
 ---
 title: "Study design for spatial capture-recapture"
 author: "Chris Sutherland"
-date: "2020-04-10T20:43:22Z"
+date: "2020-06-17T23:05:49Z"
 tags: [Package, Models, Course]
 link: "https://bookdown.org/chrissuthy/SCR-design-book/"
-length_weight: "7.6%"
+length_weight: "8%"
 repo: "chrissuthy/scrdesign_book"
 pinned: false
 ---

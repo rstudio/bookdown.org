@@ -4,7 +4,7 @@ author: "Nicholas Tierney"
 date: "2020-05-03"
 tags: [R Markdown, Guide, Statistics]
 link: "https://rmd4sci.njtierney.com/"
-length_weight: "11.3%"
+length_weight: "19.7%"
 pinned: false
 ---
 

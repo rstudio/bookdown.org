@@ -1,10 +1,10 @@
 ---
 title: "UI-UX"
 author: "E.Major Taiwan"
-date: "2020-05-29T05:41:19Z"
+date: "2020-06-15T12:29:34Z"
 tags: [Github]
 link: "https://bookdown.org/tpemartin/uiux/"
-length_weight: "11.1%"
+length_weight: "4.4%"
 pinned: false
 ---
 

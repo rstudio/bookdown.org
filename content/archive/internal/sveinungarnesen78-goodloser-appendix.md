@@ -1,9 +1,9 @@
 ---
 title: "How to be civil about political loss – The importance of good loser messages"
 author: "sveinungarnesen78"
-date: "2020-04-28T21:45:31Z"
+date: "2020-07-03T20:05:41Z"
 link: "https://bookdown.org/sveinungarnesen78/Goodloser-appendix/"
-length_weight: "23.7%"
+length_weight: "25.9%"
 pinned: false
 ---
 

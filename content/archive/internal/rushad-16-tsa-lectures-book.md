@@ -1,9 +1,9 @@
 ---
 title: "Time Series Analysis"
 author: "Rushad Faridi, PhD"
-date: "2020-06-01T04:03:59Z"
+date: "2020-06-16T04:56:36Z"
 link: "https://bookdown.org/rushad_16/TSA_Lectures_book/"
-length_weight: "25%"
+length_weight: "20.9%"
 pinned: false
 ---
 
