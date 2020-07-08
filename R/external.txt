@@ -18,6 +18,7 @@ https://cookdown.ellisvalentiner.com/
 https://datascienceineducation.com/
 https://datasciencepractice.study/
 https://davidjohnbaker1.github.io/document/
+https://divadnojnarg.github.io/outstanding-shiny-ui/
 https://dzchilds.github.io/eda-for-bio/
 https://edav.info/
 https://edwinth.github.io/ADSwR/
@@ -78,6 +79,7 @@ https://ropenscilabs.github.io/actions_sandbox/
 https://ropenscilabs.github.io/statistical-software-peer-review/
 https://rpsystats.com/
 https://rs-aspr.netlify.com/
+https://rstats.wtf/
 https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
 https://rud.is/books/writing-frictionless-r-package-wrappers/
@@ -101,3 +103,4 @@ https://www.jamoviguide.com/
 https://www.masteringdfsanalytics.com/
 https://www.t4rstats.com/
 https://yijutseng.github.io/DataScienceRBook/
+https://yukiyanai.github.io/econometrics2/
