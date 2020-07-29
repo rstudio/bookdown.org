@@ -1,10 +1,10 @@
 ---
 title: "Aprendizaje automático de datos Colombianos (Machine Learning)"
 author: "Danna Cruz"
-date: "2020-07-06T22:29:11Z"
+date: "2020-07-24T02:53:30Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/dcruzreyes/bookdown_intro/"
-length_weight: "11%"
+length_weight: "14.9%"
 repo: "DannaCruz/DatColombia"
 pinned: false
 ---

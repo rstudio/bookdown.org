@@ -1,9 +1,9 @@
 ---
 title: "Causal Inference"
 author: "Gabriel Carrasco"
-date: "2020-06-13T18:22:57Z"
+date: "2020-07-26T22:16:09Z"
 link: "https://bookdown.org/gabc91/causinf/"
-length_weight: "12.1%"
+length_weight: "13.9%"
 pinned: false
 ---
 

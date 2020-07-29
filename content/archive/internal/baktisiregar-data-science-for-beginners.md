@@ -1,10 +1,10 @@
 ---
 title: "Data Scientist Handbook"
 author: "Bakti Siregar S.Si, M.Sc"
-date: "2020-07-08T15:31:36Z"
+date: "2020-07-28T09:38:16Z"
 tags: [Data Science, Statistics, Course, Econometrics, Visualization]
 link: "https://bookdown.org/BaktiSiregar/data-science-for-beginners/"
-length_weight: "6.8%"
+length_weight: "9.6%"
 repo: "Bakti-Siregar/Data-Science-for-Beginners"
 pinned: false
 ---

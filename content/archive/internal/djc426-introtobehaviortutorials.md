@@ -1,10 +1,10 @@
 ---
 title: "BioNBB 2210 Summer 2020 Computer Labs"
 author: "Dena J. Clink"
-date: "2020-07-04T19:52:34Z"
+date: "2020-07-28T18:26:52Z"
 tags: [Tutorial]
 link: "https://bookdown.org/djc426/IntroToBehaviorTutorials/"
-length_weight: "15.1%"
+length_weight: "19.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

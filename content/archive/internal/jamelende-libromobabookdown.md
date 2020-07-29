@@ -1,9 +1,9 @@
 ---
 title: "Modelación basada en Agentes"
 author: "Alfonso Meléndez"
-date: "2020-07-05T02:19:13Z"
+date: "2020-07-29T03:12:04Z"
 link: "https://bookdown.org/jamelende/LibroMobaBookDown/"
-length_weight: "31.4%"
+length_weight: "100%"
 pinned: false
 ---
 
