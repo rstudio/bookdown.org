@@ -46,6 +46,7 @@ https://kellobri.github.io/shiny-prod-book/
 https://koalaverse.github.io/machine-learning-in-R/
 https://langcog.github.io/wordbank-book/
 https://learningstatisticswithr-bookdown.netlify.com/
+https://lgatto.github.io/IntroMachineLearningWithR/
 https://lmlcr.gagolewski.com/
 https://m-clark.github.io/bayesian-basics/
 https://m-clark.github.io/clustered-data/
@@ -84,6 +85,7 @@ https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
 https://rud.is/books/writing-frictionless-r-package-wrappers/
 https://sctyner.github.io/OpenForSciR/
+https://smltar.com/
 https://soilmapper.org/
 https://sparkfromr.com/
 https://statsthinking21.org/
