@@ -1,7 +1,7 @@
 ---
 title: "R Markdown Cookbook"
 author: "Yihui Xie, Christophe Dervieux, Emily Riederer"
-date: "2020-07-27T20:32:18Z"
+date: "2020-08-01T13:41:34Z"
 tags: [R Markdown, Github, Package]
 link: "https://bookdown.org/yihui/rmarkdown-cookbook/"
 length_weight: "100%"

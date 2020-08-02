@@ -1,10 +1,10 @@
 ---
 title: "The openair book"
 author: "David C. Carslaw"
-date: "2020-07-29T12:40:05Z"
+date: "2020-07-31T08:03:46Z"
 tags: [Package]
 link: "https://bookdown.org/david_carslaw/openair/"
-length_weight: "41.2%"
+length_weight: "41.3%"
 cover: "https://bookdown.org/david_carslaw/openair/images/cover.png"
 repo: "davidcarslaw/openair-book"
 pinned: false

@@ -1,10 +1,10 @@
 ---
 title: "Pursuing Truth: A Guide to Critical Thinking"
 author: "Randy Ridenour"
-date: "2020-07-28T20:56:15Z"
+date: "2020-07-31T20:28:17Z"
 tags: [Guide, Textbook, Course, Market]
 link: "https://bookdown.org/rlridenour/ct-text/"
-length_weight: "34.2%"
+length_weight: "35.4%"
 cover: "https://bookdown.org/rlridenour/ct-text/images/ct-text-cover.png"
 repo: "rlridenour/ct-text"
 pinned: false

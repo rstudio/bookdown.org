@@ -1,10 +1,10 @@
 ---
 title: "R for marketing students"
 author: "KU Leuven Marketing department"
-date: "2019-05-11T10:20:02Z"
+date: "2020-07-29T15:30:46Z"
 tags: [Market, Tutorial]
 link: "https://bookdown.org/content/1340/"
-length_weight: "36.2%"
+length_weight: "36%"
 pinned: false
 ---
 
