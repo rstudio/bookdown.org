@@ -1,0 +1,4 @@
+I just published https://bookdown.org/roback/bookdown-BeyondMLR/ to bookdown, and that book should supercede https://bookdown.org/roback/bookdown-bysh/.
+So, if possible, I'd like "BeyondMLR" to appear in the archive and "bysh" to be removed.
+
+Thanks so much!  Paul Roback
