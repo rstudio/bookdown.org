@@ -1,7 +1,7 @@
 ---
 title: "Beyond Multiple Linear Regression"
 author: "Paul Roback and Julie Legler"
-date: "2020-07-24T20:52:51Z"
+date: "2020-08-05T15:00:03Z"
 tags: [Textbook, Models, Course]
 link: "https://bookdown.org/roback/bookdown-BeyondMLR/"
 length_weight: "100%"

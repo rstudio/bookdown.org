@@ -1,7 +1,7 @@
 ---
 title: "PSY317L Guidebook"
 author: "James P. Curley & Tyler M. Milewski"
-date: "2020-07-31T21:45:31Z"
+date: "2020-08-04T02:13:50Z"
 tags: [Guide, Statistics, Course, Textbook]
 link: "https://bookdown.org/curleyjp0/psy317l_guides/"
 length_weight: "100%"

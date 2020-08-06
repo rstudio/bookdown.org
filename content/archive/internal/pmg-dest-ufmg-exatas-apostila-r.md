@@ -1,8 +1,8 @@
 ---
 title: "Introdução ao R para alunos de ciências exatas"
 author: "Gabriela Costa, Laura Kubtischek, Maria Luisa Gomes, Matheus Gonzaga, Vitor Batista"
-date: "2020-05-27T22:10:48Z"
-link: "https://bookdown.org/gabycosta1919/Apostila_R/"
+date: "2020-08-03T16:41:13Z"
+link: "https://bookdown.org/pmg_dest_ufmg_exatas/Apostila_R/"
 length_weight: "31.1%"
 pinned: false
 ---

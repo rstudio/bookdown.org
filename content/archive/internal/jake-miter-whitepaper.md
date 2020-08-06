@@ -1,7 +1,7 @@
 ---
 title: "Using Data Visualization & Storytelling to Gain Organizational Buy-in"
 author: "Jake Miter"
-date: "2020-07-29T20:45:51Z"
+date: "2020-08-06T15:28:42Z"
 tags: [Visualization]
 link: "https://bookdown.org/jake_miter/whitepaper/"
 length_weight: "10.4%"

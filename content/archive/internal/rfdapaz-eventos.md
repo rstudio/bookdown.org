@@ -1,9 +1,9 @@
 ---
 title: "Espaço Amostral e Eventos"
 author: "Rosineide da Paz"
-date: "2020-08-02T12:43:03Z"
+date: "2020-08-03T18:18:12Z"
 link: "https://bookdown.org/rfdapaz/eventos/"
-length_weight: "8.2%"
+length_weight: "8.6%"
 pinned: false
 ---
 

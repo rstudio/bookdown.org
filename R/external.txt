@@ -103,7 +103,6 @@ https://wangcc.me/LSHTMlearningnote/
 https://www.econometrics-with-r.org/
 https://www.gastonsanchez.com/r4strings/
 https://www.jamoviguide.com/
-https://www.masteringdfsanalytics.com/
 https://www.t4rstats.com/
 https://yijutseng.github.io/DataScienceRBook/
 https://yukiyanai.github.io/econometrics2/
