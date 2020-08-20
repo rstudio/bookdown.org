@@ -1,9 +1,9 @@
 ---
 title: "Mayapple analyses"
 author: "The Geber Lab"
-date: "2020-08-04T15:22:54Z"
+date: "2020-08-14T18:54:56Z"
 link: "https://bookdown.org/kee39/mayapple/"
-length_weight: "31.4%"
+length_weight: "34.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

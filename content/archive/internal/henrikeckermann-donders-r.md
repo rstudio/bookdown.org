@@ -1,10 +1,10 @@
 ---
 title: "DondeRs Group"
 author: "Henrik Eckermann"
-date: "2020-06-23T12:05:58Z"
+date: "2020-08-17T13:32:37Z"
 tags: [R Programming, Biology, Data Analysis, Visualization]
 link: "https://bookdown.org/henrikeckermann/donders_r/"
-length_weight: "6.1%"
+length_weight: "6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "EMMERG Spatial"
 author: "Gabriel Carrasco"
-date: "2020-07-25T02:23:10Z"
+date: "2020-08-12T20:38:39Z"
 tags: [Bayesian]
 link: "https://bookdown.org/gabc91/EMMERG_MAP/"
-length_weight: "22.4%"
+length_weight: "20.2%"
 pinned: false
 ---
 

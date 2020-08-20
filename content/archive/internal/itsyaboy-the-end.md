@@ -1,9 +1,9 @@
 ---
 title: "Statistik Tutoriumsschriften"
 author: "Talha Sajjad"
-date: "2020-06-29T11:57:52Z"
-link: "https://bookdown.org/talhasajjad200/statistik_finale/"
-length_weight: "5.3%"
+date: "2020-08-18T18:31:28Z"
+link: "https://bookdown.org/itsyaboy/the_end/"
+length_weight: "8%"
 pinned: false
 ---
 

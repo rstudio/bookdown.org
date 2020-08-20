@@ -7,7 +7,7 @@ link: "https://engineering-shiny.org/"
 length_weight: "26%"
 cover: "https://raw.githubusercontent.com/ThinkR-open/engineering-shiny-book/master/img/engineering-shiny.jpg"
 repo: "ThinkR-open/building-shiny-apps-workflow"
-pinned: false
+pinned: true
 ---
 
 A book about engineering shiny application that will later be sent to production. This book cover project management, structuring your project, building a solid testing suite, and optimizing your codebase. We describe in this book a specific workflow: design, prototype, build, strengthen and deploy. [...] This book is currently under development.

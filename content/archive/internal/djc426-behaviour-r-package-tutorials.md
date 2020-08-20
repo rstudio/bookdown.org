@@ -1,0 +1,12 @@
+---
+title: "behaviouR: R package and tutorials for online teaching of fundamental concepts in behavior and ecology"
+author: "Dena J. Clink"
+date: "2020-08-05T02:35:19Z"
+tags: [Package, Tutorial, Ecology, Github]
+link: "https://bookdown.org/djc426/behaviouR-R-package-tutorials/"
+length_weight: "27.9%"
+repo: "rstudio/bookdown-demo"
+pinned: false
+---
+
+This is the location for all of the tutorials associated with the behaviouR R package. [...] To get started you should download the package from Github using the following code. Note: If you have never used R before I highly recommend that you check out the primers here: https://rstudio.cloud/learn/primers. You can navigate using the tabs at the left and/or the ...

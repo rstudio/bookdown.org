@@ -1,12 +1,12 @@
 ---
-title: "Introduction to Quantitative Methods in R"
+title: "Introduction to Research Methods"
 author: "Eric van Holm, PhD"
-date: "2020-04-15T22:57:13Z"
-tags: [Textbook, Social Science, R Programming]
+date: "2020-08-19T20:00:50Z"
+tags: [Textbook, Social Science]
 link: "https://bookdown.org/ejvanholm/Textbook/"
-length_weight: "11.9%"
+length_weight: "11.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-This is a textbook written for POLI 2900 at the University of New Orleans. [...] This book is written for use in POLI 2900: Methods of Political Research at the University of New Orleans. It was originally written for the Fall of 2019, but will continue to be updated after that class. In this book I cover quantitative research techniques common to the social sciences as well as attempt to develop student’s skills in programming. In order to practice programming and learn quantitative methods, we will utilize R, a popular programming language for data scientists and researchers. This book is ...
+This is a textbook written for Introduction to Research Methods. [...] This book is intended as a practical introduction to reserach methods in the social sciences. If you pursue research academically or professionally, it will probably not be the last book you need to read on the subject. This is intended as something of a gentle introduction with a focus on the applications of the informaiton and examples. There are a lot of terms that many such textbooks would include that are left out of this edition. I believe that learning is like pouring water into a cup. Once the cup is full, you can ...

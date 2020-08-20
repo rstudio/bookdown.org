@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning for Biostatistics"
 author: "Armando Teixeira-Pinto"
-date: "2020-08-03T00:50:39Z"
+date: "2020-08-17T10:48:03Z"
 tags: [Machine Learning, Statistics]
 link: "https://bookdown.org/tpinto_home/Introduction/"
-length_weight: "9.5%"
+length_weight: "9.6%"
 pinned: false
 ---
 

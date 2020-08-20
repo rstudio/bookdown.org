@@ -1,9 +1,9 @@
 ---
 title: "Chapter 3 Background | Quantitative Text Analysis"
 author: "Kostas Gemenis & Bastiaan Bruinsma"
-date: "2020-07-28T14:13:04Z"
+date: "2020-08-12T07:12:49Z"
 link: "https://bookdown.org/bastiaan_bruinsma/quantitative_text_analysis/"
-length_weight: "26%"
+length_weight: "26.2%"
 pinned: false
 ---
 

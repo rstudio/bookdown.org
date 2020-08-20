@@ -1,7 +1,7 @@
 ---
-title: "HealthyR: R for Health Data Science"
+title: "R for Health Data Science"
 author: "Ewen Harrison and Riinu Pius"
-date: "2020-07-29"
+date: "2020-08-14"
 tags: [Data Science]
 link: "https://argoshare.is.ed.ac.uk/healthyr_book/"
 length_weight: "100%"

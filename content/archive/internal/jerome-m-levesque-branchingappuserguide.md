@@ -1,8 +1,8 @@
 ---
 title: "A policy tool for COVID-19 workplace mitigation strategies"
 author: "Jerome Levesque and David Maybury"
-date: "2020-07-16T15:13:54Z"
-link: "https://bookdown.org/jerome_m_levesque/branchingManual/"
+date: "2020-08-20T13:25:23Z"
+link: "https://bookdown.org/jerome_m_levesque/branchingAppUserGuide/"
 length_weight: "11.7%"
 pinned: false
 ---
