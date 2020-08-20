@@ -5,7 +5,7 @@ https://adv-r.hadley.nz/
 https://bookdown.org/rdpeng/rprogdatascience/
 https://tidytextmining.com/
 https://csgillespie.github.io/efficientR/
-https://otexts.org/fpp2/
+https://otexts.com/fpp2/
 https://bookdown.org/yihui/blogdown/
 https://clauswilke.com/dataviz/
 https://www.datascienceatthecommandline.com/1e/
