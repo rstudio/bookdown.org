@@ -15,6 +15,7 @@ https://claut.gitlab.io/man_ccia/
 https://coleridge-initiative.github.io/big-data-and-social-science/
 https://compgenomr.github.io/book/
 https://cookdown.ellisvalentiner.com/
+https://covid19r.github.io/documentation/
 https://datasciencedesign.com/
 https://datascienceineducation.com/
 https://datasciencepractice.study/
@@ -74,6 +75,7 @@ https://r4crim.com/
 https://rachaellappan.github.io/16S-analysis/
 https://rafalab.github.io/dsbook/
 https://rc2e.com/
+https://ready4r.netlify.app/labbook/
 https://rkabacoff.github.io/datavis/
 https://rmd4sci.njtierney.com/
 https://ropensci.github.io/dev_guide/
@@ -96,6 +98,7 @@ https://thesis.earo.me/
 https://tidyeval.tidyverse.org/
 https://timtrice.github.io/backtesting-strategies/
 https://tlverse.org/tlverse-handbook/
+https://ts-robinson.com/10et/
 https://twinetbook.john-coene.com/
 https://ulyngs.github.io/cog-design-space-ict-self-control/
 https://vcris.dhr.virginia.gov/vcris/help/
