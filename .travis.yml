@@ -8,6 +8,16 @@ install:
   - true
 
 script:
+  - |
+    if [ "$TRAVIS_PULL_REQUEST" != "false" ] 
+    then 
+      CHANGED_FILES="$(git diff --name-only $TRAVIS_COMMIT_RANGE)"
+      echo $CHANGED_FILES | grep -E 'staging\.txt' || {
+        echo "don't run build on PR without staging.txt"
+        echo "Changed files are: "$CHANGED_FILES
+        exit
+      }
+    fi
   - Rscript R/create-md.R
   - git add -A
   - git diff --cached
