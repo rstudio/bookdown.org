@@ -16,3 +16,4 @@ https://rstudio-education.github.io/hopr/
 https://r-graphics.org/
 https://livebook.datascienceheroes.com/
 https://r-pkgs.org/
+https://bookdown.org/yihui/rmarkdown-cookbook/
