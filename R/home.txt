@@ -17,3 +17,4 @@ https://r-graphics.org/
 https://livebook.datascienceheroes.com/
 https://r-pkgs.org/
 https://engineering-shiny.org/
+https://bookdown.org/yihui/rmarkdown-cookbook/
