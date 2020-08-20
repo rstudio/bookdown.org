@@ -1,5 +1,1 @@
-Just put this up on bookdown, if you think its worth featuring I'd be honored.
-
-https://bookdown.org/geoslack/ethics-guidebook/
-
-orginal url: https://gwmatthews.github.io/ethics/
+https://gwmatthews.github.io/ethics/
