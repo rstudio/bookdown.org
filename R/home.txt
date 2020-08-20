@@ -7,7 +7,7 @@ https://tidytextmining.com/
 https://csgillespie.github.io/efficientR/
 https://otexts.org/fpp2/
 https://bookdown.org/yihui/blogdown/
-https://serialmentor.com/dataviz/
+https://clauswilke.com/dataviz/
 https://www.datascienceatthecommandline.com/1e/
 https://socviz.co/
 https://geocompr.robinlovelace.net/

@@ -3,9 +3,9 @@ title: "Fundamentals of Data Visualization"
 author: "Claus O. Wilke"
 date: ""
 tags: [Visualization, Guide]
-link: "https://serialmentor.com/dataviz/"
+link: "https://clauswilke.com/dataviz/"
 length_weight: "27.7%"
-cover: "https://serialmentor.com/dataviz/cover.png"
+cover: "https://clauswilke.com/dataviz/cover.png"
 repo: "clauswilke/dataviz"
 pinned: true
 ---
