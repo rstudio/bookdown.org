@@ -1,9 +1,9 @@
 ---
 title: "Season 3 Stlats EDA"
 author: "From The Void"
-date: "2020-08-19T21:12:36Z"
+date: "2020-08-20T21:24:40Z"
 link: "https://bookdown.org/totallylegitimatestatistics/season3stlats/"
-length_weight: "5.2%"
+length_weight: "4.9%"
 pinned: false
 ---
 

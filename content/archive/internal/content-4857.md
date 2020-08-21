@@ -1,7 +1,7 @@
 ---
 title: "Statistical rethinking with brms, ggplot2, and the tidyverse: Second edition"
 author: "A Solomon Kurz"
-date: "2020-08-20T13:55:55Z"
+date: "2020-08-20T17:11:32Z"
 tags: [ggplot2, Tidyverse, Textbook, Models, Bayesian, Course, Package]
 link: "https://bookdown.org/content/4857/"
 length_weight: "100%"
