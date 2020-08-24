@@ -1,10 +1,10 @@
 ---
 title: "A Biologists Journey Into Bayesion Inference"
 author: "Matthew Whalen"
-date: "2020-08-10T16:35:02Z"
+date: "2020-08-22T21:59:44Z"
 tags: [Package]
 link: "https://bookdown.org/mrwhalen/bayes_book/"
-length_weight: "20.4%"
+length_weight: "22.8%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Hank Jenkins-Smith, Joseph Ripberger, Gary Copeland, Matthew Nowlin, Ty
 date: "2019-08-20T11:34:03Z"
 tags: [Textbook]
 link: "https://bookdown.org/ripberjt/qrmbook/"
-length_weight: "43.9%"
+length_weight: "100%"
 pinned: false
 ---
 

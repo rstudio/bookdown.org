@@ -1,11 +1,11 @@
 ---
-title: "MSU I.O Student Mentorship Program User Manual"
-author: "Eagle I.O"
-date: "2020-08-21T18:06:48Z"
+title: "MSU I-O Student Mentorship Program User Manual"
+author: "Eagle I-O"
+date: "2019-09-04T21:11:06Z"
 tags: [Psychology]
-link: "https://bookdown.org/kulasj/catrina_check/"
-length_weight: "8.5%"
-cover: "https://bookdown.org/kulasj/catrina_check/images/cover.png"
+link: "https://bookdown.org/kulasj/mentoruser/"
+length_weight: "8.6%"
+cover: "https://bookdown.org/kulasj/mentoruser/images/cover.png"
 pinned: false
 ---
 

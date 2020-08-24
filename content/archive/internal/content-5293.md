@@ -1,7 +1,7 @@
 ---
 title: "10 Apex Fusion | Silbiger Lab Mesocosm User Manual"
 author: "Dr. Nyssa Silbiger and Danielle Barnas"
-date: "2020-08-21T01:47:47Z"
+date: "2020-08-21T19:40:56Z"
 tags: [Guide, Tutorial]
 link: "https://bookdown.org/content/5293/"
 length_weight: "17.9%"

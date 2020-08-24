@@ -4,7 +4,7 @@ author: "Rafael A. Irizarry"
 date: "2020-08-15"
 tags: [Data Science, Data Analysis, Machine Learning, R Programming, Visualization, ggplot2, Unix, Github, R Markdown]
 link: "https://rafalab.github.io/dsbook/"
-length_weight: "43.8%"
+length_weight: "100%"
 pinned: false
 ---
 

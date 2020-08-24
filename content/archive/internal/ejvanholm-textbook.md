@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Research Methods"
 author: "Eric van Holm, PhD"
-date: "2020-08-20T18:19:20Z"
+date: "2020-08-24T14:08:07Z"
 tags: [Textbook, Social Science]
 link: "https://bookdown.org/ejvanholm/Textbook/"
-length_weight: "21.7%"
+length_weight: "11.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

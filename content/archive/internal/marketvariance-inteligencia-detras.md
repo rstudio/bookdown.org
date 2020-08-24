@@ -1,11 +1,12 @@
 ---
 title: "La Inteligencia Detrás De La Investigación"
 author: "Jorge Andrade"
-date: "2020-08-19T19:03:58Z"
+date: "2020-08-24T10:11:17Z"
+tags: [Market]
 link: "https://bookdown.org/marketvariance/inteligencia_detras/"
-length_weight: "42.7%"
+length_weight: "42.8%"
 cover: "https://bookdown.org/marketvariance/inteligencia_detras/IMAGENES/portada_big_bang.png"
 pinned: false
 ---
 
-La Inteligencia Detrás De La Investigación [...]  ...
+Este libro es el resultado de más de una década de publicar en el blog de Market Variance®, temas relacionadas a la investigación de mercados; principalmente de estadística y de marcas. Y de una selección de sus artículos, que a nuestro juicio son los más útiles, amenos y divertidos… [...]  ...
