@@ -223,6 +223,7 @@ books_to_keep = books_metas %>%
   group_by(title, description) %>%
   filter(is.na(date) | date == max(date)) %>%
   ungroup() %>%
+  mutate(title = gsub('\\', '\\\\', title, fixed = TRUE)) %>%
   mutate(length_weight = normalize_book_len(book_len)) %>%
   mutate(tags = match_tags(paste(title, description))) %>%
   # mark pinned url (to be displayed on homepage)
