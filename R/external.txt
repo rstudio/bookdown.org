@@ -6,6 +6,8 @@ https://b-rodrigues.github.io/fput/
 https://b-rodrigues.github.io/modern_R/
 https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/
 https://becarioprecario.bitbucket.io/spde-gitbook/
+https://blairfix.github.io/capital_as_power/
+https://book.engagingmultiples.com/
 https://bradleyboehmke.github.io/HOML/
 https://brian.weatherson.org/gutenberg-files/humedialogues/
 https://carrknight.github.io/poseidon/tutorial/
@@ -60,6 +62,8 @@ https://m-clark.github.io/Introduction-to-Rmarkdown/
 https://m-clark.github.io/mixed-models-with-R/
 https://m-clark.github.io/sem/
 https://m-clark.github.io/text-analysis-with-R/
+https://manual.nssurge.com/book/understanding-surge/cn/
+https://manual.nssurge.com/book/understanding-surge/en/
 https://mixomicsteam.github.io/Bookdown/
 https://myrbookfr.netlify.com/
 https://myrbooksp.netlify.com/
@@ -110,3 +114,4 @@ https://www.jamoviguide.com/
 https://www.t4rstats.com/
 https://yijutseng.github.io/DataScienceRBook/
 https://yukiyanai.github.io/econometrics2/
+https://yulab-smu.top/treedata-book/
