@@ -21,6 +21,7 @@ https://covid19r.github.io/documentation/
 https://datasciencedesign.com/
 https://datascienceineducation.com/
 https://datasciencepractice.study/
+https://daviddalpiaz.github.io/r4sl/
 https://davidjohnbaker1.github.io/document/
 https://divadnojnarg.github.io/outstanding-shiny-ui/
 https://dzchilds.github.io/eda-for-bio/
@@ -28,6 +29,7 @@ https://edav.info/
 https://edwinth.github.io/ADSwR/
 https://edwinth.github.io/AMLwR/
 https://engineering-shiny.org/
+https://enriquegit.github.io/behavior-free/
 https://envirometrix.github.io/PredictiveSoilMapping/
 https://est-mult.netlify.com/
 https://f0nzie.github.io/rtorch-minimal-book/
@@ -85,7 +87,7 @@ https://rkabacoff.github.io/datavis/
 https://rmd4sci.njtierney.com/
 https://ropensci.github.io/dev_guide/
 https://ropenscilabs.github.io/actions_sandbox/
-https://ropenscilabs.github.io/statistical-software-peer-review/
+https://ropenscilabs.github.io/statistical-software-review-book/
 https://rpsystats.com/
 https://rs-aspr.netlify.com/
 https://rstats.wtf/
@@ -93,11 +95,13 @@ https://rstats4ag.org/
 https://rubenfcasal.github.io/bookdown_intro/
 https://rud.is/books/writing-frictionless-r-package-wrappers/
 https://sctyner.github.io/OpenForSciR/
+https://shklinkenberg.github.io/Interactive_Teaching_Techniques/
 https://smltar.com/
 https://soilmapper.org/
 https://sparkfromr.com/
 https://statsthinking21.org/
 https://steverxd.github.io/Stat_tests/
+https://thefaylab.github.io/lab-manual/
 https://therinspark.com/
 https://thesis.earo.me/
 https://tidyeval.tidyverse.org/
@@ -108,10 +112,12 @@ https://twinetbook.john-coene.com/
 https://ulyngs.github.io/cog-design-space-ict-self-control/
 https://vcris.dhr.virginia.gov/vcris/help/
 https://wangcc.me/LSHTMlearningnote/
+https://www.bigbookofr.com/
 https://www.econometrics-with-r.org/
 https://www.gastonsanchez.com/r4strings/
 https://www.jamoviguide.com/
 https://www.t4rstats.com/
+https://www.tmwr.org/
 https://yijutseng.github.io/DataScienceRBook/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
