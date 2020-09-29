@@ -1,9 +1,9 @@
 ---
 title: "西山 他『計量経済学』のためのR"
 author: "北川梨津"
-date: "2020-04-23T12:35:47Z"
+date: "2020-09-09T07:49:19Z"
 link: "https://bookdown.org/ritsu_kitagawa/r_for_nishiyama/"
-length_weight: "15.6%"
+length_weight: "14.7%"
 pinned: false
 ---
 

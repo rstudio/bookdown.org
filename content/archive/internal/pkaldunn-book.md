@@ -1,7 +1,7 @@
 ---
 title: "Scientific Research Methods"
 author: "Peter K. Dunn"
-date: "2020-08-26T04:52:49Z"
+date: "2020-09-28T04:59:27Z"
 tags: [Course]
 link: "https://bookdown.org/pkaldunn/Book/"
 length_weight: "100%"

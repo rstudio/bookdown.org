@@ -1,18 +1,21 @@
 ---
 title: "Scientific Research Methods: Software"
 author: "Peter K. Dunn"
-date: "2020-04-22T22:34:36Z"
-tags: [Course]
+date: "2020-09-14T02:44:08Z"
+tags: [Course, Textbook]
 link: "https://bookdown.org/pkaldunn/SRM-software/"
-length_weight: "11.3%"
+length_weight: "11.7%"
 pinned: false
 ---
 
-Using software for quantitative research in science and health (including research design, hypothesis testing and confidence intervals in common situations) [...] This book has been prepared for use with the course
+Using software for quantitative research in science and health (including research design, hypothesis testing and confidence intervals in common situations) [...] This book has been prepared to support the course
 SCI110 Science Research Methods1
 at the
-University of the Sunshine Coast (USC).
+University of the Sunshine Coast (USC),
+and the textbook
+Scientific Research Method
+specifically.
 This book is an introduction to quantitative research methods in the scientific and health disciplines,
 and introduces the whole research process,
 from asking a research question to analysis and reporting of the data.
-The focus, however, is on the analysis of data. This name is grammatically incorrect. ...
+The focus, however, is on the ...

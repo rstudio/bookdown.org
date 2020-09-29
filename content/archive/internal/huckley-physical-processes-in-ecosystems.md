@@ -1,7 +1,7 @@
 ---
-title: "Physical Processes in Ecosystems"
+title: "Physical Processes in Ecosystems | Calculus-Integration"
 author: "University of Washington Center for Quantitative Science, Updated by the TrEnCh Project"
-date: "2020-07-02T00:39:13Z"
+date: "2020-09-22T14:13:39Z"
 link: "https://bookdown.org/huckley/Physical_Processes_In_Ecosystems/"
 length_weight: "100%"
 repo: "rstudio/PhysicalProcessesEcosystems-bookdown"

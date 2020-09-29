@@ -1,10 +1,10 @@
 ---
 title: "Basic R Guide for NSC Statistics"
 author: "Deanna Li"
-date: "2020-04-10T17:46:26Z"
+date: "2020-09-28T16:01:23Z"
 tags: [Guide, Statistics, Course, Package, ggplot2, Tutorial]
 link: "https://bookdown.org/dli/rguide/"
-length_weight: "28.9%"
+length_weight: "29.8%"
 pinned: false
 ---
 

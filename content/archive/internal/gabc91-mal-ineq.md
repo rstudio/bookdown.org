@@ -1,9 +1,9 @@
 ---
 title: "Malaria inequality"
 author: "Gabriel Carrasco-Escobar"
-date: "2020-08-11T04:26:29Z"
+date: "2020-09-29T02:11:15Z"
 link: "https://bookdown.org/gabc91/mal_ineq/"
-length_weight: "13.3%"
+length_weight: "15%"
 pinned: false
 ---
 

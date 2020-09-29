@@ -1,9 +1,9 @@
 ---
 title: "Lean Seis Sigma"
-author: "A.M.Mayoral"
-date: "2020-08-14T09:03:28Z"
+author: ""
+date: "2020-09-21T07:52:08Z"
 link: "https://bookdown.org/asun_mayoral/book-l6s/"
-length_weight: "34.7%"
+length_weight: "38.3%"
 pinned: false
 ---
 

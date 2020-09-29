@@ -1,7 +1,7 @@
 ---
 title: "Legislação e normas da educação escolar indígena"
 author: "Rafael Xukuru Kariri"
-date: "2020-08-07T18:19:00Z"
+date: "2020-09-23T03:12:50Z"
 link: "https://bookdown.org/antropologiaamadora/legislacao_indigena/"
 length_weight: "100%"
 pinned: false

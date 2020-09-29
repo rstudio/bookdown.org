@@ -1,10 +1,10 @@
 ---
 title: "Marketing Channel: A Strategic, Analytical, and Technological perspective"
 author: "Zhenning ‘Jimmy’ Xu, Ph.D."
-date: "2020-08-26T16:42:02Z"
+date: "2020-09-28T16:23:32Z"
 tags: [Market, Course, Textbook]
 link: "https://bookdown.org/utjimmyx/marketing_channel_a_strategic_analytical_and_technological_persp/"
-length_weight: "17%"
+length_weight: "17.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

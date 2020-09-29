@@ -1,10 +1,10 @@
 ---
 title: "Exploratory Data Analysis or ‘Data Mining’"
 author: "Marc A.T. Teunis, PhD"
-date: "2020-05-12T08:19:59Z"
+date: "2020-09-14T12:12:28Z"
 tags: [Exploratory Data Analysis, Course]
 link: "https://bookdown.org/maddocent/exploratory_data_analysis/"
-length_weight: "100%"
+length_weight: "6.2%"
 repo: "uashogeschoolutrecht/edamoi"
 pinned: false
 ---

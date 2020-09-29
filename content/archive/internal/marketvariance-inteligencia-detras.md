@@ -1,10 +1,10 @@
 ---
 title: "La Inteligencia Detrás De La Investigación"
 author: "Jorge Andrade"
-date: "2020-08-24T10:11:17Z"
+date: "2020-09-09T11:40:46Z"
 tags: [Market]
 link: "https://bookdown.org/marketvariance/inteligencia_detras/"
-length_weight: "42.8%"
+length_weight: "100%"
 cover: "https://bookdown.org/marketvariance/inteligencia_detras/IMAGENES/portada_big_bang.png"
 pinned: false
 ---

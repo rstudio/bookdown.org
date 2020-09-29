@@ -1,12 +1,12 @@
 ---
 title: "Designing and Building Data Science Solutions"
 author: "Jonathan Leslie, Neri Van Otten"
-date: "2020-08-16"
-tags: [Data Science, Guide]
+date: "2020-09-06"
+tags: [Data Science, Machine Learning, Guide]
 link: "https://datasciencedesign.com/"
-length_weight: "28.2%"
+length_weight: "28.9%"
 repo: "nerivo/data-science-design"
 pinned: false
 ---
 
-A guide as to how to make data science projects successful. [...] Data science is a dynamic field that, when successful, can have a game-changing impact on a business. Yet designing and delivering a successful data science project can be difficult. Indeed, in a recent Gartner study, 85 percent of all data science projects fall short of expectations. The main cause of failure was found to be that replacing legacy systems and associated processes is not easy. Other found issues revolved around not having the right data for the project or not having the right talent. This grim statistic ...
+Data science, machine learning and artificial intelligence (AI) can have game-changing impacts for businesses, empowering them to increase operational efficiency, improve the quality of their services and understand their customers better. Yet for these benefits to be realised, data science initiatives must be designed and executed in a sensible way. Often these projects, while successful from a scientific standpoint, miss the mark in terms of business impact. Many business leaders are left feeling unsettled, balancing the need for innovation and the adoption of revolutionary technologies with an uncomfortable degree of uncertainty and risk of failure. For the data scientist the situation can be equally unnerving, with uncertainties about how to deliver a successful project when the path is not clear. Yet, these uncertainties and risks – for the business leader and the data scientist alike – can be controlled and managed if approached in a sensible manner. Your authors have designed and delivered hundreds of projects across a wide range of industries. We have made many mistakes, and in the process we have learned what works well and where the common pitfalls lie. We wrote this book to share our experiences in hopes that it will help the reader – whether a data science practitioner or a business leader – reduce these risks and design projects that have the greatest chance of success. Much of the content in this guide is derived from lessons we have given to our students. Here we have gathered, organised and expanded on those bits of advice to serve as a resource for anyone considering embarking on a data science journey. We share our approach to data science projects, addressing topics such as alignment to business imperatives, project design, project delivery and evaluation of success. Data science can be an exciting, invigorating field, and for the business leader, it can bring about revolutionary changes to an organisation that can come with huge returns on investment and value added. For the data scientist, designing and delivering successful projects is rewarding, stimulating and tremendously gratifying. We hope this guide gives you the confidence to understand the risks and approach your project in a sensible way.

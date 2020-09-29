@@ -1,0 +1,12 @@
+---
+title: "Writing papers with R and friends"
+author: "Tormod Bøe"
+date: "2018-11-15T08:03:50Z"
+tags: [Guide, Psychology]
+link: "https://bookdown.org/content/2015/"
+length_weight: "16.4%"
+repo: "github.com/tormodb"
+pinned: false
+---
+
+This is a guide on how to write scientific papers from R. Mostly written for myself by myself [...] A scientific paper consists of many pieces, traditionally, at least in psychology, some regular components ...

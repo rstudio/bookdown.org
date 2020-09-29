@@ -1,7 +1,7 @@
 ---
 title: "Practical Data Science"
 author: "Michael Clark"
-date: "2020-08-19"
+date: "2020-09-24"
 tags: [Data Science, Visualization, Python, Github]
 link: "https://m-clark.github.io/data-processing-and-visualization/"
 length_weight: "26.7%"

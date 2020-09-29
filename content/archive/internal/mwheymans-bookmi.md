@@ -1,7 +1,7 @@
 ---
-title: "Book_MI.utf8.md"
+title: "index.split"
 author: "mwheymans"
-date: "2019-11-14T21:37:49Z"
+date: "2020-09-28T14:45:41Z"
 link: "https://bookdown.org/mwheymans/bookmi/"
 length_weight: "100%"
 pinned: false

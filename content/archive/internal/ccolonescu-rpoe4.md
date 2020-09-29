@@ -4,7 +4,7 @@ author: "Constantin Colonescu"
 date: "2016-09-01T14:36:38Z"
 tags: [Econometrics, Guide, Statistics]
 link: "https://bookdown.org/ccolonescu/RPoE4/"
-length_weight: "43.3%"
+length_weight: "100%"
 repo: "ccolonescu/RPoE"
 pinned: false
 ---

@@ -1,9 +1,9 @@
 ---
 title: "HR 분석 실무자를 위한 R Tips"
 author: "김광태"
-date: "2020-07-31T10:23:49Z"
+date: "2020-09-07T15:01:15Z"
 link: "https://bookdown.org/yuaye_kt/RTIPS/"
-length_weight: "8.7%"
+length_weight: "27.2%"
 pinned: false
 ---
 

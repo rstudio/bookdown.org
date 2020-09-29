@@ -1,10 +1,10 @@
 ---
 title: "EESA01 Laboratory Manual: Introduction to Environmental Science"
 author: "Andrew Apostoli and Adam Martin"
-date: "2020-07-06T19:08:21Z"
+date: "2020-09-01T14:57:19Z"
 tags: [Package]
-link: "https://bookdown.org/AndrewA/_book1/"
-length_weight: "22%"
+link: "https://bookdown.org/AndrewA/new_lab_v2/"
+length_weight: "22.2%"
 pinned: false
 ---
 

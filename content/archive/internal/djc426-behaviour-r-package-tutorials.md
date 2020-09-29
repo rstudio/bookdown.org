@@ -1,10 +1,10 @@
 ---
 title: "behaviouR: R package and tutorials for teaching of fundamental concepts in behavior and ecology"
 author: "Dena J. Clink"
-date: "2020-08-27T13:10:58Z"
+date: "2020-08-27T17:16:08Z"
 tags: [Package, Tutorial, Ecology, Github]
 link: "https://bookdown.org/djc426/behaviouR-R-package-tutorials/"
-length_weight: "28.4%"
+length_weight: "28.3%"
 repo: "DenaJGibbon/behaviouRtutorials"
 pinned: false
 ---
