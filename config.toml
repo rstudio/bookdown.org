@@ -5,7 +5,7 @@ title = "Bookdown"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "render_post"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "_cache$", "render_post"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 
@@ -67,3 +67,8 @@ footnotereturnlinkcontents = "↩"
 [params]
     description = "Write HTML, PDF, ePub, and Kindle books with R Markdown"
     footer = "&copy; [RStudio, PBC](https://www.rstudio.com) 2016 -- 2020"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
