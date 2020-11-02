@@ -107,7 +107,6 @@ https://thesis.earo.me/
 https://tidyeval.tidyverse.org/
 https://timtrice.github.io/backtesting-strategies/
 https://tlverse.org/tlverse-handbook/
-https://ts-robinson.com/10et/
 https://twinetbook.john-coene.com/
 https://ulyngs.github.io/cog-design-space-ict-self-control/
 https://vcris.dhr.virginia.gov/vcris/help/
