@@ -17,3 +17,4 @@ https://bookdown.org/thea_knowles/dissertating_rmd/
 https://bookdown.org/cteplovs/ismaykim/
 https://bookdown.org/cteplovs/moderndive/
 https://bookdown.org/roback/bookdown-bysh/
+https://bookdown.org/lauramoria/atlastoestand2/
