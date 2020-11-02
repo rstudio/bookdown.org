@@ -1,10 +1,10 @@
 ---
 title: "BIOL 3272/5272 Applied Biostats"
 author: "Yaniv Brandvain – University of Minnesota"
-date: "2020-09-25T14:52:45Z"
+date: "2020-10-01T02:42:39Z"
 tags: [Package]
 link: "https://bookdown.org/ybrandvain/biostat_2020_book/"
-length_weight: "18.3%"
+length_weight: "19.8%"
 pinned: false
 ---
 

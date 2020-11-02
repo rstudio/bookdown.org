@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R"
 author: "Jena University Hospital, Institute of Medical Statistics, Computer and Data Sciences, Julia Gantner"
-date: "2020-09-07T14:01:18Z"
+date: "2020-10-06T12:46:29Z"
 tags: [Course, Medicine]
 link: "https://bookdown.org/julia_gantner/Introduction_to_R/"
 length_weight: "23.1%"

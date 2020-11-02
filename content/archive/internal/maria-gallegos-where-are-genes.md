@@ -1,7 +1,7 @@
 ---
 title: "Fantastic Genes and Where to Find Them"
 author: "Maria Gallegos"
-date: "2020-09-23T20:36:16Z"
+date: "2020-10-26T20:53:56Z"
 tags: [Education]
 link: "https://bookdown.org/maria_gallegos/where-are-genes/"
 length_weight: "30.5%"

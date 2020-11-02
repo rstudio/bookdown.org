@@ -1,9 +1,9 @@
 ---
 title: "Stat 344 Notes: Fall 2020"
 author: "Laurie Tupper"
-date: "2020-09-26T21:08:11Z"
+date: "2020-10-31T13:58:50Z"
 link: "https://bookdown.org/llt1/344f20_notes/"
-length_weight: "33.5%"
+length_weight: "39.3%"
 pinned: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Companion to BER 670: Rasch Techniques for Constructing and Evaluating Measurement Instruments"
 author: "Cheng Hua & Dr. Stefanie Wind"
-date: "2020-09-28T14:17:37Z"
+date: "2020-11-02T02:37:01Z"
 tags: [Course, Statistics]
 link: "https://bookdown.org/chua/new_rasch_demo2/"
-length_weight: "28.9%"
+length_weight: "100%"
 pinned: false
 ---
 

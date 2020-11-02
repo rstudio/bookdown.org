@@ -1,11 +1,11 @@
 ---
-title: "A Minimal rTorch Tutorial"
+title: "A Minimal rTorch Book"
 author: "Alfonso R. Reyes"
-date: "2019-09-24"
-tags: [Tutorial, Package, Machine Learning, Python, Github]
+date: "2020-10-25"
+tags: [Tutorial, Package, Machine Learning, Python]
 link: "https://f0nzie.github.io/rtorch-minimal-book/"
-length_weight: "13%"
+length_weight: "17.1%"
 pinned: false
 ---
 
-This is a minimal tutorial of using the rTorch package to have fun while doing machine learning. This book was produced with bookdown. [...] You need two things to get rTorch working: Install Python Anaconda. Preferrably, for 64-bits, and above Python 3.6+. Install R, Rtools and RStudio. Install rTorch from CRAN or GitHub. Note. It is not mandatory to have a previously created Python environment with Anaconda, where PyTorch and TorchVision have already been installed. This step is optional. You could also get it installed directly from the R console, in very similar fashion as in R-TensorFlow  ...
+This is a minimal tutorial about using the rTorch package to have fun while doing machine learning. This book was written with bookdown. [...] Last update: Sun Oct 25 12:05:18 2020 -0500 (79503f6ee) You need couple of things to get rTorch working: Install Python Anaconda. Preferably, for 64-bits, and above Python 3.6+. I have successfully tested Anaconda under four different operating systems: Windows (Win10 and Windows Server 2008); macOS (Sierra, Mojave and Catalina); Linux (Debian, Fedora and Ubuntu); and lastly, Solaris 10. All these tests are required by CRAN. Install R, Rtools and ...

@@ -1,10 +1,10 @@
 ---
 title: "CASA0005 Geographic Information Systems and Science"
 author: "Andy MacLachlan and Adam Dennett"
-date: "2020-09-25"
+date: "2020-10-30"
 tags: [Geographic, Github]
 link: "https://andrewmaclachlan.github.io/CASA0005repo/"
-length_weight: "28.7%"
+length_weight: "28.9%"
 repo: "andrewmaclachlan/CASA0005repo"
 pinned: false
 ---

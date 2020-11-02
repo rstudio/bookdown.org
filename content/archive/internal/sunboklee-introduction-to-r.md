@@ -1,11 +1,11 @@
 ---
-title: "R @ Ewha 2020"
+title: "6 Base R Practice Problems | R @ Ewha 2020"
 author: "Sunbok Lee"
-date: "2020-09-29T00:02:59Z"
-tags: [Course, Data Science, Social Science, Package]
+date: "2020-10-20T00:17:24Z"
+tags: [Course]
 link: "https://bookdown.org/sunboklee/introduction_to_r/"
-length_weight: "23%"
+length_weight: "31.2%"
 pinned: false
 ---
 
-This is lecture notes for the R course at Ewha Womans University in 2020 [...] Hi everyone, welcome to the course :) This is the introduction to R course at Ewha Womans University in 2020. R is a great programming language for statistical analysis and data science. I hope you enjoy R in this course and find many useful applications for your own field. This course is designed for those who don’t have any programming background, especially in social science major. Today, I will just introduce R, RStudio, and some basic terminologies In this lecture note, this font represents R keyword/packages ...
+This is lecture notes for the R course at Ewha Womans University in 2020 [...] These 10 problems are just practice problems to enhance your understanding on Base R. You don’t need to submit anything on these 10 problems. Just understand and run codes by ...

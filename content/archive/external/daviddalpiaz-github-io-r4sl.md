@@ -1,7 +1,7 @@
 ---
 title: "R for Statistical Learning"
 author: "David Dalpiaz"
-date: "2019-03-22"
+date: "2020-10-28"
 tags: [Machine Learning]
 link: "https://daviddalpiaz.github.io/r4sl/"
 length_weight: "21.5%"

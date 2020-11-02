@@ -1,9 +1,9 @@
 ---
 title: "LBIRA2110 Modelisation et exploration des donnees multivariees | LBIRA2110  Modelisation et exploration des donnees multivariees"
 author: "evraloui"
-date: "2020-09-19T12:45:21Z"
+date: "2020-10-09T00:34:36Z"
 link: "https://bookdown.org/evraloui/lbira2110/"
-length_weight: "10.9%"
+length_weight: "14.9%"
 pinned: false
 ---
 

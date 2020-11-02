@@ -1,7 +1,7 @@
 ---
 title: "SakaiDocs"
 author: "CAHP Team"
-date: "2020-09-14T12:35:24Z"
+date: "2020-10-12T13:46:42Z"
 tags: [Course]
 link: "https://bookdown.org/mckay_todd/docanalysis/"
 length_weight: "16.9%"

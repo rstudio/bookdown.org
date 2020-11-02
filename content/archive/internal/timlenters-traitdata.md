@@ -1,10 +1,10 @@
 ---
 title: "Integration and harmonization of trait data from plant individuals across heterogeneous sources"
 author: "Tim P. Lenters, Andrew Henderson, Caroline M. Dracxler, Guilherme A. Elias, Suzanne Mogue, Thomas L.P. Couvreur & W. Daniel Kissling"
-date: "2020-09-02T12:37:21Z"
+date: "2020-10-04T17:33:17Z"
 tags: [Tutorial]
 link: "https://bookdown.org/timlenters/traitData/"
-length_weight: "12.2%"
+length_weight: "12.3%"
 pinned: false
 ---
 

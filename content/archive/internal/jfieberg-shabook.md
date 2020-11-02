@@ -1,0 +1,12 @@
+---
+title: "Species-Habitat Associations: Spatial data, predictive models, and ecological insights"
+author: "Jason Matthiopoulos, John Fieberg, Geert Aarts"
+date: "2020-10-27T16:13:28Z"
+tags: [Spatial Data, Predictive Model]
+link: "https://bookdown.org/jfieberg/SHABook/"
+length_weight: "40.9%"
+repo: "rstudio/bookdown-demo"
+pinned: false
+---
+
+This book will describe methods for linking organisms to their habitat [...]  ...

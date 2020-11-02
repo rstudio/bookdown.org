@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning for Biostatistics"
 author: "Armando Teixeira-Pinto & Jaroslaw Harezlak"
-date: "2020-09-28T08:40:36Z"
+date: "2020-10-31T23:27:35Z"
 tags: [Machine Learning, Statistics, Package]
 link: "https://bookdown.org/tpinto_home/Beyond-Additivity/"
 length_weight: "14.5%"

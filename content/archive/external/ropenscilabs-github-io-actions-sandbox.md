@@ -1,7 +1,7 @@
 ---
 title: "Github actions with R"
 author: "Chris Brown, Murray Cadzow, Paula A Martinez, Rhydwyn McGuire, David Neuzerling, David Wilkinson, Saras Windecker"
-date: "2020-09-10"
+date: "2020-10-06"
 tags: [Github, Package]
 link: "https://ropenscilabs.github.io/actions_sandbox/"
 length_weight: "6.5%"

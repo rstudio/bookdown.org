@@ -1,7 +1,7 @@
 ---
 title: "Mixed Models with R"
 author: "Michael Clark m-clark.github.io"
-date: "2020-09-20"
+date: "2020-10-19"
 tags: [Mixed Models, Package, Bayesian, Github]
 link: "https://m-clark.github.io/mixed-models-with-R/"
 length_weight: "16.9%"

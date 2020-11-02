@@ -1,10 +1,10 @@
 ---
 title: "R 資料科學與統計"
-author: "Jeff Lin"
-date: "2020-09-22T07:33:12Z"
+author: "林建甫 Jeff Lin"
+date: "2020-10-29T06:55:50Z"
 tags: [ggplot2, Tidyverse]
 link: "https://bookdown.org/jefflinmd38/r4biost/"
-length_weight: "31%"
+length_weight: "40%"
 pinned: false
 ---
 

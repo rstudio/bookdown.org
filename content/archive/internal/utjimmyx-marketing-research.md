@@ -1,7 +1,7 @@
 ---
 title: "An Outline of the Overall Course Structure for MKTG4000"
 author: "Jimmy Xu"
-date: "2020-09-24T18:26:04Z"
+date: "2020-10-01T18:10:35Z"
 tags: [Course, Package, R Markdown]
 link: "https://bookdown.org/utjimmyx/marketing_research/"
 length_weight: "17.1%"

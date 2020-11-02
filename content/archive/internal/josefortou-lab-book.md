@@ -1,9 +1,9 @@
 ---
 title: "Laboratorio"
 author: "Jose Antonio Fortou"
-date: "2020-09-28T14:55:45Z"
+date: "2020-10-19T16:16:25Z"
 link: "https://bookdown.org/josefortou/lab-book/"
-length_weight: "35%"
+length_weight: "17.6%"
 repo: "josefortou/lab-book"
 pinned: false
 ---

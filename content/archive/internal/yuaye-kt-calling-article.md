@@ -1,9 +1,9 @@
 ---
 title: "Paper_Analytics(1)"
 author: "김광태"
-date: "2020-09-14T15:15:52Z"
+date: "2020-10-02T12:24:53Z"
 link: "https://bookdown.org/yuaye_kt/Calling_Article/"
-length_weight: "8.5%"
+length_weight: "20.4%"
 pinned: false
 ---
 

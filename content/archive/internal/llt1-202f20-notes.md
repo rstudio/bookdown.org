@@ -1,9 +1,9 @@
 ---
 title: "Stat 202 Notes: Fall 2020"
 author: "Laurie Tupper"
-date: "2020-09-28T21:06:25Z"
+date: "2020-10-31T18:09:25Z"
 link: "https://bookdown.org/llt1/202f20_notes/"
-length_weight: "32%"
+length_weight: "100%"
 pinned: false
 ---
 

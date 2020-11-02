@@ -1,7 +1,7 @@
 ---
 title: "Homework 1"
 author: "Hayun Bae"
-date: "2020-09-29T01:08:17Z"
+date: "2020-10-17T13:57:59Z"
 tags: [Package, Github]
 link: "https://bookdown.org/baha916/baha916/"
 length_weight: "4.1%"

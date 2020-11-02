@@ -3,7 +3,8 @@ title: "Big Book of R"
 author: "Oscar Baruffa"
 date: ""
 link: "https://www.bigbookofr.com/"
-length_weight: "17.5%"
+length_weight: "18.4%"
+repo: "oscarbaruffa/BigBookofR"
 pinned: false
 ---
 

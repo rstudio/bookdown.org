@@ -1,7 +1,7 @@
 ---
 title: "现代应用统计与 R 语言"
 author: "黄湘云"
-date: "2020-09-17T06:39:47Z"
+date: "2020-10-08T03:58:24Z"
 link: "https://bookdown.org/xiangyun/masr/"
 length_weight: "100%"
 pinned: false

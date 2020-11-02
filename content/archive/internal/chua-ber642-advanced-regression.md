@@ -1,10 +1,10 @@
 ---
 title: "Companion to BER 642: Advanced Regression Methods"
 author: "Cheng Hua, Dr. Youn-Jeng Choi, Qingzhou Shi"
-date: "2020-09-24T02:37:06Z"
+date: "2020-10-27T19:47:22Z"
 tags: [Advanced R, Course, Statistics]
 link: "https://bookdown.org/chua/ber642_advanced_regression/"
-length_weight: "28.6%"
+length_weight: "33%"
 pinned: false
 ---
 

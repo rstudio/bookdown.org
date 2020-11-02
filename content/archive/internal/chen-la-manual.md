@@ -1,10 +1,10 @@
 ---
 title: "CI 5371: Learning Analytics"
 author: "Bodong Chen"
-date: "2020-09-29T03:10:29Z"
+date: "2020-10-20T03:19:41Z"
 tags: [Course, Education]
 link: "https://bookdown.org/chen/la-manual/"
-length_weight: "10.2%"
+length_weight: "14.9%"
 repo: "meefen/la-manual"
 pinned: false
 ---

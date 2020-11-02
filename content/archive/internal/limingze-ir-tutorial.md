@@ -1,10 +1,10 @@
 ---
 title: "Methodology of Social Science & International Relations"
 author: "LI Mingze"
-date: "2020-09-28T07:59:20Z"
+date: "2020-10-30T09:45:36Z"
 tags: [Social Science]
 link: "https://bookdown.org/LiMingze/ir_tutorial/"
-length_weight: "6.7%"
+length_weight: "9.4%"
 pinned: false
 ---
 
