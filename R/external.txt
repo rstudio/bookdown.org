@@ -8,6 +8,7 @@ https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/
 https://becarioprecario.bitbucket.io/spde-gitbook/
 https://blairfix.github.io/capital_as_power/
 https://book.engagingmultiples.com/
+https://book.javascript-for-r.com/
 https://bradleyboehmke.github.io/HOML/
 https://brian.weatherson.org/gutenberg-files/humedialogues/
 https://carrknight.github.io/poseidon/tutorial/
