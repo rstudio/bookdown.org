@@ -1,0 +1,9 @@
+My book https://bookdown.org/roback/bookdown-BeyondMLR/ was recently published by CRC Press 
+(https://www.routledge.com/Beyond-Multiple-Linear-Regression-Applied-Generalized-Linear-Models-And/Roback-Legler/p/book/9781439885383), 
+and I'm wondering if it could be featured on the bookdown homepage? 
+Its cover image can be found at https://images.routledge.com/common/jackets/amazon/978143988/9781439885383.jpg. 
+Thanks for considering!
+
+One related question... an earlier version of this book was also published on bookdown at https://bookdown.org/roback/bookdown-bysh/ 
+(before the publisher suggested a name change). Is it possible to set up a re-direct from the old version to the new version, 
+or is it cleanest just to delete the old version?
