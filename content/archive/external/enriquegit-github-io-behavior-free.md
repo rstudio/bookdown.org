@@ -1,10 +1,10 @@
 ---
 title: "Behavior Analysis with Machine Learning and R"
 author: "Enrique Garcia Ceja"
-date: "2020-10-27"
+date: "2020-12-27"
 tags: [Machine Learning, Models, R Programming]
 link: "https://enriquegit.github.io/behavior-free/"
-length_weight: "28.4%"
+length_weight: "29.5%"
 cover: "https://enriquegit.github.io/behavior-free/images/cover.png"
 pinned: false
 ---

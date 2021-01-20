@@ -1,10 +1,10 @@
 ---
 title: "PSY230: Psychological Measurement and Statistics"
 author: "Yaohui Ding"
-date: "2020-10-13T22:28:30Z"
+date: "2020-11-11T23:04:09Z"
 tags: [Statistics, Course, Psychology]
 link: "https://bookdown.org/yaohuiding/PSY230_website/"
-length_weight: "4.6%"
+length_weight: "6.5%"
 pinned: false
 ---
 

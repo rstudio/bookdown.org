@@ -1,10 +1,10 @@
 ---
 title: "Mixed Models with R"
 author: "Michael Clark m-clark.github.io"
-date: "2020-10-19"
+date: ""
 tags: [Mixed Models, Package, Bayesian, Github]
 link: "https://m-clark.github.io/mixed-models-with-R/"
-length_weight: "16.9%"
+length_weight: "17%"
 cover: "https://m-clark.github.io/mixed-models-with-R/img/nineteeneightyR.png"
 repo: "m-clark/mixed-models-with-R"
 pinned: false

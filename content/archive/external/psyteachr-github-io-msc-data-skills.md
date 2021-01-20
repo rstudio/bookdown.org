@@ -1,10 +1,10 @@
 ---
 title: "Data Skills for Reproducible Science"
 author: "psyteachr.github.io"
-date: "2020-10-11"
+date: "2021-01-06"
 tags: [Course, Tidy, Simulation, Models]
 link: "https://psyteachr.github.io/msc-data-skills/"
-length_weight: "6.1%"
+length_weight: "21.1%"
 pinned: false
 ---
 

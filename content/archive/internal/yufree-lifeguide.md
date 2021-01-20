@@ -1,9 +1,9 @@
 ---
 title: "自然生活的数学原理"
 author: "于淼"
-date: "2020-01-02T21:27:02Z"
+date: "2021-01-03T03:57:39Z"
 link: "https://bookdown.org/yufree/lifeguide/"
-length_weight: "32.3%"
+length_weight: "100%"
 pinned: false
 ---
 

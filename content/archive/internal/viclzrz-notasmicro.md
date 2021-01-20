@@ -1,7 +1,7 @@
 ---
 title: "Notas de Microeconometría Aplicada"
 author: "Autor: Arturo A. Aguilar Esteva, Colaborador: Vicente López Ramírez"
-date: "2020-09-12T17:52:33Z"
+date: "2021-01-11T21:29:39Z"
 link: "https://bookdown.org/viclzrz/notasmicro/"
 length_weight: "39.1%"
 pinned: false

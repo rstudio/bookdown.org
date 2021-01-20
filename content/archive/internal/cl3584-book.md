@@ -1,10 +1,10 @@
 ---
 title: "HUDK4050: Core Methods in Educational Data Mining"
 author: "This document constitutes both the syllabus and LMS for HUDK4050"
-date: "2020-10-28T14:21:41Z"
+date: "2020-11-22T13:16:11Z"
 tags: [Education, Course]
 link: "https://bookdown.org/cl3584/book/"
-length_weight: "19.6%"
+length_weight: "19.7%"
 repo: "username/reponame"
 pinned: false
 ---

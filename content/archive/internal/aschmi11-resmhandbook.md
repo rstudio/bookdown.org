@@ -1,10 +1,10 @@
 ---
 title: "R Software Handbook"
 author: "Evaluation, Statistics, and Methodology - University of Tennessee, Knoxville"
-date: "2020-08-12T02:13:38Z"
+date: "2020-11-30T02:28:33Z"
 tags: [Statistics, Guide, Visualization]
 link: "https://bookdown.org/aschmi11/RESMHandbook/"
-length_weight: "28.7%"
+length_weight: "28.6%"
 repo: "acircleda/RESMHandbook"
 pinned: false
 ---

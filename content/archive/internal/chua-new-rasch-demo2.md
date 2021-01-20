@@ -1,11 +1,11 @@
 ---
-title: "Companion to BER 670: Rasch Techniques for Constructing and Evaluating Measurement Instruments"
-author: "Cheng Hua & Dr. Stefanie Wind"
-date: "2020-11-02T02:37:01Z"
-tags: [Course, Statistics]
+title: "Rasch Measurement Theory Analysis in R: Illustrations and Practical Guidance for Researchers and Practitioners"
+author: "Stefanie Wind & Cheng Hua"
+date: "2021-01-05T19:53:30Z"
+tags: [Package, Models]
 link: "https://bookdown.org/chua/new_rasch_demo2/"
 length_weight: "100%"
 pinned: false
 ---
 
-This is the Rasch R book. [...] This book is still in progress !!! This is a draft. Several sections are still incomplete or unedited. This book is written to help students enrolled in the University of Alabama, Rasch Measurement Theory (BER 670) course led by Professor Stefanie Wind. We hope that the book will be a useful resource to help you learn both R and statistics. If you have any suggestions for improvements, please get in touch with your lovely TA: Cheng Hua, at chua@crimson.ua.edu The course schedule proceeds as follows: Part I includes an introduction to the course, an overview of ...
+The purpose of the proposed book is to illustrate techniques for conducting Rasch measurement theory analyses using existing R packages.The book will include some background information about Rasch models, but the primary objective will be to demonstrate how to apply the models to data using R packagesand interpretthe results. The academic level for this book is graduate students or professionals who have already been exposed to Rasch measurementtheory.

@@ -1,10 +1,10 @@
 ---
 title: "Data Analysis in R"
 author: "Steve Midway"
-date: "2020-05-12T01:44:08Z"
+date: "2021-01-15T02:07:10Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/steve_midway/DAR/"
-length_weight: "25.2%"
+length_weight: "26.1%"
 pinned: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Data Science"
 author: "Ron Sarafian"
-date: "2020-06-13T21:18:38Z"
+date: "2020-12-02T11:34:40Z"
 tags: [Data Science, Course, Statistics, Econometrics, Visualization]
 link: "https://bookdown.org/ronsarafian/IntrotoDS/"
 length_weight: "100%"

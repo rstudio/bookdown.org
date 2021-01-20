@@ -1,15 +1,15 @@
 ---
-title: "The Tidynomicon"
+title: "R for Data Engineers"
 author: "Greg Wilson"
-date: ""
-tags: [Tidy, Guide, Python, R Programming]
+date: "2021-01-11"
+tags: [Guide, Python, R Programming]
 link: "https://gvwilson.github.io/tidynomicon/"
-length_weight: "22.1%"
+length_weight: "22.2%"
 repo: "gvwilson/tidynomicon"
 pinned: false
 ---
 
-The Tidynomicon [...] Years ago,
+R for Data Engineers [...] Years ago,
 Patrick Burns wrote The R Inferno,
 a guide to R for those who think they are in hell.
 Upon first encountering the language after two decades of using Python,
@@ -20,5 +20,4 @@ They only appear so because R draws on a tradition unfamiliar to those of us rai
 Counting from one,
 copying data rather than modifying it,
 lazy evaluation:
-to quote the other bard,
-these ...
+to quote the other ...

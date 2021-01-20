@@ -1,10 +1,10 @@
 ---
 title: "三國志で学ぶデータ分析 (Japan.R 2019)"
 author: "ill-identified"
-date: "2020-09-01"
+date: "2021-01-14"
 tags: [Tidy, ggplot2]
 link: "https://gedevan-aleksizde.github.io/Japan.R2019/"
-length_weight: "13.6%"
+length_weight: "14.2%"
 repo: "Gedevan-Aleksizde/Japan.R2019"
 pinned: false
 ---

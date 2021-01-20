@@ -1,7 +1,7 @@
 ---
 title: "R Practices for Learning Statistics"
 author: "Logan Kelly, Ph.D."
-date: "2020-10-24T11:09:04Z"
+date: "2020-11-20T14:57:03Z"
 tags: [Statistics]
 link: "https://bookdown.org/logan_kelly/r_practice/"
 length_weight: "17%"

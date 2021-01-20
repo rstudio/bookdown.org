@@ -1,10 +1,10 @@
 ---
 title: "Probability and Statistics for Business and Finance - 2020/21"
 author: "Michela Cameletti"
-date: "2020-10-31T11:45:21Z"
+date: "2020-12-24T16:49:18Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/content/5722/"
-length_weight: "16.2%"
+length_weight: "31.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

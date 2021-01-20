@@ -1,7 +1,7 @@
 ---
 title: "Measuring what Matters: Introduction to Rasch Analysis in R"
 author: "Anthony Clairmont, Daniel Katz, Mike Wilton"
-date: "2020-05-19T14:40:15Z"
+date: "2021-01-14T22:59:40Z"
 tags: [Guide]
 link: "https://bookdown.org/dkatz/Rasch_Biome/"
 length_weight: "16.2%"

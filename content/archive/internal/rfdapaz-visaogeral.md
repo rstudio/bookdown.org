@@ -1,7 +1,7 @@
 ---
 title: "1 Introdução | VisaoGeral.utf8"
 author: ""
-date: "2020-07-05T18:50:43Z"
+date: "2020-11-29T14:09:28Z"
 link: "https://bookdown.org/rfdapaz/visaogeral/"
 length_weight: "6%"
 pinned: false

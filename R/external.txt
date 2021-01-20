@@ -6,6 +6,7 @@ https://b-rodrigues.github.io/fput/
 https://b-rodrigues.github.io/modern_R/
 https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/
 https://becarioprecario.bitbucket.io/spde-gitbook/
+https://bioconductor.org/books/release/OSCA/
 https://blairfix.github.io/capital_as_power/
 https://book.engagingmultiples.com/
 https://book.javascript-for-r.com/
@@ -72,7 +73,6 @@ https://mixomicsteam.github.io/Bookdown/
 https://myrbookfr.netlify.com/
 https://myrbooksp.netlify.com/
 https://nacnudus.github.io/spreadsheet-munging-strategies/
-https://osca.bioconductor.org/
 https://paleolimbot.github.io/physical-geology/
 https://pbiecek.github.io/ema/
 https://physikbuch.schule/

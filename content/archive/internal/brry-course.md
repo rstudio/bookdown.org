@@ -1,10 +1,10 @@
 ---
 title: "R course"
 author: "Berry Boessenkool, berry-b@gmx.de"
-date: "2020-10-07T01:00:49Z"
+date: "2020-12-11T00:35:02Z"
 tags: [Course, Github]
 link: "https://bookdown.org/brry/course/"
-length_weight: "7.4%"
+length_weight: "7.6%"
 pinned: false
 ---
 
