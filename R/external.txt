@@ -11,6 +11,7 @@ https://book.engagingmultiples.com/
 https://book.javascript-for-r.com/
 https://bradleyboehmke.github.io/HOML/
 https://brian.weatherson.org/gutenberg-files/humedialogues/
+https://brshallo.github.io/r4ds_solutions/
 https://carrknight.github.io/poseidon/tutorial/
 https://chabefer.github.io/STCI/
 https://christophm.github.io/interpretable-ml-book/
