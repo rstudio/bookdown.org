@@ -68,6 +68,7 @@ normalize_book_len = function(x) {
 
 # alternative book covers
 cover_list = list(
+  'https://rafalab.github.io/dsbook/' = 'https://images.routledge.com/common/jackets/amazon/978036735/9780367357986.jpg',
   'https://r-graphics.org/' = 'https://r-graphics.org/cover.jpg',
   'https://www.gastonsanchez.com/r4strings/' = 'https://www.gastonsanchez.com/r4strings/images/cover.png',
   'https://www.datascienceatthecommandline.com/' = 'https://www.datascienceatthecommandline.com/images/cover.png',

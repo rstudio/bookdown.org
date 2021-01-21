@@ -82,7 +82,6 @@ https://psyteachr.github.io/msc-data-skills/
 https://r-spatial.org/book/
 https://r4crim.com/
 https://rachaellappan.github.io/16S-analysis/
-https://rafalab.github.io/dsbook/
 https://rc2e.com/
 https://ready4r.netlify.app/labbook/
 https://rkabacoff.github.io/datavis/

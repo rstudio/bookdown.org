@@ -18,3 +18,5 @@ https://livebook.datascienceheroes.com/
 https://r-pkgs.org/
 https://engineering-shiny.org/
 https://bookdown.org/yihui/rmarkdown-cookbook/
+https://rafalab.github.io/dsbook/
+https://bookdown.org/roback/bookdown-BeyondMLR/
