@@ -21,7 +21,7 @@ First install the **bookdown** R package as follows:
 install.packages('bookdown')
 
 # or the development version on Github
-devtools::install_github('rstudio/bookdown')
+remotes::install_github('rstudio/bookdown')
 ```
 
 The [RStudio IDE](https://www.rstudio.com/products/rstudio/download/preview/) is recommended but not strictly required (we will show it in the next steps).
@@ -45,6 +45,8 @@ The **Knit** button renders just the chapter you are currently editing (e.g. `in
 ![Build book](/images/build-book.png)
 
 By default the HTML, PDF, and ePub formats of the book will be compiled into the `_book` sub-directory of the project (you can also build a single format at a time using the **Build Book** menu).
+
+Note that if you want to generate PDF, [you'd need a LaTeX distribution.](https://bookdown.org/yihui/rmarkdown-cookbook/install-latex.html)
 
 ### 3. Publish
 
