@@ -1,6 +1,7 @@
 https://advanced-r-solutions.rbind.io/
 https://agailloty.github.io/suicide-evolution/
 https://andrewmaclachlan.github.io/CASA0005repo/
+https://ardata-fr.github.io/officeverse/
 https://argoshare.is.ed.ac.uk/healthyr_book/
 https://b-rodrigues.github.io/fput/
 https://b-rodrigues.github.io/modern_R/
@@ -39,7 +40,6 @@ https://f0nzie.github.io/rtorch-minimal-book/
 https://fg2re.sellorm.com/
 https://geanders.github.io/navy_public_health/
 https://gedevan-aleksizde.github.io/Japan.R2019/
-https://gvwilson.github.io/tidynomicon/
 https://gwmatthews.github.io/ethics/
 https://howiuser.com/
 https://info201.github.io/
@@ -93,7 +93,10 @@ https://rpsystats.com/
 https://rs-aspr.netlify.com/
 https://rstats.wtf/
 https://rstats4ag.org/
+https://rubenfcasal.github.io/aprendizaje_estadistico/
+https://rubenfcasal.github.io/book_remuestreo/
 https://rubenfcasal.github.io/bookdown_intro/
+https://rubenfcasal.github.io/simbook/
 https://rud.is/books/writing-frictionless-r-package-wrappers/
 https://sctyner.github.io/OpenForSciR/
 https://shklinkenberg.github.io/Interactive_Teaching_Techniques/
@@ -106,6 +109,7 @@ https://thefaylab.github.io/lab-manual/
 https://therinspark.com/
 https://thesis.earo.me/
 https://tidyeval.tidyverse.org/
+https://tidynomicon.github.io/tidynomicon/
 https://timtrice.github.io/backtesting-strategies/
 https://tlverse.org/tlverse-handbook/
 https://twinetbook.john-coene.com/
