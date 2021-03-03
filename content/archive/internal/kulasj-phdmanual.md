@@ -1,10 +1,10 @@
 ---
 title: "MSU PhD Roles and Policy Manual"
 author: "authored by the Industrial and Organizational Program faculty"
-date: "2021-01-18T15:29:34Z"
+date: "2021-02-02T21:21:22Z"
 tags: [Psychology]
 link: "https://bookdown.org/kulasj/phdmanual/"
-length_weight: "18.3%"
+length_weight: "18.8%"
 cover: "https://bookdown.org/kulasj/phdmanual/manual.png"
 pinned: false
 ---

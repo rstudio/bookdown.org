@@ -1,10 +1,10 @@
 ---
-title: "Data Science In RStudio"
+title: "Reproducible Science for Busy Researchers: How to Save Time using Literate Programming"
 author: "Dr. Andrew P. Lapointe"
-date: "2020-11-12T17:14:31Z"
-tags: [Data Science, Package, Tutorial]
+date: "2021-02-24T19:20:41Z"
+tags: [Package, Tutorial]
 link: "https://bookdown.org/alapo/learnr/"
-length_weight: "18.6%"
+length_weight: "22.9%"
 cover: "https://bookdown.org/alapo/learnr/images/cover.png"
 repo: "alapo/learnR"
 pinned: false

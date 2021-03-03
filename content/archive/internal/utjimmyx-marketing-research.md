@@ -1,10 +1,10 @@
 ---
 title: "Marketing Research - MKTG4000"
 author: "Jimmy Xu"
-date: "2020-11-17T07:07:59Z"
+date: "2021-01-25T04:28:47Z"
 tags: [Market, Course, Package, R Markdown]
 link: "https://bookdown.org/utjimmyx/marketing_research/"
-length_weight: "21.5%"
+length_weight: "21.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

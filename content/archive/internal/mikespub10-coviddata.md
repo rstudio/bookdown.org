@@ -1,10 +1,10 @@
 ---
 title: "COVID Data Analysis"
 author: "Mike Lyons"
-date: "2021-01-19T21:22:52Z"
+date: "2021-02-07T18:21:19Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/mikespub10/coviddata/"
-length_weight: "14.4%"
+length_weight: "15.6%"
 pinned: false
 ---
 

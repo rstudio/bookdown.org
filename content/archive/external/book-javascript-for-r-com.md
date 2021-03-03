@@ -1,10 +1,10 @@
 ---
 title: "JavaScript for R"
 author: "John Coene"
-date: "2021-01-02"
+date: "2021-02-12"
 tags: [Data Science, R Programming, Python]
 link: "https://book.javascript-for-r.com/"
-length_weight: "23.7%"
+length_weight: "100%"
 cover: "https://book.javascript-for-r.com/images/social.png"
 repo: "JohnCoene/javascript-for-r"
 pinned: false

@@ -1,11 +1,11 @@
 ---
 title: "MMES Quantitative Research Methods Oxford 2021"
 author: "Christopher Barrie"
-date: "2020-12-11T11:16:39Z"
+date: "2021-02-17T07:44:05Z"
 tags: [Course, Seminar]
 link: "https://bookdown.org/chrisjbarrie/MMES-2021/"
-length_weight: "21%"
-cover: "https://bookdown.org/chrisjbarrie/MMES-2021//images/Bahre_Fars.jpeg"
+length_weight: "21.1%"
+cover: "https://bookdown.org/chrisjbarrie/MMES-2021/images/Bahre_Fars.jpeg"
 repo: "cjbarrie/bookdown_template"
 pinned: false
 ---

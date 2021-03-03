@@ -1,10 +1,10 @@
 ---
 title: "Applied Network Analysis for Learning"
 author: "Bodong Chen"
-date: "2021-01-18T22:32:15Z"
+date: "2021-03-03T14:05:54Z"
 tags: [Network, Course, Education]
 link: "https://bookdown.org/chen/snaEd/"
-length_weight: "8.1%"
+length_weight: "19.1%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"
 repo: "meefen/sna-ed"
 pinned: false

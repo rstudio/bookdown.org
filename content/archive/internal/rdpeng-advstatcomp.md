@@ -1,10 +1,10 @@
 ---
 title: "Advanced Statistical Computing"
 author: "Roger D. Peng"
-date: "2020-05-05T18:41:48Z"
+date: "2021-01-27T02:06:06Z"
 tags: [Statistical Computing, Statistics, Course]
 link: "https://bookdown.org/rdpeng/advstatcomp/"
-length_weight: "11.1%"
+length_weight: "3.8%"
 repo: "rdpeng/advstatcomp"
 pinned: false
 ---

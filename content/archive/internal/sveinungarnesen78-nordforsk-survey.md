@@ -1,7 +1,7 @@
 ---
 title: "Survey Guide: The Challenge from Terrorism in the Nordic Countries"
 author: ""
-date: "2020-12-07T22:31:08Z"
+date: "2021-01-29T07:23:47Z"
 tags: [Guide]
 link: "https://bookdown.org/sveinungarnesen78/nordforsk-survey/"
 length_weight: "31.3%"

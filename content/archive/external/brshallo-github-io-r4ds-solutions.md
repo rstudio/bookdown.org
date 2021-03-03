@@ -5,7 +5,7 @@ date: ""
 tags: [Data Science, Guide, R Programming, Tidyverse]
 link: "https://brshallo.github.io/r4ds_solutions/"
 length_weight: "25.9%"
-cover: "https://brshallo.github.io/r4ds_solutions//images/yards_icon.png"
+cover: "https://brshallo.github.io/r4ds_solutions/images/yards_icon.png"
 repo: "brshallo/r4ds_solutions"
 pinned: false
 ---

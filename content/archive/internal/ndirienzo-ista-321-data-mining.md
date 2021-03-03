@@ -1,10 +1,10 @@
 ---
 title: "ISTA 321 - Data Mining"
 author: "Nicholas DiRienzo"
-date: "2020-08-24T22:15:47Z"
+date: "2021-01-27T15:32:33Z"
 tags: [Course, Visualization, Statistics, Machine Learning]
 link: "https://bookdown.org/ndirienzo/ista_321_data_mining/"
-length_weight: "100%"
+length_weight: "15.6%"
 pinned: false
 ---
 

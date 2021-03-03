@@ -1,7 +1,7 @@
 ---
 title: "Notes for Nonparametric Statistics"
 author: "Eduardo García Portugués"
-date: "2021-01-19T21:28:20Z"
+date: "2021-03-01T14:15:36Z"
 tags: [Statistics, Data Science, Course]
 link: "https://bookdown.org/egarpor/NP-UC3M/"
 length_weight: "100%"
@@ -10,4 +10,4 @@ pinned: false
 ---
 
 <p>Notes for Nonparametric Statistics. MSc in Statistics for Data Science.
-Carlos III University of Madrid.</p> [...] Welcome to the notes for Nonparametric Statistics for the course 2019/2020. The subject is part of the MSc in Statistics for Data Science from Carlos III University of Madrid. The course is designed to have, roughly, one lesson per each main topic in the syllabus. The schedule is tight due to time constraints, which will inevitably make the treatment of certain methods a little superficial compared with what it would be the optimal. Nevertheless, the course will hopefully give  ...
+Carlos III University of Madrid.</p> [...] Welcome to the notes for Nonparametric Statistics for the academic year 2020/2021. The course is part of the MSc in Statistics for Data Science from Carlos III University of Madrid. The course is designed to have, roughly, one session per each main topic in the syllabus. The schedule is tight due to time constraints, which will inevitably make the treatment of certain methods somehow superficial. Nevertheless, the course will hopefully give you a respectable panoramic view of ...

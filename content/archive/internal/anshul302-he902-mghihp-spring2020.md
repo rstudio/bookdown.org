@@ -1,7 +1,7 @@
 ---
-title: "Responsible statistics in R for behavioral and health data (working title)"
+title: "Responsible applied statistics in R for behavioral and health data (working title)"
 author: "Anshul Kumar"
-date: "2021-01-19T17:28:33Z"
+date: "2021-02-28T05:12:32Z"
 tags: [Statistics, Course, Guide]
 link: "https://bookdown.org/anshul302/HE902-MGHIHP-Spring2020/"
 length_weight: "100%"

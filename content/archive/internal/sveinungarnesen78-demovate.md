@@ -1,9 +1,9 @@
 ---
 title: "DEMOVATE"
 author: ""
-date: "2021-01-11T10:10:54Z"
+date: "2021-02-16T13:13:19Z"
 link: "https://bookdown.org/sveinungarnesen78/DEMOVATE/"
-length_weight: "16.9%"
+length_weight: "22.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
