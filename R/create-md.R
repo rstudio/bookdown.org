@@ -120,6 +120,11 @@ get_book_meta = function(url, date = NA) {
   title = xml_find(html, './/title')
   if (length(title) == 0) return()
   title = xml_text(title)
+  # Chapter name can be prepended to book title in other book format.
+  # It happens due to `bookdown::prepend_chapter_title()`. 
+  # See https://github.com/rstudio/bookdown.org/issues/62
+  # TODO: adapt if change upstream.
+  title = gsub('^.*\\|\\s*([^|]*)$', '\\1', title)
   if (title == '') return()
 
   description = xml_find(html, './/meta[@name="description"]')
