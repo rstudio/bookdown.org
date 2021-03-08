@@ -181,6 +181,23 @@ get_book_meta = function(url, date = NA) {
     if (!grepl('^https?://', cover)) cover = paste0(url, cover)
     if (!grepl('^https://', cover) || na_url(cover)) cover = NULL
   }
+  # is there a cover image on first page ?
+  # this is useful for new bs4_book() format which don't have og:image meta
+  # Simple algorithm: 
+  #   1. look for first <img> on the main page
+  #   2. See if it is related to a cover: filename, class, alt-text
+  #   3. Use the image if one of this is true
+  if (is.null(cover)) {
+    img_cover = xml_find_first(html, ".//img")
+    img_url = xml_attr(img_cover, "src")
+    # is the first image called cover ?
+    cover_file = grepl("cover", basename(img_url))
+    # is the image node has a class cover ?
+    cover_class = any(grepl("cover", xml_attr(img_cover, "class")))
+    # is the alt text related to cover ?
+    cover_alt = any(grepl("cover", xml_attr(img_cover, "alt")))
+    if (cover_file || cover_class || cover_alt) cover = img_url
+  }
   # does the alternative cover URL work?
   if (is.null(cover)) {
     cover = cover_list[[url]]
