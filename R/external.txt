@@ -99,7 +99,6 @@ https://rubenfcasal.github.io/bookdown_intro/
 https://rubenfcasal.github.io/simbook/
 https://rud.is/books/writing-frictionless-r-package-wrappers/
 https://sctyner.github.io/OpenForSciR/
-https://tlc-uva.github.io/Interactive_Teaching_Techniques/
 https://smltar.com/
 https://soilmapper.org/
 https://sparkfromr.com/
@@ -111,6 +110,7 @@ https://thesis.earo.me/
 https://tidyeval.tidyverse.org/
 https://tidynomicon.github.io/tidynomicon/
 https://timtrice.github.io/backtesting-strategies/
+https://tlc-uva.github.io/Interactive_Teaching_Techniques/
 https://tlverse.org/tlverse-handbook/
 https://twinetbook.john-coene.com/
 https://ulyngs.github.io/cog-design-space-ict-self-control/
