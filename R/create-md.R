@@ -57,9 +57,13 @@ na_url = function(x) {
 }
 
 # relative url to absolute
-rel_to_abs <- function(file, baseurl) {
+rel_to_abs = function(file, baseurl) {
   if (!grepl('^https?://', file)) file = paste0(baseurl, file)
   file
+}
+
+valid_date = function(date) {
+  if (inherits(xfun::try_silent(as.Date(date)), 'try-error')) NA else date
 }
 
 # normalize to [0, 1] and highlight high percentages
@@ -179,10 +183,17 @@ get_book_meta = function(url, date = NA) {
 
   if (is.na(date)) {
     date = xml_find(html, './/meta[@name="date"]')
-    date = if (is.null(date)) NA else {
+    if (!is.null(date)) {
       date = xml_attr(date, 'content')
-      # is it a valid date?
-      if (inherits(xfun::try_silent(as.Date(date)), 'try-error')) NA else date
+      date = valid_date(date)
+    } else {
+      # bs4_book() See if we find date in footer (as set in template)
+      r = "It was last built on ([\\d-]*)\\."
+      date = xml_find(html, './/footer')
+      if (length(date) != 0 && grepl(r, date <- xml_text(date), perl = TRUE)) {
+        date = regmatches(date, regexec(r, date, perl = TRUE))[[1]][2]
+      }
+      date = if (length(date) == 0) NA else valid_date(date)
     }
   }
 
