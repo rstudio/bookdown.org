@@ -79,8 +79,17 @@ cover_list = list(
 
 # the length of search_index.json indicates the length of the book
 book_length = function(url) {
-  x = httr::headers(httr::HEAD(paste0(url, 'search_index.json')))$`content-length`
-  if (length(x) == 0) 0 else as.numeric(x)
+  search_file = c("search_index.json", "search.json")
+  # use first json found
+  for (s in search_file) {
+    head = httr::HEAD(paste0(url, s))
+    if (httr::status_code(head) >= 400) next
+    if (length(head) == 0) return(0)
+    x = httr::headers(head)$`content-length`
+    return(if (length(x) == 0) 0 else as.numeric(x))
+  }
+  # no json found
+  0L
 }
 
 match_tags = function(text) {
