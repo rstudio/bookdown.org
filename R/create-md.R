@@ -193,7 +193,7 @@ get_book_meta = function(url, date = NA) {
   #   2. See if it is related to a cover: filename, class, alt-text
   #   3. Use the image if one of this is true
   if (is.null(cover)) {
-    img_cover = xml_find_first(html, ".//img")
+    img_cover = xml_find(html, ".//img")
     img_url = xml_attr(img_cover, "src")
     # is the first image called cover ?
     cover_file = grepl("cover", basename(img_url))
