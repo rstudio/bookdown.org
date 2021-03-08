@@ -141,6 +141,8 @@ get_book_meta = function(url, date = NA) {
     # Two different cases: gitbook() and bs4_book().
     # Use XPATH operator AND (|) as they are noninclusive
     paragraphs = xml_find(html, './/main//p[not(@*)] | .//div[@class="page-inner"]//p[not(@*)]', TRUE)
+    # in case it is not gitbook nor bs4_book (bookdown::tufte_html_book() ?)
+    if (length(paragraphs) == 0) paragraphs = xml_find(html, './/p[not(@*)]', TRUE)
     paragraphs = if (length(paragraphs)) xml_text(paragraphs)
     if (description == '' && length(paragraphs) == 0) return()
     description = paste(
