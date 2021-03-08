@@ -56,6 +56,12 @@ na_url = function(x) {
   tryCatch(httr::http_error(x), error = function(e) TRUE)
 }
 
+# relative url to absolute
+rel_to_abs <- function(file, baseurl) {
+  if (!grepl('^https?://', file)) file = paste0(baseurl, file)
+  file
+}
+
 # normalize to [0, 1] and highlight high percentages
 normalize_book_len = function(x) {
   x = sqrt(x)
@@ -177,8 +183,7 @@ get_book_meta = function(url, date = NA) {
   cover = xml_find(html, './/meta[@property="og:image"]')
   if (!is.null(cover)) {
     cover = xml_attr(cover, 'content')
-    # relative URL to absolute
-    if (!grepl('^https?://', cover)) cover = paste0(url, cover)
+    cover = rel_to_abs(cover, url)
     if (!grepl('^https://', cover) || na_url(cover)) cover = NULL
   }
   # is there a cover image on first page ?
@@ -196,7 +201,11 @@ get_book_meta = function(url, date = NA) {
     cover_class = any(grepl("cover", xml_attr(img_cover, "class")))
     # is the alt text related to cover ?
     cover_alt = any(grepl("cover", xml_attr(img_cover, "alt")))
-    if (cover_file || cover_class || cover_alt) cover = img_url
+    if (cover_file || cover_class || cover_alt) {
+      cover = img_url
+      cover = rel_to_abs(cover, url)
+      if (!grepl('^https://', cover) || na_url(cover)) cover = NULL
+    }
   }
   # does the alternative cover URL work?
   if (is.null(cover)) {
