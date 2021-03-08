@@ -99,7 +99,7 @@ https://rubenfcasal.github.io/bookdown_intro/
 https://rubenfcasal.github.io/simbook/
 https://rud.is/books/writing-frictionless-r-package-wrappers/
 https://sctyner.github.io/OpenForSciR/
-https://shklinkenberg.github.io/Interactive_Teaching_Techniques/
+https://tlc-uva.github.io/Interactive_Teaching_Techniques/
 https://smltar.com/
 https://soilmapper.org/
 https://sparkfromr.com/
