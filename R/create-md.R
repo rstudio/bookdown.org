@@ -218,6 +218,12 @@ get_book_meta = function(url, date = NA) {
 
   repo = xml_find(html, './/meta[@name="github-repo"]')
   if (!is.null(repo)) repo = gsub('^/+|/+$', '', xml_attr(repo, 'content'))
+  if (is.null(repo)) {
+    # try bs4_book
+    repo = xml_find(html, './/a[@id="book-repo"]')
+    if (!is.null(repo)) repo = gsub('^https://github.com/','', xml_attr(repo, 'href'))
+  }
+  
   generator = xml_find(html, './/meta[@name="generator"]')
   generator = if (length(generator)) xml_attr(generator, 'content') else NA
 
