@@ -138,7 +138,10 @@ get_book_meta = function(url, date = NA) {
   if (length(description) == 0 || is.na(description) || description == 'NA') description = ''
   if (nchar(description) < 400) {
     # compute a summary from normal paragraphs without any attributes
-    paragraphs = if (length(paragraphs <- xml_find(html, './/p[not(@*)]', TRUE))) xml_text(paragraphs)
+    # Two different cases: gitbook() and bs4_book().
+    # Use XPATH operator AND (|) as they are noninclusive
+    paragraphs = xml_find(html, './/main//p[not(@*)] | .//div[@class="page-inner"]//p[not(@*)]', TRUE)
+    paragraphs = if (length(paragraphs)) xml_text(paragraphs)
     if (description == '' && length(paragraphs) == 0) return()
     description = paste(
       c(if (description != '' && length(grep(description, paragraphs, fixed = TRUE)) == 0)
