@@ -147,7 +147,8 @@ get_book_meta = function(url, date = NA) {
       c(if (description != '' && length(grep(description, paragraphs, fixed = TRUE)) == 0)
         c(description, '[...]'), paragraphs), collapse = ' '
     )
-    description = gsub('\\s{2,}', ' ', description)
+    description = gsub('\\s{2,}', ' ', description) # remove double space
+    description = gsub('^\\s+', '', description) # trim left
     # fewer characters for wider chars
     description = substr(description, 1, 600 * nchar(description) / nchar(description, 'width'))
     description = paste(sub(' +[^ ]{1,20}$', '', description), '...')
