@@ -9,15 +9,15 @@ is_pr = Sys.getenv('TRAVIS_PULL_REQUEST') != 'false'
 if (Sys.getenv('TRAVIS') == 'true' && !is_pr) q('no')
 
 local({
-  x = readLines('external.txt')
-  writeLines(sort(unique(x)), 'external.txt')
+  x = xfun::read_utf8('external.txt')
+  xfun::write_utf8(sort(unique(x)), 'external.txt')
 })
 
 # Book listing ------------------------------------------------------------
 
 book_urls = if (file.size('staging.txt') > 0) {
   tibble(
-    url = readLines('staging.txt'),
+    url = xfun::read_utf8('staging.txt'),
     lastmod = as.POSIXct(NA),
     from = 'external'
   )
@@ -32,7 +32,7 @@ book_urls = if (file.size('staging.txt') > 0) {
     bind_rows(
       tibble(
         url = grep(
-          '^https://bookdown[.]org', c(readLines('home.txt'), readLines('external.txt')),
+          '^https://bookdown[.]org', c(xfun::read_utf8('home.txt'), xfun::read_utf8('external.txt')),
           value = TRUE, invert = TRUE
         ),
         lastmod = NA,
@@ -103,8 +103,8 @@ book_length = function(url) {
 }
 
 match_tags = function(text) {
-  tags = trimws(sort(tools::toTitleCase(unique(readLines('tags.txt')))))
-  writeLines(tags, 'tags.txt')
+  tags = trimws(sort(tools::toTitleCase(unique(xfun::read_utf8('tags.txt')))))
+  xfun::write_utf8(tags, 'tags.txt')
   tags_low = tolower(tags)
   m = gregexpr(paste(tags, collapse = '|'), text, ignore.case = TRUE)
   unlist(lapply(regmatches(text, m), function(x) {
@@ -250,7 +250,7 @@ get_book_meta = function(url, date = NA) {
 cache_rds = '_book_meta.rds'
 books_metas = book_urls %>%
   # exclude some specific books
-  filter(! url %in% readLines('exclude.txt')) %>%
+  filter(! url %in% xfun::read_utf8('exclude.txt')) %>%
   # exclude all bookdown demo except official one
   filter(! (grepl('/bookdown-demo/$', url) & !grepl('/yihui/', url))) %>%
   select(url, lastmod) %>%
@@ -291,7 +291,7 @@ books_to_keep = books_metas %>%
   mutate(length_weight = normalize_book_len(book_len)) %>%
   mutate(tags = match_tags(paste(title, description))) %>%
   # mark pinned url (to be displayed on homepage)
-  mutate(pinned = tolower(url %in% readLines('home.txt')))
+  mutate(pinned = tolower(url %in% xfun::read_utf8('home.txt')))
 
 
 # render_post -------------------------------------------------------------
