@@ -39,7 +39,7 @@ jobs:
         uses: actions/cache@v2
         with:
           path: R/_book_meta.rds
-          key: ${{ runner.os }}-book_meta-1
+          key: ${{ runner.os }}-book_meta-2
           restore-keys: |
             ${{ runner.os }}-book_meta-
           
@@ -47,7 +47,8 @@ jobs:
         if: hashFiles('R/_book_meta.rds') == ''
         run: |
           curl -LO https://github.com/rstudio/bookdown.org/files/6079242/_book_meta.rds.zip
-          unzip _book_meta.rds.zip
+          unzip _book_meta.rds.zip -x "__MACOSX/*"
+          rm _book_meta.rds.zip
         working-directory: R/
         
       - name: Update books
