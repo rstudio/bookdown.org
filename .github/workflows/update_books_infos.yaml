@@ -35,22 +35,6 @@ jobs:
         shell: Rscript {0}
         working-directory: R/
         
-      - name: Cache book metas
-        uses: actions/cache@v2
-        with:
-          path: R/_book_meta.rds
-          key: ${{ runner.os }}-book_meta-1
-          restore-keys: |
-            ${{ runner.os }}-book_meta-
-          
-      - name: Initialize book meta
-        if: hashFiles('R/_book_meta.rds') == ''
-        run: |
-          curl -LO https://github.com/rstudio/bookdown.org/files/6079242/_book_meta.rds.zip
-          unzip _book_meta.rds.zip -x "__MACOSX/*"
-          rm _book_meta.rds.zip
-        working-directory: R/
-        
       - name: Update books
         run: |
           renv::run("R/create-md.R", project = "R")
@@ -71,7 +55,7 @@ jobs:
             This PR was created automatically with new book updates. 
             Please review and merge to trigger a new build of the website.
             
-      - name: Check outputs
+      - name: Check auto PR outputs
         run: |
           echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
           echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
