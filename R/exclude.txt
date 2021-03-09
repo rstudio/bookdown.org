@@ -19,3 +19,4 @@ https://bookdown.org/cteplovs/moderndive/
 https://bookdown.org/roback/bookdown-bysh/
 https://bookdown.org/lauramoria/atlastoestand2/
 https://bookdown.org/content/0469d51e-3bc6-4e62-b57d-6bcf5c5e06e7/
+https://bookdown.org/jakevl/streams_sent_map/

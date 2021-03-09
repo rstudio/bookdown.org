@@ -9,15 +9,15 @@ is_pr = Sys.getenv('TRAVIS_PULL_REQUEST') != 'false'
 if (Sys.getenv('TRAVIS') == 'true' && !is_pr) q('no')
 
 local({
-  x = readLines('external.txt')
-  writeLines(sort(unique(x)), 'external.txt')
+  x = xfun::read_utf8('external.txt')
+  xfun::write_utf8(sort(unique(x)), 'external.txt')
 })
 
 # Book listing ------------------------------------------------------------
 
 book_urls = if (file.size('staging.txt') > 0) {
   tibble(
-    url = readLines('staging.txt'),
+    url = xfun::read_utf8('staging.txt'),
     lastmod = as.POSIXct(NA),
     from = 'external'
   )
@@ -32,7 +32,7 @@ book_urls = if (file.size('staging.txt') > 0) {
     bind_rows(
       tibble(
         url = grep(
-          '^https://bookdown[.]org', c(readLines('home.txt'), readLines('external.txt')),
+          '^https://bookdown[.]org', c(xfun::read_utf8('home.txt'), xfun::read_utf8('external.txt')),
           value = TRUE, invert = TRUE
         ),
         lastmod = NA,
@@ -54,6 +54,16 @@ xml_find = function(x, xpath, all = FALSE) {
 # test if a URL is not accessible
 na_url = function(x) {
   tryCatch(httr::http_error(x), error = function(e) TRUE)
+}
+
+# relative url to absolute
+rel_to_abs = function(file, baseurl) {
+  if (!grepl('^https?://', file)) file = paste0(baseurl, file)
+  file
+}
+
+valid_date = function(date) {
+  if (inherits(xfun::try_silent(as.Date(date)), 'try-error')) NA else date
 }
 
 # normalize to [0, 1] and highlight high percentages
@@ -79,13 +89,22 @@ cover_list = list(
 
 # the length of search_index.json indicates the length of the book
 book_length = function(url) {
-  x = httr::headers(httr::HEAD(paste0(url, 'search_index.json')))$`content-length`
-  if (length(x) == 0) 0 else as.numeric(x)
+  search_file = c("search_index.json", "search.json")
+  # use first json found
+  for (s in search_file) {
+    head = httr::HEAD(paste0(url, s))
+    if (httr::status_code(head) >= 400) next
+    if (length(head) == 0) return(0)
+    x = httr::headers(head)$`content-length`
+    return(if (length(x) == 0) 0 else as.numeric(x))
+  }
+  # no json found
+  0L
 }
 
 match_tags = function(text) {
-  tags = trimws(sort(tools::toTitleCase(unique(readLines('tags.txt')))))
-  writeLines(tags, 'tags.txt')
+  tags = trimws(sort(tools::toTitleCase(unique(xfun::read_utf8('tags.txt')))))
+  xfun::write_utf8(tags, 'tags.txt')
   tags_low = tolower(tags)
   m = gregexpr(paste(tags, collapse = '|'), text, ignore.case = TRUE)
   unlist(lapply(regmatches(text, m), function(x) {
@@ -111,6 +130,11 @@ get_book_meta = function(url, date = NA) {
   title = xml_find(html, './/title')
   if (length(title) == 0) return()
   title = xml_text(title)
+  # Chapter name can be prepended to book title in other book format.
+  # It happens due to `bookdown::prepend_chapter_title()`. 
+  # See https://github.com/rstudio/bookdown.org/issues/62
+  # TODO: adapt if change upstream.
+  title = gsub('^.*\\|\\s*([^|]*)$', '\\1', title)
   if (title == '') return()
 
   description = xml_find(html, './/meta[@name="description"]')
@@ -118,13 +142,19 @@ get_book_meta = function(url, date = NA) {
   if (length(description) == 0 || is.na(description) || description == 'NA') description = ''
   if (nchar(description) < 400) {
     # compute a summary from normal paragraphs without any attributes
-    paragraphs = if (length(paragraphs <- xml_find(html, './/p[not(@*)]', TRUE))) xml_text(paragraphs)
+    # Two different cases: gitbook() and bs4_book().
+    # Use XPATH operator AND (|) as they are noninclusive
+    paragraphs = xml_find(html, './/main//p[not(@*)] | .//div[@class="page-inner"]//p[not(@*)]', TRUE)
+    # in case it is not gitbook nor bs4_book (bookdown::tufte_html_book() ?)
+    if (length(paragraphs) == 0) paragraphs = xml_find(html, './/p[not(@*)]', TRUE)
+    paragraphs = if (length(paragraphs)) xml_text(paragraphs)
     if (description == '' && length(paragraphs) == 0) return()
     description = paste(
       c(if (description != '' && length(grep(description, paragraphs, fixed = TRUE)) == 0)
         c(description, '[...]'), paragraphs), collapse = ' '
     )
-    description = gsub('\\s{2,}', ' ', description)
+    description = gsub('\\s{2,}', ' ', description) # remove double space
+    description = gsub('^\\s+', '', description) # trim left
     # fewer characters for wider chars
     description = substr(description, 1, 600 * nchar(description) / nchar(description, 'width'))
     description = paste(sub(' +[^ ]{1,20}$', '', description), '...')
@@ -153,19 +183,48 @@ get_book_meta = function(url, date = NA) {
 
   if (is.na(date)) {
     date = xml_find(html, './/meta[@name="date"]')
-    date = if (is.null(date)) NA else {
+    if (!is.null(date)) {
       date = xml_attr(date, 'content')
-      # is it a valid date?
-      if (inherits(xfun::try_silent(as.Date(date)), 'try-error')) NA else date
+      date = valid_date(date)
+    } else {
+      # bs4_book() See if we find date in footer (as set in template)
+      r = "It was last built on ([\\d-]*)\\."
+      date = xml_find(html, './/footer')
+      if (length(date) != 0 && grepl(r, date <- xml_text(date), perl = TRUE)) {
+        date = regmatches(date, regexec(r, date, perl = TRUE))[[1]][2]
+      }
+      date = if (length(date) == 0) NA else valid_date(date)
     }
   }
 
   cover = xml_find(html, './/meta[@property="og:image"]')
   if (!is.null(cover)) {
     cover = xml_attr(cover, 'content')
-    # relative URL to absolute
-    if (!grepl('^https?://', cover)) cover = paste0(url, cover)
+    cover = rel_to_abs(cover, url)
     if (!grepl('^https://', cover) || na_url(cover)) cover = NULL
+  }
+  # is there a cover image on first page ?
+  # this is useful for new bs4_book() format which don't have og:image meta
+  # Simple algorithm: 
+  #   1. look for first <img> on the main page
+  #   2. See if it is related to a cover: filename, class, alt-text
+  #   3. Use the image if one of this is true
+  if (is.null(cover) && length(img_cover <- xml_find(html, ".//img")) != 0) { 
+      img_url = xml_attr(img_cover, "src")
+      # return early if the first image is encoded
+      if (!grepl("^data:", img_url)) {
+        # is the first image called cover ?
+        cover_file = grepl("cover", basename(img_url))
+        # is the image node has a class cover ?
+        cover_class = any(grepl("cover", xml_attr(img_cover, "class")))
+        # is the alt text related to cover ?
+        cover_alt = any(grepl("cover", xml_attr(img_cover, "alt")))
+        if (cover_file || cover_class || cover_alt) {
+          cover = img_url
+          cover = rel_to_abs(cover, url)
+          if (!grepl('^https://', cover) || na_url(cover)) cover = NULL
+        }
+      }
   }
   # does the alternative cover URL work?
   if (is.null(cover)) {
@@ -175,6 +234,12 @@ get_book_meta = function(url, date = NA) {
 
   repo = xml_find(html, './/meta[@name="github-repo"]')
   if (!is.null(repo)) repo = gsub('^/+|/+$', '', xml_attr(repo, 'content'))
+  if (is.null(repo)) {
+    # try bs4_book
+    repo = xml_find(html, './/a[@id="book-repo"]')
+    if (!is.null(repo)) repo = gsub('^https://github.com/','', xml_attr(repo, 'href'))
+  }
+  
   generator = xml_find(html, './/meta[@name="generator"]')
   generator = if (length(generator)) xml_attr(generator, 'content') else NA
 
@@ -188,7 +253,7 @@ get_book_meta = function(url, date = NA) {
 cache_rds = '_book_meta.rds'
 books_metas = book_urls %>%
   # exclude some specific books
-  filter(! url %in% readLines('exclude.txt')) %>%
+  filter(! url %in% xfun::read_utf8('exclude.txt')) %>%
   # exclude all bookdown demo except official one
   filter(! (grepl('/bookdown-demo/$', url) & !grepl('/yihui/', url))) %>%
   select(url, lastmod) %>%
@@ -229,7 +294,7 @@ books_to_keep = books_metas %>%
   mutate(length_weight = normalize_book_len(book_len)) %>%
   mutate(tags = match_tags(paste(title, description))) %>%
   # mark pinned url (to be displayed on homepage)
-  mutate(pinned = tolower(url %in% readLines('home.txt')))
+  mutate(pinned = tolower(url %in% xfun::read_utf8('home.txt')))
 
 
 # render_post -------------------------------------------------------------
