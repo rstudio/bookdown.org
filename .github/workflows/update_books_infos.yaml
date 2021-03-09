@@ -52,7 +52,7 @@ jobs:
         
       - name: Update books
         run: |
-          renv::run("R/create_md.R", project = "R")
+          renv::run("R/create-md.R", project = "R")
         shell: Rscript {0}
       
       - name: Git status
