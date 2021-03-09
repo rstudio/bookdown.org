@@ -36,6 +36,8 @@ jobs:
         working-directory: R/
         
       - name: Update books
+        env:
+          RSC_BOOKDOWN_ORG_TOKEN: ${{ secrets.RSC_BOOKDOWN_ORG_TOKEN }}
         run: |
           renv::run("R/create-md.R", project = "R")
         shell: Rscript {0}
