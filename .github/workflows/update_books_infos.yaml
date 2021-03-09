@@ -16,7 +16,7 @@ jobs:
         id: install-r
       
       - name: Install dependencies
-        run: install.packages("renv", "roxygen2")
+        run: install.packages("renv")
         shell: Rscript {0}
         
       - name: Cache Renv packages
