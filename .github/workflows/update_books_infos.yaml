@@ -1,0 +1,59 @@
+on:
+  workflow_dispatch:
+  
+name: Update books infos
+jobs:
+  create_md:
+    name: fetch updated info
+    runs-on: unbuntu-20.04
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      RENV_PATHS_ROOT: ~/.local/share/renv
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: r-lib/actions/setup-r@v1
+        id: install-r
+      
+      - name: Install dependencies
+        run: install.packages("renv", "roxygen2")
+        shell: Rscript {0}
+        
+      - name: Cache Renv packages
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.RENV_PATHS_ROOT }}
+          key: ${{ runner.os }}-renv-1-${{ hashFiles('renv.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-renv-1-
+            ${{ runner.os }}-renv-
+            
+      - name: Install packages
+        run: | 
+          if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
+          renv::restore(repos = "https://packagemanager.rstudio.com/all/latest")
+        shell: Rscript {0}
+        working-directory: R/
+        
+      - name: Cache book metas
+        uses: actions/cache@v2
+        with:
+          path: R/_book_meta.rds
+          key: ${{ runner.os }}-book_meta-1
+          restore-keys: |
+            ${{ runner.os }}-book_meta-
+          
+      - name: Initialize book meta
+        if: hasFiles('R/_book_meta.rds') != ''
+        run: |
+          curl -LO https://github.com/rstudio/bookdown.org/files/6079242/_book_meta.rds.zip
+          unzip _book_meta.rds.zip
+        working-directory: R/
+        
+      - name: Update books
+        run: |
+          renv::run("R/create_md.R", project = "R")
+        shell: Rscript {0}
+      
+      - name: Git status
+        run: git status
