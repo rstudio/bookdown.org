@@ -193,11 +193,10 @@
     },
     "knitr": {
       "Package": "knitr",
-      "Version": "1.31.5",
-      "Source": "Local",
-      "RemotePkgRef": "local::.",
-      "RemoteType": "local",
-      "Hash": "7798184b1c716f25a1a31c57d88304f9"
+      "Version": "1.31",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "c3994c036d19fc22c5e2a209c8298bfb"
     },
     "later": {
       "Package": "later",
