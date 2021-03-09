@@ -39,7 +39,7 @@ jobs:
         uses: actions/cache@v2
         with:
           path: R/_book_meta.rds
-          key: ${{ runner.os }}-book_meta-2
+          key: ${{ runner.os }}-book_meta-1
           restore-keys: |
             ${{ runner.os }}-book_meta-
           
@@ -56,5 +56,24 @@ jobs:
           renv::run("R/create-md.R", project = "R")
         shell: Rscript {0}
       
-      - name: Git status
-        run: git status
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: |
+            new book updates [auto PR]
+          branch: updates/gha-auto
+          delete-branch: true
+          title: |
+            Books meta updates to review before building site
+          body: |
+            This PR was created automatically with new book updates. 
+            Please review and merge to trigger a new build of the website.
+            
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+          echo "Pull Request Action Performed - ${{ steps.cpr.outputs.pull-request-operation }}"
+          
