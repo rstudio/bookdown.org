@@ -44,7 +44,7 @@ jobs:
             ${{ runner.os }}-book_meta-
           
       - name: Initialize book meta
-        if: hasFiles('R/_book_meta.rds') != ''
+        if: hashFiles('R/_book_meta.rds') != ''
         run: |
           curl -LO https://github.com/rstudio/bookdown.org/files/6079242/_book_meta.rds.zip
           unzip _book_meta.rds.zip
