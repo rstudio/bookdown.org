@@ -43,13 +43,13 @@ jobs:
           if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
           renv::restore(repos = "https://packagemanager.rstudio.com/all/latest")
         shell: Rscript {0}
-        working_directory: R
+        working-directory: R
 
       - name: Install hugo
         run: |
           blogdown::install_hugo()
         shell: Rscript {0}
-        working_directory: R
+        working-directory: R
 
       - name: build and publish
         env:
