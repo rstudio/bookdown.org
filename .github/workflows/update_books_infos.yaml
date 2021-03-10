@@ -17,10 +17,6 @@ jobs:
       - uses: r-lib/actions/setup-r@v1
         id: install-r
       
-      - name: Install dependencies
-        run: install.packages("renv")
-        shell: Rscript {0}
-        
       - name: Cache Renv packages
         uses: actions/cache@v2
         with:
