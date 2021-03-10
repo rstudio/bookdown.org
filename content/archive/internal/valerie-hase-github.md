@@ -1,10 +1,10 @@
 ---
 title: "Forschungsseminar: Text as data"
 author: "Valerie Hase, IKMZ, Universität Zürich"
-date: "2021-03-01T08:56:18Z"
+date: "2021-03-09T12:28:06Z"
 tags: [Seminar, Tutorial]
 link: "https://bookdown.org/valerie_hase/Github/"
-length_weight: "42.8%"
+length_weight: "100%"
 repo: "https://github.com/valeriehase/Lehre_Automatisierte-Inhaltsanalyse"
 pinned: false
 ---
