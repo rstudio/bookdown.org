@@ -1,0 +1,59 @@
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'content/**'
+      - 'config.toml'
+      - 'themes/**'
+      - 'static/**'
+      - 'layouts/**'
+      - 'ressources/**'
+      - '.github/workflows/build_site.yaml'
+
+name: Build and deploy website
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      R_KNITR_OPTIONS: "knitr.chunk.tidy=TRUE"
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Install R
+        uses: r-lib/actions/setup-r@v1
+
+      - name: Cache Renv packages
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.RENV_PATHS_ROOT }}
+          key: ${{ runner.os }}-renv-1-${{ hashFiles('R/renv.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-renv-1-
+            ${{ runner.os }}-renv-
+      
+      - name: Install packages
+        run: | 
+          if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
+          renv::restore(repos = "https://packagemanager.rstudio.com/all/latest")
+        shell: Rscript {0}
+        working_directory: R
+
+      - name: Install hugo
+        run: |
+          blogdown::install_hugo()
+        shell: Rscript {0}
+        working_directory: R
+
+      - name: build and publish
+        env:
+          RSC_BOOKDOWN_ORG_TOKEN: ${{ secrets.RSC_BOOKDOWN_ORG_TOKEN }}
+          CONTENT_ID: 11
+        run: Rscript publish.R
+        working-directory: R
