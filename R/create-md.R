@@ -250,7 +250,22 @@ get_book_meta = function(url, date = NA) {
   )
 }
 
+# Get meta from pins
 cache_rds = '_book_meta.rds'
+message("Fetching new book informations")
+xfun::pkg_load2("pins")
+if (!file.exists(cache_rds) && 
+    !is.na(rsc_key <- Sys.getenv("RSC_BOOKDOWN_ORG_TOKEN", unset = NA))) {
+  message("-> Retrieving cached meta from pins")
+  pins::board_register_rsconnect(server = "https://bookdown.org", key = rsc_key)
+  pin_exists = pins::pin_find(name = "cderv/bookdownorg_books_meta", board = "rsconnect")
+  if (nrow(pin_exists) == 1) {
+    cache_rds = pins::pin_get("cderv/bookdownorg_books_meta", board = "rsconnect", cache = FALSE)
+    stopifnot("Cache not downloaded" = file.exists(cache_rds))
+    message("-> Cached meta downloaded in ", dQuote(cache_rds))
+  }
+}
+
 books_metas = book_urls %>%
   # exclude some specific books
   filter(! url %in% xfun::read_utf8('exclude.txt')) %>%
@@ -268,16 +283,23 @@ books_metas = book_urls %>%
         return(if (!is.null(book_meta[['title']])) book_meta)
       }
     } else book_metas = list()
-    message('processing ', url)
+    message('-> processing ', url)
     book_meta = get_book_meta(url, date)
     book_metas[[url]] = if (is.null(book_meta)) list(date = date) else book_meta
     saveRDS(book_metas, cache_rds)
     book_meta
   })
 
+# save new book meta
+if (!is.na(rsc_key)) {
+  message("-> Pinning new cached meta to bookdown.org")
+  pins::pin(cache_rds, name = "bookdownorg_books_meta", board = "rsconnect", 
+            description = "Metadata for bookdown.org/ books page")
+}
 
 # Cleaning published books ------------------------------------------------
 
+message("Cleaning retrieved informations")
 books_to_keep = books_metas %>%
   # should have substantial content (> 2500 bytes)
   filter(book_len == 0 | book_len > 2500 | !grepl('^https://bookdown[.]org/', url)) %>%
@@ -319,6 +341,7 @@ if (Sys.getenv('TRAVIS') == '') {
   xfun::in_dir('../content/archive', unlink(c('internal/*.md', 'external/*.md')))
 }
 
+message("Writing md files")
 books_to_keep %>%
   mutate(post_content = pmap_chr(., function(...) {
     ldata = list(...)
