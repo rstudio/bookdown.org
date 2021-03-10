@@ -55,7 +55,7 @@ jobs:
             new book updates [auto PR]
           branch: updates/gha-auto
           delete-branch: true
-          reviewers: cderv,yihui
+          # reviewers: cderv,yihui
           title: |
             Books meta updates to review before building site
           body: |
