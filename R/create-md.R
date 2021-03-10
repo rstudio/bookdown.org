@@ -307,6 +307,9 @@ if (!is.na(rsc_key)) {
             description = "Metadata for bookdown.org/ books page")
 }
 
+# Write data for debug to upload as artifacts on GHA
+saveRDS(books_metas, "saved_books_metas.rds")
+
 # Cleaning published books ------------------------------------------------
 
 message("Cleaning retrieved informations")

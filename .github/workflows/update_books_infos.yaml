@@ -39,6 +39,12 @@ jobs:
           PINS_VERBOSE: true
         run: Rscript create-md.R
         working-directory: R/
+        
+      - uses: actions/upload-artifact@v2
+        with:
+          name: saved_books_metas
+          path: '**/saved_books_metas.rds'
+          retention-days: 7
       
       - name: Create Pull Request
         id: cpr
