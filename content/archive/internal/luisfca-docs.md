@@ -1,11 +1,10 @@
 ---
 title: "Conceitos e análises estatísticas com R e JASP"
 author: "Luis Anunciação (PUC-Rio), PhD"
-date: "2021-02-25T20:52:37Z"
+date: "2021-03-07T02:04:33Z"
 tags: [Statistics]
 link: "https://bookdown.org/luisfca/docs/"
 length_weight: "100%"
-repo: "cjvanlissa/gitbook-demo"
 pinned: false
 ---
 

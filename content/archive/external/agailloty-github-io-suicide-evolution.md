@@ -4,7 +4,7 @@ author: "Axel-Cleris Gailloty"
 date: "2019-05-17"
 tags: [Package]
 link: "https://agailloty.github.io/suicide-evolution/"
-length_weight: "5.3%"
+length_weight: "0%"
 pinned: false
 ---
 

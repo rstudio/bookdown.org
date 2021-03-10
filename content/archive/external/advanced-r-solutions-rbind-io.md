@@ -2,10 +2,12 @@
 title: "Advanced R Solutions"
 author: "Malte Grosser, Henning Bumann & Hadley Wickham"
 date: ""
-tags: [Advanced R, Github]
+tags: [Advanced R]
 link: "https://advanced-r-solutions.rbind.io/"
-length_weight: "23.2%"
+length_weight: "0%"
+cover: "https://advanced-r-solutions.rbind.io/images/cover/advrs_cover.png"
+repo: "Tazinho/Advanced-R-Solutions"
 pinned: false
 ---
 
-Solutions to the Exercises in Hadley Wickham’s book ‘Advanced R.’ [...] This book offers solutions to the exercises from Hadley Wickham’s book Advanced R (Edition 2). It is work in progress and under active development. The 2nd edition of Advanced R has been published and we are currently working towards completion. The solutions to the first edition of Advanced R can currently be found at https://advanced-r-solutions-ed1.netlify.com. The code for this book can be found on GitHub. Your PRs and suggestions are very welcome. This work by Malte Grosser and Henning Bumann is licensed under a ...
+This is the website for “Advanced R Solutions” which provides solutions to the exercises from Hadley Wickham’s Advanced R, 2nd edition. A print version of this book will soon be released as part of Chapman & Hall’s R Series. Working through the exercises and their solutions will give you a deep understanding of a variety of programming challenges, many of which are relevant to everyday work. Solutions to the first edition of Advanced R can be found at https://advanced-r-solutions-ed1.netlify.com. This work, as a whole, is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike ...

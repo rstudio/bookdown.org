@@ -5,6 +5,7 @@ date: ""
 tags: [Package]
 link: "https://jokergoo.github.io/ComplexHeatmap-reference/book/"
 length_weight: "21.5%"
+cover: "https://jokergoo.github.io/ComplexHeatmap-reference/book/complexheatmap-cover.jpg"
 repo: "jokergoo/ComplexHeatmap-reference"
 pinned: false
 ---
