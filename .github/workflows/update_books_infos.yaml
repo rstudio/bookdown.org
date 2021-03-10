@@ -1,5 +1,7 @@
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '45 5 * * 4'
   
 name: Update books infos
 jobs:
