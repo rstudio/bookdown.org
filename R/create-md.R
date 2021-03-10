@@ -259,8 +259,10 @@ if (!file.exists(cache_rds) &&
   message("-> Retrieving cached meta from pins")
   pins::board_register_rsconnect(server = "https://bookdown.org", key = rsc_key)
   pin_exists = pins::pin_find(name = "cderv/bookdownorg_books_meta", board = "rsconnect")
-  if (nrow(pin_exists) == 1)
+  if (nrow(pin_exists) == 1) {
     cache_rds = pins::pin_get("cderv/bookdownorg_books_meta", board = "rsconnect")
+    message("-> Cached meta downloaded in ", dQuote(cache_rds))
+  }
 }
 
 books_metas = book_urls %>%
@@ -290,7 +292,7 @@ books_metas = book_urls %>%
 # save new book meta
 if (!is.na(rsc_key)) {
   message("-> Saving cached meta from pins")
-  pins::pin("_book_meta.rds", name = "bookdownorg_books_meta", board = "rsconnect", 
+  pins::pin(cache_rds, name = "bookdownorg_books_meta", board = "rsconnect", 
             description = "Metadata for bookdown.org/ books page")
 }
 
