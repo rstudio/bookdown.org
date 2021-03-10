@@ -5,6 +5,7 @@ date: ""
 tags: [Data Science, Education]
 link: "https://datascienceineducation.com/"
 length_weight: "100%"
+cover: "https://datascienceineducation.com/dsieur-cover-routledge.jpg"
 repo: "data-edu/data-science-in-education"
 pinned: false
 ---

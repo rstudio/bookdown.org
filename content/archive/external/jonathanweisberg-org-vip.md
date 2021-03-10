@@ -4,7 +4,7 @@ author: "Jonathan Weisberg"
 date: ""
 tags: [Textbook, Course]
 link: "https://jonathanweisberg.org/vip/"
-length_weight: "5.3%"
+length_weight: "0%"
 cover: "https://jonathanweisberg.org/vip/img/social_image.png"
 repo: "jweisber/vip"
 pinned: false

@@ -1,10 +1,10 @@
 ---
-title: "Chapter 1 Introduction to R (Week1) | index.split"
+title: "index.split"
 author: "sunboklee"
-date: "2021-03-01T11:36:28Z"
+date: "2021-03-10T04:44:23Z"
 tags: [Course, Data Science, Social Science, Package]
 link: "https://bookdown.org/sunboklee/ewha_r_2021_1/"
-length_weight: "10.9%"
+length_weight: "11.5%"
 pinned: false
 ---
 

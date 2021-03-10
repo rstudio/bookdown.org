@@ -5,6 +5,7 @@ date: "2019-10-21"
 tags: [Guide]
 link: "https://fg2re.sellorm.com/"
 length_weight: "10.6%"
+cover: "https://fg2re.sellorm.com/cover.png"
 repo: "sellorm/field-guide-to-the-r-ecosystem"
 pinned: false
 ---

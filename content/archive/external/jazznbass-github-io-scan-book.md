@@ -5,6 +5,7 @@ date: "2021-03-01"
 tags: [Package]
 link: "https://jazznbass.github.io/scan-Book/"
 length_weight: "13.4%"
+cover: "https://jazznbass.github.io/scan-Book/images/cover.png"
 repo: "jazznbass/scan-book"
 pinned: false
 ---

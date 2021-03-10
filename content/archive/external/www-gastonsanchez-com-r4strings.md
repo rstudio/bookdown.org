@@ -5,7 +5,7 @@ date: ""
 tags: [String]
 link: "https://www.gastonsanchez.com/r4strings/"
 length_weight: "11.5%"
-cover: "https://www.gastonsanchez.com/r4strings/images/cover.png"
+cover: "https://www.gastonsanchez.com/r4strings/images/cover-image.png"
 repo: "gastonstat/r4strings"
 pinned: false
 ---
