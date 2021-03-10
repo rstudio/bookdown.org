@@ -57,7 +57,7 @@ jobs:
           delete-branch: true
           # reviewers: cderv,yihui
           title: |
-            Books meta updates to review before building site
+            Books meta updates
           body: |
             This PR was created automatically with new book updates. 
             Please review and merge to trigger a new build of the website.
