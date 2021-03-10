@@ -292,7 +292,7 @@ books_metas = book_urls %>%
 
 # save new book meta
 if (!is.na(rsc_key)) {
-  message("-> Pinning new cached meta from pins")
+  message("-> Pinning new cached meta to bookdown.org")
   pins::pin(cache_rds, name = "bookdownorg_books_meta", board = "rsconnect", 
             description = "Metadata for bookdown.org/ books page")
 }
