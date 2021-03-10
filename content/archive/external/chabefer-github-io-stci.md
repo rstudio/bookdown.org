@@ -8,16 +8,4 @@ repo: "chabefer/STCI"
 pinned: false
 ---
 
-This is an open source collaborative book. [...] $$
-\newcommand{\uns}[1]{\mathbf{1}[#1]}
-\newcommand{\esp}[1]{\mathbf{E}[#1]}
-\newcommand{\Ind}{\perp\kern-5pt\perp}
-\newcommand{\var}[1]{\mathbf{V}[ #1 ]}
-\newcommand{\cov}[1]{\mathbf{C}[ #1 ]}
-\newcommand{\plim}[1]{\text{plim}_{ #1 \rightarrow \infty}}
-\newcommand{\plims}{\text{plim}}
-\newcommand{\partder}[2]{\frac{\partial #1}{\partial #2}}
-\newcommand{\partdersq}[2]{\frac{\partial^2 #1}{\partial #2^2}}
-\DeclareMathOperator{\diag}{diag}
-$$ div.sourceCode { overflow-x: auto; }
-table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode { ...
+This is an open source collaborative book. [...] Tools of causal inference are the basic statistical building block behind most scientific results. It is thus extremely useful to have an open source collectively aggreed upon resource presenting and assessing them, as well as listing the current unresolved issues. The content of this book covers the basic theoretical knowledge and technical skills required for implementing staistical methods of causal inference. This means: This book is geared for teaching causal inference to graduate students that want to apply statistical tools of causal ...

@@ -5,6 +5,7 @@ date: "2021-01-15"
 tags: [Data Science]
 link: "https://argoshare.is.ed.ac.uk/healthyr_book/"
 length_weight: "100%"
+cover: "https://argoshare.is.ed.ac.uk/healthyr_book/images/healthyr_book_cover_20.png"
 repo: "SurgicalInformatics/healthyr_book"
 pinned: false
 ---

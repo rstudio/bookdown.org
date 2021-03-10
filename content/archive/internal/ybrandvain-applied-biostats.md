@@ -1,10 +1,10 @@
 ---
 title: "Applied Biostats"
 author: "Yaniv Brandvain"
-date: "2021-03-03T13:58:03Z"
+date: "2021-03-10T03:35:48Z"
 tags: [Course]
 link: "https://bookdown.org/ybrandvain/Applied-Biostats/"
-length_weight: "100%"
+length_weight: "12.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
