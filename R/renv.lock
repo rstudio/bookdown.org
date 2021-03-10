@@ -30,6 +30,13 @@
       "Repository": "CRAN",
       "Hash": "dbb5e436998a7eba5a9d682060533338"
     },
+    "anytime": {
+      "Package": "anytime",
+      "Version": "0.3.9",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "74a64813f17b492da9c6afda6b128e3d"
+    },
     "askpass": {
       "Package": "askpass",
       "Version": "1.1",
@@ -259,12 +266,12 @@
       "Version": "0.4.5.9000",
       "Source": "GitHub",
       "RemoteType": "github",
-      "RemoteHost": "api.github.com",
       "RemoteUsername": "rstudio",
       "RemoteRepo": "pins",
       "RemoteRef": "master",
-      "RemoteSha": "46baf4a24784fbc4a91d9a2c437dc825d07d86cc",
-      "Hash": "4f7218b3a2003c9af5f069fd996a913c"
+      "RemoteSha": "1d504a659bc9200f4552dcd3b91c4649f91a9baf",
+      "RemoteHost": "api.github.com",
+      "Hash": "1602515ef3c1bc2a3583690f2b8c562d"
     },
     "pkgconfig": {
       "Package": "pkgconfig",

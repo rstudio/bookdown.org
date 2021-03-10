@@ -2,7 +2,7 @@ if (basename(getwd()) != 'R') setwd('R')
 
 if (!requireNamespace('xfun')) install.packages('xfun')
 xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
-xfun::pkg_load2(c('httr', 'whisker'))
+xfun::pkg_load2(c('httr', 'whisker', 'anytime'))
 
 # exit if on Travis and not a pull request build
 is_pr = Sys.getenv('TRAVIS_PULL_REQUEST') != 'false'
@@ -63,7 +63,14 @@ rel_to_abs = function(file, baseurl) {
 }
 
 valid_date = function(date) {
-  if (inherits(xfun::try_silent(as.Date(date)), 'try-error')) NA else date
+  # will be NA if date is not converted. 
+  # This allows to easily convert date like March 03 2021
+  # we add a try_silent to prevent any issue
+  if (inherits(xfun::try_silent(date <- anytime::anydate(date)), 'try-error')) {
+    NA_character_ 
+  } else {
+    as.character(date)
+  }
 }
 
 # normalize to [0, 1] and highlight high percentages
@@ -188,7 +195,8 @@ get_book_meta = function(url, date = NA) {
       date = valid_date(date)
     } else {
       # bs4_book() See if we find date in footer (as set in template)
-      r = "It was last built on ([\\d-]*)\\."
+      # we match date placeholder and won't catch any date formatted using .
+      r = "It was last built on ([^\\.]*)\\."
       date = xml_find(html, './/footer')
       if (length(date) != 0 && grepl(r, date <- xml_text(date), perl = TRUE)) {
         date = regmatches(date, regexec(r, date, perl = TRUE))[[1]][2]
@@ -352,3 +360,5 @@ books_to_keep %>%
   mutate(post_name = make_post_filename(url)) %>%
   select(-url) %>%
   pwalk(write_md_post)
+
+message("Done!")
