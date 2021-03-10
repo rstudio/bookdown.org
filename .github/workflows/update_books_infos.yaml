@@ -40,6 +40,7 @@ jobs:
       - name: Update books
         env:
           RSC_BOOKDOWN_ORG_TOKEN: ${{ secrets.RSC_BOOKDOWN_ORG_TOKEN }}
+          PINS_VERBOSE: true
         run: Rscript create-md.R
         working-directory: R/
       

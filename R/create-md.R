@@ -13,6 +13,8 @@ local({
   xfun::write_utf8(sort(unique(x)), 'external.txt')
 })
 
+options(pins.verbose = Sys.getenv("PINS_VERBOSE") == "true")
+
 # Book listing ------------------------------------------------------------
 
 book_urls = if (file.size('staging.txt') > 0) {
