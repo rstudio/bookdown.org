@@ -45,10 +45,16 @@ jobs:
         run: Rscript create-md.R
         working-directory: R/
         
+      - name: move to external.txt
+        run: |
+          cat staging.txt >> external.txt
+          echo "" > staging.txt
+        working-directory: R/
+        
       - name: commit
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add content/\*
+          git add content/\* R/\*
           git commit -m 'new book infos'
           git push
