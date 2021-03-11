@@ -48,7 +48,7 @@ jobs:
       - name: move to external.txt
         run: |
           cat staging.txt >> external.txt
-          echo "" > staging.txt
+          cat /dev/null > staging.txt
         working-directory: R/
         
       - name: commit
