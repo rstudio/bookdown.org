@@ -14,13 +14,14 @@ options(pins.verbose = Sys.getenv("PINS_VERBOSE") == "true")
 # Book listing ------------------------------------------------------------
 
 book_urls = if (file.size('staging.txt') > 0) {
-  DO_NOT_DELETE_MD = TRUE
+  DO_NOT_DELETE_MD = TRUE # only update or create .md files
   tibble(
     url = xfun::read_utf8('staging.txt'),
     lastmod = as.POSIXct(NA),
     from = 'external'
   )
 } else {
+  DO_NOT_DELETE_MD = FALSE # rerender all .md files
   # get book from sitemap
   book_list = xml2::as_list(read_xml('https://bookdown.org/sitemap.xml'))[[1]]
   tibble(
