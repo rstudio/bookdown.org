@@ -58,6 +58,14 @@ na_url = function(x) {
   tryCatch(httr::http_error(x), error = function(e) TRUE)
 }
 
+# test if content as no index page and main url is directly redirected
+redirected_index_page = function(url) {
+  parsed_url = httr::parse_url(url)
+  # only for bookdown.org
+  if (parsed_url$hostname != "bookdown.org") return(FALSE)
+  !identical(httr::parse_url(httr::HEAD(url)[['url']])$path, parsed_url$path)
+}
+
 # relative url to absolute
 rel_to_abs = function(file, baseurl) {
   if (!grepl('^https?://', file)) file = paste0(baseurl, file)
@@ -130,7 +138,11 @@ get_book_meta = function(url, date = NA) {
   # try to read a URL for at most three times
   i = 1
   while (i < 4) {
-    html = try(read_html(url, encoding = 'UTF-8'))
+    html = try({
+      # skip completely if url target a redirected index page
+      if (redirected_index_page(url)) return()
+      read_html(url, encoding = 'UTF-8')
+    })
     if (!inherits(html, 'try-error')) break
     i = i + 1; Sys.sleep(30)
   }
