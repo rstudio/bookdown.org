@@ -4,10 +4,6 @@ if (!requireNamespace('xfun')) install.packages('xfun')
 xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
 xfun::pkg_load2(c('httr', 'whisker', 'anytime'))
 
-# exit if on Travis and not a pull request build
-is_pr = Sys.getenv('TRAVIS_PULL_REQUEST') != 'false'
-if (Sys.getenv('TRAVIS') == 'true' && !is_pr) q('no')
-
 local({
   x = xfun::read_utf8('external.txt')
   xfun::write_utf8(sort(unique(x)), 'external.txt')
@@ -18,6 +14,7 @@ options(pins.verbose = Sys.getenv("PINS_VERBOSE") == "true")
 # Book listing ------------------------------------------------------------
 
 book_urls = if (file.size('staging.txt') > 0) {
+  DO_NOT_DELETE_MD = TRUE
   tibble(
     url = xfun::read_utf8('staging.txt'),
     lastmod = as.POSIXct(NA),
@@ -351,7 +348,8 @@ write_md_post = function(post_name, post_content, path = '../content/archive') {
 
 template = xfun::read_utf8('template.md')
 
-if (Sys.getenv('TRAVIS') == '') {
+# Do not remove all files when previewing content
+if (!DO_NOT_DELETE_MD) {
   xfun::in_dir('../content/archive', unlink(c('internal/*.md', 'external/*.md')))
 }
 
