@@ -159,6 +159,9 @@ get_book_meta = function(url, date = NA) {
   description = xml_find(html, './/meta[@name="description"]')
   if (!is.null(description)) description = xml_attr(description, 'content')
   if (length(description) == 0 || is.na(description) || description == 'NA') description = ''
+  # bookdown-demo published by other people with an unchanged description
+  if (grepl("^This is a minimal example of using the bookdown package to write a book[.]", description) && 
+      !grepl('/yihui/', url)) return()
   if (nchar(description) < 400) {
     # compute a summary from normal paragraphs without any attributes
     # Two different cases: gitbook() and bs4_book().
@@ -190,7 +193,7 @@ get_book_meta = function(url, date = NA) {
   } else {
     author = xml_attr(author, 'content')
     author = paste(author, collapse = ', ')
-    # bookdown-demo published by other people
+    # bookdown-demo published by other people - that would have the non example description
     if (title == 'A Minimal Book Example' && author == 'Yihui Xie' && !grepl('/yihui/', url))
       return()
   }
