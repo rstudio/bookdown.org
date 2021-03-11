@@ -1,10 +1,10 @@
 ---
-title: "Applied Network Analysis for Learning"
+title: "Ego-centric Networks"
 author: "Bodong Chen"
-date: "2021-03-03T14:05:54Z"
+date: "2021-03-10T15:26:13Z"
 tags: [Network, Course, Education]
 link: "https://bookdown.org/chen/snaEd/"
-length_weight: "19.1%"
+length_weight: "20.1%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"
 repo: "meefen/sna-ed"
 pinned: false

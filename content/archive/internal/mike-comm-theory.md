@@ -1,10 +1,10 @@
 ---
 title: "Communication Theories"
 author: "Mike Nguyen"
-date: "2021-03-02T20:48:08Z"
+date: "2021-03-10T18:05:53Z"
 tags: [Seminar]
 link: "https://bookdown.org/mike/comm_theory/"
-length_weight: "21.6%"
+length_weight: "24.8%"
 pinned: false
 ---
 
