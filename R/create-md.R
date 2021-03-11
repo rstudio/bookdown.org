@@ -188,6 +188,7 @@ get_book_meta = function(url, date = NA) {
   author = gsub('copyright [0-9]+', '', author, ignore.case = TRUE)  # https://thinkstats.org/
   author = gsub('.+, by ([^,]+),.+', '\\1', author)  # https://davidjohnbaker1.github.io/document/
   author = gsub('\\s+Foreword by .+', '', author)  # https://moderndive.com/
+  author = gsub('\\\\[(].*\\\\[)]', '', author)  # https://bookdown.org/paulgonzaloparedes/derecho-de-daos/
   author = trimws(gsub('\\s+', ' ', author))
 
   if (is.na(date)) {
