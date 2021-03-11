@@ -159,9 +159,6 @@ get_book_meta = function(url, date = NA) {
   description = xml_find(html, './/meta[@name="description"]')
   if (!is.null(description)) description = xml_attr(description, 'content')
   if (length(description) == 0 || is.na(description) || description == 'NA') description = ''
-  # bookdown-demo published by other people with an unchanged description
-  if (grepl("^This is a minimal example of using the bookdown package to write a book[.]", description) && 
-      !grepl('/yihui/', url)) return()
   if (nchar(description) < 400) {
     # compute a summary from normal paragraphs without any attributes
     # Two different cases: gitbook() and bs4_book().
@@ -181,7 +178,11 @@ get_book_meta = function(url, date = NA) {
     description = substr(description, 1, 600 * nchar(description) / nchar(description, 'width'))
     description = paste(sub(' +[^ ]{1,20}$', '', description), '...')
   }
-
+  # bookdown-demo published by other people with an unchanged description
+  if (grepl("^This is a minimal example of using the bookdown package to write a book[.]", description) && 
+      grepl("[...] This is a sample book written in Markdown.", description, fixed = TRUE) && 
+      !grepl('/yihui/', url)) return()
+  
   author = xml_find(html, './/meta[@name="author"]', all = TRUE)
   if (length(author) == 0) {
     if (length(author <- xml_find(html, './/*[@class="author"]'))) {
