@@ -14,6 +14,9 @@ jobs:
       RENV_PATHS_ROOT: ~/.local/share/renv
     steps:
       - uses: actions/checkout@v2
+        with:
+          # checkout PR branch or push branch
+          ref: ${{ github.head_ref }}
       
       - uses: r-lib/actions/setup-r@v1
         id: install-r
