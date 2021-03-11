@@ -14,13 +14,14 @@ options(pins.verbose = Sys.getenv("PINS_VERBOSE") == "true")
 # Book listing ------------------------------------------------------------
 
 book_urls = if (file.size('staging.txt') > 0) {
-  DO_NOT_DELETE_MD = TRUE
+  DO_NOT_DELETE_MD = TRUE # only update or create .md files
   tibble(
     url = xfun::read_utf8('staging.txt'),
     lastmod = as.POSIXct(NA),
     from = 'external'
   )
 } else {
+  DO_NOT_DELETE_MD = FALSE # rerender all .md files
   # get book from sitemap
   book_list = xml2::as_list(read_xml('https://bookdown.org/sitemap.xml'))[[1]]
   tibble(
@@ -53,6 +54,14 @@ xml_find = function(x, xpath, all = FALSE) {
 # test if a URL is not accessible
 na_url = function(x) {
   tryCatch(httr::http_error(x), error = function(e) TRUE)
+}
+
+# test if content as no index page and main url is directly redirected
+redirected_index_page = function(url) {
+  parsed_url = httr::parse_url(url)
+  # only for bookdown.org
+  if (parsed_url$hostname != "bookdown.org") return(FALSE)
+  !identical(httr::parse_url(httr::HEAD(url)[['url']])$path, parsed_url$path)
 }
 
 # relative url to absolute
@@ -127,7 +136,11 @@ get_book_meta = function(url, date = NA) {
   # try to read a URL for at most three times
   i = 1
   while (i < 4) {
-    html = try(read_html(url, encoding = 'UTF-8'))
+    html = try({
+      # skip completely if url target a redirected index page
+      if (redirected_index_page(url)) return()
+      read_html(url, encoding = 'UTF-8')
+    })
     if (!inherits(html, 'try-error')) break
     i = i + 1; Sys.sleep(30)
   }
@@ -165,7 +178,11 @@ get_book_meta = function(url, date = NA) {
     description = substr(description, 1, 600 * nchar(description) / nchar(description, 'width'))
     description = paste(sub(' +[^ ]{1,20}$', '', description), '...')
   }
-
+  # bookdown-demo published by other people with an unchanged description
+  if (grepl("^This is a minimal example of using the bookdown package to write a book[.]", description) && 
+      grepl("[...] This is a sample book written in Markdown.", description, fixed = TRUE) && 
+      !grepl('/yihui/', url)) return()
+  
   author = xml_find(html, './/meta[@name="author"]', all = TRUE)
   if (length(author) == 0) {
     if (length(author <- xml_find(html, './/*[@class="author"]'))) {
@@ -177,7 +194,7 @@ get_book_meta = function(url, date = NA) {
   } else {
     author = xml_attr(author, 'content')
     author = paste(author, collapse = ', ')
-    # bookdown-demo published by other people
+    # bookdown-demo published by other people - that would have the non example description
     if (title == 'A Minimal Book Example' && author == 'Yihui Xie' && !grepl('/yihui/', url))
       return()
   }
