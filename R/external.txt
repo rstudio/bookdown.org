@@ -125,3 +125,4 @@ https://www.tmwr.org/
 https://yijutseng.github.io/DataScienceRBook/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
+https://books.ropensci.org/http-testing/
