@@ -11,7 +11,6 @@ https://bioconductor.org/books/release/OSCA/
 https://blairfix.github.io/capital_as_power/
 https://book.engagingmultiples.com/
 https://book.javascript-for-r.com/
-https://books.ropensci.org/http-testing/
 https://bradleyboehmke.github.io/HOML/
 https://brian.weatherson.org/gutenberg-files/humedialogues/
 https://brshallo.github.io/r4ds_solutions/
