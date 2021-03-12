@@ -1,6 +1,16 @@
-# Only run for PR with modification to staging.
 on:
+  # run for PR with modify staging.
   pull_request:
+    branches:
+      - master
+      - main
+    paths: 
+      - R/staging.txt
+  # run when PR with staging.txt is merged
+  push:
+    branches:
+      - master
+      - main
     paths: 
       - R/staging.txt
   
@@ -35,7 +45,7 @@ jobs:
         shell: Rscript {0}
         working-directory: R/
       
-      # create-md.R only creates the file for stating.txt url
+      # create-md.R only creates the file for staging.txt url
       - name: Update books
         env:
           RSC_BOOKDOWN_ORG_TOKEN: ${{ secrets.RSC_BOOKDOWN_ORG_TOKEN }}
@@ -43,9 +53,23 @@ jobs:
         run: Rscript create-md.R
         working-directory: R/
         
+      - name: move to external.txt
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          cat staging.txt >> external.txt
+          cat /dev/null > staging.txt
+        working-directory: R/
+        
       - name: Show diff
+        run: |
+          git add content/\* R/\*
+          git diff --cached --color
+          
+      - name: Commit changes to main branch to trigger a rebuild
+        if: ${{ github.event_name == 'push' }}
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add content/\* R/\*
-          git diff --cached --color
+          git commit -m 'unstage new book and rebuild'
+          git push
+          
