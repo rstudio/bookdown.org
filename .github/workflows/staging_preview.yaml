@@ -35,19 +35,13 @@ jobs:
         shell: Rscript {0}
         working-directory: R/
       
-      # create-md.R only create the file for stating.txt url
+      # create-md.R only creates the file for stating.txt url
       - name: Update books
         env:
           RSC_BOOKDOWN_ORG_TOKEN: ${{ secrets.RSC_BOOKDOWN_ORG_TOKEN }}
           PINS_VERBOSE: true
         run: Rscript create-md.R
         working-directory: R/
-        
-      # - name: move to external.txt
-      #   run: |
-      #     cat staging.txt >> external.txt
-      #     cat /dev/null > staging.txt
-      #   working-directory: R/
         
       - name: Show diff
         run: |
