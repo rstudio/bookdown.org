@@ -129,6 +129,15 @@ match_tags = function(text) {
   }))
 }
 
+# check if a book contains all chapters from a min example book
+minimal_example_toc = function(html) {
+  chapters = xml_find(html, ".//ul[@class='summary']/li[@data-path]", all = TRUE)
+  chapters = xml_attr(chapters, "data-path")
+  min_ex_chap = c("literature.html", "methods.html", "applications.html", 
+                  "final-words.html", "references.html")
+  all(min_ex_chap %in% chapters)
+}
+
 # Get books meta ----------------------------------------------------------
 
 # get metadata for a book from html content
@@ -179,8 +188,11 @@ get_book_meta = function(url, date = NA) {
     description = paste(sub(' +[^ ]{1,20}$', '', description), '...')
   }
   # bookdown-demo published by other people with an unchanged description
+  # Check if first sentence of content is not changed or if book TOC is very similar to example book 
+  # These checks are required to detect book published for assignment
   if (grepl("^This is a minimal example of using the bookdown package to write a book[.]", description) && 
-      grepl("[...] This is a sample book written in Markdown.", description, fixed = TRUE) && 
+      (grepl("[...] This is a sample book written in Markdown.", description, fixed = TRUE) || 
+       minimal_example_toc(html)) && 
       !grepl('/yihui/', url)) return()
   
   author = xml_find(html, './/meta[@name="author"]', all = TRUE)
