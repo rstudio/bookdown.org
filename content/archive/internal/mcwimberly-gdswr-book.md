@@ -1,10 +1,10 @@
 ---
 title: "Geospatial Data Science With R: Applications in Environmental Geography"
 author: "Michael C. Wimberly"
-date: "2021-03-04T03:01:48Z"
+date: "2021-03-17T15:29:32Z"
 tags: [Spatial Data, Course]
 link: "https://bookdown.org/mcwimberly/gdswr-book/"
-length_weight: "30.2%"
+length_weight: "31.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "University of Exeter: BIO2092"
 author: "David Studholme"
-date: "2021-02-28T19:54:47Z"
+date: "2021-03-14T15:12:05Z"
 tags: [Course]
 link: "https://bookdown.org/d_j_studholme/bio2092/"
 length_weight: "24.8%"

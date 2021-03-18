@@ -1,10 +1,10 @@
 ---
-title: "Ego-centric Networks"
+title: "Applications and Examples II"
 author: "Bodong Chen"
-date: "2021-03-10T15:26:13Z"
-tags: [Network, Course, Education]
+date: "2021-03-16T17:40:05Z"
+tags: [Course, Network, Education]
 link: "https://bookdown.org/chen/snaEd/"
-length_weight: "20.1%"
+length_weight: "21.3%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"
 repo: "meefen/sna-ed"
 pinned: false

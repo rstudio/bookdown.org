@@ -1,10 +1,10 @@
 ---
-title: "HW2"
-author: "Jeong Hansol"
-date: "2021-03-11T07:16:12Z"
+title: "My First Book Down"
+author: "Sooah Joo"
+date: "2021-03-17T10:11:05Z"
 tags: [Package]
-link: "https://bookdown.org/not/HW2/"
-length_weight: "4.6%"
+link: "https://bookdown.org/joo17981/first_bookdown_j/"
+length_weight: "5.3%"
 pinned: false
 ---
 

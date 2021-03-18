@@ -1,10 +1,10 @@
 ---
 title: "GESC-258 Schedule"
 author: "Colin Robertson"
-date: "2021-03-10T01:49:27Z"
+date: "2021-03-17T05:48:21Z"
 tags: [Course]
 link: "https://bookdown.org/thespatiallab/GESC258-2020/"
-length_weight: "18%"
+length_weight: "19.1%"
 pinned: false
 ---
 

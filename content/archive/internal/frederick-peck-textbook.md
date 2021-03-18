@@ -1,10 +1,10 @@
 ---
 title: "Statistical Thinking: A Simulation Approach to Modeling Uncertainty (UM STAT 216 edition)"
 author: ""
-date: "2021-03-10T18:21:35Z"
+date: "2021-03-15T20:12:36Z"
 tags: [Simulation, Github]
 link: "https://bookdown.org/frederick_peck/textbook/"
-length_weight: "27%"
+length_weight: "27.1%"
 cover: "https://bookdown.org/frederick_peck/textbook/img/catalst-textbook-cover-v4.png"
 pinned: false
 ---
