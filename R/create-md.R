@@ -132,13 +132,17 @@ match_tags = function(text) {
 # check if a book contains all chapters from a min example book
 minimal_example_toc = function(html, before = FALSE) {
   chapters = xml_find(html, ".//ul[@class='summary']/li[@data-path]", all = TRUE)
+  # not a bookdown
+  if (is.null(chapters)) return(FALSE)
   chapters = xml_attr(chapters, "data-path")
   min_ex_chap = c("literature.html", "methods.html", "applications.html", 
                   "final-words.html", "references.html")
   same_toc <- all(min_ex_chap %in% chapters)
   if (!before) return(same_toc)
-  before_toc = xml_text(xml_find(html, ".//ul[@class='summary']/li/a"))
-  same_toc && (before_toc == "A Minimal Book Example")
+  # no minimal before toc
+  before_toc = xml_find(html, ".//ul[@class='summary']/li/a")
+  if (is.null(before_toc)) return(FALSE)
+  same_toc && (xml_text(before_toc) == "A Minimal Book Example")
 }
 
 # Get books meta ----------------------------------------------------------
