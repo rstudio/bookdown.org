@@ -338,6 +338,7 @@ if (nzchar(rsc_key)) {
 saveRDS(books_metas, "saved_books_metas.rds")
 
 # Cleaning published books ------------------------------------------------
+stopifnot("no book metas to process" = nrow(books_metas) != 0L)
 
 message("Cleaning retrieved informations")
 books_to_keep = books_metas %>%
