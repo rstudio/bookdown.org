@@ -130,12 +130,15 @@ match_tags = function(text) {
 }
 
 # check if a book contains all chapters from a min example book
-minimal_example_toc = function(html) {
+minimal_example_toc = function(html, before = FALSE) {
   chapters = xml_find(html, ".//ul[@class='summary']/li[@data-path]", all = TRUE)
   chapters = xml_attr(chapters, "data-path")
   min_ex_chap = c("literature.html", "methods.html", "applications.html", 
                   "final-words.html", "references.html")
-  all(min_ex_chap %in% chapters)
+  same_toc <- all(min_ex_chap %in% chapters)
+  if (!before) return(same_toc)
+  before_toc = xml_text(xml_find(html, ".//ul[@class='summary']/li/a"))
+  same_toc && (before_toc == "A Minimal Book Example")
 }
 
 # Get books meta ----------------------------------------------------------
@@ -194,6 +197,8 @@ get_book_meta = function(url, date = NA) {
       (grepl("[...] This is a sample book written in Markdown.", description, fixed = TRUE) || 
        minimal_example_toc(html)) && 
       !grepl('/yihui/', url)) return()
+  # also remove book that have the same TOC + before toc element than minimal book example
+  if (minimal_example_toc(html, before = TRUE) && !grepl('/yihui/', url)) return()
   
   author = xml_find(html, './/meta[@name="author"]', all = TRUE)
   if (length(author) == 0) {
