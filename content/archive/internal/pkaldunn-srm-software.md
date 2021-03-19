@@ -1,7 +1,7 @@
 ---
 title: "Scientific Research Methods: Software"
 author: "Peter K. Dunn"
-date: "2021-02-23T05:17:10Z"
+date: "2021-03-18T23:47:00Z"
 tags: [Course, Textbook]
 link: "https://bookdown.org/pkaldunn/SRM-software/"
 length_weight: "13.2%"
