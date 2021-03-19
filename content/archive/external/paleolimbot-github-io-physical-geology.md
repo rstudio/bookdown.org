@@ -1,7 +1,7 @@
 ---
 title: "Physical Geology"
 author: "Karla Panchuk, Steven Earle, and contributors (GitHub/bookdown version maintained by Dewey Dunnington)"
-date: "2020-03-04"
+date: "2021-03-14"
 tags: [Textbook, Github]
 link: "https://paleolimbot.github.io/physical-geology/"
 length_weight: "100%"

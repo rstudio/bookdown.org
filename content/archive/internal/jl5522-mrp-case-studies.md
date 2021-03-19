@@ -1,7 +1,7 @@
 ---
 title: "Multilevel Regression and Poststratification Case Studies"
 author: "Juan Lopez-Martin, Justin H. Phillips, and Andrew Gelman"
-date: "2021-03-09T16:57:05Z"
+date: "2021-03-17T06:34:13Z"
 tags: [Bayesian]
 link: "https://bookdown.org/jl5522/MRP-case-studies/"
 length_weight: "22%"

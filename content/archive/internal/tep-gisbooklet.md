@@ -1,10 +1,10 @@
 ---
 title: "An Introduction to the Thames and using GIS for the Fish Migration Roadmap"
 author: "Wanda Bodnar"
-date: "2021-03-11T12:41:52Z"
+date: "2021-03-14T19:27:34Z"
 tags: [Education, Package]
 link: "https://bookdown.org/tep/gisbooklet/"
-length_weight: "6.7%"
+length_weight: "6.6%"
 cover: "https://images.unsplash.com/photo-1490642914619-7955a3fd483c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1970&q=80"
 repo: "https://github.com/ThamesEstuaryPartnership/booklet"
 pinned: false

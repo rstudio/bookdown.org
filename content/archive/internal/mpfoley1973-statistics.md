@@ -1,10 +1,10 @@
 ---
 title: "Statistics Handbook"
 author: "Michael Foley"
-date: "2021-03-05T12:57:15Z"
+date: "2021-03-17T12:17:36Z"
 tags: [Statistics, Education, Tutorial, Data Analysis]
 link: "https://bookdown.org/mpfoley1973/statistics/"
-length_weight: "17.2%"
+length_weight: "33.2%"
 pinned: false
 ---
 

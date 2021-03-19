@@ -1,10 +1,10 @@
 ---
 title: "Market Segmentation & Clustering"
 author: "Robert Goedegebuure"
-date: "2021-02-08T17:03:40Z"
+date: "2021-03-17T13:54:59Z"
 tags: [Market, Package]
-link: "https://bookdown.org/robert_statmind/mmsc_test_012/"
-length_weight: "12.4%"
+link: "https://bookdown.org/robert_statmind/mcms_03/"
+length_weight: "20.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

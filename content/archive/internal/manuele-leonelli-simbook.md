@@ -1,10 +1,10 @@
 ---
 title: "Simulation and Modelling to Understand Change"
 author: "Manuele Leonelli"
-date: "2021-02-22T11:28:29Z"
+date: "2021-03-15T18:01:14Z"
 tags: [Simulation, Business Analytics, R Programming, Statistics]
 link: "https://bookdown.org/manuele_leonelli/SimBook/"
-length_weight: "26.7%"
+length_weight: "30.1%"
 repo: "manueleleonelli/SimBook"
 pinned: false
 ---

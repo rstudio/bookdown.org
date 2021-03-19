@@ -1,10 +1,10 @@
 ---
 title: "HW2"
-author: "Jeong Hansol"
-date: "2021-03-11T07:16:12Z"
+author: "CHEN ZIHAN"
+date: "2021-03-17T15:02:35Z"
 tags: [Package]
-link: "https://bookdown.org/not/HW2/"
-length_weight: "4.6%"
+link: "https://bookdown.org/zihan/first-bookdown-chenzihan/"
+length_weight: "5.3%"
 pinned: false
 ---
 

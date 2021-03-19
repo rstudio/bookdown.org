@@ -1,9 +1,9 @@
 ---
 title: "Máster en derecho de daños"
 author: "Paul Paredes1 Pontificia Universidad Católica del Perú"
-date: "2021-03-05T16:13:55Z"
+date: "2021-03-14T17:56:11Z"
 link: "https://bookdown.org/paulgonzaloparedes/derecho-de-daos/"
-length_weight: "39.4%"
+length_weight: "100%"
 pinned: false
 ---
 
