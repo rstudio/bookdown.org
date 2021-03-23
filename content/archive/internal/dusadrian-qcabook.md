@@ -1,5 +1,5 @@
 ---
-title: "QCA with \\(\\textsf{R}\\) | QCA with \\textsf{R}"
+title: "QCA with \\textsf{R}"
 author: "Adrian Dușa"
 date: "2020-01-02T23:01:42Z"
 tags: [Package, Guide]

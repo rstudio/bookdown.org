@@ -4,7 +4,7 @@ author: "Mike Lyons"
 date: "2021-02-07T18:21:19Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/mikespub10/coviddata/"
-length_weight: "15.6%"
+length_weight: "15.7%"
 pinned: false
 ---
 

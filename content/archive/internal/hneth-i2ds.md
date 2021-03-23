@@ -4,7 +4,7 @@ author: "Hansjörg Neth"
 date: "2021-03-12T17:39:47Z"
 tags: [Data Science, Data Analysis, R Programming, Course, Statistics]
 link: "https://bookdown.org/hneth/i2ds/"
-length_weight: "100%"
+length_weight: "43.1%"
 cover: "https://bookdown.org/hneth/i2ds/images/cover.png"
 repo: "hneth/i2ds"
 pinned: false

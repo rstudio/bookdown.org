@@ -5,6 +5,7 @@ date: "2017-01-20T14:17:53Z"
 tags: [Data Science]
 link: "https://bookdown.org/roy_schumacher/r4ds/"
 length_weight: "100%"
+cover: "https://bookdown.org/roy_schumacher/r4ds/cover.png"
 repo: "hadley/r4ds"
 pinned: false
 ---

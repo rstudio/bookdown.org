@@ -5,6 +5,7 @@ date: "2020-02-26T21:40:33Z"
 tags: [Social Science, Seminar, Network]
 link: "https://bookdown.org/markhoff/css/"
 length_weight: "31.3%"
+cover: "https://bookdown.org/markhoff/css/Images/cover.png"
 pinned: false
 ---
 

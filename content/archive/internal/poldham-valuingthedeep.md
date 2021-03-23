@@ -4,6 +4,7 @@ author: "Paul Oldham, Stephen Hall, Colin Barnes, Catherine Oldham, Mark Cutter,
 date: "2020-04-06T15:10:30Z"
 link: "https://bookdown.org/poldham/valuingthedeep/"
 length_weight: "100%"
+cover: "https://bookdown.org/poldham/valuingthedeep/Images/cover.png"
 pinned: false
 ---
 

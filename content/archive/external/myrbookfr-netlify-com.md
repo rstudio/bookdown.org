@@ -4,7 +4,7 @@ author: "François Rebaudo"
 date: ""
 tags: [Guide]
 link: "https://myrbookfr.netlify.com/"
-length_weight: "3.6%"
+length_weight: "6.5%"
 repo: "frareb/myRBook_FR"
 pinned: false
 ---

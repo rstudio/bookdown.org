@@ -1,7 +1,7 @@
 ---
 title: "Mixed BART Models: maths and discussion"
 author: "Bruna Wundervald"
-date: "2021-03-12T14:57:32Z"
+date: "2021-03-21T10:32:27Z"
 tags: [Models, Simulation]
 link: "https://bookdown.org/brunadaviesw/book2/"
 length_weight: "11.8%"

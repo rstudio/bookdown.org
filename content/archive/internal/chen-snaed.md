@@ -1,10 +1,10 @@
 ---
 title: "Applications and Examples II"
 author: "Bodong Chen"
-date: "2021-03-16T17:40:05Z"
+date: "2021-03-22T13:32:07Z"
 tags: [Course, Network, Education]
 link: "https://bookdown.org/chen/snaEd/"
-length_weight: "21.3%"
+length_weight: "21.2%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"
 repo: "meefen/sna-ed"
 pinned: false
