@@ -310,8 +310,8 @@ get_book_meta = function(url, date = NA) {
 cache_rds = '_book_meta.rds'
 message("Fetching new book informations")
 xfun::pkg_load2("pins")
-if (!file.exists(cache_rds) && 
-    nzchar(rsc_key <- Sys.getenv("RSC_BOOKDOWN_ORG_TOKEN", unset = ""))) {
+if (nzchar(rsc_key <- Sys.getenv("RSC_BOOKDOWN_ORG_TOKEN", unset = "")) 
+    && !file.exists(cache_rds)) {
   message("-> Retrieving cached meta from pins")
   pins::board_register_rsconnect(server = "https://bookdown.org", key = rsc_key, versions = TRUE)
   pin_exists = pins::pin_find(name = "cderv/bookdownorg_books_meta", board = "rsconnect")
