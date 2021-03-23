@@ -313,7 +313,7 @@ xfun::pkg_load2("pins")
 if (!file.exists(cache_rds) && 
     nzchar(rsc_key <- Sys.getenv("RSC_BOOKDOWN_ORG_TOKEN", unset = ""))) {
   message("-> Retrieving cached meta from pins")
-  pins::board_register_rsconnect(server = "https://bookdown.org", key = rsc_key)
+  pins::board_register_rsconnect(server = "https://bookdown.org", key = rsc_key, versions = TRUE)
   pin_exists = pins::pin_find(name = "cderv/bookdownorg_books_meta", board = "rsconnect")
   if (nrow(pin_exists) == 1) {
     cache_rds = pins::pin_get("cderv/bookdownorg_books_meta", board = "rsconnect", cache = FALSE)
@@ -349,7 +349,7 @@ books_metas = book_urls %>%
 # save new book meta
 if (nzchar(rsc_key)) {
   message("-> Pinning new cached meta to bookdown.org")
-  pins::pin(cache_rds, name = "bookdownorg_books_meta", board = "rsconnect", 
+  pins::pin(cache_rds, name = "bookdownorg_books_meta", board = "rsconnect",
             description = "Metadata for bookdown.org/ books page")
 }
 
