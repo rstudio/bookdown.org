@@ -41,4 +41,6 @@ https://bookdown.org/omarlizardo/_main/
 https://bookdown.org/ozgurgultekin/rileistatikselprogramlama/
 https://bookdown.org/randy_tarnowski/landingpage/
 https://bookdown.org/shihhan2018/emajor_web/
-https://bookdown.org/ugurdarr/cubukgrafigi/"
+https://bookdown.org/ugurdarr/cubukgrafigi/
+https://bookdown.org/jhvdz1/mrm/
+https://bookdown.org/yaldizburcu/ozgurrodev/
