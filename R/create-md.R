@@ -145,6 +145,20 @@ minimal_example_toc = function(html, before = FALSE) {
   same_toc && (xml_text(before_toc) == "A Minimal Book Example")
 }
 
+# split title if it was prepended
+# Chapter name can be prepended to book title in other book format.
+# It happens due to `bookdown::prepend_chapter_title()`. 
+# See https://github.com/rstudio/bookdown.org/issues/62
+# TODO: adapt if change upstream.
+split_title = function(title) {
+  if (!grepl(" \\| ", title)) return(title)
+  r = '^(.*) \\| \\s*([^|]*)$'
+  part1 = gsub(r, '\\1', title)
+  part2 = gsub(r, '\\2', title)
+  if (grepl("utf8(?:[.]md)?$", part2)) return(part1)
+  part2
+}
+
 # Get books meta ----------------------------------------------------------
 
 # get metadata for a book from html content
@@ -165,11 +179,7 @@ get_book_meta = function(url, date = NA) {
   title = xml_find(html, './/title')
   if (length(title) == 0) return()
   title = xml_text(title)
-  # Chapter name can be prepended to book title in other book format.
-  # It happens due to `bookdown::prepend_chapter_title()`. 
-  # See https://github.com/rstudio/bookdown.org/issues/62
-  # TODO: adapt if change upstream.
-  title = gsub('^.*\\|\\s*([^|]*)$', '\\1', title)
+  title = split_title(title)
   if (title == '') return()
 
   description = xml_find(html, './/meta[@name="description"]')
