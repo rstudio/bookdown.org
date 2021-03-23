@@ -3,7 +3,7 @@ title: "Advanced Predictive Analytics: The Code Book"
 author: "Prof Dr Matthias Bogaert"
 date: "2021-02-15T14:58:30Z"
 link: "https://bookdown.org/matth_bogaert/Book/"
-length_weight: "100%"
+length_weight: "43.1%"
 pinned: false
 ---
 

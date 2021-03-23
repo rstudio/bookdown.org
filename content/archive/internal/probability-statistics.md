@@ -1,5 +1,5 @@
 ---
-title: " Statistics!  | bookdown-demo.utf8"
+title: "bookdown-demo.utf8"
 author: ""
 date: "2021-03-03T17:39:52Z"
 tags: [Statistics, Education]
