@@ -1,5 +1,5 @@
 ---
-title: " 简介与传送门 | MedicalStatisNotes.utf8"
+title: " 简介与传送门"
 author: "wxhyihuan"
 date: "2020-12-12T11:53:32Z"
 tags: [笔记]

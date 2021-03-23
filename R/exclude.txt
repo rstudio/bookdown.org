@@ -44,3 +44,4 @@ https://bookdown.org/shihhan2018/emajor_web/
 https://bookdown.org/ugurdarr/cubukgrafigi/
 https://bookdown.org/jhvdz1/mrm/
 https://bookdown.org/yaldizburcu/ozgurrodev/
+https://bookdown.org/jhvdz1/thuas/

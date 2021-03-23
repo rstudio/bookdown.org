@@ -1,5 +1,5 @@
 ---
-title: "1 Introdução | VisaoGeral.utf8"
+title: "1 Introdução"
 author: ""
 date: "2020-11-29T14:09:28Z"
 link: "https://bookdown.org/rfdapaz/visaogeral/"
