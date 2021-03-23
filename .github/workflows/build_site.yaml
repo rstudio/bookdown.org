@@ -44,6 +44,14 @@ jobs:
           renv::restore(repos = "https://packagemanager.rstudio.com/all/latest")
         shell: Rscript {0}
         working-directory: R
+        
+      - name: Session info
+        run: |
+          options(width = 100)
+          renv::install("sessioninfo")
+          pkgs <- installed.packages()[, "Package"]
+          sessioninfo::session_info(pkgs, include_base = TRUE)
+        shell: Rscript {0}
 
       - name: Install hugo
         run: |
