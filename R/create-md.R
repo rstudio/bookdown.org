@@ -193,7 +193,7 @@ get_book_meta = function(url, date = NA) {
     # in case it is not gitbook nor bs4_book (bookdown::tufte_html_book() ?)
     if (length(paragraphs) == 0) paragraphs = xml_find(html, './/p[not(@*)]', TRUE)
     paragraphs = if (length(paragraphs)) xml_text(paragraphs)
-    if (description == '' && length(paragraphs) == 0) return()
+    if (description == '' && (length(paragraphs) == 0 || all(!nzchar(paragraphs)))) return()
     description = paste(
       c(if (description != '' && length(grep(description, paragraphs, fixed = TRUE)) == 0)
         c(description, '[...]'), paragraphs), collapse = ' '
