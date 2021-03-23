@@ -263,15 +263,10 @@
     },
     "pins": {
       "Package": "pins",
-      "Version": "0.4.5.9000",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteUsername": "rstudio",
-      "RemoteRepo": "pins",
-      "RemoteRef": "master",
-      "RemoteSha": "1d504a659bc9200f4552dcd3b91c4649f91a9baf",
-      "RemoteHost": "api.github.com",
-      "Hash": "1602515ef3c1bc2a3583690f2b8c562d"
+      "Version": "0.4.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "092094df6204c08a37248b1d5202a306"
     },
     "pkgconfig": {
       "Package": "pkgconfig",
