@@ -4,7 +4,7 @@ author: "Rik Crutzen & Gjalt-Jorn Ygram Peters"
 date: "2020-01-19"
 tags: [Guide]
 link: "https://a-bc.gitlab.io/bbc/"
-length_weight: "0%"
+length_weight: "20%"
 cover: "https://a-bc.gitlab.io/bbc/img/bbc-cover.png"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Applications and Examples II"
+title: "Statistical Analysis with Network Data"
 author: "Bodong Chen"
-date: "2021-03-22T13:32:07Z"
-tags: [Course, Network, Education]
+date: "2021-03-23T18:19:59Z"
+tags: [Network, Course, Education]
 link: "https://bookdown.org/chen/snaEd/"
-length_weight: "21.2%"
+length_weight: "21.9%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"
 repo: "meefen/sna-ed"
 pinned: false
