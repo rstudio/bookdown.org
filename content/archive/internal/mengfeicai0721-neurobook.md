@@ -1,10 +1,10 @@
 ---
 title: "Mengfei NeuroBook"
 author: "Mengfei Cai"
-date: "2021-02-24T22:19:11Z"
+date: "2021-03-24T19:21:33Z"
 tags: [Package]
 link: "https://bookdown.org/mengfeicai0721/NeuroBook/"
-length_weight: "5.3%"
+length_weight: "5.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
