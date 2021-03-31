@@ -116,6 +116,7 @@ https://timtrice.github.io/backtesting-strategies/
 https://tlc-uva.github.io/Interactive_Teaching_Techniques/
 https://tlverse.org/tlverse-handbook/
 https://twinetbook.john-coene.com/
+https://ubc-dsci.github.io/introduction-to-datascience/
 https://ulyngs.github.io/cog-design-space-ict-self-control/
 https://vcris.dhr.virginia.gov/vcris/help/
 https://wangcc.me/LSHTMlearningnote/
@@ -129,4 +130,4 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://ubc-dsci.github.io/introduction-to-datascience/
+https://gedevan-aleksizde.github.io/rmarkdown-cookbook/
