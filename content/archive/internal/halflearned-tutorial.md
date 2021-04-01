@@ -1,10 +1,10 @@
 ---
 title: "Policy Learning I - Binary treatment"
 author: "Golub Capital Social Impact Lab"
-date: "2021-03-30T23:47:29Z"
+date: "2021-04-01T06:07:51Z"
 tags: [Tutorial]
 link: "https://bookdown.org/halflearned/tutorial/"
-length_weight: "16.6%"
+length_weight: "19.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
