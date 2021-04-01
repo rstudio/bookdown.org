@@ -4,7 +4,7 @@ author: "Max Kuhn and Julia Silge"
 date: ""
 tags: [Tidy, Models, Tidyverse, Package, Guide, R Programming]
 link: "https://www.tmwr.org/"
-length_weight: "23.3%"
+length_weight: "25%"
 repo: "tidymodels/TMwR"
 pinned: false
 ---

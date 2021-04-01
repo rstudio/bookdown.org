@@ -1,7 +1,7 @@
 ---
 title: "Inquiry and Analysis in Biology"
 author: "Jeff Wesner, Ph.D., University of South Dakota, Department of Biology, Joseph Raiche, Ph.D., University of South Dakota, Department of English"
-date: "2021-02-02T03:34:04Z"
+date: "2021-03-30T14:17:43Z"
 tags: [Biology]
 link: "https://bookdown.org/jeffwesner/Inquiry_Textbook/"
 length_weight: "29.4%"

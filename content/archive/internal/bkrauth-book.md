@@ -1,10 +1,10 @@
 ---
 title: "Introductory Statistics for Economics"
 author: "Brian Krauth"
-date: "2021-03-23T01:01:48Z"
+date: "2021-03-29T15:29:05Z"
 tags: [Statistics, Package, Textbook, Course, Github]
 link: "https://bookdown.org/bkrauth/BOOK/"
-length_weight: "41.3%"
+length_weight: "42.4%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "Twitter for R programmers"
 author: "Oscar Baruffa, Veerle van Son"
 date: ""
 link: "https://www.t4rstats.com/"
-length_weight: "7.6%"
+length_weight: "12.2%"
 cover: "https://www.t4rstats.com/images/welcome_to_rstats_twitter_social.png"
 repo: "oscarbaruffa/Book-Twitter-for-R"
 pinned: false

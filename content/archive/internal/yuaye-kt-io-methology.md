@@ -1,9 +1,9 @@
 ---
-title: "Psy_Methology.utf8"
+title: "Chapter 1 Prerequisites"
 author: "yuaye_kt"
-date: "2021-03-20T08:55:28Z"
+date: "2021-03-24T16:39:15Z"
 link: "https://bookdown.org/yuaye_kt/io_methology/"
-length_weight: "10.2%"
+length_weight: "15.4%"
 pinned: false
 ---
 
