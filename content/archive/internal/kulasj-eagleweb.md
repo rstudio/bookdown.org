@@ -1,7 +1,7 @@
 ---
 title: "Eagle I.O Website Playground"
 author: "kulasj"
-date: "2021-03-15T15:26:59Z"
+date: "2021-03-30T17:47:24Z"
 tags: [Psychology]
 link: "https://bookdown.org/kulasj/eagleweb/"
 length_weight: "0%"

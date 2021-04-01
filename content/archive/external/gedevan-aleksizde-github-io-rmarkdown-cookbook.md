@@ -4,7 +4,7 @@ author: "(著者) Xie, Yihui, (著者) Dervieux, Christophe, (著者) Riederer, 
 date: ""
 tags: [R Markdown]
 link: "https://gedevan-aleksizde.github.io/rmarkdown-cookbook/"
-length_weight: "0%"
+length_weight: "28.6%"
 cover: "https://bookdown.org/yihui/rmarkdown-cookbook/images/cover.png"
 repo: "Gedevan-Aleksizde/rmarkdown-cookbook"
 pinned: false

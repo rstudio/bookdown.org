@@ -1,10 +1,10 @@
 ---
-title: "Statistical Analysis with Network Data"
+title: "Planning SNA Research and Projects"
 author: "Bodong Chen"
-date: "2021-03-23T18:19:59Z"
-tags: [Network, Course, Education]
+date: "2021-03-30T22:24:59Z"
+tags: [Course, Network, Education]
 link: "https://bookdown.org/chen/snaEd/"
-length_weight: "21.9%"
+length_weight: "23%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"
 repo: "meefen/sna-ed"
 pinned: false

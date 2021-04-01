@@ -4,7 +4,7 @@ author: "David Gohel"
 date: ""
 tags: [Package, Github]
 link: "https://ardata-fr.github.io/officeverse/"
-length_weight: "11.9%"
+length_weight: "12.1%"
 pinned: false
 ---
 

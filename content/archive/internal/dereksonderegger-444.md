@@ -1,7 +1,7 @@
 ---
 title: "STA 444/5 - Introductory Data Science using R"
 author: "Derek L. Sonderegger"
-date: "2021-03-15T20:16:21Z"
+date: "2021-03-26T17:52:23Z"
 tags: [Data Science, Statistics, Course]
 link: "https://bookdown.org/dereksonderegger/444/"
 length_weight: "100%"

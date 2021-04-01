@@ -1,9 +1,9 @@
 ---
 title: "Crime by the Numbers"
 author: "Jacob Kaplan"
-date: "2021-03-13"
+date: "2021-03-28"
 link: "https://r4crim.com/"
-length_weight: "27.3%"
+length_weight: "27.4%"
 repo: "jacobkap/crimebythenumbers"
 pinned: false
 ---
