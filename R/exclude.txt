@@ -45,3 +45,4 @@ https://bookdown.org/ugurdarr/cubukgrafigi/
 https://bookdown.org/jhvdz1/mrm/
 https://bookdown.org/yaldizburcu/ozgurrodev/
 https://bookdown.org/jhvdz1/thuas/
+https://bookdown.org/tep/marine_gis/
