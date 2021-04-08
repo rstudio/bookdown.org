@@ -1,10 +1,11 @@
 ---
-title: "MS4090: Final Report"
+title: "Building Pension Models and Actuarial Tools Using R and R Shiny"
 author: "Tommy Cornally"
-date: "2021-03-27T22:21:09Z"
+date: "2021-04-08T00:03:37Z"
+tags: [Models, Shiny, R Markdown, Simulation]
 link: "https://bookdown.org/tommycornally/MS4090-Final-Report/"
-length_weight: "11.8%"
+length_weight: "16.9%"
 pinned: false
 ---
 
-Interactive Final Report for MS4090 [...] This report seeks to demonstrate R’s (R Core Team 2020) ability to serve as a useful tool in the life and pensions industry. The project scope was intentionally left broad. This was to allow for greater flexibility in the identification of tasks that could benefit from implementation in R. Research was conducted into the industry. The “R for Actuaries” talks held by the Society of Actuaries in Ireland (SAI) served as a starting point (Serrano and Walsh 2017), (Byrne and Cahill 2017), (Rea 2018), (Gleeson 2018). The talks discussed the benefits of R ...
+Building Pension Models and Actuarial Tools Using R and R Shiny [...] This interactive report has been created to demonstrate the functionality of R Markdown and Bookdown, as an additional tool that actuaries and others can avail of. Each page of the application (with the exception of the combined SORP Calculator and Drawdown Simulation) has been rebuilt using miniUI [1], an R library used to create Shiny Widgets. However, these “mini-apps” do not fully replicate the main application. Similarly, this interactive report does not intend to replace the original - it merely serves to compliment ...

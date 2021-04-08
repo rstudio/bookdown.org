@@ -1,7 +1,7 @@
 ---
 title: "Museum of Spatial Transcriptomics"
 author: "Lambda Moses, dlu2@caltech.edu, Lior Pachter, lpachter@caltech.edu"
-date: "2021-01-14T23:08:49Z"
+date: "2021-04-07T04:05:27Z"
 link: "https://bookdown.org/lambdamoses/museumst/"
 length_weight: "100%"
 repo: "pachterlab/museumst_catalogue"

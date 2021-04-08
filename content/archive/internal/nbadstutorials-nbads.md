@@ -1,10 +1,10 @@
 ---
 title: "Data Science and Econometrics for NBA Analytics"
 author: "KP"
-date: "2021-04-01T07:58:09Z"
+date: "2021-04-05T20:37:01Z"
 tags: [Data Science, Econometrics, Sports]
-link: "https://bookdown.org/kushal90ptl/bookdownproj/"
-length_weight: "11.6%"
+link: "https://bookdown.org/NBADSTutorials/nbads/"
+length_weight: "18%"
 pinned: false
 ---
 

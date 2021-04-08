@@ -1,7 +1,7 @@
 ---
 title: "Applied Biostats"
 author: "Yaniv Brandvain"
-date: "2021-03-31T19:45:45Z"
+date: "2021-04-02T14:57:29Z"
 tags: [Course]
 link: "https://bookdown.org/ybrandvain/Applied-Biostats/"
 length_weight: "100%"
