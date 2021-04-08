@@ -1,9 +1,9 @@
 ---
 title: "Best Coding Practices for R"
 author: "Vikram Singh Rawat"
-date: "2021-03-26T14:19:12Z"
+date: "2021-04-08T05:19:16Z"
 link: "https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/"
-length_weight: "19.6%"
+length_weight: "22%"
 cover: "https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/figures/cover.png"
 pinned: false
 ---

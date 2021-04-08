@@ -1,7 +1,7 @@
 ---
-title: "Applied Longitudinal Data Analysis in brms and the tidyverse"
+title: "Applied longitudinal data analysis in brms and the tidyverse"
 author: "A Solomon Kurz"
-date: "2020-04-21T14:19:35Z"
+date: "2021-04-06T14:06:45Z"
 tags: [Data Analysis, Tidyverse, Bayesian, Package, Models]
 link: "https://bookdown.org/content/ef0b28f7-8bdf-4ba7-ae2c-bc2b1f012283/"
 length_weight: "100%"

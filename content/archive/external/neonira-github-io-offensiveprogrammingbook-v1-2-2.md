@@ -4,7 +4,7 @@ author: "Fabien GELINEAU neonira@gmail.com"
 date: ""
 tags: [Package]
 link: "https://neonira.github.io/offensiveProgrammingBook_v1.2.2/"
-length_weight: "0%"
+length_weight: "12.4%"
 cover: "https://neonira.github.io/offensiveProgrammingBook_v1.2.2/figures/op.png"
 pinned: false
 ---
