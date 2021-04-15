@@ -1,9 +1,9 @@
 ---
 title: "Statističke metode za ekonomske analize"
 author: "Josip Arnerić ©jarneric@net.efzg.hr"
-date: "2021-03-20T16:42:09Z"
+date: "2021-04-09T10:24:56Z"
 link: "https://bookdown.org/jarneric/predavanja_smea/"
-length_weight: "16.3%"
+length_weight: "18%"
 pinned: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Philosophical Ethics"
 author: "George W. Matthews"
-date: "2021-02-23"
+date: "2021-04-12"
 link: "https://gwmatthews.github.io/ethics/"
 length_weight: "29%"
 cover: "https://gwmatthews.github.io/ethics/img/cover-3.jpg"

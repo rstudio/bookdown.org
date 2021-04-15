@@ -1,10 +1,10 @@
 ---
 title: "Data Science with R: A Resource Compendium"
 author: "Martin Monkman"
-date: "2021-03-04T04:42:12Z"
+date: "2021-04-12T22:46:44Z"
 tags: [Data Science, Github, Package]
 link: "https://bookdown.org/martin_monkman/DataScienceResources_book/"
-length_weight: "28.7%"
+length_weight: "28.9%"
 cover: "https://bookdown.org/martin_monkman/DataScienceResources_book/Moralia_in_Job_MS_dragonslayer.jpg"
 repo: "MonkmanMH/DataScienceResources_book"
 pinned: false

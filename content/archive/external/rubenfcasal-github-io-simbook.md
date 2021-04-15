@@ -1,10 +1,10 @@
 ---
 title: "Simulación Estadística"
 author: "Rubén Fernández Casal (ruben.fcasal@udc.es), Ricardo Cao (rcao@udc.es)"
-date: "2021-03-17"
+date: "2021-04-14"
 tags: [Github]
 link: "https://rubenfcasal.github.io/simbook/"
-length_weight: "22.3%"
+length_weight: "22.5%"
 repo: "rubenfcasal/simbook"
 pinned: false
 ---

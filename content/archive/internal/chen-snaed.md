@@ -1,10 +1,10 @@
 ---
-title: "Planning SNA Research and Projects"
+title: "Novel Approaches and Analytics"
 author: "Bodong Chen"
-date: "2021-03-30T22:24:59Z"
+date: "2021-04-13T15:36:30Z"
 tags: [Course, Network, Education]
 link: "https://bookdown.org/chen/snaEd/"
-length_weight: "23%"
+length_weight: "23.6%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"
 repo: "meefen/sna-ed"
 pinned: false
