@@ -1,7 +1,7 @@
 ---
 title: "MGHIHP HE-802, Spring 2021"
 author: "Anshul Kumar"
-date: "2021-04-05T22:42:47Z"
+date: "2021-04-12T03:21:43Z"
 tags: [Course, Statistics, Guide]
 link: "https://bookdown.org/anshul302/HE802-MGHIHP-Spring2020/"
 length_weight: "100%"

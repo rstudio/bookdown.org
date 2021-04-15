@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Korean Literature"
 author: "Wayne de Fremery"
-date: "2021-03-24T22:42:22Z"
+date: "2021-04-11T20:15:12Z"
 tags: [Course]
 link: "https://bookdown.org/f_pianzola/Korean_literature/"
-length_weight: "27.8%"
+length_weight: "30.8%"
 pinned: false
 ---
 

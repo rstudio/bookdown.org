@@ -43,6 +43,7 @@ https://fg2re.sellorm.com/
 https://geanders.github.io/navy_public_health/
 https://gedevan-aleksizde.github.io/Japan.R2019/
 https://gedevan-aleksizde.github.io/rmarkdown-cookbook/
+https://gorgens.github.io/compR-experimental/
 https://gwmatthews.github.io/ethics/
 https://howiuser.com/
 https://info201.github.io/
@@ -132,4 +133,3 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://gorgens.github.io/compR-experimental/

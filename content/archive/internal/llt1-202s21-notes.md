@@ -1,7 +1,7 @@
 ---
 title: "Stat 202 Notes: Spring 2021"
 author: "Laurie Tupper"
-date: "2021-04-07T19:54:19Z"
+date: "2021-04-12T18:49:19Z"
 link: "https://bookdown.org/llt1/202s21_notes/"
 length_weight: "100%"
 pinned: false
