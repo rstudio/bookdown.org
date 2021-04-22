@@ -1,10 +1,10 @@
 ---
 title: "Tutorial"
 author: "Golub Capital Social Impact Lab"
-date: "2021-04-14T04:39:41Z"
+date: "2021-04-19T21:30:27Z"
 tags: [Tutorial, Machine Learning]
-link: "https://bookdown.org/halflearned/ml-ci-tutorial/"
-length_weight: "22.1%"
+link: "https://bookdown.org/halflearned/scratch-ml-ci-tutorial/"
+length_weight: "27.1%"
 repo: "gsbDBI/public_tutorials"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Editable Distributed Hydrological Model"
 author: "Kan Lei"
-date: "2021-04-14T23:25:48Z"
+date: "2021-04-20T01:17:06Z"
 tags: [Package, Guide, Models]
 link: "https://bookdown.org/hr_kanlei/EDHM_Document/"
-length_weight: "9.9%"
+length_weight: "16.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

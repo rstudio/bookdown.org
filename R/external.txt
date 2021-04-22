@@ -24,6 +24,7 @@ https://coleridge-initiative.github.io/big-data-and-social-science/
 https://compgenomr.github.io/book/
 https://cookdown.ellisvalentiner.com/
 https://covid19r.github.io/documentation/
+https://dataanalyticsbook.info/
 https://datasciencedesign.com/
 https://datascienceineducation.com/
 https://datasciencepractice.study/
@@ -134,4 +135,3 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://dataanalyticsbook.info/

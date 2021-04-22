@@ -1,7 +1,7 @@
 ---
 title: "Time Series and Forecasting: A Project-based Approach with R"
 author: "Arthur Small"
-date: "2021-03-16T12:23:44Z"
+date: "2021-04-21T13:07:37Z"
 tags: [Forecasting]
 link: "https://bookdown.org/arthursmalliii/tsf/"
 length_weight: "23.4%"

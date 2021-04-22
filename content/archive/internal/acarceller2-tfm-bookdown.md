@@ -1,10 +1,10 @@
 ---
 title: "Optimizing Passenger Security Checkpoint at Barcelona - El Prat Airport using Lean Six Sigma"
 author: "Arturo Carceller Icardo"
-date: "2021-04-07T17:09:58Z"
+date: "2021-04-18T10:00:34Z"
 tags: [Package, Github]
 link: "https://bookdown.org/acarceller2/TFM_bookdown/"
-length_weight: "4.2%"
+length_weight: "5.1%"
 pinned: false
 ---
 
