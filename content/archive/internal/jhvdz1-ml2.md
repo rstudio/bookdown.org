@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning Techniques"
 author: "J.H. van der Zwan"
-date: "2021-04-14T13:07:59Z"
+date: "2021-04-19T17:11:53Z"
 tags: [Machine Learning, Course, Textbook]
 link: "https://bookdown.org/jhvdz1/ml2/"
-length_weight: "10.1%"
+length_weight: "6.5%"
 pinned: false
 ---
 

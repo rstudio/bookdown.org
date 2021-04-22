@@ -1,10 +1,10 @@
 ---
 title: "(Mostly Clinical) Epidemiology with R"
 author: "James Brophy"
-date: "2021-03-03T02:43:10Z"
+date: "2021-04-19T14:14:29Z"
 tags: [Epidemiology, Medicine, Statistics]
 link: "https://bookdown.org/jbrophy115/bookdown-clinepi/"
-length_weight: "8.3%"
+length_weight: "32.5%"
 repo: "brophyj/book_v1"
 pinned: false
 ---

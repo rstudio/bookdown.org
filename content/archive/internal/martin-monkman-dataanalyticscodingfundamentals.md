@@ -1,10 +1,10 @@
 ---
 title: "Data Analytics Coding Fundamentals"
 author: "Martin Monkman"
-date: "2021-04-10T15:01:09Z"
+date: "2021-04-18T15:28:13Z"
 tags: [Course, Python]
 link: "https://bookdown.org/martin_monkman/DataAnalyticsCodingFundamentals/"
-length_weight: "40.5%"
+length_weight: "100%"
 cover: "https://bookdown.org/martin_monkman/DataAnalyticsCodingFundamentals/BIDA302_hex_400.jpg"
 repo: "MonkmanMH/UVic_BIDA302"
 pinned: false
