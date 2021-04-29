@@ -5,7 +5,6 @@ date: ""
 tags: [Advanced R]
 link: "https://advanced-r-solutions.rbind.io/"
 length_weight: "0%"
-cover: "https://advanced-r-solutions.rbind.io/images/cover/advrs_cover.png"
 repo: "Tazinho/Advanced-R-Solutions"
 pinned: false
 ---
