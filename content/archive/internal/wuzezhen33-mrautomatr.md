@@ -1,10 +1,10 @@
 ---
 title: "TIES Measurement Report Automation Project"
 author: "Michael Wu"
-date: "2021-04-09T14:36:57Z"
+date: "2021-04-22T16:10:12Z"
 tags: [Package]
 link: "https://bookdown.org/wuzezhen33/mrautomatr/"
-length_weight: "8.1%"
+length_weight: "9.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
