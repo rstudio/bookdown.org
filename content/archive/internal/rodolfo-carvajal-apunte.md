@@ -1,7 +1,7 @@
 ---
 title: "Introducción a R para el razonamiento cuantitativo de datos"
 author: "Rodolfo Carvajal, Marcos Goycoolea (editores), Con contribuciones de Ismael Valdivia, y de todo el equipo de profesores del curso Razonamiento Cuantitativo de Datos, Universidad Adolfo Ibáñez."
-date: "2021-04-25T01:42:05Z"
+date: "2021-05-05T19:39:43Z"
 link: "https://bookdown.org/rodolfo_carvajal/apunte/"
 length_weight: "24%"
 pinned: false

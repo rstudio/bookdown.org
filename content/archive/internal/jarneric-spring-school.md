@@ -1,11 +1,10 @@
 ---
 title: "Business Statistics"
 author: "Josip Arnerić & Anita Čeh Časni ©jarneric@net.efzg.hr, aceh@net.efzg.hr"
-date: "2021-04-21T07:05:54Z"
+date: "2021-05-04T07:04:36Z"
 tags: [Statistics, Course, Forecasting]
 link: "https://bookdown.org/jarneric/spring_school/"
-length_weight: "12.7%"
-cover: "https://bookdown.org/jarneric/spring_school/unic.png"
+length_weight: "19.5%"
 pinned: false
 ---
 
