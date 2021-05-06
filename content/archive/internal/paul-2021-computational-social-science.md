@@ -1,10 +1,10 @@
 ---
 title: "Computational Social Science: Theory & Application"
 author: "Paul C. Bauer"
-date: "2021-04-27T12:59:16Z"
+date: "2021-05-05T08:16:34Z"
 tags: [Social Science, Seminar, Course]
 link: "https://bookdown.org/paul/2021_computational_social_science/"
-length_weight: "26.3%"
+length_weight: "26.5%"
 pinned: false
 ---
 

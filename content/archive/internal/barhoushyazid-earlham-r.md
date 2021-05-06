@@ -1,10 +1,10 @@
 ---
 title: "Applications and Spatial Analysis using R: Environmental and Conservation Science"
 author: "Jose I Pareja, Yazid A Barhoush and Wendy P Tori"
-date: "2021-04-28T18:06:10Z"
+date: "2021-05-05T19:09:30Z"
 tags: [Spatial Data, Visualization]
 link: "https://bookdown.org/barhoushyazid/Earlham-R/"
-length_weight: "9.2%"
+length_weight: "9.3%"
 pinned: false
 ---
 
