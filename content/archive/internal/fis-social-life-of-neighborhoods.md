@@ -1,10 +1,10 @@
 ---
 title: "The Social Life of Neighborhoods: Data Preparation & Mapping Tutorials"
 author: "Professor Forrest Stuart, TA: Francine Stephens"
-date: "2021-05-05T19:25:17Z"
+date: "2021-05-13T05:43:49Z"
 tags: [Tutorial, Course]
 link: "https://bookdown.org/fis/social-life-of-neighborhoods/"
-length_weight: "22.2%"
+length_weight: "25.9%"
 pinned: false
 ---
 
