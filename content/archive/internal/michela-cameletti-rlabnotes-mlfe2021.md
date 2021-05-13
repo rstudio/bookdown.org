@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning for Economics 2020/21: R labs"
 author: "Michela Cameletti"
-date: "2021-05-03T20:10:12Z"
+date: "2021-05-06T17:29:36Z"
 tags: [Machine Learning, Course, R Programming, Tidyverse, Package]
 link: "https://bookdown.org/michela_cameletti/rlabnotes_mlfe2021/"
-length_weight: "19.9%"
+length_weight: "22.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

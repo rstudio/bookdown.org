@@ -1,10 +1,10 @@
 ---
 title: "Techincal Analysis with R (second edition)"
 author: "Ko Chiu Yu"
-date: "2019-12-23T04:02:14Z"
+date: "2021-05-10T02:06:27Z"
 tags: [Textbook]
-link: "https://bookdown.org/kochiuyu/technical-analysis-with-r-second-edition/"
-length_weight: "32.5%"
+link: "https://bookdown.org/kochiuyu/technical-analysis-with-r-second-edition2/"
+length_weight: "32.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

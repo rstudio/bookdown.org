@@ -38,6 +38,7 @@ https://edwinth.github.io/AMLwR/
 https://engineering-shiny.org/
 https://enriquegit.github.io/behavior-free/
 https://envirometrix.github.io/PredictiveSoilMapping/
+https://epirhandbook.com/
 https://est-mult.netlify.com/
 https://f0nzie.github.io/rtorch-minimal-book/
 https://fg2re.sellorm.com/
@@ -135,4 +136,3 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://epirhandbook.com/

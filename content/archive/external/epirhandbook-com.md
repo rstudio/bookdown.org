@@ -1,10 +1,10 @@
 ---
 title: "The Epidemiologist R Handbook"
 author: "the handbook team"
-date: "2021-05-10"
+date: "2021-05-12"
 tags: [Epidemiology]
 link: "https://epirhandbook.com/"
-length_weight: "0%"
+length_weight: "100%"
 pinned: false
 ---
 

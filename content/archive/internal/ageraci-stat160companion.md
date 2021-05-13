@@ -1,10 +1,10 @@
 ---
 title: "STAT160 R/RStudio Companion"
-author: "Statistics/Data Science at St. John Fisher College"
-date: "2021-01-21T22:20:03Z"
+author: "Statistics/Data Science at St. John Fisher College"
+date: "2021-05-10T18:43:08Z"
 tags: [Data Science, Textbook, Course]
 link: "https://bookdown.org/ageraci/STAT160Companion/"
-length_weight: "19.6%"
+length_weight: "19.5%"
 pinned: false
 ---
 
