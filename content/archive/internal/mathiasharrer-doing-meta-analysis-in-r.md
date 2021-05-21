@@ -1,13 +1,12 @@
 ---
 title: "Doing Meta-Analysis in R"
-author: "Mathias Harrer, M.Sc.¹, Prof. Dr. Pim Cuijpers², Prof. Dr. Toshi A. Furukawa³, Assoc. Prof. Dr. David D. Ebert²"
-date: "2020-05-02T12:07:33Z"
-tags: [Meta-Analysis, Guide, Psychology, Statistics]
+author: "Mathias Harrer, Pim Cuijpers, Toshi A. Furukawa, David D. Ebert"
+date: "2021-05-17T08:59:57Z"
+tags: [Meta-Analysis, Guide, Network, Bayesian]
 link: "https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/"
-length_weight: "100%"
-cover: "https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/_figs/coverbild.jpg"
-repo: "MathiasHarrer/Doing-Meta-Analysis-in-R"
+length_weight: "4.7%"
+cover: "https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/images/cover.png"
 pinned: false
 ---
 
-This is a guide on how to conduct Meta-Analyses in R. [...] This guide shows you how to conduct meta-analyses in R from scratch. The focus of this guide is primarily on clinical outcome research in psychology. It was designed for staff and collaborators of the Protect Lab, which is headed by Prof. Dr. David D. Ebert. Although this guide will provide some information on the statistics behind meta-analysis, it will not give you an in-depth introduction into how meta-analyses are calculated statistically. It is also beyond the scope of this guide to advise in detail which meta-analytical ...
+Welcome to the online version of “Doing Meta-Analysis with R: A Hands-On Guide”. This book serves as an accessible introduction into how meta-analyses can be conducted in R. Essential steps for meta-analysis are covered, including pooling of outcome measures, forest plots, heterogeneity diagnostics, subgroup analyses, meta-regression, methods to control for publication bias, risk of bias assessments and plotting tools. Advanced, but highly relevant topics such as network meta-analysis, multi-/three-level meta-analyses, Bayesian meta-analysis approaches, SEM meta-analysis are also covered. The  ...

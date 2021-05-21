@@ -1,7 +1,7 @@
 ---
 title: "Modelos Estadísticos"
 author: "Javier Morales (Universidad Miguel Hernández de Elche), Mª Asunción Martínez (Universidad Miguel Hernández de Elche)"
-date: "2021-03-02T07:45:07Z"
+date: "2021-05-17T09:08:44Z"
 tags: [Package]
 link: "https://bookdown.org/j_morales/librostat/"
 length_weight: "100%"
