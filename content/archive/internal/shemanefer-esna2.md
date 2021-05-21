@@ -1,11 +1,12 @@
 ---
-title: "The Temple of Esna II: an Evolving Translation"
+title: "The Temple of Esna. An Evolving Translation: Esna II"
 author: "David Klotz"
-date: "2021-05-13T02:35:31Z"
+date: "2021-05-21T00:09:36Z"
 tags: [Translation]
 link: "https://bookdown.org/shemanefer/Esna2/"
-length_weight: "38%"
+length_weight: "38.2%"
+cover: "https://bookdown.org/shemanefer/Esna2/Esna2Cover.png"
 pinned: false
 ---
 
-David Klotz Publishing a book in Egyptology typically requires several years of intensive research, writing, and revisions. Once a volume is finally complete, often the cost is prohibitive for most audiences besides specialized academic libraries. This book in progress is an experiment in how one might more quickly use existing templates and online publishing tools to make an open-source book accessible to all readers both during and after its creation, so scholars and the interested public can take advantage of any insights sooner. Corrections or updated references can be made quickly and ...
+Publishing a book in Egyptology typically requires several years of intensive research, writing, and revisions. Once a volume is finally complete, often the cost is prohibitive for most audiences besides specialized academic libraries. This book in progress is an experiment in how one might more quickly use existing templates and online publishing tools to make an open-source book accessible to all readers both during and after its creation, so scholars and the interested public can take advantage of any insights sooner. Corrections or updated references can be made quickly and easily. The ...
