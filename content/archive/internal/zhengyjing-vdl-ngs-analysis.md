@@ -1,7 +1,7 @@
 ---
 title: "VDL-NGS-Lab Analysis Protocol"
 author: "Ying Zheng"
-date: "2021-05-13T15:03:55Z"
+date: "2021-05-21T19:47:06Z"
 tags: [Tutorial]
 link: "https://bookdown.org/zhengyjing/VDL-NGS-analysis/"
 length_weight: "10.2%"
