@@ -1,10 +1,10 @@
 ---
 title: "A Crash Course in Geographic Information Systems (GIS) using R"
 author: "Michael Branion-Calles"
-date: "2021-05-21T03:47:22Z"
+date: "2021-05-26T19:20:59Z"
 tags: [Course, Geographic, Tutorial, Textbook, Data Science, Tidyverse, Package]
 link: "https://bookdown.org/michael_bcalles/gis-crash-course-in-r/"
-length_weight: "7.3%"
+length_weight: "19.6%"
 pinned: false
 ---
 

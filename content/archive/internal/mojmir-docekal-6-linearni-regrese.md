@@ -1,10 +1,10 @@
 ---
 title: "Lineární a logistická regrese"
 author: "Mojmír Dočekal"
-date: "2021-05-17T14:36:50Z"
+date: "2021-05-25T09:13:44Z"
 tags: [Package]
 link: "https://bookdown.org/mojmir_docekal/6_linearni-regrese/"
-length_weight: "14.4%"
+length_weight: "17.1%"
 pinned: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Bodega de datos"
 author: "Danna Cruz"
-date: "2021-05-03T20:41:15Z"
-link: "https://bookdown.org/dcruzreyes/bookdown-sql/"
-length_weight: "13.2%"
+date: "2021-05-21T15:04:27Z"
+link: "https://bookdown.org/dcruzreyes/bookdown-sql2/"
+length_weight: "17.3%"
 repo: "DannaCruz/DatColombia"
 pinned: false
 ---

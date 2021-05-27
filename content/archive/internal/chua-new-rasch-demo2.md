@@ -1,7 +1,7 @@
 ---
 title: "Rasch Measurement Theory Analysis in R: Illustrations and Practical Guidance for Researchers and Practitioners"
 author: "Stefanie Wind & Cheng Hua"
-date: "2021-01-05T19:53:30Z"
+date: "2021-05-22T01:57:14Z"
 tags: [Package, Models]
 link: "https://bookdown.org/chua/new_rasch_demo2/"
 length_weight: "100%"

@@ -1,9 +1,9 @@
 ---
 title: "Weekly Readings"
 author: "Yuyang Shi"
-date: "2021-05-19T09:35:35Z"
+date: "2021-05-26T06:33:38Z"
 link: "https://bookdown.org/yangtzesyy/weekly-meeting-of-Yu/"
-length_weight: "6.5%"
+length_weight: "7.1%"
 pinned: false
 ---
 
