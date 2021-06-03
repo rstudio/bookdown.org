@@ -1,7 +1,7 @@
 ---
 title: "Analyzing single-case data with R and scan"
 author: "Jürgen Wilbert"
-date: "2021-04-19"
+date: "2021-05-31"
 link: "https://jazznbass.github.io/scan-Book/"
 length_weight: "1.1%"
 cover: "https://jazznbass.github.io/scan-Book/images/cover.png"
