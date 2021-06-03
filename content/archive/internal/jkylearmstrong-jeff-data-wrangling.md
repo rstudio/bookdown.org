@@ -1,7 +1,7 @@
 ---
 title: "Fundamentals of Data Wrangling with R"
 author: "J. Kyle Armstrong"
-date: "2021-05-27T04:39:32Z"
+date: "2021-06-03T06:11:52Z"
 link: "https://bookdown.org/jkylearmstrong/jeff_data_wrangling/"
 length_weight: "100%"
 repo: "jkylearmstrong/Jeff_Data_Wrangling"

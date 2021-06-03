@@ -1,10 +1,10 @@
 ---
 title: "STA 141 - Exploratory Data Analysis and Visualization"
 author: "Derek L. Sonderegger"
-date: "2021-04-19T16:12:13Z"
+date: "2021-05-27T18:48:58Z"
 tags: [Exploratory Data Analysis, Visualization]
 link: "https://bookdown.org/dereksonderegger/141/"
-length_weight: "28.5%"
+length_weight: "28.6%"
 repo: "dereksonderegger/141"
 pinned: false
 ---

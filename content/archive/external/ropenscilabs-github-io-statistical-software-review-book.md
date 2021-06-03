@@ -1,20 +1,21 @@
 ---
 title: "rOpenSci Statistical Software Peer Review"
 author: "Mark Padgham and Noam Ross"
-date: "2021-05-26"
-tags: [Package, Statistical Methods]
+date: "2021-06-02"
+tags: [Package, Guide]
 link: "https://ropenscilabs.github.io/statistical-software-review-book/"
-length_weight: "20.2%"
-repo: "ropenscilabs/statistical-software-review-book"
+length_weight: "19%"
 pinned: false
 ---
 
-rOpenSci Statistical Software Peer Review [...] Welcome to rOpenSci’s project
-developing software peer review system
-for statistical software in R packages and beyond. We invite you to join us
-in developing standards for processes of assessment and peer review of
-statistical software. rOpenSci currently runs software peer review for R packages focused on data
-life cycle management. To apply these processes to software implementing
-statistical methods and algorithms, we need new ways of evaluating and testing
-software, and managing the review process. This book serves as a home for
-collecting ...
+Welcome to rOpenSci’s system for peer-review of
+statistical software in R packages and beyond. This system extends our existing
+system for software peer
+review, through expanding the
+scope to
+include explicitly statistical software. As such, it is a direct extension of
+rOpenSci Packages: Development, Maintenance, and
+Peer Review. This book provides guidelines for
+authors on how to develop statistical software, and for editors and reviewers
+on our processes for peer review of statistical software. You are invited to contribute to this project by filing suggestions as issues
+in the book’s ...
