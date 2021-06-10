@@ -1,10 +1,10 @@
 ---
 title: "R 语言学习笔记"
 author: "Yufei Zhong"
-date: "2021-06-02T10:21:15Z"
+date: "2021-06-04T10:03:00Z"
 tags: [笔记, 数据分析]
 link: "https://bookdown.org/zhongyufei/Data-Handling-in-R/"
-length_weight: "18.6%"
+length_weight: "20.6%"
 pinned: false
 ---
 

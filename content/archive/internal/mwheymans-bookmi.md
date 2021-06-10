@@ -1,7 +1,7 @@
 ---
-title: "index.split"
+title: "Book_MI.knit"
 author: "mwheymans"
-date: "2020-09-28T14:45:41Z"
+date: "2021-06-06T13:47:33Z"
 link: "https://bookdown.org/mwheymans/bookmi/"
 length_weight: "100%"
 cover: "https://bookdown.org/mwheymans/bookmi/images/cover2.png"

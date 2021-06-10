@@ -1,12 +1,11 @@
 ---
 title: "Mengfei NeuroBook"
 author: "Mengfei Cai"
-date: "2021-05-30T09:32:13Z"
-tags: [Package]
+date: "2021-06-06T15:53:36Z"
 link: "https://bookdown.org/mengfeicai0721/NeuroBook/"
-length_weight: "15.6%"
+length_weight: "15.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook. [...] To be filled in ...
+Neuroimaging is fascinating. [...] Welcome to Mengfei's NeuroBook. I am a PhD student, working in the domain of Vascular Neurology. The ongoing project I am currently working on is the the progression of small vessel disease (SVD): 14-year Follow-up embedded into the RUN DMC study, supervised by Professor FrankErik de Leeuw. Specifically, we apply some neuroimaging analyses to extract the structural/diffusion information from MRI scans in an effort to leverage these information to gain a better understanding of SVD. MRI has emerged as an increasingly popular and powerful way to study in vivo ...
