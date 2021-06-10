@@ -1,9 +1,9 @@
 ---
 title: "Solutions Calculus Vol 1 2th Edition"
 author: "Luis Francisco Gomez Lopez"
-date: "2021-05-27T21:14:59Z"
+date: "2021-06-03T18:36:50Z"
 link: "https://bookdown.org/luifrancgom/solutions_calculus_vol_1_2th_edition_tom_apostol/"
-length_weight: "16.7%"
+length_weight: "18.4%"
 repo: "luifrancgom/solutions_calculus_vol_1_2th_edition_tom_apostol"
 pinned: false
 ---

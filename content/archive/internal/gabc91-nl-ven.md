@@ -1,9 +1,9 @@
 ---
 title: "NL and Malaria in Venezuela"
 author: "Gabriel Carrasco-Escobar"
-date: "2021-05-24T09:34:24Z"
+date: "2021-06-07T07:45:52Z"
 link: "https://bookdown.org/gabc91/nl_ven/"
-length_weight: "18.9%"
+length_weight: "17.6%"
 pinned: false
 ---
 
