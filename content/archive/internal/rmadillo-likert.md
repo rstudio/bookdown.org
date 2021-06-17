@@ -4,7 +4,7 @@ author: "Dwight Barry"
 date: "2017-01-05T05:48:14Z"
 tags: [Github]
 link: "https://bookdown.org/Rmadillo/likert/"
-length_weight: "13.7%"
+length_weight: "10.5%"
 cover: "https://bookdown.org/Rmadillo/likert/images/likert_cover.jpg"
 repo: "Rmadillo/likert"
 pinned: false

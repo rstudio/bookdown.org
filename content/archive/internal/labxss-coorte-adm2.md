@@ -3,7 +3,7 @@ title: "Modelagem de coortes com dados administrativos"
 author: "Felipe Ferré"
 date: "2020-01-29T02:25:36Z"
 link: "https://bookdown.org/labxss/coorte_adm2/"
-length_weight: "20.3%"
+length_weight: "15.6%"
 repo: "https://github.com/labxss/sabeis_pcdt"
 pinned: false
 ---

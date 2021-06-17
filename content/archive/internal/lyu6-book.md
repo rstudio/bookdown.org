@@ -4,7 +4,7 @@ author: "Lin Yu"
 date: "2021-02-18T15:56:18Z"
 tags: [Statistics, Meta-Analysis]
 link: "https://bookdown.org/lyu6/_book/"
-length_weight: "6%"
+length_weight: "4.6%"
 pinned: false
 ---
 

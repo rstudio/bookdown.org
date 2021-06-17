@@ -4,7 +4,7 @@ author: "Michael Foley"
 date: "2021-06-02T11:27:35Z"
 tags: [Statistics, Education, Tutorial, Data Analysis]
 link: "https://bookdown.org/mpfoley1973/statistics/"
-length_weight: "9.2%"
+length_weight: "7.1%"
 pinned: false
 ---
 

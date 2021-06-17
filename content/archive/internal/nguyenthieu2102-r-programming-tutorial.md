@@ -4,7 +4,7 @@ author: "Thieu Nguyen"
 date: "2020-07-09T13:53:36Z"
 tags: [R Programming, Tutorial, Package]
 link: "https://bookdown.org/nguyenthieu2102/r_programming_tutorial/"
-length_weight: "4.5%"
+length_weight: "3.5%"
 repo: "thieunguyen5991/r_programming_tutorial"
 pinned: false
 ---

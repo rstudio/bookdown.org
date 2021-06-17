@@ -4,7 +4,7 @@ author: "Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer"
 date: "2020-09-15"
 tags: [Econometrics, Statistics, Textbook, R Programming, Guide, Visualization]
 link: "https://www.econometrics-with-r.org/"
-length_weight: "36.9%"
+length_weight: "28.4%"
 cover: "https://www.econometrics-with-r.org/images/cover.png"
 repo: "mca91/EconometricsWithR"
 pinned: false

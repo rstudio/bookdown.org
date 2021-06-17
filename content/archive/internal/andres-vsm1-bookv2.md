@@ -3,7 +3,7 @@ title: "LCC 2020 Book"
 author: "Andres Suárez Mediavilla"
 date: "2020-06-10T09:29:29Z"
 link: "https://bookdown.org/andres_vsm1/BookV2/"
-length_weight: "35.8%"
+length_weight: "27.5%"
 pinned: false
 ---
 

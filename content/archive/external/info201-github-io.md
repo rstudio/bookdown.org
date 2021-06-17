@@ -4,7 +4,7 @@ author: "Michael Freeman and Joel Ross"
 date: "2019-09-11"
 tags: [Course, Textbook, Data Science]
 link: "https://info201.github.io/"
-length_weight: "25.1%"
+length_weight: "19.3%"
 cover: "https://info201.github.io/img/cover-img.png"
 repo: "info201/book"
 pinned: false

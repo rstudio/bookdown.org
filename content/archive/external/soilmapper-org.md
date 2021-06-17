@@ -4,7 +4,7 @@ author: "Tomislav Hengl and Robert A. MacMillan"
 date: "2019-03-17"
 tags: [Machine Learning, R Programming, Tutorial]
 link: "https://soilmapper.org/"
-length_weight: "35.1%"
+length_weight: "27%"
 repo: "envirometrix/PredictiveSoilMapping"
 pinned: false
 ---

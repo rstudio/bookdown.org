@@ -4,7 +4,7 @@ author: "Andy MacLachlan and Adam Dennett"
 date: "2021-05-06"
 tags: [Geographic, Github]
 link: "https://andrewmaclachlan.github.io/CASA0005repo/"
-length_weight: "29.1%"
+length_weight: "22.4%"
 repo: "andrewmaclachlan/CASA0005repo"
 pinned: false
 ---

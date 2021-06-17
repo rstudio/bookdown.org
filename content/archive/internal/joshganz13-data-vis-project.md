@@ -4,7 +4,7 @@ author: "Joshua Ganz, Julian Mucha & Eric Rwabuhihi"
 date: "2019-12-08T19:56:04Z"
 tags: [Visualization, Package]
 link: "https://bookdown.org/joshganz13/data_vis_project/"
-length_weight: "7.9%"
+length_weight: "6.1%"
 pinned: false
 ---
 

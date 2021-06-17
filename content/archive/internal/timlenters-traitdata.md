@@ -4,7 +4,7 @@ author: "Tim P. Lenters, Andrew Henderson, Caroline M. Dracxler, Guilherme A. El
 date: "2020-10-04T17:33:17Z"
 tags: [Tutorial]
 link: "https://bookdown.org/timlenters/traitData/"
-length_weight: "12.3%"
+length_weight: "9.5%"
 pinned: false
 ---
 

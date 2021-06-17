@@ -4,7 +4,7 @@ author: "Sergio Berdiales"
 date: "2020-04-24T17:54:19Z"
 tags: [Python]
 link: "https://bookdown.org/sergioberdiales/programacion_fpii_desarrollo_aplicaciones_web/"
-length_weight: "10.6%"
+length_weight: "8.2%"
 pinned: false
 ---
 

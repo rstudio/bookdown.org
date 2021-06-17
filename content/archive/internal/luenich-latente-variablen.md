@@ -4,7 +4,7 @@ author: "Marco Lünich, M.Sc."
 date: "2021-06-01T09:28:40Z"
 tags: [Seminar]
 link: "https://bookdown.org/luenich/Latente_Variablen/"
-length_weight: "25.6%"
+length_weight: "19.7%"
 pinned: false
 ---
 

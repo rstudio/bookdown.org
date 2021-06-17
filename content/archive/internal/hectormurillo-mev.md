@@ -4,7 +4,7 @@ author: "Dr. Héctor Murillo"
 date: "2021-02-02T05:13:52Z"
 tags: [Package, Medicine]
 link: "https://bookdown.org/hectormurillo/mev/"
-length_weight: "6.5%"
+length_weight: "5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

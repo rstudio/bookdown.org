@@ -4,7 +4,7 @@ author: "Jizhou Kang"
 date: "2020-07-03T01:33:18Z"
 tags: [Statistical Methods, Course]
 link: "https://bookdown.org/jkang37/stat_7_ta/"
-length_weight: "15%"
+length_weight: "11.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

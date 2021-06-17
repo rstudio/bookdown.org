@@ -4,7 +4,7 @@ author: "ill-identified"
 date: "2021-01-14"
 tags: [Tidy, ggplot2]
 link: "https://gedevan-aleksizde.github.io/Japan.R2019/"
-length_weight: "14.2%"
+length_weight: "10.9%"
 repo: "Gedevan-Aleksizde/Japan.R2019"
 pinned: false
 ---

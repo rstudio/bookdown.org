@@ -4,7 +4,7 @@ author: "Eagle I.O"
 date: "2021-01-25T15:26:54Z"
 tags: [Psychology]
 link: "https://bookdown.org/kulasj/mentorship/"
-length_weight: "9.3%"
+length_weight: "7.2%"
 cover: "https://bookdown.org/kulasj/mentorship/images/cover.png"
 pinned: false
 ---

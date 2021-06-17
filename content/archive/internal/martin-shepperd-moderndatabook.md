@@ -4,7 +4,7 @@ author: "Martin Shepperd"
 date: "2020-12-14T15:21:01Z"
 tags: [Course, Data Science, Package]
 link: "https://bookdown.org/martin_shepperd/ModernDataBook/"
-length_weight: "26.4%"
+length_weight: "20.4%"
 cover: "https://bookdown.org/martin_shepperd/ModernDataBook/images/KandinskyCarsCover.png"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Book of parkrun research"
 author: "Robert Smith"
 date: "2020-05-20T15:04:37Z"
 link: "https://bookdown.org/rasmith3/parkrun/"
-length_weight: "13.6%"
+length_weight: "10.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

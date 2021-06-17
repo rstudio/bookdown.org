@@ -3,7 +3,7 @@ title: "RStudio para Estadística Descriptiva en Ciencias Sociales"
 author: "Giorgio Boccardo Bosoni y Felipe Ruiz Bruzzone"
 date: "2019-07-03T21:44:50Z"
 link: "https://bookdown.org/gboccardo/manual-ED-UCH/"
-length_weight: "34.4%"
+length_weight: "26.5%"
 pinned: false
 ---
 

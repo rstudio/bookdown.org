@@ -3,7 +3,7 @@ title: "일반화가법모형 소개"
 author: "문 건 웅"
 date: "2020-04-18T11:59:21Z"
 link: "https://bookdown.org/cardiomoon/gam/"
-length_weight: "22.2%"
+length_weight: "17.1%"
 pinned: false
 ---
 

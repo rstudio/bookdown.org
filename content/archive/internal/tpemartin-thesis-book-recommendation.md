@@ -4,7 +4,7 @@ author: "林凱浩"
 date: "2018-06-01T08:31:37Z"
 tags: [Github]
 link: "https://bookdown.org/tpemartin/thesis_book_recommendation/"
-length_weight: "4.4%"
+length_weight: "3.4%"
 pinned: false
 ---
 

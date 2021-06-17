@@ -4,7 +4,7 @@ author: "Jimmy Xu"
 date: "2021-01-25T04:28:47Z"
 tags: [Market, Course, Package, R Markdown]
 link: "https://bookdown.org/utjimmyx/marketing_research/"
-length_weight: "21.7%"
+length_weight: "16.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

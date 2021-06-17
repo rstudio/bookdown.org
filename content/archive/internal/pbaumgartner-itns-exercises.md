@@ -4,7 +4,7 @@ author: "Peter Baumgartner"
 date: "2020-08-02T20:07:49Z"
 tags: [Statistics, Shiny, Tutorial, Github, Package]
 link: "https://bookdown.org/pbaumgartner/itns-exercises/"
-length_weight: "10%"
+length_weight: "7.7%"
 cover: "https://bookdown.org/pbaumgartner/itns-exercises/img/cover-itns-adapted-min.jpg"
 repo: "petzi53/itns-exercises"
 pinned: false

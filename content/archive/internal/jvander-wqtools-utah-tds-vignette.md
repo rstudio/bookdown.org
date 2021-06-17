@@ -3,7 +3,7 @@ title: "Utah TDS wqTools vignette"
 author: "Jake Vander Laan, Utah Division of Water Quality"
 date: "2019-03-07T21:36:32Z"
 link: "https://bookdown.org/jvander/wqTools-utah-tds-vignette/"
-length_weight: "10.4%"
+length_weight: "8%"
 pinned: false
 ---
 

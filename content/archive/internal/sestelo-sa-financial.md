@@ -4,7 +4,7 @@ author: "Marta Sestelo"
 date: "2018-07-17T07:56:07Z"
 tags: [Course, Survival Analysis, Guide]
 link: "https://bookdown.org/sestelo/sa_financial/"
-length_weight: "26%"
+length_weight: "20%"
 repo: "sestelo/sa_financial"
 pinned: false
 ---

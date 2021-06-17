@@ -3,7 +3,7 @@ title: "Studieren und Forschen mit dem Internet"
 author: "Peter Baumgartner, Sabine Payr"
 date: "2017-10-16T07:53:51Z"
 link: "https://bookdown.org/pbaumgartner/wiss-arbeiten/"
-length_weight: "40.6%"
+length_weight: "31.2%"
 cover: "https://bookdown.org/pbaumgartner/wiss-arbeiten/images/cover-stufonet-min.png"
 repo: "petzi53/wiss-arbeiten"
 pinned: false

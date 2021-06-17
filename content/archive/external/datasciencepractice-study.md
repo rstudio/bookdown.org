@@ -4,7 +4,7 @@ author: "Perry Stephenson"
 date: ""
 tags: [Data Science, Course]
 link: "https://datasciencepractice.study/"
-length_weight: "38.1%"
+length_weight: "29.3%"
 cover: "https://datasciencepractice.study/images/cover.png"
 pinned: false
 ---
