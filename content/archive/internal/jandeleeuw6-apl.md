@@ -3,7 +3,7 @@ title: "APL in R"
 author: "Jan de Leeuw, Masanao Yajima"
 date: "2016-04-01T20:09:14Z"
 link: "https://bookdown.org/jandeleeuw6/apl/"
-length_weight: "19%"
+length_weight: "14.6%"
 pinned: false
 ---
 

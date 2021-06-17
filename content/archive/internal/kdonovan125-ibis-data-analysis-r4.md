@@ -4,7 +4,7 @@ author: "Kevin Donovan"
 date: "2019-07-11T17:52:29Z"
 tags: [Data Analysis, Course, Network]
 link: "https://bookdown.org/kdonovan125/ibis_data_analysis_r4/"
-length_weight: "41%"
+length_weight: "31.5%"
 pinned: false
 ---
 

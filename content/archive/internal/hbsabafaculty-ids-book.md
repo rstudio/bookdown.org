@@ -1,10 +1,10 @@
 ---
 title: "Practical Data Skills"
 author: "Introduction To Data Science"
-date: "2021-06-03T18:51:07Z"
+date: "2021-06-16T12:27:05Z"
 tags: [Data Science, Statistics, R Programming]
 link: "https://bookdown.org/hbsabafaculty/ids_book/"
-length_weight: "35.6%"
+length_weight: "31.1%"
 pinned: false
 ---
 

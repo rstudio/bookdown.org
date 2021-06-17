@@ -3,7 +3,7 @@ title: "DJing to Dolphins"
 author: "Ian K Salter"
 date: "2019-07-17T10:30:18Z"
 link: "https://bookdown.org/ianksalter/djing-to-dolphins/"
-length_weight: "31.5%"
+length_weight: "24.3%"
 repo: "ianksalter/djing-to-dolphins"
 pinned: false
 ---

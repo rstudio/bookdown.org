@@ -4,7 +4,7 @@ author: "Jena University Hospital, Institute of Medical Statistics, Computer and
 date: "2021-05-25T06:04:53Z"
 tags: [Course, Statistics, Data Science]
 link: "https://bookdown.org/palmjulia/r_intro_script/"
-length_weight: "24%"
+length_weight: "18.5%"
 pinned: false
 ---
 

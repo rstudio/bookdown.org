@@ -3,7 +3,7 @@ title: "Health Policy Reform in the 50 States, 2011-2021"
 author: "Boris Shor"
 date: "2021-06-01T16:47:55Z"
 link: "https://bookdown.org/boris_shor214/Shor-Book/"
-length_weight: "21.3%"
+length_weight: "16.4%"
 pinned: false
 ---
 

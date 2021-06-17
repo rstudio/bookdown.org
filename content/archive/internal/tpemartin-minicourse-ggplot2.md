@@ -4,7 +4,7 @@ author: "林茂廷老師"
 date: "2018-04-21T23:40:17Z"
 tags: [ggplot2, Course, Social Science]
 link: "https://bookdown.org/tpemartin/minicourse_ggplot2/"
-length_weight: "7.5%"
+length_weight: "5.7%"
 pinned: false
 ---
 

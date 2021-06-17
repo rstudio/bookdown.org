@@ -4,7 +4,7 @@ author: "josiesmith"
 date: "2019-05-09T16:40:18Z"
 tags: [Guide, Course, Seminar, Statistics]
 link: "https://bookdown.org/josiesmith/labbook/"
-length_weight: "100%"
+length_weight: "33.1%"
 pinned: false
 ---
 

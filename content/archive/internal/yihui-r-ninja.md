@@ -4,7 +4,7 @@ author: "谢益辉, 肖楠, 坑主三, 坑主四"
 date: "2018-08-10T21:00:44Z"
 tags: [奇门遁甲, 数据分析, 统计之都]
 link: "https://bookdown.org/yihui/r-ninja/"
-length_weight: "23.1%"
+length_weight: "17.8%"
 cover: "https://bookdown.org/yihui/r-ninja/images/cover.jpg"
 repo: "yihui/r-ninja"
 pinned: false

@@ -3,7 +3,7 @@ title: "On the Fruit of the Holy Spirit"
 author: "Kevin Morales"
 date: "2019-12-13T16:46:50Z"
 link: "https://bookdown.org/kevinmorales2114/paper02/"
-length_weight: "8.5%"
+length_weight: "6.5%"
 pinned: false
 ---
 

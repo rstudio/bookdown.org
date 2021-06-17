@@ -1,9 +1,9 @@
 ---
 title: "Pengantar Pemrograman R dan RStudio"
 author: "Aep Hidayatuloh"
-date: "2021-05-26T17:00:36Z"
+date: "2021-06-13T16:32:00Z"
 link: "https://bookdown.org/aepstk/intror/"
-length_weight: "9.1%"
+length_weight: "8.2%"
 cover: "https://bookdown.org/aepstk/intror/img/pengantar_pemrograman_R_dan_RStudio.png"
 pinned: false
 ---

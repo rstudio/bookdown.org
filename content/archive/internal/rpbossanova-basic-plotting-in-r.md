@@ -1,10 +1,10 @@
 ---
 title: "Basic R Plotting for Six Sigma"
 author: "Ramon Perdigao"
-date: "2021-06-07T19:48:19Z"
+date: "2021-06-14T01:12:31Z"
 tags: [Data Analysis, Package]
 link: "https://bookdown.org/rpbossanova/basic_plotting_in_r/"
-length_weight: "16.5%"
+length_weight: "12.7%"
 pinned: false
 ---
 

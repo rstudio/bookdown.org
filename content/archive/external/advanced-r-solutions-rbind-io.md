@@ -4,7 +4,7 @@ author: "Malte Grosser, Henning Bumann & Hadley Wickham"
 date: ""
 tags: [Advanced R]
 link: "https://advanced-r-solutions.rbind.io/"
-length_weight: "39.7%"
+length_weight: "30.5%"
 cover: "https://advanced-r-solutions.rbind.io/images/cover/advrs_cover.png"
 repo: "Tazinho/Advanced-R-Solutions"
 pinned: false

@@ -4,7 +4,7 @@ author: "Alex O. Holcombe"
 date: ""
 tags: [Textbook]
 link: "https://psyc2016.whatanimalssee.com/"
-length_weight: "23.2%"
+length_weight: "17.8%"
 repo: "alexholcombe/PSYC2016attention"
 pinned: false
 ---

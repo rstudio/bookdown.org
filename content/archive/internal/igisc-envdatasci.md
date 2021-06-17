@@ -4,7 +4,7 @@ author: "Jerry Davis, SFSU Institute for Geographic Information Science"
 date: "2021-05-23T16:58:29Z"
 tags: [Data Science, Data Analysis, Spatial Data, Exploratory Data Analysis, Tidyverse, Package]
 link: "https://bookdown.org/igisc/EnvDataSci/"
-length_weight: "29.2%"
+length_weight: "22.5%"
 repo: "iGISc/EnvDataSci"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Coding in R"
 author: "Michael Foley"
 date: "2021-06-01T12:18:30Z"
 link: "https://bookdown.org/mpfoley1973/coding/"
-length_weight: "6.3%"
+length_weight: "4.9%"
 pinned: false
 ---
 

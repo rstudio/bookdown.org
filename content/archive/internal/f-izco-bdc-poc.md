@@ -3,7 +3,7 @@ title: "Base de datos corporativa de personas"
 author: "Fernando Izco"
 date: "2018-11-27T09:27:39Z"
 link: "https://bookdown.org/f_izco/BDC-POC/"
-length_weight: "23.3%"
+length_weight: "18%"
 pinned: false
 ---
 

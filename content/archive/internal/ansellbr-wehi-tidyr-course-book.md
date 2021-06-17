@@ -1,10 +1,10 @@
 ---
 title: "Introduction to R - tidyverse"
 author: "Brendan R. E. Ansell @ansellbr3"
-date: "2021-05-27T10:43:29Z"
+date: "2021-06-10T22:51:00Z"
 tags: [Tidyverse, Course]
 link: "https://bookdown.org/ansellbr/WEHI_tidyR_course_book/"
-length_weight: "30.2%"
+length_weight: "23.3%"
 pinned: false
 ---
 

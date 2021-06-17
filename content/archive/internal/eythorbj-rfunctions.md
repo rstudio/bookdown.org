@@ -4,7 +4,7 @@ author: "Eyþór Björnsson"
 date: "2017-05-23T22:00:30Z"
 tags: [Github, R Markdown]
 link: "https://bookdown.org/eythorbj/Rfunctions/"
-length_weight: "10.1%"
+length_weight: "7.8%"
 pinned: false
 ---
 

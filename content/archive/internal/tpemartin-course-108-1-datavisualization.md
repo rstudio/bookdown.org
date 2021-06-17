@@ -4,7 +4,7 @@ author: "tpemartin"
 date: "2019-10-02T07:20:30Z"
 tags: [Course, R Programming, Data Science]
 link: "https://bookdown.org/tpemartin/course-108-1-datavisualization/"
-length_weight: "12.4%"
+length_weight: "9.6%"
 pinned: false
 ---
 

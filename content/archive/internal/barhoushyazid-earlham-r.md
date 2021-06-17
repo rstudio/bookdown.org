@@ -4,7 +4,7 @@ author: "Jose I Pareja, Yazid A Barhoush and Wendy P Tori"
 date: "2021-05-05T19:09:30Z"
 tags: [Spatial Data, Visualization]
 link: "https://bookdown.org/barhoushyazid/Earlham-R/"
-length_weight: "9.3%"
+length_weight: "7.1%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Y. Wendy Huynh"
 date: "2019-08-07T03:50:01Z"
 tags: [Guide]
 link: "https://bookdown.org/yih_huynh/Guide-to-R-Book/"
-length_weight: "35.3%"
+length_weight: "27.2%"
 pinned: false
 ---
 
