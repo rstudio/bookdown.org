@@ -3,7 +3,7 @@ title: "Draft: Aplikasi Analisis Data untuk Bisnis"
 author: "Aep Hidayatuloh"
 date: "2020-06-17T17:12:01Z"
 link: "https://bookdown.org/aepstk/analisisdatabisnis/"
-length_weight: "3.6%"
+length_weight: "4.6%"
 pinned: false
 ---
 

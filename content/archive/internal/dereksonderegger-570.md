@@ -4,7 +4,7 @@ author: "Derek L. Sonderegger & Robert Buscaglia"
 date: "2020-12-09T00:18:48Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/dereksonderegger/570/"
-length_weight: "3.4%"
+length_weight: "4.4%"
 repo: "dereksonderegger/570"
 pinned: false
 ---

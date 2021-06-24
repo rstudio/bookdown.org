@@ -3,7 +3,7 @@ title: "Applet Codebook: NIMH EMA for Mindlogger v0.27"
 author: "Mike X."
 date: "2020-03-26T01:29:54Z"
 link: "https://bookdown.org/mikemxxiao/nimh/"
-length_weight: "12.7%"
+length_weight: "16.5%"
 pinned: false
 ---
 

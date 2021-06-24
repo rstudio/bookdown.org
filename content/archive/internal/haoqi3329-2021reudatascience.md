@@ -1,10 +1,10 @@
 ---
 title: "2021 REU Data Science Training"
 author: "Haoqi Wang"
-date: "2021-06-17T05:16:54Z"
+date: "2021-06-24T04:18:38Z"
 tags: [Data Science, Visualization, Tutorial]
 link: "https://bookdown.org/haoqi3329/2021REUDataScience/"
-length_weight: "17%"
+length_weight: "26.5%"
 pinned: false
 ---
 

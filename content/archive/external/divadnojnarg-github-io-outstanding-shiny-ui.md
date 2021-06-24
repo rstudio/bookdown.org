@@ -4,7 +4,7 @@ author: "David Granjon"
 date: "2021-03-15"
 tags: [Shiny]
 link: "https://divadnojnarg.github.io/outstanding-shiny-ui/"
-length_weight: "22.5%"
+length_weight: "29.2%"
 repo: "DivadNojnarg/outstanding-shiny-ui"
 pinned: false
 ---

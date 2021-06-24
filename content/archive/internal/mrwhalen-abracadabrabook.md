@@ -3,7 +3,7 @@ title: "Abracadabra Stats - Companion Book"
 author: "Matthew Whalen"
 date: "2021-01-08T03:40:15Z"
 link: "https://bookdown.org/mrwhalen/abracadabrabook/"
-length_weight: "9.3%"
+length_weight: "12.1%"
 pinned: false
 ---
 

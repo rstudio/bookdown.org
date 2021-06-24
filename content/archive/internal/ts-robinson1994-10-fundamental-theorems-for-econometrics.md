@@ -4,7 +4,7 @@ author: "Thomas S. Robinson ("
 date: "2020-09-30T10:19:51Z"
 tags: [Econometrics, Statistics]
 link: "https://bookdown.org/ts_robinson1994/10_fundamental_theorems_for_econometrics/"
-length_weight: "19.9%"
+length_weight: "25.9%"
 repo: "tsrobinson/10EconometricTheorems"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "janengelstaedter"
 date: "2019-04-05T03:37:07Z"
 tags: [Textbook, Course, Shiny, Models]
 link: "https://bookdown.org/janengelstaedter/biol3360modelling3/"
-length_weight: "3.2%"
+length_weight: "4.1%"
 repo: "NicoleZFortuna/BIOL3360Modelling.io"
 pinned: false
 ---

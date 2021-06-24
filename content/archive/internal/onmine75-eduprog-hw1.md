@@ -4,7 +4,7 @@ author: "소프트웨어교육전공 192SEE01 김미경"
 date: "2020-09-28T14:37:52Z"
 tags: [Package, ggplot2]
 link: "https://bookdown.org/onmine75/eduprog_hw1/"
-length_weight: "3.7%"
+length_weight: "4.8%"
 pinned: false
 ---
 

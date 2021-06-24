@@ -4,7 +4,7 @@ author: "Rob Crystal-Ornelas, PhD"
 date: "2021-05-12T01:55:08Z"
 tags: [Meta-Analysis, Guide, Ecology]
 link: "https://bookdown.org/robcrystalornelas/meta-analysis_of_ecological_data/"
-length_weight: "14.3%"
+length_weight: "18.6%"
 repo: "robcrystalornelas/meta-analysis_of_ecological_data"
 pinned: false
 ---

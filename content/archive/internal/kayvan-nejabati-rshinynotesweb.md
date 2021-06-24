@@ -4,7 +4,7 @@ author: "Kayvan Nejabati Zenouz"
 date: "2021-06-16T15:45:45Z"
 tags: [Shiny, Data Science, Software Development]
 link: "https://bookdown.org/kayvan_nejabati/rshinynotesweb/"
-length_weight: "12.5%"
+length_weight: "16.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

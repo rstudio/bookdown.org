@@ -4,7 +4,7 @@ author: "Yuting Liu"
 date: "2021-06-10T14:31:42Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis/"
-length_weight: "3.5%"
+length_weight: "4.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Grange-Lab Manual"
 author: "Jim Grange"
 date: "2020-09-28T07:51:09Z"
 link: "https://bookdown.org/JimGrange/lab_manual/"
-length_weight: "10.3%"
+length_weight: "13.3%"
 pinned: false
 ---
 

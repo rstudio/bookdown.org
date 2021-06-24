@@ -4,7 +4,7 @@ author: "Ben Gonzalez"
 date: "2020-03-06T23:08:38Z"
 tags: [Package, Github]
 link: "https://bookdown.org/gonzalezben393/SQLQueries/"
-length_weight: "11.5%"
+length_weight: "14.9%"
 pinned: false
 ---
 

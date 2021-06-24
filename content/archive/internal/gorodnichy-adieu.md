@@ -3,7 +3,7 @@ title: "«По ту сторону горизонта»"
 author: "Дмитрий Городничий"
 date: "2019-02-05T18:32:04Z"
 link: "https://bookdown.org/gorodnichy/adieu/"
-length_weight: "8.9%"
+length_weight: "11.6%"
 cover: "https://bookdown.org/gorodnichy/adieu/covers/cover-adieu-title.jpg"
 pinned: false
 ---

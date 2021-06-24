@@ -4,7 +4,7 @@ author: "Jake Esprabens, Ari Arango, Joshua Kim"
 date: "2020-06-12T22:06:15Z"
 tags: [Guide, Course]
 link: "https://bookdown.org/JakeEsprabens/431-Time-Series/"
-length_weight: "8.6%"
+length_weight: "11.1%"
 pinned: false
 ---
 

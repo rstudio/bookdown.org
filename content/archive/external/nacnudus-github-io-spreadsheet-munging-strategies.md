@@ -4,7 +4,7 @@ author: "Duncan Garmonsway"
 date: ""
 tags: [Tidyverse, Package, Tidy]
 link: "https://nacnudus.github.io/spreadsheet-munging-strategies/"
-length_weight: "11.2%"
+length_weight: "14.5%"
 pinned: false
 ---
 

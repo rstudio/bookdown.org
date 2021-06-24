@@ -4,7 +4,7 @@ author: "Naim Çınar"
 date: "2021-02-22T10:48:52Z"
 tags: [Package, Github]
 link: "https://bookdown.org/naimcinar/future-scenarios/"
-length_weight: "2.9%"
+length_weight: "3.7%"
 cover: "https://bookdown.org/naimcinar/future-scenarios/images/book-cover.jpg"
 repo: "rstudio/future-scenarios"
 pinned: false

@@ -4,7 +4,7 @@ author: "설시내"
 date: "2020-10-03T04:38:33Z"
 tags: [Package]
 link: "https://bookdown.org/swssam/r_hw01/"
-length_weight: "2.9%"
+length_weight: "3.7%"
 pinned: false
 ---
 

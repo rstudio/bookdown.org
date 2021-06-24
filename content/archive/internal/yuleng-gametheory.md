@@ -4,7 +4,7 @@ author: "Yuleng Zeng"
 date: "2019-09-04T14:24:46Z"
 tags: [Course, Models]
 link: "https://bookdown.org/Yuleng/gametheory/"
-length_weight: "6%"
+length_weight: "7.8%"
 repo: "rstudio/yuleng"
 pinned: false
 ---

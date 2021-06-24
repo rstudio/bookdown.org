@@ -4,7 +4,7 @@ author: "Matthew Sperrin"
 date: "2020-09-18T15:03:22Z"
 tags: [Data Science, Course]
 link: "https://bookdown.org/m_p_sperrin/introR/"
-length_weight: "13.5%"
+length_weight: "17.5%"
 pinned: false
 ---
 

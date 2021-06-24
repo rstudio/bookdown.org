@@ -4,7 +4,7 @@ author: "Jess L"
 date: "2020-05-04T20:31:24Z"
 tags: [Package]
 link: "https://bookdown.org/Jess/Allabouther/"
-length_weight: "6.5%"
+length_weight: "8.5%"
 pinned: false
 ---
 

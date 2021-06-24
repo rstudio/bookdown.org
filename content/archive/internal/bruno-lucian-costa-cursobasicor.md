@@ -1,9 +1,9 @@
 ---
 title: "Introdução à Análise de Dados em R"
 author: "Bruno Lucian & Claudia Jakelline"
-date: "2021-06-16T21:06:59Z"
+date: "2021-06-23T21:26:54Z"
 link: "https://bookdown.org/bruno_lucian_costa/CursoBasicoR/"
-length_weight: "14.2%"
+length_weight: "27.7%"
 repo: "brunolucian/cursoBasicoR"
 pinned: false
 ---

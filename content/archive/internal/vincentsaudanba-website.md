@@ -4,7 +4,7 @@ author: "vincentsaudanba"
 date: "2020-12-15T18:33:11Z"
 tags: [Models]
 link: "https://bookdown.org/vincentsaudanba/website/"
-length_weight: "9.2%"
+length_weight: "12%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "Economía Conductual: Fundamentos y Aplicaciones"
 author: "BEST: Behavioral Economics & Data Science Team"
 date: "2018-12-14T00:33:07Z"
 link: "https://bookdown.org/BEST/Economia-Conductual-Fundamentos-y-Aplicaciones/"
-length_weight: "4.6%"
+length_weight: "6%"
 repo: "BESTDATASCIENCE/LIBRO-ECONOMIA-CONDUCTUAL"
 pinned: false
 ---

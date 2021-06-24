@@ -4,7 +4,7 @@ author: "Cristóbal Moya"
 date: "2020-09-24T22:04:54Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/cristobalmoya/iscs_materials/"
-length_weight: "12.5%"
+length_weight: "16.2%"
 pinned: false
 ---
 

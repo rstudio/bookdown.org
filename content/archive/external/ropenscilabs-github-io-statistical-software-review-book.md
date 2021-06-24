@@ -1,7 +1,7 @@
 ---
 title: "rOpenSci Statistical Software Peer Review"
 author: "Mark Padgham and Noam Ross"
-date: "2021-06-09"
+date: "2021-06-23"
 tags: [Package, Guide]
 link: "https://ropenscilabs.github.io/statistical-software-review-book/"
 length_weight: "0%"

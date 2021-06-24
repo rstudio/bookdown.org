@@ -4,7 +4,7 @@ author: "Василенко Євген"
 date: "2020-02-18T16:13:09Z"
 tags: [R Programming]
 link: "https://bookdown.org/geka/applied_analytics/"
-length_weight: "3.8%"
+length_weight: "5%"
 pinned: false
 ---
 

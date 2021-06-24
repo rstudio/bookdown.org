@@ -4,7 +4,7 @@ author: "Siraj Raval, revisited by Kim NOËL"
 date: "2019-10-29T17:48:32Z"
 tags: [Machine Learning, Package, Course, Tutorial]
 link: "https://bookdown.org/noel_kim99/moneyML/"
-length_weight: "2.9%"
+length_weight: "3.8%"
 repo: "knoel99/make-money-with-machine-learning-revisited-"
 pinned: false
 ---

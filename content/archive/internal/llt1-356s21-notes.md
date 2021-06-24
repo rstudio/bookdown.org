@@ -3,7 +3,7 @@ title: "Stat 356 Notes: Spring 2021"
 author: "Laurie Tupper"
 date: "2021-03-23T19:42:50Z"
 link: "https://bookdown.org/llt1/356s21_notes/"
-length_weight: "20.5%"
+length_weight: "26.7%"
 pinned: false
 ---
 

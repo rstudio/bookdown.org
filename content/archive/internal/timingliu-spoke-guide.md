@@ -4,7 +4,7 @@ author: "MedTech Foundation"
 date: "2020-12-05T18:26:13Z"
 tags: [Guide, Github]
 link: "https://bookdown.org/timingliu/spoke-guide/"
-length_weight: "4.4%"
+length_weight: "5.8%"
 repo: "Medtech-Foundation/spoke-doc"
 pinned: false
 ---

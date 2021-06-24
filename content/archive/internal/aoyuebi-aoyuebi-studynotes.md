@@ -4,7 +4,7 @@ author: "Aoyue Bi"
 date: "2021-06-01T01:33:46Z"
 tags: [Biology]
 link: "https://bookdown.org/aoyuebi/AoyueBi_StudyNotes/"
-length_weight: "6.6%"
+length_weight: "8.5%"
 pinned: false
 ---
 

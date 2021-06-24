@@ -4,7 +4,7 @@ author: "Bruno Rodrigues"
 date: "2020-11-10"
 tags: [Tidyverse, Data Science, Machine Learning, Statistics, Models]
 link: "https://b-rodrigues.github.io/modern_R/"
-length_weight: "20.7%"
+length_weight: "26.9%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Jorge Andrade"
 date: "2020-09-09T11:40:46Z"
 tags: [Market]
 link: "https://bookdown.org/marketvariance/inteligencia_detras/"
-length_weight: "33%"
+length_weight: "100%"
 cover: "https://bookdown.org/marketvariance/inteligencia_detras/IMAGENES/portada_big_bang.png"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Estadística Aplicada con R"
 author: "Oscar González Frutos"
 date: "2020-03-19T21:20:15Z"
 link: "https://bookdown.org/oscar_teach/estadistica_aplicada_con_r/"
-length_weight: "6.3%"
+length_weight: "8.2%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Gabriel Butler UCLA Global Classroom"
 date: "2019-10-22T03:40:04Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/gabriel_butler/ECON41Labs/"
-length_weight: "29.1%"
+length_weight: "37.8%"
 pinned: false
 ---
 

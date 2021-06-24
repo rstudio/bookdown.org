@@ -4,7 +4,7 @@ author: "Kan Lei"
 date: "2021-04-29T20:19:56Z"
 tags: [Package, Guide, Models]
 link: "https://bookdown.org/hr_kanlei/EDHM_Document/"
-length_weight: "12.5%"
+length_weight: "16.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
