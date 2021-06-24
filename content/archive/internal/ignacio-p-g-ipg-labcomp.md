@@ -3,7 +3,7 @@ title: "Laboratorio de Computación - Bookdown"
 author: "Ignacio Pascual Gutiérrez"
 date: "2020-06-07T23:45:53Z"
 link: "https://bookdown.org/ignacio_p_g/ipg-labcomp/"
-length_weight: "33%"
+length_weight: "100%"
 pinned: false
 ---
 

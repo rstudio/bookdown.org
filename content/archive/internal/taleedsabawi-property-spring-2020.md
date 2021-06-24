@@ -4,7 +4,7 @@ author: "Dr. Taleed El-Sabawi"
 date: "2020-05-29T19:56:07Z"
 tags: [Course]
 link: "https://bookdown.org/taleedsabawi/property_spring_2020/"
-length_weight: "11.6%"
+length_weight: "15.1%"
 pinned: false
 ---
 

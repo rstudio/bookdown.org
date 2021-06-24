@@ -4,7 +4,7 @@ author: "Brian Holt"
 date: "2020-10-04T22:54:03Z"
 tags: [Psychology, Package]
 link: "https://bookdown.org/brian_c_holt/abnormal_book/"
-length_weight: "6.8%"
+length_weight: "8.8%"
 pinned: false
 ---
 

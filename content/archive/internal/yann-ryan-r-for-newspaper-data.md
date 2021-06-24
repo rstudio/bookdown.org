@@ -4,7 +4,7 @@ author: "Yann Ryan"
 date: "2020-09-24T17:27:18Z"
 tags: [Guide]
 link: "https://bookdown.org/yann_ryan/r-for-newspaper-data/"
-length_weight: "20.8%"
+length_weight: "27%"
 repo: "yannryan-irl/r-for-newspapers-data"
 pinned: false
 ---

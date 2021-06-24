@@ -4,7 +4,7 @@ author: "Zev Ross (with Andrew Clark)"
 date: "2016-11-08T18:23:28Z"
 tags: [Web Applications, Shiny, Package]
 link: "https://bookdown.org/aclark/zevRossShinyBook/"
-length_weight: "4.1%"
+length_weight: "5.3%"
 pinned: false
 ---
 

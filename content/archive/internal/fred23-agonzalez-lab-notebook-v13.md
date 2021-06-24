@@ -4,7 +4,7 @@ author: "Alfredo Enrique Gonzalez"
 date: "2020-02-11T16:02:23Z"
 tags: [R Programming]
 link: "https://bookdown.org/fred23/agonzalez-lab-notebook-v13/"
-length_weight: "13.9%"
+length_weight: "18%"
 pinned: false
 ---
 

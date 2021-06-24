@@ -4,7 +4,7 @@ author: "Raghvendra Jain"
 date: "2016-12-15T10:22:45Z"
 tags: [Forecasting, Github]
 link: "https://bookdown.org/raghavendrajain/predictingdengue/"
-length_weight: "9.2%"
+length_weight: "12%"
 repo: "bookdownDengue"
 pinned: false
 ---

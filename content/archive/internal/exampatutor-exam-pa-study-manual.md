@@ -4,7 +4,7 @@ author: "exampatutor"
 date: "2020-01-06T04:38:12Z"
 tags: [Predictive Model]
 link: "https://bookdown.org/exampatutor/Exam-PA-Study-Manual/"
-length_weight: "6.9%"
+length_weight: "9%"
 pinned: false
 ---
 

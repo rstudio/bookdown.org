@@ -4,7 +4,7 @@ author: "Authors: The RIPLRT"
 date: "2021-02-02T19:19:03Z"
 tags: [Guide]
 link: "https://bookdown.org/friveram/labmanualriplrt/"
-length_weight: "11.7%"
+length_weight: "15.2%"
 pinned: false
 ---
 

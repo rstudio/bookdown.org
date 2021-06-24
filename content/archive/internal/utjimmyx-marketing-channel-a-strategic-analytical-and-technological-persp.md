@@ -4,7 +4,7 @@ author: "Zhenning ‘Jimmy’ Xu, Ph.D."
 date: "2020-09-28T16:23:32Z"
 tags: [Market, Course, Textbook]
 link: "https://bookdown.org/utjimmyx/marketing_channel_a_strategic_analytical_and_technological_persp/"
-length_weight: "13.5%"
+length_weight: "17.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

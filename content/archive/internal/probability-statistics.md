@@ -4,7 +4,7 @@ author: ""
 date: "2021-03-03T17:39:52Z"
 tags: [Statistics, Education]
 link: "https://bookdown.org/probability/statistics/"
-length_weight: "24.8%"
+length_weight: "32.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

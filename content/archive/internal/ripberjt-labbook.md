@@ -4,7 +4,7 @@ author: "Joseph Ripberger, Cody Adams, Alex Davis, and Josie Davis"
 date: "2019-09-19T15:26:00Z"
 tags: [Guide]
 link: "https://bookdown.org/ripberjt/labbook/"
-length_weight: "3.3%"
+length_weight: "4.3%"
 repo: "ripberjt/qrmlabs"
 pinned: false
 ---

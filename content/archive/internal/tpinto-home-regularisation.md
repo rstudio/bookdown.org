@@ -4,7 +4,7 @@ author: "Armando Teixeira-Pinto"
 date: "2020-09-08T09:48:11Z"
 tags: [Machine Learning, Statistics]
 link: "https://bookdown.org/tpinto_home/Regularisation/"
-length_weight: "16.4%"
+length_weight: "21.3%"
 pinned: false
 ---
 
