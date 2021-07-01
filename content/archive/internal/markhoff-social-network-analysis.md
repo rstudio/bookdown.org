@@ -1,10 +1,10 @@
 ---
 title: "Affiliation data"
 author: "Mark Hoffman"
-date: "2021-06-23T19:24:52Z"
+date: "2021-06-30T19:52:33Z"
 tags: [Seminar, Network]
 link: "https://bookdown.org/markhoff/social_network_analysis/"
-length_weight: "20.1%"
+length_weight: "20.3%"
 cover: "https://bookdown.org/markhoff/social_network_analysis/Images/cover.png"
 pinned: false
 ---
