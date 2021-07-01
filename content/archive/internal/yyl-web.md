@@ -1,7 +1,7 @@
 ---
 title: "劉昱佑"
 author: "Oliver Yu-You Liou, MStat, MS, BS, BA"
-date: "2021-06-23T07:30:56Z"
+date: "2021-06-29T07:25:40Z"
 tags: [臺灣]
 link: "https://bookdown.org/yyl/web/"
 length_weight: "7.8%"

@@ -1,10 +1,10 @@
 ---
 title: "Log 708 Compendium - INCOMPLETE VERSION"
 author: "Halvard Arntzen"
-date: "2021-06-17T13:15:17Z"
+date: "2021-06-24T07:36:22Z"
 tags: [Course, Statistics]
 link: "https://bookdown.org/halzen335/Log708Compendium/"
-length_weight: "27.6%"
+length_weight: "37.6%"
 repo: "rstudio/log708-molde-compendium"
 pinned: false
 ---

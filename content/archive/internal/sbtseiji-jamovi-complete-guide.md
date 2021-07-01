@@ -1,9 +1,9 @@
 ---
 title: "jamovi完全攻略ガイド"
 author: "芝田 征司"
-date: "2021-06-10T13:10:44Z"
+date: "2021-06-30T12:59:53Z"
 link: "https://bookdown.org/sbtseiji/jamovi_complete_guide/"
-length_weight: "4.8%"
+length_weight: "100%"
 repo: "rstudio/bookdown"
 pinned: false
 ---
