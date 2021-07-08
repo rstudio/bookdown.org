@@ -1,10 +1,10 @@
 ---
-title: "Regression Methods for Public Health"
+title: "Regression Methods for Public Health using R"
 author: "Ramzi W. Nahhas"
-date: "2021-05-17T17:03:32Z"
+date: "2021-07-07T19:37:40Z"
 tags: [Statistics, Course, Textbook]
 link: "https://bookdown.org/rwnahhas/RMPH/"
-length_weight: "10.7%"
+length_weight: "11.8%"
 pinned: false
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Week 2 Peer Review"
+title: "2021 REU Data Science Training"
 author: "Haoqi Wang"
-date: "2021-06-30T17:22:05Z"
+date: "2021-07-01T21:02:13Z"
 tags: [Data Science, Visualization, Tutorial]
 link: "https://bookdown.org/haoqi3329/2021REUDataScience/"
-length_weight: "31.3%"
+length_weight: "13.4%"
 pinned: false
 ---
 
