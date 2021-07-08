@@ -1,7 +1,7 @@
 ---
 title: "NicheMapR + microclima"
 author: "Yutaro Sakairi, Abigail Meyer, and Lauren Buckley; The TrEnCh Project, University of Washington"
-date: "2021-06-30T22:33:10Z"
+date: "2021-07-01T19:51:06Z"
 tags: [Guide]
 link: "https://bookdown.org/huckley/microclimate_users_guide/"
 length_weight: "12.4%"

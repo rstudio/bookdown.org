@@ -1,7 +1,7 @@
 ---
 title: "Data Preparation"
 author: "Martin Monkman"
-date: "2021-06-30T04:17:49Z"
+date: "2021-07-02T16:42:35Z"
 tags: [Data Science, Visualization, Textbook, Course]
 link: "https://bookdown.org/martin_monkman/DataPreparation_EssentialSteps/"
 length_weight: "10.9%"
