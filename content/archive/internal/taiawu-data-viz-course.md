@@ -1,10 +1,10 @@
 ---
 title: "Data Visualization Workshop"
 author: "Taia Wu"
-date: "2021-07-07T16:58:25Z"
+date: "2021-07-09T05:22:00Z"
 tags: [Visualization, Course, Education]
 link: "https://bookdown.org/taiawu/data_viz_course/"
-length_weight: "9.1%"
+length_weight: "9.4%"
 pinned: false
 ---
 

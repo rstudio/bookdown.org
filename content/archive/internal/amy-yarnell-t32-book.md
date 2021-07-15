@@ -1,10 +1,10 @@
 ---
 title: "T32 Working with Data Training"
 author: "Jean-Paul Courneya and Amy Yarnell"
-date: "2021-06-24T15:12:04Z"
+date: "2021-07-08T16:41:12Z"
 tags: [Epidemiology, Package, Github]
 link: "https://bookdown.org/amy_yarnell/T32-book/"
-length_weight: "23.3%"
+length_weight: "23.8%"
 pinned: false
 ---
 

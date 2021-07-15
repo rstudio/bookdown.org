@@ -1,10 +1,10 @@
 ---
 title: "A Quick Introduction to bbsBayes"
 author: "Adam C. Smith, and Brandon P.M. Edwards"
-date: "2020-12-16T19:21:51Z"
+date: "2021-07-13T13:23:45Z"
 tags: [Package, Github, Bayesian, Models]
 link: "https://bookdown.org/adam_smith2/bbsbayes_intro_workshop/"
-length_weight: "15%"
+length_weight: "15.1%"
 pinned: false
 ---
 
