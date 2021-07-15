@@ -1,10 +1,10 @@
 ---
-title: "NicheMapR + microclima"
+title: "Microclimate Algorithms"
 author: "Yutaro Sakairi, Abigail Meyer, and Lauren Buckley; The TrEnCh Project, University of Washington"
-date: "2021-07-01T19:51:06Z"
+date: "2021-07-13T04:07:25Z"
 tags: [Guide]
 link: "https://bookdown.org/huckley/microclimate_users_guide/"
-length_weight: "12.4%"
+length_weight: "13.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

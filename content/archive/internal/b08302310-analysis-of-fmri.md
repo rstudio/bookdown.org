@@ -1,10 +1,10 @@
 ---
 title: "Notes of Analysis of Functional MRI"
 author: "Lecturer: Chia-Feng Lu Course page:"
-date: "2021-07-07T03:49:51Z"
+date: "2021-07-11T18:23:21Z"
 tags: [Multivariate]
 link: "https://bookdown.org/b08302310/Analysis_of_fMRI/"
-length_weight: "7.1%"
+length_weight: "9.9%"
 pinned: false
 ---
 

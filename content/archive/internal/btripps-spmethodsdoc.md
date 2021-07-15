@@ -1,9 +1,9 @@
 ---
 title: "Landscape Nature Recovery Pilot: Methods for spatially prioritisating outcomes under the pilot LNR scheme."
 author: "James Hutchison, Anna Deasey, Flora Donald & Becky Trippier, Ecosystems Analysis, Joint Nature Conservation Committee (JNCC)"
-date: "2021-06-25T16:04:44Z"
+date: "2021-07-08T14:21:46Z"
 link: "https://bookdown.org/btripps/spmethodsdoc/"
-length_weight: "33.3%"
+length_weight: "33.1%"
 pinned: false
 ---
 

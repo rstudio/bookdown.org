@@ -1,11 +1,10 @@
 ---
 title: "Pengantar Pemrograman R dan RStudio"
 author: "Aep Hidayatuloh"
-date: "2021-06-13T16:32:00Z"
+date: "2021-07-13T08:43:10Z"
 link: "https://bookdown.org/aepstk/intror/"
-length_weight: "10.6%"
-cover: "https://bookdown.org/aepstk/intror/img/pengantar_pemrograman_R_dan_RStudio.png"
+length_weight: "14.4%"
 pinned: false
 ---
 
-Buku pengenalan pemrograman R versi Bahasa Indonesia. Buku ini ditulis untuk menuangkan ide dan berbagi pengetahuan berdasarkan hasil belajar, pengalaman melakukan pekerjaan dan penelitian di beberapa bidang sebagai konsultan analisis data, maupun karyawan di sebuah perusahaan. Di dalam buku ini akan dibahas dasar-dasar R sebagai alat bantu untuk analisis data. Buku ini juga akan membahas cara berinteraksi dengan R melalui RStudio mulai dari download dan install R & RStudio hingga eksplorasi data.
+Assalamu’alaikum warohmatullohi wabarokatuh… Alhamdulillahi robbil’aalamiin… Segala puji dan syukur hanya untuk Alloh Subhanahu Wa Ta’ala karena atas rahmat dan ridho-Nya yang memberikan kesempatan kepada saya untuk menulis buku ini. Buku ini ditulis untuk menuangkan ide dan berbagi pengetahuan berdasarkan hasil belajar, pengalaman melakukan pekerjaan dan penelitian di beberapa bidang sebagai konsultan analisis data, maupun karyawan di sebuah perusahaan. Buku ini masih berupa draft dan dalam tahap penulisan. Bagi Anda yang ingin memperoleh versi cetak dari buku ini, hingga saat ini buku ini ...

@@ -1,9 +1,9 @@
 ---
 title: "River Valley Connectivity Project"
 author: "Brendan Casey"
-date: "2021-06-28T17:19:36Z"
+date: "2021-07-13T03:00:33Z"
 link: "https://bookdown.org/bgcasey/RV_connectivity/"
-length_weight: "22.6%"
+length_weight: "25.9%"
 repo: "https://github.com/bgcasey/RV_connectivity"
 pinned: false
 ---
