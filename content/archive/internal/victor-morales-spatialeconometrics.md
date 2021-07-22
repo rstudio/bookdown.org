@@ -1,9 +1,9 @@
 ---
 title: "Econometría Espacial"
 author: "Víctor Morales-Oñate"
-date: "2021-07-15T00:49:34Z"
+date: "2021-07-21T00:08:41Z"
 link: "https://bookdown.org/victor_morales/SpatialEconometrics/"
-length_weight: "32.5%"
+length_weight: "34.5%"
 pinned: false
 ---
 

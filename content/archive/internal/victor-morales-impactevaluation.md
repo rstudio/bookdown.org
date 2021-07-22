@@ -1,9 +1,9 @@
 ---
 title: "Métodos de evaluación de impacto"
 author: "Víctor Morales-Oñate"
-date: "2021-07-13T23:56:42Z"
+date: "2021-07-20T06:06:06Z"
 link: "https://bookdown.org/victor_morales/ImpactEvaluation/"
-length_weight: "14.4%"
+length_weight: "22.4%"
 pinned: false
 ---
 

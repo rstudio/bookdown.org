@@ -1,11 +1,11 @@
 ---
 title: "An Introduction to Game Theory"
 author: "Yuleng Zeng"
-date: "2019-09-04T14:24:46Z"
+date: "2021-07-21T10:33:51Z"
 tags: [Course, Models]
-link: "https://bookdown.org/Yuleng/gametheory/"
-length_weight: "7.8%"
-repo: "rstudio/yuleng"
+link: "https://bookdown.org/zengyuleng/gametheory/"
+length_weight: "7.9%"
+repo: "rstudio/gametheory"
 pinned: false
 ---
 
