@@ -1,10 +1,10 @@
 ---
 title: "Data Visualization for Conservation"
 author: "Gavin Masterson"
-date: "2021-07-14T13:38:17Z"
+date: "2021-07-20T16:31:20Z"
 tags: [Visualization, Course, ggplot2, Package]
 link: "https://bookdown.org/gavinmasterson/dvfc/"
-length_weight: "19.1%"
+length_weight: "24.1%"
 pinned: false
 ---
 

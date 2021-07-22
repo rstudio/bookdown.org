@@ -1,10 +1,10 @@
 ---
 title: "R para Psicólogos"
 author: "Cainã, Martins, Jaloto e Dinardi"
-date: "2021-05-25T14:46:37Z"
+date: "2021-07-16T16:55:15Z"
 tags: [Package, Github]
 link: "https://bookdown.org/arae/r-para-psicologos/"
-length_weight: "10.1%"
+length_weight: "6.3%"
 repo: "AraeCaina/R_para_iniciantes"
 pinned: false
 ---

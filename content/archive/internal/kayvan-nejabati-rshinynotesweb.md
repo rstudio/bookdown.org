@@ -1,10 +1,10 @@
 ---
 title: "R&Shiny for Data Science, Finance, and Software Development"
 author: "Kayvan Nejabati Zenouz"
-date: "2021-06-16T15:45:45Z"
+date: "2021-07-16T16:57:51Z"
 tags: [Shiny, Data Science, Software Development]
 link: "https://bookdown.org/kayvan_nejabati/rshinynotesweb/"
-length_weight: "16.3%"
+length_weight: "19.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
