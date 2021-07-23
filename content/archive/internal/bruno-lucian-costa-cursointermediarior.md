@@ -1,9 +1,9 @@
 ---
 title: "Análise de Dados em R - nível intermediário"
 author: "Bruno Lucian & Claudia Jakelline"
-date: "2021-07-20T19:40:56Z"
+date: "2021-07-22T21:30:19Z"
 link: "https://bookdown.org/bruno_lucian_costa/CursoIntermediarioR/"
-length_weight: "24.3%"
+length_weight: "26.8%"
 repo: "brunolucian/cursointermediarioR"
 pinned: false
 ---

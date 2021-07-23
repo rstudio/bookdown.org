@@ -1,10 +1,10 @@
 ---
-title: "Data Preparation"
+title: "The Data Preparation Journey"
 author: "Martin Monkman"
-date: "2021-07-02T16:42:35Z"
+date: "2021-07-22T14:24:45Z"
 tags: [Data Science, Visualization, Textbook, Course]
 link: "https://bookdown.org/martin_monkman/DataPreparation_EssentialSteps/"
-length_weight: "10.9%"
+length_weight: "12.1%"
 repo: "MonkmanMH/data_preparation_with_r"
 pinned: false
 ---
