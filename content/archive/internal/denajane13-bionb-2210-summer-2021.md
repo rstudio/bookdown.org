@@ -1,10 +1,10 @@
 ---
 title: "BIONB 2210 Summer 2021 Computer Labs"
 author: "Dena J. Clink"
-date: "2021-07-18T14:06:27Z"
+date: "2021-07-25T15:12:43Z"
 tags: [Tutorial, Package]
 link: "https://bookdown.org/denajane13/BIONB_2210_Summer_2021/"
-length_weight: "21.5%"
+length_weight: "22.8%"
 repo: "DenaJGibbon/behaviouRtutorials"
 pinned: false
 ---
