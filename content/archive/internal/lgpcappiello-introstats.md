@@ -1,10 +1,10 @@
 ---
 title: "Course Notes for Introduction to Statistics"
 author: "Dr. Lauren Cappiello"
-date: "2021-07-22T18:57:09Z"
+date: "2021-07-28T20:42:50Z"
 tags: [Course, Statistics]
 link: "https://bookdown.org/lgpcappiello/IntroStats/"
-length_weight: "23.3%"
+length_weight: "23.4%"
 pinned: false
 ---
 

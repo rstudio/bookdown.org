@@ -4,7 +4,7 @@ author: "DJ Navarro"
 date: "2018-12-31"
 tags: [Statistics, Tutorial, Psychology]
 link: "https://learningstatisticswithr-bookdown.netlify.com/"
-length_weight: "100%"
+length_weight: "0%"
 pinned: false
 ---
 
