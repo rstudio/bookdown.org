@@ -1,9 +1,9 @@
 ---
 title: "Indicadores Alerta de Violencia de Género (AVGM) del Estado de Jalisco."
 author: "paolamanzorom"
-date: "2021-07-28T16:24:17Z"
+date: "2021-08-05T20:25:01Z"
 link: "https://bookdown.org/paolamanzorom/lineabase_avgm_jal/"
-length_weight: "5.2%"
+length_weight: "5.9%"
 pinned: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "劉昱佑"
 author: "Oliver Yu-You Liou, MStat, MS, BS, BA"
-date: "2021-07-27T16:01:02Z"
+date: "2021-08-08T08:04:34Z"
 tags: [臺灣]
 link: "https://bookdown.org/yyl/web/"
-length_weight: "10%"
+length_weight: "10.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

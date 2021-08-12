@@ -1,11 +1,17 @@
 ---
 title: "Data Science: A First Introduction"
 author: "Tiffany-Anne Timbers, Trevor Campbell, Melissa Lee"
-date: "2021-01-12"
-tags: [Data Science, Textbook, Course, R Programming]
+date: "2021-08-04"
+tags: [Data Science, Textbook]
 link: "https://ubc-dsci.github.io/introduction-to-datascience/"
-length_weight: "23.8%"
+length_weight: "28.3%"
 pinned: false
 ---
 
-This is a textbook for teaching a first introduction to data science. [...] This is an open source textbook aimed at introducing undergraduate students to data science. It was originally written for the University of British Columbia’s DSCI 100 - Introduction to Data Science course. In this book, we define data science as the study and development of reproducible, auditable processes to obtain value (i.e., insight) from data. The book is structured so that learners spend the first four chapters learning how to use the R programming language and Jupyter notebooks to load, wrangle/clean, and ...
+This is a textbook for teaching a first introduction to data science. [...] This textbook aims to be an approachable introduction to the world of data science.
+In this book, we define data science as the process of generating
+insight from data through reproducible and auditable processes.
+If you analyze some data and give your analysis to a friend or colleague, they should
+be able to re-run the analysis from start to finish and get the same result you did (reproducibility).
+They should also be able to see and understand all the steps in the analysis, as well as the history of how
+the analysis  ...

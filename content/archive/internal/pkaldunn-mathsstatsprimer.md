@@ -1,10 +1,10 @@
 ---
 title: "Primer on Mathematical Statistics"
 author: "Peter K. Dunn"
-date: "2021-04-20T01:55:07Z"
+date: "2021-07-30T02:33:03Z"
 tags: [Statistics, Models]
 link: "https://bookdown.org/pkaldunn/MathsStatsPrimer/"
-length_weight: "13.1%"
+length_weight: "13.2%"
 pinned: false
 ---
 
