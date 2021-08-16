@@ -1,7 +1,7 @@
 ---
 title: "Outstanding User Interfaces with Shiny"
 author: "David Granjon"
-date: "2021-07-28"
+date: "2021-07-30"
 tags: [Shiny]
 link: "https://divadnojnarg.github.io/outstanding-shiny-ui/"
 length_weight: "29.2%"

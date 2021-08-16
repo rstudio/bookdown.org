@@ -1,10 +1,10 @@
 ---
 title: "The Temple of Esna. An Evolving Translation: Esna III"
 author: "David Klotz"
-date: "2021-07-28T02:13:47Z"
+date: "2021-08-11T18:50:50Z"
 tags: [Translation]
 link: "https://bookdown.org/shemanefer/Esna3/"
-length_weight: "21.1%"
+length_weight: "24.9%"
 pinned: false
 ---
 
