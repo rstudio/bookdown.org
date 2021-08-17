@@ -1,1 +1,0 @@
-https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/
