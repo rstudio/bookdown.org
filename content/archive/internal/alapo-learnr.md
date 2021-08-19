@@ -4,7 +4,7 @@ author: "Dr. Andrew P. Lapointe"
 date: "2021-06-05T09:01:52Z"
 tags: [Package, Tutorial, Github]
 link: "https://bookdown.org/alapo/learnr/"
-length_weight: "24.2%"
+length_weight: "23.9%"
 repo: "alapo/learnR"
 pinned: false
 ---

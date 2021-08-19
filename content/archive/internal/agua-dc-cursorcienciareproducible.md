@@ -3,7 +3,7 @@ title: "Curso de R con fines de ciencia reproducible. Nivel Básico"
 author: "Daniel Camilo Aguirre Acevedo. PhD, Magister en Epidemiología. Estadístico informático."
 date: "2021-04-25T17:30:28Z"
 link: "https://bookdown.org/agua_dc/cursorcienciareproducible/"
-length_weight: "15.6%"
+length_weight: "15.4%"
 pinned: false
 ---
 

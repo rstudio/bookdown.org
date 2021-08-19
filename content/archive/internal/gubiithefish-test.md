@@ -3,7 +3,7 @@ title: "Customer-Analytics-Business-Intelligence"
 author: "gubiithefish"
 date: "2021-06-16T23:58:17Z"
 link: "https://bookdown.org/gubiithefish/test/"
-length_weight: "18.8%"
+length_weight: "18.5%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "tpemartin"
 date: "2019-06-22T04:45:11Z"
 tags: [Course, R Programming, Data Science]
 link: "https://bookdown.org/tpemartin/ntpu-data-visualization/"
-length_weight: "18.7%"
+length_weight: "18.4%"
 pinned: false
 ---
 

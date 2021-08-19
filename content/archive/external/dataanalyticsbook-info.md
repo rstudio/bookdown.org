@@ -4,7 +4,7 @@ author: "Shuai Huang & Houtao Deng"
 date: "2021-04-18"
 tags: [Course, Models, Data Science, Exploratory Data Analysis]
 link: "https://dataanalyticsbook.info/"
-length_weight: "3.3%"
+length_weight: "3.2%"
 cover: "https://dataanalyticsbook.info/graphics/cover.png"
 pinned: false
 ---

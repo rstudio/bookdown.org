@@ -4,7 +4,7 @@ author: "Randy Ridenour"
 date: "2021-01-19T16:03:22Z"
 tags: [Guide, Textbook, Course, Market]
 link: "https://bookdown.org/rlridenour/ct-text/"
-length_weight: "38.1%"
+length_weight: "37.5%"
 cover: "https://bookdown.org/rlridenour/ct-text/images/ct-text-cover.png"
 repo: "rlridenour/ct-text"
 pinned: false

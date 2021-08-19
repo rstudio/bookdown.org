@@ -4,7 +4,7 @@ author: "Ray Hoobler"
 date: "2019-02-16T02:36:11Z"
 tags: [Guide, Statistical Methods, Tidyverse, ggplot2, Package, Exploratory Data Analysis]
 link: "https://bookdown.org/RayJamesHoobler/incompletesolutionsguide_20190215/"
-length_weight: "31%"
+length_weight: "30.5%"
 repo: "RayJamesHoobler/Applied-Statistical-Techniques"
 pinned: false
 ---

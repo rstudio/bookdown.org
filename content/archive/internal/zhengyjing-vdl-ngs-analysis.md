@@ -4,7 +4,7 @@ author: "Ying Zheng"
 date: "2021-05-21T19:47:06Z"
 tags: [Tutorial]
 link: "https://bookdown.org/zhengyjing/VDL-NGS-analysis/"
-length_weight: "10.2%"
+length_weight: "10.1%"
 pinned: false
 ---
 

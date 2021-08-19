@@ -4,7 +4,7 @@ author: "Kristin Hunter-Thomson and Jacoby Baker"
 date: "2019-08-28T09:53:44Z"
 tags: [Guide]
 link: "https://bookdown.org/kristin/sci-i-guide/"
-length_weight: "4.5%"
+length_weight: "4.4%"
 repo: "hunterthomson/sci-i-guide"
 pinned: false
 ---

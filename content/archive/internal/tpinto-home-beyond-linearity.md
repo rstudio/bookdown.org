@@ -4,7 +4,7 @@ author: "Jaroslaw Harezlak & Armando Teixeira-Pinto"
 date: "2021-07-26T05:22:32Z"
 tags: [Machine Learning, Statistics, Package]
 link: "https://bookdown.org/tpinto_home/Beyond-Linearity/"
-length_weight: "13.6%"
+length_weight: "13.4%"
 pinned: false
 ---
 

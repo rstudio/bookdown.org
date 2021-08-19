@@ -3,7 +3,7 @@ title: "Quarantine Notebook"
 author: "Jess Li"
 date: "2020-04-20T01:21:40Z"
 link: "https://bookdown.org/Jess/Quarantine_notebook/"
-length_weight: "4.6%"
+length_weight: "4.5%"
 pinned: false
 ---
 

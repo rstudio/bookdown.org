@@ -4,7 +4,7 @@ author: "Armando Teixeira-Pinto"
 date: "2021-08-02T08:44:42Z"
 tags: [Machine Learning, Statistics, Models]
 link: "https://bookdown.org/tpinto_home/Regression-and-Classification/"
-length_weight: "12.7%"
+length_weight: "12.5%"
 pinned: false
 ---
 

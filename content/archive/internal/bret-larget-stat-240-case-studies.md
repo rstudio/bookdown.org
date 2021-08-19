@@ -4,7 +4,7 @@ author: "Bret Larget"
 date: "2021-06-24T20:19:59Z"
 tags: [Statistics, Course, Tidyverse, Package, Data Science]
 link: "https://bookdown.org/bret_larget/stat-240-case-studies/"
-length_weight: "37.8%"
+length_weight: "37.3%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Juan Riera"
 date: "2021-02-15T12:56:49Z"
 tags: [Package]
 link: "https://bookdown.org/riera_juan/introduccion-r/"
-length_weight: "5.5%"
+length_weight: "5.4%"
 pinned: false
 ---
 

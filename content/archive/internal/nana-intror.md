@@ -3,7 +3,7 @@ title: "Introduction to R"
 author: "Nana Kim"
 date: "2020-10-07T02:13:46Z"
 link: "https://bookdown.org/nana/intror/"
-length_weight: "9.4%"
+length_weight: "9.2%"
 pinned: false
 ---
 

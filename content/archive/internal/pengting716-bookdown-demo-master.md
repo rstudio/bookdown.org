@@ -3,7 +3,7 @@ title: "Analysis scripts for NHi-C"
 author: "Ting Peng"
 date: "2021-06-28T05:31:30Z"
 link: "https://bookdown.org/pengting716/bookdown-demo-master/"
-length_weight: "8.5%"
+length_weight: "8.4%"
 pinned: false
 ---
 

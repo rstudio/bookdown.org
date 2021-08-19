@@ -4,7 +4,7 @@ author: "Enrique Garcia Ceja"
 date: "2021-07-01"
 tags: [Machine Learning, Models, R Programming]
 link: "https://enriquegit.github.io/behavior-free/"
-length_weight: "29.9%"
+length_weight: "29.4%"
 cover: "https://enriquegit.github.io/behavior-free/images/cover.png"
 pinned: false
 ---

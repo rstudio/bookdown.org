@@ -4,7 +4,7 @@ author: "Michael Levin, MD; Yoav Karpenshif, MD; Megan Burke, MD; and Frank E. S
 date: "2020-04-17T17:50:36Z"
 tags: [Medicine]
 link: "https://bookdown.org/mglev1n/PennCVM-COVID/"
-length_weight: "16.7%"
+length_weight: "16.4%"
 cover: "https://bookdown.org/mglev1n/PennCVM-COVID/images/SARS-CoV-2_without_background.png"
 repo: "mglev1n/PennCVM-COVID"
 pinned: false

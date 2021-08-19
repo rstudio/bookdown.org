@@ -4,7 +4,7 @@ author: "Paul C. Bauer"
 date: "2020-05-29T16:20:51Z"
 tags: [Causal Analysis, Seminar]
 link: "https://bookdown.org/paul/applied-causal-analysis/"
-length_weight: "39.4%"
+length_weight: "38.9%"
 pinned: false
 ---
 

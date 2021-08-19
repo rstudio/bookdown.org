@@ -4,7 +4,7 @@ author: "Martin Monkman"
 date: "2021-04-12T22:46:44Z"
 tags: [Data Science, Github, Package]
 link: "https://bookdown.org/martin_monkman/DataScienceResources_book/"
-length_weight: "28.9%"
+length_weight: "28.4%"
 cover: "https://bookdown.org/martin_monkman/DataScienceResources_book/Moralia_in_Job_MS_dragonslayer.jpg"
 repo: "MonkmanMH/DataScienceResources_book"
 pinned: false

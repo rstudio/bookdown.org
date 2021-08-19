@@ -1,11 +1,12 @@
 ---
-title: "Communication Theories"
+title: "Communication Theory"
 author: "Mike Nguyen"
-date: "2021-05-04T20:17:40Z"
-tags: [Seminar]
+date: "2021-08-17T04:13:59Z"
 link: "https://bookdown.org/mike/comm_theory/"
-length_weight: "29.2%"
+length_weight: "25.2%"
+cover: "https://bookdown.org/mike/comm_theory/cover.jpg"
+repo: "mikenguyen13/comm_theory"
 pinned: false
 ---
 
-Handbook on Communication Theories for both interpersonal and interorganizational communications. [...] This book is based on the two communications seminars Communication is defined as the exchange of ...
+Handbook on Communication Theory for both interpersonal and interorganizational communications [...]  ...

@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Computational Social Science"
 author: "Mark Hoffman"
-date: "2021-08-11T10:26:16Z"
+date: "2021-08-18T16:54:01Z"
 tags: [Social Science, Seminar, Network]
 link: "https://bookdown.org/markhoff/css/"
-length_weight: "26.8%"
+length_weight: "27.2%"
 cover: "https://bookdown.org/markhoff/css/Images/cover.png"
 pinned: false
 ---

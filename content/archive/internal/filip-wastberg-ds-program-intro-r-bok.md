@@ -4,7 +4,7 @@ author: "Filip Wästberg & Torbjörn Sjöberg, Solita"
 date: "2020-11-16T17:54:29Z"
 tags: [Data Science]
 link: "https://bookdown.org/filip_wastberg/ds-program-intro-r-bok/"
-length_weight: "20.2%"
+length_weight: "19.9%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "西山 他『計量経済学』のためのR"
 author: "北川梨津"
 date: "2021-03-04T15:07:13Z"
 link: "https://bookdown.org/ritsu_kitagawa/r_for_nishiyama/"
-length_weight: "18.7%"
+length_weight: "18.5%"
 pinned: false
 ---
 

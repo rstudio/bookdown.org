@@ -3,7 +3,7 @@ title: "Cod Prediction"
 author: "Liam"
 date: "2018-09-06T10:03:20Z"
 link: "https://bookdown.org/linmi/CODPrediction/"
-length_weight: "5.9%"
+length_weight: "5.8%"
 pinned: false
 ---
 

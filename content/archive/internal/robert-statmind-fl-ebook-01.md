@@ -4,7 +4,7 @@ author: "Robert Goedegebuure"
 date: "2021-05-26T18:43:25Z"
 tags: [Package]
 link: "https://bookdown.org/robert_statmind/fl_ebook_01/"
-length_weight: "6.3%"
+length_weight: "6.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

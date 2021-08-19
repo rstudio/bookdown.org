@@ -4,7 +4,7 @@ author: "Amelia McNamara"
 date: "2021-02-21T18:37:33Z"
 tags: [Data Science]
 link: "https://bookdown.org/amelia_a_mcnamara/StatLearning/"
-length_weight: "33.7%"
+length_weight: "33.2%"
 pinned: false
 ---
 

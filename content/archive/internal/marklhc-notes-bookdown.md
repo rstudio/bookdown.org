@@ -4,7 +4,7 @@ author: "Mark Lai"
 date: "2019-12-14T03:24:18Z"
 tags: [Course, Bayesian, Data Analysis, Package, Models]
 link: "https://bookdown.org/marklhc/notes_bookdown/"
-length_weight: "41.6%"
+length_weight: "41%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "A guide produced by the UNC Psychology & Neuroscience DEI Education Sub
 date: "2021-05-06T14:31:07Z"
 tags: [Guide, Psychology, Education, Course]
 link: "https://bookdown.org/mjfeldman94/_book/"
-length_weight: "14.6%"
+length_weight: "14.4%"
 pinned: false
 ---
 

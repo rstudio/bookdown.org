@@ -3,7 +3,7 @@ title: "phi4-analysis"
 author: "Marco Garofalo"
 date: "2021-06-15T07:49:01Z"
 link: "https://bookdown.org/marcogarofalo31/phi4-plot/"
-length_weight: "14.3%"
+length_weight: "14.1%"
 pinned: false
 ---
 

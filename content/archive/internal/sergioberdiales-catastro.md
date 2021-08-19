@@ -3,7 +3,7 @@ title: "Catastro. Tratamiento de datos públicos con R"
 author: "Sergio Berdiales Nortes"
 date: "2020-06-12T15:17:27Z"
 link: "https://bookdown.org/sergioberdiales/catastro/"
-length_weight: "6.4%"
+length_weight: "6.3%"
 pinned: false
 ---
 

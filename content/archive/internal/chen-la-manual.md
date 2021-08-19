@@ -4,7 +4,7 @@ author: "Bodong Chen"
 date: "2020-10-20T03:19:41Z"
 tags: [Course, Education]
 link: "https://bookdown.org/chen/la-manual/"
-length_weight: "14.9%"
+length_weight: "14.7%"
 repo: "meefen/la-manual"
 pinned: false
 ---

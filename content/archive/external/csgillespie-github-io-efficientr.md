@@ -4,7 +4,7 @@ author: "Colin Gillespie, Robin Lovelace"
 date: "2021-03-18"
 tags: [R Programming, Statistical Computing, Bayesian, Statistics]
 link: "https://csgillespie.github.io/efficientR/"
-length_weight: "25.9%"
+length_weight: "25.5%"
 cover: "https://csgillespie.github.io/efficientR/figures/f0_web.png"
 repo: "csgillespie/efficientR"
 pinned: true

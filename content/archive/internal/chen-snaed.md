@@ -4,7 +4,7 @@ author: "Bodong Chen"
 date: "2021-06-22T21:34:13Z"
 tags: [Course, Network, Education]
 link: "https://bookdown.org/chen/snaEd/"
-length_weight: "23.6%"
+length_weight: "23.3%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"
 repo: "meefen/sna-ed"
 pinned: false

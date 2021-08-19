@@ -4,7 +4,7 @@ author: "Eagle I.O"
 date: "2021-07-07T22:32:41Z"
 tags: [Psychology]
 link: "https://bookdown.org/kulasj/eagleiomanual/"
-length_weight: "9.4%"
+length_weight: "9.3%"
 pinned: false
 ---
 
