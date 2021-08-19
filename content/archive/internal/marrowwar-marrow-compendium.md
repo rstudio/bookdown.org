@@ -4,7 +4,7 @@ author: "Marrow , Heartseeker-US"
 date: "2020-07-09T20:53:26Z"
 tags: [Guide]
 link: "https://bookdown.org/marrowwar/marrow_compendium/"
-length_weight: "15.8%"
+length_weight: "15.6%"
 pinned: false
 ---
 

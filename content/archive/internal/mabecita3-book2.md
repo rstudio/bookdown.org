@@ -4,7 +4,7 @@ author: "Aplicación por: Jeysson Chuquin, Wagner Salazar"
 date: "2019-10-11T02:57:47Z"
 tags: [Package]
 link: "https://bookdown.org/mabecita3/_book2/"
-length_weight: "8.2%"
+length_weight: "8.1%"
 pinned: false
 ---
 

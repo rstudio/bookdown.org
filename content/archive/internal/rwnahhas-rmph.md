@@ -4,7 +4,7 @@ author: "Ramzi W. Nahhas"
 date: "2021-07-27T16:05:47Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/rwnahhas/RMPH/"
-length_weight: "28.4%"
+length_weight: "28%"
 pinned: false
 ---
 

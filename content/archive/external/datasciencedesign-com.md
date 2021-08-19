@@ -4,7 +4,7 @@ author: "Jonathan Leslie, Neri Van Otten"
 date: "2020-11-01"
 tags: [Data Science, Machine Learning, Guide]
 link: "https://datasciencedesign.com/"
-length_weight: "0%"
+length_weight: "15.9%"
 repo: "nerivo/data-science-design"
 pinned: false
 ---

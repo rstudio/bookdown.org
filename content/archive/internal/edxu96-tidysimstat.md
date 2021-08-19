@@ -4,7 +4,7 @@ author: "Edward J. Xu"
 date: "2020-05-15T07:42:23Z"
 tags: [Tidy, Simulation, Statistics, Tidyverse]
 link: "https://bookdown.org/edxu96/tidysimstat/"
-length_weight: "6.7%"
+length_weight: "6.6%"
 repo: "edxu96/TidySimStat"
 pinned: false
 ---

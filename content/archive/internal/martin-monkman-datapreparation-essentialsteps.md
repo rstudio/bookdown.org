@@ -4,7 +4,7 @@ author: "Martin Monkman"
 date: "2021-07-26T04:26:17Z"
 tags: [Data Science, Visualization, Textbook, Course]
 link: "https://bookdown.org/martin_monkman/DataPreparation_EssentialSteps/"
-length_weight: "10.9%"
+length_weight: "10.7%"
 repo: "MonkmanMH/data_preparation_with_r"
 pinned: false
 ---

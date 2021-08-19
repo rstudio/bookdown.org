@@ -4,7 +4,7 @@ author: "Mau-Ting Lin"
 date: "2017-12-13T03:16:40Z"
 tags: [Package]
 link: "https://bookdown.org/tpemartin/Discussion/"
-length_weight: "26.1%"
+length_weight: "25.7%"
 repo: "tpemartin/E.minor-Economic-Forum"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Roberto C. Duarte"
 date: "2021-06-01T17:25:37Z"
 tags: [Github]
 link: "https://bookdown.org/Rcduarte/cursor2021/"
-length_weight: "10.1%"
+length_weight: "9.9%"
 repo: "rubenfcasal/bookdown_intro"
 pinned: false
 ---

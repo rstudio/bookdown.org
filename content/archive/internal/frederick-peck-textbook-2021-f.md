@@ -4,7 +4,7 @@ author: ""
 date: "2021-08-10T17:09:11Z"
 tags: [Simulation, Github]
 link: "https://bookdown.org/frederick_peck/textbook_-_2021_f/"
-length_weight: "27.8%"
+length_weight: "27.4%"
 cover: "https://bookdown.org/frederick_peck/textbook_-_2021_f/img/catalst-textbook-cover-v4.png"
 pinned: false
 ---

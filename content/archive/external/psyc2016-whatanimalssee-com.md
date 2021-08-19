@@ -1,10 +1,10 @@
 ---
-title: "PSYC2016: Attention"
+title: "Attention"
 author: "Alex O. Holcombe"
 date: ""
 tags: [Textbook]
 link: "https://psyc2016.whatanimalssee.com/"
-length_weight: "23.8%"
+length_weight: "23.6%"
 repo: "alexholcombe/PSYC2016attention"
 pinned: false
 ---

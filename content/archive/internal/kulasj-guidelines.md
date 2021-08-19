@@ -4,7 +4,7 @@ author: "Eagle I.O"
 date: "2019-08-02T16:15:21Z"
 tags: [Guide]
 link: "https://bookdown.org/kulasj/guidelines/"
-length_weight: "4%"
+length_weight: "3.9%"
 pinned: false
 ---
 

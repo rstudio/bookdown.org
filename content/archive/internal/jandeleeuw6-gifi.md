@@ -4,7 +4,7 @@ author: "Jan de Leeuw, Patrick Mair, Patrick Groenen"
 date: "2016-09-28T20:18:47Z"
 tags: [Multivariate, Course, Social Science]
 link: "https://bookdown.org/jandeleeuw6/gifi/"
-length_weight: "27.6%"
+length_weight: "27.2%"
 cover: "https://bookdown.org/jandeleeuw6/gifi/graphics/cover.jpg"
 pinned: false
 ---

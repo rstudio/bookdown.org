@@ -4,7 +4,7 @@ author: "红领巾"
 date: "2021-01-03T08:39:38Z"
 tags: [Statistics]
 link: "https://bookdown.org/jkang37/fye/"
-length_weight: "33.8%"
+length_weight: "33.3%"
 cover: "https://bookdown.org/jkang37/fye/images/cover.jpg"
 repo: "rstudio/bookdown-demo"
 pinned: false

@@ -4,7 +4,7 @@ author: "Guangchuang Yu"
 date: "2021-05-14"
 tags: [Visualization]
 link: "https://yulab-smu.top/treedata-book/"
-length_weight: "21.8%"
+length_weight: "21.4%"
 cover: "https://yulab-smu.top/treedata-book/book-cover.png"
 pinned: false
 ---

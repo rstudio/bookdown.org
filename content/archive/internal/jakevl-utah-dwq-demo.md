@@ -4,7 +4,7 @@ author: "Jake Vander Laan (jvander@utah.gov), Elise Hinman, & Emilie Flemer, Uta
 date: "2019-05-30T20:27:50Z"
 tags: [Package]
 link: "https://bookdown.org/jakevl/utah-dwq-demo/"
-length_weight: "5.6%"
+length_weight: "5.5%"
 pinned: false
 ---
 

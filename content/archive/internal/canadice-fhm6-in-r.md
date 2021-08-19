@@ -4,7 +4,7 @@ author: "Canadice"
 date: "2021-05-05T13:56:09Z"
 tags: [Tutorial, Simulation]
 link: "https://bookdown.org/canadice/fhm6_in_r/"
-length_weight: "9.6%"
+length_weight: "9.5%"
 pinned: false
 ---
 

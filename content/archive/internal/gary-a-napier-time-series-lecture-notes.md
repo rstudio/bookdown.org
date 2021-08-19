@@ -4,7 +4,7 @@ author: "Gary Napier"
 date: "2020-09-08T10:21:52Z"
 tags: [Course]
 link: "https://bookdown.org/gary_a_napier/time_series_lecture_notes/"
-length_weight: "31.2%"
+length_weight: "30.8%"
 pinned: false
 ---
 

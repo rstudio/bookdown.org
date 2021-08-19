@@ -3,7 +3,7 @@ title: "Moindres Carrés Ordinaires et alternatives"
 author: "BOUSSENGUI François - SABAYE Fried-Junior - BARRE Nicolas"
 date: "2021-05-10T10:01:20Z"
 link: "https://bookdown.org/sfriedjunior/Rendu_final/"
-length_weight: "12.9%"
+length_weight: "12.8%"
 pinned: false
 ---
 

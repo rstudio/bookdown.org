@@ -3,7 +3,7 @@ title: "Lean Seis Sigma"
 author: "María Asunción Martínez Mayoral (asun.mayoral@umh.es)"
 date: "2021-06-07T11:21:56Z"
 link: "https://bookdown.org/asun_mayoral/book-l6s/"
-length_weight: "38.7%"
+length_weight: "38.1%"
 pinned: false
 ---
 

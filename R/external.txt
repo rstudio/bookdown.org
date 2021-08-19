@@ -35,6 +35,7 @@ https://dzchilds.github.io/eda-for-bio/
 https://edav.info/
 https://edwinth.github.io/ADSwR/
 https://edwinth.github.io/AMLwR/
+https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/
 https://engineering-shiny.org/
 https://enriquegit.github.io/behavior-free/
 https://envirometrix.github.io/PredictiveSoilMapping/
@@ -136,4 +137,3 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/

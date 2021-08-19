@@ -4,7 +4,7 @@ author: "sarah_erickson_m"
 date: "2021-02-24T21:50:40Z"
 tags: [Education]
 link: "https://bookdown.org/sarah_erickson_m/Arctic/"
-length_weight: "4.9%"
+length_weight: "4.8%"
 pinned: false
 ---
 

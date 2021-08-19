@@ -4,7 +4,7 @@ author: "Javier Luraschi, Kevin Kuo, Edgar Ruiz"
 date: ""
 tags: [Guide, Data Science]
 link: "https://therinspark.com/"
-length_weight: "27.8%"
+length_weight: "27.4%"
 repo: "r-spark/the-r-in-spark"
 pinned: false
 ---

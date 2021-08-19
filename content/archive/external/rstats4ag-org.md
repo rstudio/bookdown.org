@@ -3,7 +3,7 @@ title: "Statistical Analysis of Agricultural Experiments using R"
 author: "Andrew Kniss & Jens Streibig"
 date: ""
 link: "https://rstats4ag.org/"
-length_weight: "35.4%"
+length_weight: "34.9%"
 cover: "https://rstats4ag.org/Rstats4agLogo76px.png"
 pinned: false
 ---

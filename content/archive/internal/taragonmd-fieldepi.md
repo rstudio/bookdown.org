@@ -4,7 +4,7 @@ author: "Tomás J. Aragón"
 date: "2018-07-18T04:54:29Z"
 tags: [Epidemiology, R Markdown, Package]
 link: "https://bookdown.org/taragonmd/fieldepi/"
-length_weight: "5.9%"
+length_weight: "5.8%"
 pinned: false
 ---
 

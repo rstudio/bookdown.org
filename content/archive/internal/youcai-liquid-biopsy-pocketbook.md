@@ -4,7 +4,7 @@ author: "Dr.Thunder, Ming, Youcai"
 date: "2017-06-01T01:26:08Z"
 tags: [Liquid Biopsy]
 link: "https://bookdown.org/youcai/Liquid_biopsy_PocketBook/"
-length_weight: "18.2%"
+length_weight: "17.9%"
 repo: "OpenGene/PocketBook"
 pinned: false
 ---

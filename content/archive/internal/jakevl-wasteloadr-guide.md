@@ -4,7 +4,7 @@ author: "Jake Vander Laan, Utah Division of Water Quality"
 date: "2020-08-07T17:41:36Z"
 tags: [Package]
 link: "https://bookdown.org/jakevl/wasteloadR-guide/"
-length_weight: "7.4%"
+length_weight: "7.3%"
 pinned: false
 ---
 

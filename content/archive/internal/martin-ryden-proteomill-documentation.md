@@ -4,7 +4,7 @@ author: "Martin Rydén, Lund University, martin.ryden[at]med.lu.se"
 date: "2021-05-18T15:16:47Z"
 tags: [Guide, Network]
 link: "https://bookdown.org/martin_ryden/proteomill_documentation/"
-length_weight: "11.7%"
+length_weight: "11.5%"
 pinned: false
 ---
 
