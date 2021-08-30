@@ -1,10 +1,10 @@
 ---
 title: "R 學習筆記"
-author: "Ting-Chih Hung NTU Econ & PoliSci Email: b08302310@ntu.edu.tw"
-date: "2021-08-08T08:45:00Z"
+author: "Ting-Chih Hung"
+date: "2021-08-24T04:50:38Z"
 link: "https://bookdown.org/b08302310/R_learning_notes/"
-length_weight: "26.6%"
+length_weight: "7.5%"
 pinned: false
 ---
 
-R 學習筆記 [...] 本筆記主要內容為 Zamora Saiz et al. (2020) 與 Wickham and Grolemund ...
+本筆記為多本 R 語言書籍內容之抄錄、摘要與重新編排，僅作為學習筆記之用，版權仍歸作者所有，並以 R 套件 knitr (Xie 2017) 與 bookdown (Xie 2016) ...

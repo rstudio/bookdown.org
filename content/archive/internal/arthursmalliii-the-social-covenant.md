@@ -1,10 +1,10 @@
 ---
 title: "The Social Covenant"
 author: "Peter Lupu and Arthur Small"
-date: "2021-07-31T14:22:09Z"
+date: "2021-08-22T14:47:09Z"
 link: "https://bookdown.org/arthursmalliii/the-social-covenant/"
 length_weight: "11.1%"
 pinned: false
 ---
 
-The Social Covenant [...] Assault insurrection Jan 6, 2021 This was the culmination of a process of breakdown of our political civil society. How did this happen? How did we get to this place? And perhaps more important: How do we get out of it? This our motive for this ...
+A book created with bookdown. [...] [Fill out the paragraph below after reviewing first-hand reports about the events of Jan. 6.] === January 6, 2021, was a singular event. But it did not come out of the blue. It was shocking, but not surprising. Everything depends on whether we can unveil the antecedent conditions that enabled, and eventually made inevitable, this rupture. Everything depends on uncovering the correct understanding of what brought us to this point. We are living through a breakdown of American political civil society. Enflamed by fears of losing their traditional dominance, ...

@@ -4,7 +4,7 @@ author: "the handbook team"
 date: "2021-07-11"
 tags: [Epidemiology]
 link: "https://epirhandbook.com/"
-length_weight: "0%"
+length_weight: "100%"
 pinned: false
 ---
 
