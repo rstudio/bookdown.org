@@ -4,7 +4,7 @@ author: "Introduction To Data Science"
 date: "2021-07-16T18:47:54Z"
 tags: [Data Science, Statistics, R Programming]
 link: "https://bookdown.org/hbsabafaculty/ids_book/"
-length_weight: "41.8%"
+length_weight: "100%"
 pinned: false
 ---
 

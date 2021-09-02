@@ -1,7 +1,7 @@
 ---
 title: "The Epidemiologist R Handbook"
 author: "the handbook team"
-date: "2021-07-11"
+date: "2021-09-01"
 tags: [Epidemiology]
 link: "https://epirhandbook.com/"
 length_weight: "100%"

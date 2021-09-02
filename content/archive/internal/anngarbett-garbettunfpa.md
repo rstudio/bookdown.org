@@ -1,9 +1,9 @@
 ---
 title: "New Adolescent Fertility Measures for the Long-term Perspective"
 author: "Ann Garbett"
-date: "2021-08-25T03:56:24Z"
+date: "2021-08-31T12:31:21Z"
 link: "https://bookdown.org/anngarbett/garbettUNFPA/"
-length_weight: "12.1%"
+length_weight: "14.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
