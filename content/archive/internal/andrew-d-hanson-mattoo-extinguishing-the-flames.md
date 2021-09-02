@@ -1,9 +1,9 @@
 ---
 title: "MATTOO: Extinguishing the Flames"
-author: "By: The MATTOO Team"
-date: "2021-08-21T05:46:23Z"
+author: "Version 2.0 - BETA, By: The MATTOO Team"
+date: "2021-09-02T02:18:28Z"
 link: "https://bookdown.org/andrew_d_hanson/MATTOO_Extinguishing_the_Flames/"
-length_weight: "21.4%"
+length_weight: "21.1%"
 pinned: false
 ---
 

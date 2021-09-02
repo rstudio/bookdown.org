@@ -1,11 +1,10 @@
 ---
-title: "A Minimal Book Example"
-author: "John Doe"
-date: "2021-08-22T12:08:54Z"
+title: "Matemáticas I, UCM, Facultad de Económicas y Empresariales"
+author: "Jorge Herrera de la Cruz"
+date: "2021-08-30T18:36:56Z"
 tags: [Package]
-link: "https://bookdown.org/jorherre/libro_G0/"
-length_weight: "9.8%"
-repo: "rstudio/bookdown-demo"
+link: "https://bookdown.org/jorherre/libro_MATES_I_UCM/"
+length_weight: "27.5%"
 pinned: false
 ---
 
