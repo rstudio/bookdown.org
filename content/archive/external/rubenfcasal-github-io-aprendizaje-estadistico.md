@@ -1,10 +1,10 @@
 ---
 title: "Aprendizaje Estadístico"
-author: "Rubén Fernández Casal (ruben.fcasal@udc.es), Julián Costa (julian.costa@udc.es)"
-date: "2020-12-01"
+author: "Rubén Fernández Casal (ruben.fcasal@udc.es), Julián Costa Bouzas (julian.costa@udc.es), Manuel Oviedo de la Fuente (manuel.oviedo@udc.es)"
+date: "2021-09-08"
 tags: [Github]
 link: "https://rubenfcasal.github.io/aprendizaje_estadistico/"
-length_weight: "25.3%"
+length_weight: "25.2%"
 repo: "rubenfcasal/aprendizaje_estadistico"
 pinned: false
 ---

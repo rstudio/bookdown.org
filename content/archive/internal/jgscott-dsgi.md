@@ -1,7 +1,7 @@
 ---
 title: "Data Science in R: A Gentle Introduction"
 author: "James Scott"
-date: "2021-08-31T21:59:45Z"
+date: "2021-09-07T19:32:19Z"
 tags: [Data Science]
 link: "https://bookdown.org/jgscott/DSGI/"
 length_weight: "100%"

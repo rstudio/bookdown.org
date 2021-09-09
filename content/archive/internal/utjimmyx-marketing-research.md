@@ -1,7 +1,7 @@
 ---
 title: "Marketing Research - MKTG4000"
 author: "Zhenning ‘Jimmy’ Xu"
-date: "2021-08-21T20:09:41Z"
+date: "2021-09-08T18:19:08Z"
 tags: [Market, Course]
 link: "https://bookdown.org/utjimmyx/marketing_research/"
 length_weight: "21.8%"

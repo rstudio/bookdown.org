@@ -1,10 +1,10 @@
 ---
 title: "现代统计图形（第二版）"
 author: "黄湘云"
-date: "2021-08-29T10:00:28Z"
+date: "2021-09-05T18:07:02Z"
 tags: [ggplot2]
 link: "https://bookdown.org/xiangyun/msg2nd/"
-length_weight: "7.3%"
+length_weight: "8.8%"
 repo: "XiangyunHuang/msg"
 pinned: false
 ---
