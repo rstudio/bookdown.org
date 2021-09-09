@@ -4,7 +4,7 @@ author: "Tim Pengajar :, Dr. Bagus Sartono, M.Si dan Aep Hidayatuloh, S.Stat"
 date: "2020-10-05T09:21:54Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/aepstk/modul-pelatihan-insw/"
-length_weight: "8.3%"
+length_weight: "8.2%"
 pinned: false
 ---
 

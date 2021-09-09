@@ -1,10 +1,10 @@
 ---
 title: "R cookbook for the casual dabbler"
 author: "Charles Coverdale"
-date: "2021-09-02T03:36:40Z"
+date: "2021-09-05T00:29:05Z"
 tags: [Package]
 link: "https://bookdown.org/charlesfcoverdale/CC_book/"
-length_weight: "3.8%"
+length_weight: "10.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Math & Stats Intro"
 author: "Robert Goedegebuure"
-date: "2021-08-31T12:22:38Z"
+date: "2021-09-02T15:51:18Z"
 tags: [Package]
 link: "https://bookdown.org/robert_statmind/testyy2/"
-length_weight: "8.7%"
+length_weight: "9.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

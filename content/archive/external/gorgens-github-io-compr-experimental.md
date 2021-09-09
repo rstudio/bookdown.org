@@ -3,7 +3,7 @@ title: "Computação em R: Análise experimental"
 author: "Eric Bastos Gorgens, Marcio Leles Romarco de Oliveira"
 date: "2021-02-09"
 link: "https://gorgens.github.io/compR-experimental/"
-length_weight: "13.5%"
+length_weight: "13.4%"
 pinned: false
 ---
 
