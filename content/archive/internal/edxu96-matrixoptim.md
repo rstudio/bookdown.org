@@ -4,7 +4,7 @@ author: "Edward J. Xu"
 date: "2020-05-18T04:53:24Z"
 tags: [Models]
 link: "https://bookdown.org/edxu96/matrixoptim/"
-length_weight: "5%"
+length_weight: "4.9%"
 repo: "edxu96/MatrixOptim.jl"
 pinned: false
 ---

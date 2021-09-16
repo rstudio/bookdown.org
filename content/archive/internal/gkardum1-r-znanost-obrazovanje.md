@@ -3,7 +3,7 @@ title: "R - u znanosti i obrazovanju"
 author: "Goran Kardum"
 date: "2020-12-07T07:04:07Z"
 link: "https://bookdown.org/gkardum1/r_znanost_obrazovanje/"
-length_weight: "9.3%"
+length_weight: "9.2%"
 repo: "gkardum/r-u-znanosti"
 pinned: false
 ---

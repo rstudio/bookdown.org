@@ -4,7 +4,7 @@ author: "Sergio Berdiales"
 date: "2019-05-27T13:13:55Z"
 tags: [Github]
 link: "https://bookdown.org/sergioberdiales/game_of_thrones_data/"
-length_weight: "7.9%"
+length_weight: "7.8%"
 pinned: false
 ---
 

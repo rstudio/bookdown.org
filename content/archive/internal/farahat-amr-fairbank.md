@@ -4,7 +4,7 @@ author: "Amr Farahat and Rama Ramakrishnan"
 date: "2021-08-31T10:32:57Z"
 tags: [Guide]
 link: "https://bookdown.org/farahat_amr/fairbank/"
-length_weight: "10.3%"
+length_weight: "10.1%"
 pinned: false
 ---
 

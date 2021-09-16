@@ -4,7 +4,7 @@ author: "Paul Langard"
 date: "2019-05-21T15:38:45Z"
 tags: [Network, Models]
 link: "https://bookdown.org/content/ea5011ed-add3-4381-8ed2-9011c5acd55c/"
-length_weight: "13%"
+length_weight: "12.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

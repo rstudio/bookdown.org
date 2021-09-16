@@ -4,7 +4,7 @@ author: "Chris Sutherland"
 date: "2020-06-17T23:05:49Z"
 tags: [Package, Models, Course]
 link: "https://bookdown.org/chrissuthy/SCR-design-book/"
-length_weight: "7.9%"
+length_weight: "7.7%"
 repo: "chrissuthy/scrdesign_book"
 pinned: false
 ---

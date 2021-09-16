@@ -4,7 +4,7 @@ author: "Yi Shang"
 date: "2021-08-27T18:52:49Z"
 tags: [Course, Education]
 link: "https://bookdown.org/yshang/book/"
-length_weight: "17.4%"
+length_weight: "17%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Yiming"
 date: "2021-07-17T04:49:44Z"
 tags: [Package, Tidy, Models]
 link: "https://bookdown.org/yg484/lecture_2_note/"
-length_weight: "6.9%"
+length_weight: "6.7%"
 pinned: false
 ---
 

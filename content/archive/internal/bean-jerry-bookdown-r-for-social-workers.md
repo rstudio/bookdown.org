@@ -1,10 +1,10 @@
 ---
 title: "Using R in Social Work Research"
 author: "Jerry Bean, College of Social Work, The Ohio State University"
-date: "2021-08-13T13:27:40Z"
+date: "2021-09-13T14:34:25Z"
 tags: [Package, Data Analysis, R Markdown]
 link: "https://bookdown.org/bean_jerry/bookdown_r_for_social_workers/"
-length_weight: "24.1%"
+length_weight: "23.6%"
 pinned: false
 ---
 

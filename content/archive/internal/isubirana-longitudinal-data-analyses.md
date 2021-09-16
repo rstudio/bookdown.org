@@ -3,7 +3,7 @@ title: "Análisis de datos longitudinales"
 author: "Isaac Subirana"
 date: "2020-12-08T21:05:40Z"
 link: "https://bookdown.org/isubirana/longitudinal_data_analyses/"
-length_weight: "29.7%"
+length_weight: "29.1%"
 pinned: false
 ---
 

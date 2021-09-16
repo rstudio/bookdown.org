@@ -1,10 +1,10 @@
 ---
 title: "A Minimal Book Example"
 author: "John Doe"
-date: "2021-09-08T08:54:58Z"
+date: "2021-09-11T19:43:53Z"
 tags: [Package]
-link: "https://bookdown.org/johansen88/financialeconometricsa/"
-length_weight: "6.2%"
+link: "https://bookdown.org/escobedo_e_h/training/"
+length_weight: "6.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

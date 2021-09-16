@@ -3,7 +3,7 @@ title: "Analisis Data untuk Bisnis"
 author: "Aep Hidayatuloh"
 date: "2021-07-14T09:24:32Z"
 link: "https://bookdown.org/aepstk/analisisdatabisnis/"
-length_weight: "13.3%"
+length_weight: "13.1%"
 cover: "https://bookdown.org/aepstk/analisisdatabisnis/img/aplikasi_analisis_data_untuk_bisnis9.png"
 pinned: false
 ---

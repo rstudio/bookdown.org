@@ -4,7 +4,7 @@ author: "David Klotz"
 date: "2021-09-02T15:57:42Z"
 tags: [Translation]
 link: "https://bookdown.org/shemanefer/Esna3/"
-length_weight: "30.2%"
+length_weight: "29.6%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Armando Teixeira-Pinto & Jaroslaw Harezlak"
 date: "2021-07-26T07:10:31Z"
 tags: [Machine Learning, Statistics]
 link: "https://bookdown.org/tpinto_home/Unsupervised-learning/"
-length_weight: "13.3%"
+length_weight: "13%"
 pinned: false
 ---
 

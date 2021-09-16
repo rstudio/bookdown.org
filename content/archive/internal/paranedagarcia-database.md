@@ -3,7 +3,7 @@ title: "Base de Datos"
 author: "Patricio Araneda"
 date: "2021-03-31T18:31:25Z"
 link: "https://bookdown.org/paranedagarcia/database/"
-length_weight: "21.2%"
+length_weight: "20.8%"
 cover: "https://bookdown.org/paranedagarcia/database/images/cover.png"
 pinned: false
 ---

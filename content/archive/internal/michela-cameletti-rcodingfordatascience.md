@@ -4,7 +4,7 @@ author: "Michela Cameletti"
 date: "2021-05-09T14:15:53Z"
 tags: [Data Science, Course, Python]
 link: "https://bookdown.org/michela_cameletti/rcodingfordatascience/"
-length_weight: "22.3%"
+length_weight: "21.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

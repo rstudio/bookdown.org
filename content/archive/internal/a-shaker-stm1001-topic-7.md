@@ -1,9 +1,9 @@
 ---
 title: "STM1001 Topic 7: One-way ANOVA"
 author: "Amanda Shaker"
-date: "2021-09-08T23:37:07Z"
+date: "2021-09-09T06:23:02Z"
 link: "https://bookdown.org/a_shaker/STM1001_Topic_7/"
-length_weight: "9%"
+length_weight: "8.9%"
 pinned: false
 ---
 

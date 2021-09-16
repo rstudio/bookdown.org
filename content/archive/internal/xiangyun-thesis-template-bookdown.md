@@ -4,7 +4,7 @@ author: "黄湘云"
 date: "2019-06-11T04:36:39Z"
 tags: [Mixed Models, Statistics]
 link: "https://bookdown.org/xiangyun/Thesis-Template-Bookdown/"
-length_weight: "28.5%"
+length_weight: "28%"
 repo: "XiangyunHuang/Thesis-Template-Bookdown"
 pinned: false
 ---

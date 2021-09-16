@@ -1,9 +1,9 @@
 ---
 title: "Stat 340 Notes: Fall 2021"
 author: "Laurie Tupper"
-date: "2021-09-08T15:08:03Z"
+date: "2021-09-14T17:22:27Z"
 link: "https://bookdown.org/ltupper/340f21_notes/"
-length_weight: "32.1%"
+length_weight: "33.2%"
 pinned: false
 ---
 

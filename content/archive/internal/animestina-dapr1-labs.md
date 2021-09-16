@@ -4,7 +4,7 @@ author: "Department of Psychology, University of Edinburgh"
 date: "2019-11-22T16:49:22Z"
 tags: [Data Analysis, Psychology, Course, Statistics, Visualization]
 link: "https://bookdown.org/animestina/dapr1_labs/"
-length_weight: "29.5%"
+length_weight: "28.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

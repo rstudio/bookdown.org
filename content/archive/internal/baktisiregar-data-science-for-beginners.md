@@ -4,7 +4,7 @@ author: "Bakti Siregar S.Si, M.Sc"
 date: "2020-10-31T11:17:26Z"
 tags: [Data Science, Statistics, Course, Econometrics, Visualization]
 link: "https://bookdown.org/BaktiSiregar/data-science-for-beginners/"
-length_weight: "10.5%"
+length_weight: "10.3%"
 repo: "Bakti-Siregar/Data-Science-for-Beginners"
 pinned: false
 ---

@@ -1,9 +1,9 @@
 ---
 title: "The Derivatives Academy"
 author: "Maxime de Bellefroid"
-date: "2021-06-07T13:56:33Z"
+date: "2021-09-10T12:12:49Z"
 link: "https://bookdown.org/maxime_debellefroid/MyBook/"
-length_weight: "36.2%"
+length_weight: "37.1%"
 pinned: false
 ---
 

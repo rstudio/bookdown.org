@@ -4,7 +4,7 @@ author: "Elise Hinman"
 date: "2019-09-12T18:30:34Z"
 tags: [Guide, Package]
 link: "https://bookdown.org/ehinman/tmdlToolsGuide/"
-length_weight: "11.1%"
+length_weight: "10.9%"
 pinned: false
 ---
 

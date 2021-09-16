@@ -4,7 +4,7 @@ author: "Dr. Daniel Flores Agreda (based on the Lecture by Prof. Davide La Vec
 date: "2021-05-27T22:08:33Z"
 tags: [Course]
 link: "https://bookdown.org/daniel_flores_agreda/Prob1-GSEM-UNIGE/"
-length_weight: "8.1%"
+length_weight: "7.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

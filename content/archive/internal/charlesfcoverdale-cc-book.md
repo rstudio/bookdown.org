@@ -4,7 +4,7 @@ author: "Charles Coverdale"
 date: "2021-09-05T00:29:05Z"
 tags: [Package]
 link: "https://bookdown.org/charlesfcoverdale/CC_book/"
-length_weight: "10.5%"
+length_weight: "10.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
