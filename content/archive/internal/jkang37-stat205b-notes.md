@@ -4,7 +4,7 @@ author: "Jizhou Kang"
 date: "2021-02-07T06:49:28Z"
 tags: [Textbook]
 link: "https://bookdown.org/jkang37/stat205b-notes/"
-length_weight: "41.6%"
+length_weight: "40.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

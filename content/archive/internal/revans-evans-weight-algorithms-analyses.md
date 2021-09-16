@@ -1,7 +1,7 @@
 ---
 title: "Weight Algorithms for Administrative Data"
 author: "Richard R. Evans (Richard.Evans8@va.gov), Wyndy Wiitala (Wyndy.Wiitala@va.gov), Jenny Burns (Jennifer.Burns@va.gov)"
-date: "2021-08-29T17:28:31Z"
+date: "2021-09-11T21:18:35Z"
 tags: [Medicine]
 link: "https://bookdown.org/revans_evans/weight_algorithms_analyses/"
 length_weight: "100%"

@@ -4,7 +4,7 @@ author: "Conor I. Anderson and Karen L. Smith"
 date: ""
 tags: [Python, Package]
 link: "https://claut.gitlab.io/man_ccia/"
-length_weight: "32%"
+length_weight: "31.4%"
 pinned: false
 ---
 

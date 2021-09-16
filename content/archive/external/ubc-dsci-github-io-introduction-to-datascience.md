@@ -4,7 +4,7 @@ author: "Tiffany-Anne Timbers, Trevor Campbell, Melissa Lee"
 date: "2021-08-04"
 tags: [Data Science, Textbook]
 link: "https://ubc-dsci.github.io/introduction-to-datascience/"
-length_weight: "27.9%"
+length_weight: "27.4%"
 pinned: false
 ---
 

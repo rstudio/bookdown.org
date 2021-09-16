@@ -3,7 +3,7 @@ title: "文獻摘要與評價"
 author: "Ting-Chih Hung NTU Econ & PoliSci Email: b08302310@ntu.edu.tw"
 date: "2021-09-05T14:41:22Z"
 link: "https://bookdown.org/b08302310/literature_summary/"
-length_weight: "15.6%"
+length_weight: "15.4%"
 pinned: false
 ---
 

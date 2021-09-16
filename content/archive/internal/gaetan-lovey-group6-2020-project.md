@@ -3,7 +3,7 @@ title: "Project - Report"
 author: "Vuignier, Cédric and Lovey, Gaëtan"
 date: "2020-08-07T15:02:39Z"
 link: "https://bookdown.org/gaetan_lovey/group6_2020_project/"
-length_weight: "16.7%"
+length_weight: "16.4%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "«Волопас и Северная Корона»"
 author: "Dmitry Gorodnichy"
 date: "2019-02-09T04:09:54Z"
 link: "https://bookdown.org/gorodnichy/ivi/"
-length_weight: "5.2%"
+length_weight: "5.1%"
 cover: "https://bookdown.org/gorodnichy/ivi/covers/frontpage/Because-p1a-275.jpg"
 pinned: false
 ---

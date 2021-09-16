@@ -3,7 +3,7 @@ title: "The Social Covenant"
 author: "Peter Lupu and Arthur Small"
 date: "2021-08-22T14:47:09Z"
 link: "https://bookdown.org/arthursmalliii/the-social-covenant/"
-length_weight: "11%"
+length_weight: "10.8%"
 pinned: false
 ---
 

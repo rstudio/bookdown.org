@@ -1,10 +1,10 @@
 ---
 title: "The Association Between Travel Behavior and Urban Form"
 author: "Shen Qu"
-date: "2021-09-08T05:04:18Z"
+date: "2021-09-16T00:13:00Z"
 tags: [Package]
 link: "https://bookdown.org/qushen/field_paper/"
-length_weight: "26%"
+length_weight: "28.8%"
 repo: "qushen26/field_paper"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "소방 빅데이터 업무편람"
 author: "소방빅데이터담당"
 date: "2020-09-13T03:25:05Z"
 link: "https://bookdown.org/leadgoon/mbook/"
-length_weight: "4.9%"
+length_weight: "4.8%"
 pinned: false
 ---
 

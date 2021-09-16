@@ -4,7 +4,7 @@ author: "Trong-Thang Pham"
 date: "2020-04-12T05:49:27Z"
 tags: [Models, Github]
 link: "https://bookdown.org/phamtrongthang123/notebookCEVAE/"
-length_weight: "10.3%"
+length_weight: "10.1%"
 pinned: false
 ---
 

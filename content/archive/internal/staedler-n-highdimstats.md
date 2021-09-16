@@ -1,10 +1,10 @@
 ---
 title: "High-dimensional statistics"
 author: "Nicolas Städler"
-date: "2021-08-18T12:56:43Z"
+date: "2021-09-10T10:39:03Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/staedler_n/highdimstats/"
-length_weight: "20.4%"
+length_weight: "20.1%"
 repo: "staedlern/highdim_stats"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Mark Hoffman"
 date: "2021-08-18T16:51:09Z"
 tags: [Seminar, Network]
 link: "https://bookdown.org/markhoff/social_network_analysis/"
-length_weight: "34%"
+length_weight: "33.3%"
 cover: "https://bookdown.org/markhoff/social_network_analysis/Images/cover.png"
 pinned: false
 ---

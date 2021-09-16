@@ -4,7 +4,7 @@ author: "Uğur Dar"
 date: "2020-01-26T11:16:25Z"
 tags: [String]
 link: "https://bookdown.org/ugurdarr/baslangic/"
-length_weight: "12.2%"
+length_weight: "12%"
 pinned: false
 ---
 

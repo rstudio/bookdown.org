@@ -3,7 +3,7 @@ title: "Stormwater Heatmap Technical Reference"
 author: "Christian Nilsen, Geosyntec Consultants, Inc., Emily Howe, The Nature Conservancy, Jamie Robertson, The Nature Conservancy"
 date: "2020-05-20T19:41:30Z"
 link: "https://bookdown.org/cnilsen/docs/"
-length_weight: "15.2%"
+length_weight: "14.9%"
 repo: "stormwaterheatmap"
 pinned: false
 ---

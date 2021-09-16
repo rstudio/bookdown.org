@@ -4,7 +4,7 @@ author: "Filip Wästberg, Solita"
 date: "2020-11-10T10:35:47Z"
 tags: [Data Science]
 link: "https://bookdown.org/filip_wastberg/introduktion_till_r_-_ds_programmet/"
-length_weight: "14.7%"
+length_weight: "14.4%"
 pinned: false
 ---
 

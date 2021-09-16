@@ -4,7 +4,7 @@ author: "Editor: Helene Wagner (University of Toronto)"
 date: "2021-05-07T12:20:06Z"
 tags: [Data Analysis, Course, Seminar]
 link: "https://bookdown.org/hhwagner1/LandGenCourse_book/"
-length_weight: "5.6%"
+length_weight: "5.5%"
 repo: "hhwagner1/LandGenCourse_book"
 pinned: false
 ---

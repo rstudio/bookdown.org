@@ -1,10 +1,11 @@
 ---
 title: "数据科学中的 R 语言"
 author: "王敏杰"
-date: "2021-09-09T04:53:02Z"
+date: "2021-09-09T05:58:46Z"
 tags: [数据科学, Tidyverse, ggplot2, Tidy, String]
 link: "https://bookdown.org/wangminjie/R4DS/"
 length_weight: "100%"
+repo: "perlatex/R_for_Data_Science"
 pinned: false
 ---
 
