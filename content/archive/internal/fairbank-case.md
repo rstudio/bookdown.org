@@ -1,10 +1,10 @@
 ---
 title: "FairBank"
 author: "Amr Farahat and Rama Ramakrishnan"
-date: "2021-08-31T10:32:57Z"
+date: "2021-09-17T19:58:29Z"
 tags: [Guide]
-link: "https://bookdown.org/farahat_amr/fairbank/"
-length_weight: "10.1%"
+link: "https://bookdown.org/fairbank/case/"
+length_weight: "11.4%"
 pinned: false
 ---
 

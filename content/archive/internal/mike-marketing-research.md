@@ -1,7 +1,7 @@
 ---
 title: "Marketing Research"
 author: "Mike Nguyen"
-date: "2021-09-16T04:56:58Z"
+date: "2021-09-23T02:47:51Z"
 tags: [Market]
 link: "https://bookdown.org/mike/marketing_research/"
 length_weight: "100%"
@@ -9,4 +9,4 @@ cover: "https://bookdown.org/mike/marketing_research/cover.jpg"
 pinned: false
 ---
 
-Placeholder for interesting knowledge in marketing [...]  ...
+Placeholder for interesting knowledge in marketing [...] No prerequisites required to read this ...

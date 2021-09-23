@@ -1,7 +1,7 @@
 ---
 title: "R Developer’s Guide"
 author: "R Contribution Working Group"
-date: "2021-06-22"
+date: "2021-09-22"
 tags: [Guide]
 link: "https://forwards.github.io/rdevguide"
 length_weight: "0%"
