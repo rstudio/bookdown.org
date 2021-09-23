@@ -4,7 +4,7 @@ author: "Hadley Wickham, Jennifer Bryan"
 date: ""
 tags: [Package]
 link: "https://r-pkgs.org/"
-length_weight: "0%"
+length_weight: "23.2%"
 cover: "https://r-pkgs.org/images/cover.png"
 repo: "hadley/r-pkgs"
 pinned: true

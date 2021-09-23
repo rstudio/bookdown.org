@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R for Health Data Science"
 author: "Matthew Sperrin"
-date: "2020-09-18T15:03:22Z"
+date: "2021-09-17T17:07:30Z"
 tags: [Data Science, Course]
 link: "https://bookdown.org/m_p_sperrin/introR/"
 length_weight: "16.9%"
