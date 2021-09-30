@@ -1,11 +1,14 @@
 ---
 title: "Statistical Tools for Causal Inference"
-author: "The SKY Community"
-date: "2020-05-28"
+author: "Sylvain Chabé-Ferret"
+date: "2021-09-27"
 link: "https://chabefer.github.io/STCI/"
-length_weight: "24.2%"
+length_weight: "24.3%"
 repo: "chabefer/STCI"
 pinned: false
 ---
 
-This is an open source collaborative book. [...] Tools of causal inference are the basic statistical building block behind most scientific results. It is thus extremely useful to have an open source collectively aggreed upon resource presenting and assessing them, as well as listing the current unresolved issues. The content of this book covers the basic theoretical knowledge and technical skills required for implementing staistical methods of causal inference. This means: This book is geared for teaching causal inference to graduate students that want to apply statistical tools of causal ...
+This is an open source collaborative book. [...] Tools of causal inference are the basic statistical building block behind most scientific results.
+It is thus extremely useful to have an open source collectively aggreed upon resource presenting and assessing them, as well as listing the current unresolved issues.
+The content of this book covers the basic theoretical knowledge and technical skills required for implementing staistical methods of causal inference.
+This means: This book is geared for teaching causal inference to graduate students that want to apply statistical tools of causal ...

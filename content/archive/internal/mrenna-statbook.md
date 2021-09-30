@@ -1,10 +1,10 @@
 ---
 title: "Statistics with R - Practical Sessions"
 author: "By Seda Erdem | University of Stirling"
-date: "2021-08-26T17:26:28Z"
+date: "2021-09-27T12:43:08Z"
 tags: [Statistics]
 link: "https://bookdown.org/mrenna/statbook/"
-length_weight: "20.6%"
+length_weight: "26.8%"
 pinned: false
 ---
 

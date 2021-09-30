@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning for Biostatistics"
 author: "Armando Teixeira-Pinto"
-date: "2021-08-28T06:59:22Z"
+date: "2021-09-23T11:08:37Z"
 tags: [Machine Learning, Statistics]
 link: "https://bookdown.org/tpinto_home/Regularisation/"
 length_weight: "21%"

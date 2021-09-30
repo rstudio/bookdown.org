@@ -1,10 +1,10 @@
 ---
 title: "Crime Mapping and Analysis"
 author: "Gio Circo"
-date: "2021-09-13T14:02:04Z"
+date: "2021-09-24T18:45:37Z"
 tags: [Course]
 link: "https://bookdown.org/gmcirco42/cj_4557_crime_mapping_and_analysis/"
-length_weight: "6.9%"
+length_weight: "7.3%"
 pinned: false
 ---
 
