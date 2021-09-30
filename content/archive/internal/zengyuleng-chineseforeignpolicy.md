@@ -1,10 +1,10 @@
 ---
 title: "Chinese Foreign Policy"
 author: "Yuleng Zeng"
-date: "2021-09-17T10:31:27Z"
+date: "2021-09-28T09:51:43Z"
 tags: [Seminar, Course, Education]
 link: "https://bookdown.org/zengyuleng/chineseforeignpolicy/"
-length_weight: "9.5%"
+length_weight: "9.7%"
 repo: "rstudio/economicstatecraft"
 pinned: false
 ---

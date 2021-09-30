@@ -1,9 +1,9 @@
 ---
 title: "Engagement Survey Technical Report"
 author: "Eagle I.O"
-date: "2021-09-09T20:14:42Z"
+date: "2021-09-28T19:55:23Z"
 link: "https://bookdown.org/kulasj/engagetech/"
-length_weight: "19.1%"
+length_weight: "19.6%"
 cover: "https://bookdown.org/kulasj/engagetech/EE.jpeg"
 pinned: false
 ---

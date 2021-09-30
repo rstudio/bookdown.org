@@ -1,10 +1,10 @@
 ---
 title: "Biology for environmental management pocketguide"
 author: "cjlortie"
-date: "2021-08-19T17:08:45Z"
+date: "2021-09-23T14:31:02Z"
 tags: [Biology, Guide, Course]
 link: "https://bookdown.org/chris/bio4enviro/"
-length_weight: "13.1%"
+length_weight: "13.2%"
 pinned: false
 ---
 

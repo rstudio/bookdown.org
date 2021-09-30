@@ -1,7 +1,7 @@
 ---
 title: "Statistics for Data Science R Code Guide"
 author: "Andrew Sage - Stat 255, Lawrence University"
-date: "2021-09-12T18:58:29Z"
+date: "2021-09-26T02:33:42Z"
 tags: [Statistics, Data Science, Guide, Package]
 link: "https://bookdown.org/ajsage/statistics_for_data_science_r_code_guide/"
 length_weight: "20.4%"
