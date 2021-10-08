@@ -32,7 +32,11 @@ book_urls = if (file.size('staging.txt') > 0) {
     bind_rows(
       tibble(
         url = grep(
-          '^https://bookdown[.]org', c(xfun::read_utf8('home.txt'), xfun::read_utf8('external.txt')),
+          '^https://bookdown[.]org', 
+          c(
+            # xfun::read_utf8('home.txt'), 
+            xfun::read_utf8('external.txt')
+          ),
           value = TRUE, invert = TRUE
         ),
         lastmod = NA,
