@@ -35,7 +35,7 @@ book_urls = if (file.size('staging.txt') > 0) {
           '^https://bookdown[.]org', 
           c(
             # xfun::read_utf8('home.txt'), 
-            xfun::read_utf8('external.txt')
+            # xfun::read_utf8('external.txt')
           ),
           value = TRUE, invert = TRUE
         ),
