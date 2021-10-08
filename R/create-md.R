@@ -96,6 +96,8 @@ normalize_book_len = function(x) {
   paste0(100 * round(x, 3), '%')
 }
 
+on_gha <- function() identical(Sys.getenv("CI"), "true") && !is.na(Sys.getenv("GITHUB_JOB"))
+
 # alternative book covers
 cover_list = list(
   'https://rafalab.github.io/dsbook/' = 'https://images.routledge.com/common/jackets/amazon/978036735/9780367357986.jpg',
@@ -341,7 +343,7 @@ books_metas = book_urls %>%
     if (file.exists(cache_rds)) {
       book_metas = readRDS(cache_rds)
       if (!is.na(date) && identical((book_meta <- book_metas[[url]])[['date']], date)) {
-        message('-> using cached data for ', url)
+        if (!on_gha()) message('-> using cached data for ', url)
         return(if (!is.null(book_meta[['title']])) book_meta)
       }
     } else book_metas = list()
