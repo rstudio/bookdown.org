@@ -81,7 +81,7 @@ valid_date = function(date) {
   # will be NA if date is not converted. 
   # This allows to easily convert date like March 03 2021
   # we add a try_silent to prevent any issue
-  if (inherits(xfun::try_silent(date <- anytime::anydate(date, useR = TRUE)), 'try-error')) {
+  if (inherits(xfun::try_silent(date <- anytime::anydate(date)), 'try-error')) {
     NA_character_ 
   } else {
     as.character(date)
@@ -284,6 +284,7 @@ get_book_meta = function(url, date = NA) {
     if (!is.null(date)) {
       log_trace("looking for date in meta field")
       date = xml_attr(date, 'content')
+      log_trace("Date found in meta field: {date}")
       date = valid_date(date)
     } else {
       # bs4_book() See if we find date in footer (as set in template)
