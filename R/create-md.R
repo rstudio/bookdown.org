@@ -290,11 +290,16 @@ get_book_meta = function(url, date = NA) {
       # we match date placeholder and won't catch any date formatted using .
       log_trace("Looking for date in footer")
       r = "It was last built on ([^\\.]*)\\."
-      date = xml_find(html, './/footer')
-      if (length(date) != 0 && grepl(r, date <- xml_text(date), perl = TRUE)) {
-        date = regmatches(date, regexec(r, date, perl = TRUE))[[1]][2]
+      date_string = xml_find(html, './/footer')
+      if (length(date_string) != 0 && 
+          grepl(r, date_string <- xml_text(date_string), perl = TRUE)) 
+      {
+        log_trace("Extracting date from footer")
+        date = regmatches(date_string, regexec(r, date_string, perl = TRUE))[[1]][2]
+        date = if (length(date) == 0) NA else valid_date(date)
+      } else {
+        date = NA
       }
-      date = if (length(date) == 0) NA else valid_date(date)
     }
   }
   log_debug("date retrieved")
