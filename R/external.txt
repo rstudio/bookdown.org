@@ -98,7 +98,6 @@ https://ready4r.netlify.app/labbook/
 https://rkabacoff.github.io/datavis/
 https://rmd4sci.njtierney.com/
 https://ropensci.github.io/dev_guide/
-https://stats-devguide.ropensci.org/
 https://rpsystats.com/
 https://rs-aspr.netlify.com/
 https://rstats.wtf/
@@ -112,6 +111,7 @@ https://sctyner.github.io/OpenForSciR/
 https://smltar.com/
 https://soilmapper.org/
 https://sparkfromr.com/
+https://stats-devguide.ropensci.org/
 https://statsthinking21.org/
 https://steverxd.github.io/Stat_tests/
 https://thefaylab.github.io/lab-manual/
