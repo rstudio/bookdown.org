@@ -28,22 +28,22 @@ book_urls = if (file.size('staging.txt') > 0) {
     url = map_chr(book_list, list('loc', 1)),
     lastmod = map_chr(book_list, list('lastmod', 1)),
     from = 'bookdown.org'
-  ) # %>%
-    # # and from external websites
-    # bind_rows(
-    #   tibble(
-    #     url = grep(
-    #       '^https://bookdown[.]org', 
-    #       c(
-    #         xfun::read_utf8('home.txt'),
-    #         xfun::read_utf8('external.txt')
-    #       ),
-    #       value = TRUE, invert = TRUE
-    #     ),
-    #     lastmod = NA,
-    #     from = 'external'
-    #   )
-    # )
+  ) %>%
+    # and from external websites
+    bind_rows(
+     tibble(
+       url = grep(
+         '^https://bookdown[.]org',
+         c(
+           xfun::read_utf8('home.txt')#,
+           # xfun::read_utf8('external.txt')
+         ),
+         value = TRUE, invert = TRUE
+       ),
+       lastmod = NA,
+       from = 'external'
+     )
+    )
 }
 
 
