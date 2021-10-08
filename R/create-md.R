@@ -77,6 +77,7 @@ rel_to_abs = function(file, baseurl) {
 }
 
 valid_date = function(date) {
+  log_trace("Validating the date using anytime::anydate")
   # will be NA if date is not converted. 
   # This allows to easily convert date like March 03 2021
   # we add a try_silent to prevent any issue
@@ -276,14 +277,18 @@ get_book_meta = function(url, date = NA) {
   author = trimws(gsub('\\s+', ' ', author))
   log_debug("author retrieved")
   log_debug("retrieving date")
+  log_trace("Current date is {date}")
   if (is.na(date)) {
+    log_trace("Date is NA - parsing info")
     date = xml_find(html, './/meta[@name="date"]')
     if (!is.null(date)) {
+      log_trace("looking for date in meta field")
       date = xml_attr(date, 'content')
       date = valid_date(date)
     } else {
       # bs4_book() See if we find date in footer (as set in template)
       # we match date placeholder and won't catch any date formatted using .
+      log_trace("Looking for date in footer")
       r = "It was last built on ([^\\.]*)\\."
       date = xml_find(html, './/footer')
       if (length(date) != 0 && grepl(r, date <- xml_text(date), perl = TRUE)) {
