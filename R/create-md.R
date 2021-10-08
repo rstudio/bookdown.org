@@ -1,7 +1,7 @@
 if (basename(getwd()) != 'R') setwd('R')
 
 if (!requireNamespace('xfun')) install.packages('xfun')
-xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
+xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2', 'logger'))
 xfun::pkg_load2(c('httr', 'whisker', 'anytime'))
 
 local({
@@ -63,6 +63,7 @@ na_url = function(x) {
 
 # test if content as no index page and main url is directly redirected
 redirected_index_page = function(url) {
+  log_trace("testing if main url is redirected")
   parsed_url = httr::parse_url(url)
   # only for bookdown.org
   if (parsed_url$hostname != "bookdown.org") return(FALSE)
@@ -166,13 +167,30 @@ split_title = function(title) {
   part2
 }
 
+# Logging helpers ----
+
+# From https://github.com/daroczig/logger/issues/73
+log_threshold_from_env_var <- function(){
+  log_level_env_var <- Sys.getenv("LOGGER_LOG_LEVEL", "INFO")
+  log_levels <- c("FATAL", "ERROR", "WARN", "SUCCESS", "INFO", "DEBUG", "TRACE")
+  if (! (log_level_env_var %in% log_levels)){
+    err_msg <- "The LOG_LEVEL environment variable must be either unset, or set to a valid log level" 
+    stop(err_msg)
+  }
+  get(log_level_env_var)
+}
+
+log_threshold(log_threshold_from_env_var())
+
 # Get books meta ----------------------------------------------------------
 
 # get metadata for a book from html content
 get_book_meta = function(url, date = NA) {
   # try to read a URL for at most three times
   i = 1
+  log_debug("Parsing HTML page")
   while (i < 4) {
+    log_trace("Attemp {i}")
     html = try({
       # skip completely if url target a redirected index page
       if (redirected_index_page(url)) return()
@@ -183,16 +201,22 @@ get_book_meta = function(url, date = NA) {
   }
   if (i >= 4) return()
 
+  log_debug("HTML paged parsed")
+  log_debug("Retrieving title")
   title = xml_find(html, './/title')
   if (length(title) == 0) return()
   title = xml_text(title)
   title = split_title(title)
   if (title == '') return()
-
+  
+  log_debug("   * Title: {title}")
+  
+  log_debug("Retrieving description")
   description = xml_find(html, './/meta[@name="description"]')
   if (!is.null(description)) description = xml_attr(description, 'content')
   if (length(description) == 0 || is.na(description) || description == 'NA') description = ''
   if (nchar(description) < 400) {
+    log_trace("description is smaller than 400 - computing a summary")
     # compute a summary from normal paragraphs without any attributes
     # Two different cases: gitbook() and bs4_book().
     # Use XPATH operator AND (|) as they are noninclusive
@@ -211,16 +235,24 @@ get_book_meta = function(url, date = NA) {
     description = substr(description, 1, 600 * nchar(description) / nchar(description, 'width'))
     description = paste(sub(' +[^ ]{1,20}$', '', description), '...')
   }
+  log_debug("Description retrieved")
   # bookdown-demo published by other people with an unchanged description
   # Check if first sentence of content is not changed or if book TOC is very similar to example book 
   # These checks are required to detect book published for assignment
   if (grepl("^This is a minimal example of using the bookdown package to write a book[.]", description) && 
       (grepl("[...] This is a sample book written in Markdown.", description, fixed = TRUE) || 
        minimal_example_toc(html)) && 
-      !grepl('/yihui/', url)) return()
+      !grepl('/yihui/', url)) {
+    log_debug("Returning early because bookdown-demo like book")
+    return()
+  }
   # also remove book that have the same TOC + before toc element than minimal book example
-  if (minimal_example_toc(html, before = TRUE) && !grepl('/yihui/', url)) return()
+  if (minimal_example_toc(html, before = TRUE) && !grepl('/yihui/', url)) {
+    log_debug("Returning early because bookdown-demo like book")
+    return()
+  }
   
+  log_debug("Retrieving author")
   author = xml_find(html, './/meta[@name="author"]', all = TRUE)
   if (length(author) == 0) {
     if (length(author <- xml_find(html, './/*[@class="author"]'))) {
@@ -242,7 +274,8 @@ get_book_meta = function(url, date = NA) {
   author = gsub('\\s+Foreword by .+', '', author)  # https://moderndive.com/
   author = gsub('\\\\[(].*\\\\[)]', '', author)  # https://bookdown.org/paulgonzaloparedes/derecho-de-daos/
   author = trimws(gsub('\\s+', ' ', author))
-
+  log_debug("author retrieved")
+  log_debug("retrieving date")
   if (is.na(date)) {
     date = xml_find(html, './/meta[@name="date"]')
     if (!is.null(date)) {
@@ -259,7 +292,8 @@ get_book_meta = function(url, date = NA) {
       date = if (length(date) == 0) NA else valid_date(date)
     }
   }
-
+  log_debug("date retrieved")
+  log_debug("retrieving cover")
   cover = xml_find(html, './/meta[@property="og:image"]')
   if (!is.null(cover)) {
     cover = xml_attr(cover, 'content')
@@ -294,7 +328,8 @@ get_book_meta = function(url, date = NA) {
     cover = cover_list[[url]]
     if (!is.null(cover) && na_url(cover)) cover = NULL
   }
-
+  log_debug("cover retrieved")
+  log_debug("Retrieving repo")
   repo = xml_find(html, './/meta[@name="github-repo"]')
   if (!is.null(repo)) repo = gsub('^/+|/+$', '', xml_attr(repo, 'content'))
   if (is.null(repo)) {
@@ -302,10 +337,11 @@ get_book_meta = function(url, date = NA) {
     repo = xml_find(html, './/a[@id="book-repo"]')
     if (!is.null(repo)) repo = gsub('^https://github.com/','', xml_attr(repo, 'href'))
   }
-  
+  log_debug("repo retrieved")
   generator = xml_find(html, './/meta[@name="generator"]')
   generator = if (length(generator)) xml_attr(generator, 'content') else NA
-
+  
+  log_debug("Metadata retrieved!")
   tibble(
     url = url, title = title, authors = author, date = date, description = description,
     cover = if (is.null(cover)) NA else cover,
@@ -351,9 +387,7 @@ books_metas = book_urls %>%
     message('-> processing ', url)
     book_meta = get_book_meta(url, date)
     book_metas[[url]] = if (is.null(book_meta)) list(date = date) else book_meta
-    message("  # saving to RDS")
     saveRDS(book_metas, cache_rds)
-    message("  # saved to RDS")
     book_meta
   })
 

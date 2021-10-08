@@ -333,6 +333,13 @@
       "RemoteSha": "1.0.0",
       "Hash": "3471fb65971f1a7b2d4ae7848cf2db8d"
     },
+    "logger": {
+      "Package": "logger",
+      "Version": "0.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "737c5ce5d716ca411c7b6f8c009006c7"
+    },
     "magrittr": {
       "Package": "magrittr",
       "Version": "2.0.1",
