@@ -39,6 +39,7 @@ jobs:
         env:
           RSC_BOOKDOWN_ORG_TOKEN: ${{ secrets.RSC_BOOKDOWN_ORG_TOKEN }}
           PINS_VERBOSE: true
+          LOGGER_LOG_LEVEL: ${{ secrets.LOGGER_LOG_LEVEL }}
         run: Rscript create-md.R
         working-directory: R/
         

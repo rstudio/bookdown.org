@@ -1,7 +1,7 @@
 if (basename(getwd()) != 'R') setwd('R')
 
 if (!requireNamespace('xfun')) install.packages('xfun')
-xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2'))
+xfun::pkg_attach2(c('purrr', 'dplyr', 'xml2', 'logger'))
 xfun::pkg_load2(c('httr', 'whisker', 'anytime'))
 
 local({
@@ -27,17 +27,22 @@ book_urls = if (file.size('staging.txt') > 0) {
   tibble(
     url = map_chr(book_list, list('loc', 1)),
     lastmod = map_chr(book_list, list('lastmod', 1)),
-    from = 'bookdown.org') %>%
+    from = 'bookdown.org'
+  ) %>%
     # and from external websites
     bind_rows(
-      tibble(
-        url = grep(
-          '^https://bookdown[.]org', c(xfun::read_utf8('home.txt'), xfun::read_utf8('external.txt')),
-          value = TRUE, invert = TRUE
-        ),
-        lastmod = NA,
-        from = 'external'
-      )
+     tibble(
+       url = grep(
+         '^https://bookdown[.]org',
+         c(
+           xfun::read_utf8('home.txt'),
+           xfun::read_utf8('external.txt')
+         ),
+         value = TRUE, invert = TRUE
+       ),
+       lastmod = NA,
+       from = 'external'
+     )
     )
 }
 
@@ -58,6 +63,7 @@ na_url = function(x) {
 
 # test if content as no index page and main url is directly redirected
 redirected_index_page = function(url) {
+  log_trace("testing if main url is redirected")
   parsed_url = httr::parse_url(url)
   # only for bookdown.org
   if (parsed_url$hostname != "bookdown.org") return(FALSE)
@@ -71,6 +77,7 @@ rel_to_abs = function(file, baseurl) {
 }
 
 valid_date = function(date) {
+  log_trace("Validating the date using anytime::anydate")
   # will be NA if date is not converted. 
   # This allows to easily convert date like March 03 2021
   # we add a try_silent to prevent any issue
@@ -159,13 +166,30 @@ split_title = function(title) {
   part2
 }
 
+# Logging helpers ----
+
+# From https://github.com/daroczig/logger/issues/73
+log_threshold_from_env_var <- function(){
+  log_level_env_var <- Sys.getenv("LOGGER_LOG_LEVEL", "INFO")
+  log_levels <- c("FATAL", "ERROR", "WARN", "SUCCESS", "INFO", "DEBUG", "TRACE")
+  if (! (log_level_env_var %in% log_levels)){
+    err_msg <- "The LOG_LEVEL environment variable must be either unset, or set to a valid log level" 
+    stop(err_msg)
+  }
+  get(log_level_env_var)
+}
+
+log_threshold(log_threshold_from_env_var())
+
 # Get books meta ----------------------------------------------------------
 
 # get metadata for a book from html content
 get_book_meta = function(url, date = NA) {
   # try to read a URL for at most three times
   i = 1
+  log_debug("Parsing HTML page")
   while (i < 4) {
+    log_trace("Attemp {i}")
     html = try({
       # skip completely if url target a redirected index page
       if (redirected_index_page(url)) return()
@@ -176,16 +200,22 @@ get_book_meta = function(url, date = NA) {
   }
   if (i >= 4) return()
 
+  log_debug("HTML paged parsed")
+  log_debug("Retrieving title")
   title = xml_find(html, './/title')
   if (length(title) == 0) return()
   title = xml_text(title)
   title = split_title(title)
   if (title == '') return()
-
+  
+  log_debug("   * Title: {title}")
+  
+  log_debug("Retrieving description")
   description = xml_find(html, './/meta[@name="description"]')
   if (!is.null(description)) description = xml_attr(description, 'content')
   if (length(description) == 0 || is.na(description) || description == 'NA') description = ''
   if (nchar(description) < 400) {
+    log_trace("description is smaller than 400 - computing a summary")
     # compute a summary from normal paragraphs without any attributes
     # Two different cases: gitbook() and bs4_book().
     # Use XPATH operator AND (|) as they are noninclusive
@@ -204,16 +234,24 @@ get_book_meta = function(url, date = NA) {
     description = substr(description, 1, 600 * nchar(description) / nchar(description, 'width'))
     description = paste(sub(' +[^ ]{1,20}$', '', description), '...')
   }
+  log_debug("Description retrieved")
   # bookdown-demo published by other people with an unchanged description
   # Check if first sentence of content is not changed or if book TOC is very similar to example book 
   # These checks are required to detect book published for assignment
   if (grepl("^This is a minimal example of using the bookdown package to write a book[.]", description) && 
       (grepl("[...] This is a sample book written in Markdown.", description, fixed = TRUE) || 
        minimal_example_toc(html)) && 
-      !grepl('/yihui/', url)) return()
+      !grepl('/yihui/', url)) {
+    log_debug("Returning early because bookdown-demo like book")
+    return()
+  }
   # also remove book that have the same TOC + before toc element than minimal book example
-  if (minimal_example_toc(html, before = TRUE) && !grepl('/yihui/', url)) return()
+  if (minimal_example_toc(html, before = TRUE) && !grepl('/yihui/', url)) {
+    log_debug("Returning early because bookdown-demo like book")
+    return()
+  }
   
+  log_debug("Retrieving author")
   author = xml_find(html, './/meta[@name="author"]', all = TRUE)
   if (length(author) == 0) {
     if (length(author <- xml_find(html, './/*[@class="author"]'))) {
@@ -235,24 +273,36 @@ get_book_meta = function(url, date = NA) {
   author = gsub('\\s+Foreword by .+', '', author)  # https://moderndive.com/
   author = gsub('\\\\[(].*\\\\[)]', '', author)  # https://bookdown.org/paulgonzaloparedes/derecho-de-daos/
   author = trimws(gsub('\\s+', ' ', author))
-
+  log_debug("author retrieved")
+  log_debug("retrieving date")
+  log_trace("Current date is {date}")
   if (is.na(date)) {
+    log_trace("Date is NA - parsing info")
     date = xml_find(html, './/meta[@name="date"]')
     if (!is.null(date)) {
+      log_trace("looking for date in meta field")
       date = xml_attr(date, 'content')
+      log_trace("Date found in meta field: {date}")
       date = valid_date(date)
     } else {
       # bs4_book() See if we find date in footer (as set in template)
       # we match date placeholder and won't catch any date formatted using .
+      log_trace("Looking for date in footer")
       r = "It was last built on ([^\\.]*)\\."
-      date = xml_find(html, './/footer')
-      if (length(date) != 0 && grepl(r, date <- xml_text(date), perl = TRUE)) {
-        date = regmatches(date, regexec(r, date, perl = TRUE))[[1]][2]
+      date_string = xml_find(html, './/footer')
+      if (length(date_string) != 0 && 
+          grepl(r, date_string <- xml_text(date_string), perl = TRUE)) 
+      {
+        log_trace("Extracting date from footer")
+        date = regmatches(date_string, regexec(r, date_string, perl = TRUE))[[1]][2]
+        date = if (length(date) == 0) NA else valid_date(date)
+      } else {
+        date = NA
       }
-      date = if (length(date) == 0) NA else valid_date(date)
     }
   }
-
+  log_debug("date retrieved")
+  log_debug("retrieving cover")
   cover = xml_find(html, './/meta[@property="og:image"]')
   if (!is.null(cover)) {
     cover = xml_attr(cover, 'content')
@@ -287,7 +337,8 @@ get_book_meta = function(url, date = NA) {
     cover = cover_list[[url]]
     if (!is.null(cover) && na_url(cover)) cover = NULL
   }
-
+  log_debug("cover retrieved")
+  log_debug("Retrieving repo")
   repo = xml_find(html, './/meta[@name="github-repo"]')
   if (!is.null(repo)) repo = gsub('^/+|/+$', '', xml_attr(repo, 'content'))
   if (is.null(repo)) {
@@ -295,10 +346,11 @@ get_book_meta = function(url, date = NA) {
     repo = xml_find(html, './/a[@id="book-repo"]')
     if (!is.null(repo)) repo = gsub('^https://github.com/','', xml_attr(repo, 'href'))
   }
-  
+  log_debug("repo retrieved")
   generator = xml_find(html, './/meta[@name="generator"]')
   generator = if (length(generator)) xml_attr(generator, 'content') else NA
-
+  
+  log_debug("Metadata retrieved!")
   tibble(
     url = url, title = title, authors = author, date = date, description = description,
     cover = if (is.null(cover)) NA else cover,
@@ -308,17 +360,17 @@ get_book_meta = function(url, date = NA) {
 
 # Get meta from pins
 cache_rds = '_book_meta.rds'
-message("Fetching new book informations")
+log_info("Fetching new book informations")
 xfun::pkg_load2("pins")
 if (nzchar(rsc_key <- Sys.getenv("RSC_BOOKDOWN_ORG_TOKEN", unset = "")) 
     && !file.exists(cache_rds)) {
-  message("-> Retrieving cached meta from pins")
+  log_info("-> Retrieving cached meta from pins")
   pins::board_register_rsconnect(server = "https://bookdown.org", key = rsc_key, versions = TRUE)
   pin_exists = pins::pin_find(name = "cderv/bookdownorg_books_meta", board = "rsconnect")
   if (nrow(pin_exists) == 1) {
     cache_rds = pins::pin_get("cderv/bookdownorg_books_meta", board = "rsconnect", cache = FALSE)
     stopifnot("Cache not downloaded" = file.exists(cache_rds))
-    message("-> Cached meta downloaded in ", dQuote(cache_rds))
+    log_info("-> Cached meta downloaded in ", dQuote(cache_rds))
   }
 }
 
@@ -329,6 +381,7 @@ books_metas = book_urls %>%
   filter(! (grepl('/bookdown-demo/$', url) & !grepl('/yihui/', url))) %>%
   select(url, lastmod) %>%
   pmap_df( ~ {
+    log_trace('looking at ', .x)
     url = .x
     # pmap strips dates so they need to be character
     # https://github.com/tidyverse/purrr/issues/358
@@ -336,11 +389,11 @@ books_metas = book_urls %>%
     if (file.exists(cache_rds)) {
       book_metas = readRDS(cache_rds)
       if (!is.na(date) && identical((book_meta <- book_metas[[url]])[['date']], date)) {
-        message('-> using cached data for ', url)
+        log_debug('-> using cached data for {url}')
         return(if (!is.null(book_meta[['title']])) book_meta)
       }
     } else book_metas = list()
-    message('-> processing ', url)
+    log_info('-> processing {url}')
     book_meta = get_book_meta(url, date)
     book_metas[[url]] = if (is.null(book_meta)) list(date = date) else book_meta
     saveRDS(book_metas, cache_rds)
@@ -349,7 +402,7 @@ books_metas = book_urls %>%
 
 # save new book meta
 if (nzchar(rsc_key)) {
-  message("-> Pinning new cached meta to bookdown.org")
+  log_info('-> Pinning new cached meta to bookdown.org')
   pins::pin(cache_rds, name = "bookdownorg_books_meta", board = "rsconnect",
             description = "Metadata for bookdown.org/ books page")
 }
@@ -360,7 +413,7 @@ saveRDS(books_metas, "saved_books_metas.rds")
 # Cleaning published books ------------------------------------------------
 stopifnot("no book metas to process" = nrow(books_metas) != 0L)
 
-message("Cleaning retrieved informations")
+log_info("Cleaning retrieved informations")
 books_to_keep = books_metas %>%
   # should have substantial content (> 2500 bytes)
   filter(book_len == 0 | book_len > 2500 | !grepl('^https://bookdown[.]org/', url)) %>%
@@ -403,7 +456,7 @@ if (!DO_NOT_DELETE_MD) {
   xfun::in_dir('../content/archive', unlink(c('internal/*.md', 'external/*.md')))
 }
 
-message("Writing md files")
+log_info("Writing md files")
 books_to_keep %>%
   mutate(post_content = pmap_chr(., function(...) {
     ldata = list(...)
@@ -415,4 +468,4 @@ books_to_keep %>%
   select(-url) %>%
   pwalk(write_md_post)
 
-message("Done!")
+log_info("Done!")

@@ -3,6 +3,7 @@ https://bookdown.org/yihui/rmarkdown/
 https://r4ds.had.co.nz/
 https://adv-r.hadley.nz/
 https://bookdown.org/rdpeng/rprogdatascience/
+https://www.tidytextmining.com/
 https://csgillespie.github.io/efficientR/
 https://otexts.com/fpp2/
 https://bookdown.org/yihui/blogdown/
