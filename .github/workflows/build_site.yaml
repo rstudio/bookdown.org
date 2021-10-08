@@ -30,7 +30,7 @@ jobs:
         uses: r-lib/actions/setup-r@v1
         id: install-r
         with:
-          r-version: '4.0.4'
+          r-version: '4.1.1'
 
       - name: Cache Renv packages
         uses: actions/cache@v2
