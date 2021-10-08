@@ -1,10 +1,10 @@
 ---
 title: "Data Science: A First Introduction"
 author: "Tiffany-Anne Timbers, Trevor Campbell, Melissa Lee"
-date: "2021-09-27"
+date: "2021-10-03"
 tags: [Data Science, Textbook]
 link: "https://ubc-dsci.github.io/introduction-to-datascience/"
-length_weight: "28%"
+length_weight: "28.6%"
 pinned: false
 ---
 
@@ -14,4 +14,4 @@ insight from data through reproducible and auditable processes.
 If you analyze some data and give your analysis to a friend or colleague, they should
 be able to re-run the analysis from start to finish and get the same result you did (reproducibility).
 They should also be able to see and understand all the steps in the analysis, as well as the history of how
-the analysis  ...
+the analysis ...

@@ -1,10 +1,10 @@
 ---
 title: "Statistics for Data Science Notes"
 author: "Andrew Sage - Stat 255: Lawrence University"
-date: "2021-09-27T19:23:44Z"
+date: "2021-10-04T13:54:04Z"
 tags: [Statistics, Data Science, Package]
 link: "https://bookdown.org/ajsage/statistics_for_data_science_notes/"
-length_weight: "25%"
+length_weight: "31%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

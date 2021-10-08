@@ -20,4 +20,5 @@ They only appear so because R draws on a tradition unfamiliar to those of us rai
 Counting from one,
 copying data rather than modifying it,
 lazy evaluation:
-to quote the other ...
+to quote the other bard,
+these are not ...

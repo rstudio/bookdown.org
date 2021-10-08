@@ -4,7 +4,7 @@ author: "María Teresa Ortiz, Felipe González"
 date: ""
 tags: [Github]
 link: "https://est-mult.netlify.com/"
-length_weight: "28.6%"
+length_weight: "0%"
 repo: "tereom/est-multivariada"
 pinned: false
 ---
@@ -16,4 +16,4 @@ se trabaja en una segunda actualización. En caso de encontrar
 errores o tener sugerencias del material se agradece la propuesta de
 correcciones mediante pull requests. Notas: https://est-mult.netlify.com
 Correo: teresa.ortiz.mancera@gmail.com
-GitHub: https://github.com/tereom/est-multivariada Este trabajo está  ...
+GitHub: https://github.com/tereom/est-multivariada Este trabajo está bajo ...
