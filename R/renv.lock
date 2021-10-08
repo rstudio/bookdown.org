@@ -44,16 +44,15 @@
     },
     "anytime": {
       "Package": "anytime",
-      "Version": "0.3.9",
-      "Source": "CRAN",
-      "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "anytime",
-      "RemoteRef": "anytime",
-      "RemoteRepos": "https://cran.rstudio.com/",
-      "RemotePkgPlatform": "windows",
-      "RemoteSha": "0.3.9",
-      "Hash": "74a64813f17b492da9c6afda6b128e3d"
+      "Version": "0.3.9.3",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "eddelbuettel",
+      "RemoteRepo": "anytime",
+      "RemoteRef": "master",
+      "RemoteSha": "0d4776f7fd6dbf57f263f1dfc260348eb800db7d",
+      "Hash": "05b2ce547865f5ad141d8a3aec153e6b"
     },
     "askpass": {
       "Package": "askpass",
