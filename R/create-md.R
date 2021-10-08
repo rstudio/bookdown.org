@@ -336,6 +336,7 @@ books_metas = book_urls %>%
   filter(! (grepl('/bookdown-demo/$', url) & !grepl('/yihui/', url))) %>%
   select(url, lastmod) %>%
   pmap_df( ~ {
+    message('looking at ', .x)
     url = .x
     # pmap strips dates so they need to be character
     # https://github.com/tidyverse/purrr/issues/358
@@ -350,7 +351,9 @@ books_metas = book_urls %>%
     message('-> processing ', url)
     book_meta = get_book_meta(url, date)
     book_metas[[url]] = if (is.null(book_meta)) list(date = date) else book_meta
+    message("  # saving to RDS")
     saveRDS(book_metas, cache_rds)
+    message("  # saved to RDS")
     book_meta
   })
 
