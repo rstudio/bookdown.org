@@ -35,8 +35,8 @@ book_urls = if (file.size('staging.txt') > 0) {
        url = grep(
          '^https://bookdown[.]org',
          c(
-           xfun::read_utf8('home.txt')#,
-           # xfun::read_utf8('external.txt')
+           xfun::read_utf8('home.txt'),
+           xfun::read_utf8('external.txt')
          ),
          value = TRUE, invert = TRUE
        ),
@@ -97,8 +97,6 @@ normalize_book_len = function(x) {
   x = (x - r[1])/(r[2] - r[1])
   paste0(100 * round(x, 3), '%')
 }
-
-on_gha <- function() identical(Sys.getenv("CI"), "true") && !is.na(Sys.getenv("GITHUB_JOB"))
 
 # alternative book covers
 cover_list = list(
@@ -362,17 +360,17 @@ get_book_meta = function(url, date = NA) {
 
 # Get meta from pins
 cache_rds = '_book_meta.rds'
-message("Fetching new book informations")
+log_info("Fetching new book informations")
 xfun::pkg_load2("pins")
 if (nzchar(rsc_key <- Sys.getenv("RSC_BOOKDOWN_ORG_TOKEN", unset = "")) 
     && !file.exists(cache_rds)) {
-  message("-> Retrieving cached meta from pins")
+  log_info("-> Retrieving cached meta from pins")
   pins::board_register_rsconnect(server = "https://bookdown.org", key = rsc_key, versions = TRUE)
   pin_exists = pins::pin_find(name = "cderv/bookdownorg_books_meta", board = "rsconnect")
   if (nrow(pin_exists) == 1) {
     cache_rds = pins::pin_get("cderv/bookdownorg_books_meta", board = "rsconnect", cache = FALSE)
     stopifnot("Cache not downloaded" = file.exists(cache_rds))
-    message("-> Cached meta downloaded in ", dQuote(cache_rds))
+    log_info("-> Cached meta downloaded in ", dQuote(cache_rds))
   }
 }
 
@@ -383,7 +381,7 @@ books_metas = book_urls %>%
   filter(! (grepl('/bookdown-demo/$', url) & !grepl('/yihui/', url))) %>%
   select(url, lastmod) %>%
   pmap_df( ~ {
-    message('looking at ', .x)
+    log_trace('looking at ', .x)
     url = .x
     # pmap strips dates so they need to be character
     # https://github.com/tidyverse/purrr/issues/358
@@ -391,11 +389,11 @@ books_metas = book_urls %>%
     if (file.exists(cache_rds)) {
       book_metas = readRDS(cache_rds)
       if (!is.na(date) && identical((book_meta <- book_metas[[url]])[['date']], date)) {
-        if (!on_gha()) message('-> using cached data for ', url)
+        log_debug('-> using cached data for {url}')
         return(if (!is.null(book_meta[['title']])) book_meta)
       }
     } else book_metas = list()
-    message('-> processing ', url)
+    log_info('-> processing {url}')
     book_meta = get_book_meta(url, date)
     book_metas[[url]] = if (is.null(book_meta)) list(date = date) else book_meta
     saveRDS(book_metas, cache_rds)
@@ -404,7 +402,7 @@ books_metas = book_urls %>%
 
 # save new book meta
 if (nzchar(rsc_key)) {
-  message("-> Pinning new cached meta to bookdown.org")
+  log_info('-> Pinning new cached meta to bookdown.org')
   pins::pin(cache_rds, name = "bookdownorg_books_meta", board = "rsconnect",
             description = "Metadata for bookdown.org/ books page")
 }
@@ -415,7 +413,7 @@ saveRDS(books_metas, "saved_books_metas.rds")
 # Cleaning published books ------------------------------------------------
 stopifnot("no book metas to process" = nrow(books_metas) != 0L)
 
-message("Cleaning retrieved informations")
+log_info("Cleaning retrieved informations")
 books_to_keep = books_metas %>%
   # should have substantial content (> 2500 bytes)
   filter(book_len == 0 | book_len > 2500 | !grepl('^https://bookdown[.]org/', url)) %>%
@@ -458,7 +456,7 @@ if (!DO_NOT_DELETE_MD) {
   xfun::in_dir('../content/archive', unlink(c('internal/*.md', 'external/*.md')))
 }
 
-message("Writing md files")
+log_info("Writing md files")
 books_to_keep %>%
   mutate(post_content = pmap_chr(., function(...) {
     ldata = list(...)
@@ -470,4 +468,4 @@ books_to_keep %>%
   select(-url) %>%
   pwalk(write_md_post)
 
-message("Done!")
+log_info("Done!")
