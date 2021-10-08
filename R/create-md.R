@@ -81,7 +81,7 @@ valid_date = function(date) {
   # will be NA if date is not converted. 
   # This allows to easily convert date like March 03 2021
   # we add a try_silent to prevent any issue
-  if (inherits(xfun::try_silent(date <- anytime::anydate(date)), 'try-error')) {
+  if (inherits(xfun::try_silent(date <- anytime::anydate(date, useR = TRUE)), 'try-error')) {
     NA_character_ 
   } else {
     as.character(date)
