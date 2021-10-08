@@ -98,8 +98,7 @@ https://ready4r.netlify.app/labbook/
 https://rkabacoff.github.io/datavis/
 https://rmd4sci.njtierney.com/
 https://ropensci.github.io/dev_guide/
-https://ropenscilabs.github.io/actions_sandbox/
-https://ropenscilabs.github.io/statistical-software-review-book/
+https://stats-devguide.ropensci.org/
 https://rpsystats.com/
 https://rs-aspr.netlify.com/
 https://rstats.wtf/

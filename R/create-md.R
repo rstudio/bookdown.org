@@ -336,6 +336,7 @@ books_metas = book_urls %>%
     if (file.exists(cache_rds)) {
       book_metas = readRDS(cache_rds)
       if (!is.na(date) && identical((book_meta <- book_metas[[url]])[['date']], date)) {
+        message('-> using cached data for ', url)
         return(if (!is.null(book_meta[['title']])) book_meta)
       }
     } else book_metas = list()
