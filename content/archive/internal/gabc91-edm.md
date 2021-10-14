@@ -1,10 +1,10 @@
 ---
 title: "EDM - Dengue and Urbanization"
 author: "Gabriel Carrasco-Escobar"
-date: "2021-10-06T00:47:02Z"
+date: "2021-10-10T09:26:19Z"
 tags: [Models]
 link: "https://bookdown.org/gabc91/EDM/"
-length_weight: "7.8%"
+length_weight: "9%"
 pinned: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "SPRO1.knit"
 author: "lgallegov1"
-date: "2021-10-01T14:03:45Z"
+date: "2021-10-09T23:56:54Z"
 link: "https://bookdown.org/lgallegov1/SPRO1/"
 length_weight: "100%"
 cover: "https://bookdown.org/lgallegov1/SPRO1/cover.png"

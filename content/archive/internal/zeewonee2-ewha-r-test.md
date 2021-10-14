@@ -1,10 +1,10 @@
 ---
 title: "R @ Ewha (Sunbok Lee)"
 author: "Sunbok Lee copied by 212AIE40 Jiwon Choi"
-date: "2021-10-06T01:13:31Z"
+date: "2021-10-11T09:27:33Z"
 tags: [Social Science, Data Analysis]
 link: "https://bookdown.org/zeewonee2/ewha_r_test/"
-length_weight: "4.8%"
+length_weight: "6.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
