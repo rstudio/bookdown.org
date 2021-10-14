@@ -1,14 +1,13 @@
 ---
 title: "Compilación de productos de datos"
-author: "Calderon, S., Zuñiga, L."
-date: "2021-09-25T22:27:47Z"
-tags: [Package]
+author: "Calderon, S., Zuñiga, L., Reyes, C., Bedoya, F."
+date: "2021-10-09T21:19:03Z"
+tags: [R Markdown]
 link: "https://bookdown.org/talleresdedatos/T1-2021-01/"
-length_weight: "15.5%"
+length_weight: "21.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-<p>This is a minimal example of using the bookdown package to write a book.
-The HTML output format for this example is bookdown::bs4_book,
-set in the _output.yml file.</p> [...] This is a sample book written in Markdown. You can use anything that Pandoc’s Markdown supports; for example, a math equation \(a^2 + b^2 = c^2\). Each bookdown chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter must start with a first-level heading: # A good chapter, and can contain one (and only one) first-level heading. Use second-level and higher headings within chapters ...
+<p>Este es un compilado de los productos de datos elaborados en el Taller de Elaboración de
+productos de datos I: R Markdown</p> [...] Este libro digital es un esfuerzo conjunto de los participantes del Taller de Elaboración de productos de datos dictado durante cinco semanas entre los meses de agosto y setiembre de 2021 de manera gratuita. El taller tuvo como público objetivo a estudiantes o egresados de carreras de ciencias sociales, periodismo o educación con interés en aprender herramientas de análisis y visualización de datos. El contenido del taller buscó ser apropiado para personas sin  ...

@@ -1,7 +1,7 @@
 ---
 title: "A primer for biostatistics in R"
 author: "cjlortie"
-date: "2021-10-06T03:34:14Z"
+date: "2021-10-10T23:24:09Z"
 tags: [Statistics, R Programming, Guide]
 link: "https://bookdown.org/chris/rstats4bio/"
 length_weight: "12.5%"

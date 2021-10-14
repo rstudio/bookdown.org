@@ -1,10 +1,10 @@
 ---
 title: "Economic Statecraft"
 author: "Yuleng Zeng"
-date: "2021-10-07T12:50:48Z"
+date: "2021-10-11T07:53:27Z"
 tags: [Seminar, Course, Education]
 link: "https://bookdown.org/zengyuleng/economicstatecraft/"
-length_weight: "5.8%"
+length_weight: "6.1%"
 repo: "rstudio/economicstatecraft"
 pinned: false
 ---
