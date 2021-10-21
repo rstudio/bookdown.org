@@ -1,10 +1,11 @@
 ---
 title: "ISLR tidymodels Labs"
 author: "Emil Hvitfeldt"
-date: "2021-09-08"
+date: "2021-10-19"
 tags: [Tidy, Models, Translation, Package, Github]
 link: "https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/"
-length_weight: "14.2%"
+length_weight: "13.7%"
+repo: "EmilHvitfeldt/ISLR-tidymodels-labs"
 pinned: false
 ---
 

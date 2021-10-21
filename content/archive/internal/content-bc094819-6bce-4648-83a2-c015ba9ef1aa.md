@@ -4,7 +4,7 @@ author: "Derek Corcoran"
 date: "2019-12-30T21:47:18Z"
 tags: [Tidyverse]
 link: "https://bookdown.org/content/bc094819-6bce-4648-83a2-c015ba9ef1aa/"
-length_weight: "22%"
+length_weight: "21.9%"
 repo: "derek-corcoran-barrios/ManipulacionDatos"
 pinned: false
 ---

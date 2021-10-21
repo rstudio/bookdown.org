@@ -1,7 +1,7 @@
 ---
 title: "Remote sensing algorithms to retrieve SPM and CDOM in Québec coastal waters"
 author: "Raphaël Mabit"
-date: "2021-10-13T20:42:16Z"
+date: "2021-10-14T15:09:00Z"
 link: "https://bookdown.org/raphael_mabit/algo-book/"
 length_weight: "100%"
 pinned: false

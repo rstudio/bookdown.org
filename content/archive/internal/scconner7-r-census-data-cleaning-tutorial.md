@@ -4,7 +4,7 @@ author: "Sean Conner"
 date: "2019-07-22T21:23:08Z"
 tags: [Tutorial, Social Science]
 link: "https://bookdown.org/scconner7/r_census_data_cleaning_tutorial/"
-length_weight: "28.4%"
+length_weight: "28.3%"
 pinned: false
 ---
 

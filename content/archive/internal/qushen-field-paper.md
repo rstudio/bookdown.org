@@ -1,16 +1,17 @@
 ---
-title: "The Association Between Travel Behavior and Urban Form"
+title: "The Association Between Travel and Urban Form"
 author: "Shen Qu"
-date: "2021-10-13T04:04:10Z"
-tags: [Package]
+date: "2021-10-18T05:33:32Z"
+tags: [Package, Models]
 link: "https://bookdown.org/qushen/field_paper/"
-length_weight: "31.6%"
+length_weight: "32.5%"
 repo: "qushen26/field_paper"
 pinned: false
 ---
 
-This is a field paper using the bookdown package. The output format for this example is bookdown::gitbook. [...] This field paper is for discussing the relationship between travel behavior and urban form.1
+This is a field paper using the bookdown package. The output format for this example is bookdown::gitbook. [...] This field paper is for discussing the relationship between travel and urban form.1
+The initial motivation is curious about how the travel distance is affected by urban densities.
+Is this relationship existed universally or just context-dependent?
+Are these models in literature replicable or reproducible?
 Part I reviews the related literature and tries to cover the main theories and research in this field.
-Daily Driving Distance as the variable of interest, is associated with many factors including urban form variables.
-The discussion will gradually narrow down to the association between driving distance and urban density.
-Instead of using very high dimension model or synthesized ...
+Travel patterns or behaviors as the variable of interest, is associated with ...
