@@ -1,10 +1,10 @@
 ---
 title: "Making Sense of Data with R"
 author: "Yi Shang"
-date: "2021-10-06T02:20:06Z"
+date: "2021-10-21T03:40:02Z"
 tags: [Course, Education]
 link: "https://bookdown.org/yshang/book/"
-length_weight: "26.4%"
+length_weight: "26.6%"
 pinned: false
 ---
 
