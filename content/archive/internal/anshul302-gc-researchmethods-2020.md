@@ -1,9 +1,9 @@
 ---
 title: "Research methods introduction for genetic counseling students (Fall 2021)"
 author: "Anshul Kumar"
-date: "2021-10-21T05:37:03Z"
+date: "2021-10-28T00:18:37Z"
 link: "https://bookdown.org/anshul302/GC-ResearchMethods-2020/"
-length_weight: "21.1%"
+length_weight: "21.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
