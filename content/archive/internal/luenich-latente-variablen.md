@@ -1,10 +1,10 @@
 ---
 title: "Kurshandbuch"
 author: "Marco Lünich, M.Sc."
-date: "2021-10-18T18:09:54Z"
+date: "2021-10-22T07:10:07Z"
 tags: [Seminar]
 link: "https://bookdown.org/luenich/Latente_Variablen/"
-length_weight: "25.1%"
+length_weight: "25%"
 pinned: false
 ---
 

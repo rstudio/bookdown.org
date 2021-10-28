@@ -1,7 +1,7 @@
 ---
 title: "Lean Seis Sigma"
 author: "asun_mayoral"
-date: "2021-10-15T10:23:06Z"
+date: "2021-10-25T10:54:08Z"
 link: "https://bookdown.org/asun_mayoral/book-l6s/"
 length_weight: "38.3%"
 pinned: false

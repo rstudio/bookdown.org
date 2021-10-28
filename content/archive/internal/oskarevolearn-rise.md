@@ -1,7 +1,7 @@
 ---
 title: "A Ritual Lens Reveals the Importance of Embeddedness for Understanding Community Health Workers"
 author: "Oskar Burger, Faiz Hashmi, Palash Singh, Hannah Lunkenheimer, Maciej J. Danko, Tracy Johnson, Cristine Legare"
-date: "2021-10-18T20:48:34Z"
+date: "2021-10-25T15:49:48Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/oskarevolearn/rise/"
 length_weight: "100%"
