@@ -4,7 +4,7 @@ author: "Benjamin Meyer (ben@kenaiwatershed.org)"
 date: "2021-10-14T20:13:52Z"
 tags: [Package]
 link: "https://bookdown.org/kwfwqx/Miller_Creek_Vogel_Lake_Water_Quality/"
-length_weight: "6.8%"
+length_weight: "6%"
 pinned: false
 ---
 

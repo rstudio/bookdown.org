@@ -4,7 +4,7 @@ author: "Rubén Fernández Casal (ruben.fcasal@udc.es), Julián Costa Bouzas (ju
 date: "2021-10-13"
 tags: [Github]
 link: "https://rubenfcasal.github.io/aprendizaje_estadistico/"
-length_weight: "25.8%"
+length_weight: "22.7%"
 repo: "rubenfcasal/aprendizaje_estadistico"
 pinned: false
 ---

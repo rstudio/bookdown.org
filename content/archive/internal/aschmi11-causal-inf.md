@@ -4,7 +4,7 @@ author: "Anthony Schmidt"
 date: "2020-07-28T03:12:47Z"
 tags: [Education, Data Analysis]
 link: "https://bookdown.org/aschmi11/causal_inf/"
-length_weight: "19%"
+length_weight: "16.7%"
 pinned: false
 ---
 

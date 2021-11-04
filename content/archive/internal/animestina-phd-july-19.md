@@ -4,7 +4,7 @@ author: "Anastasia Ushakova and Emma Waterston"
 date: "2019-06-28T12:50:18Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/animestina/phd_july_19/"
-length_weight: "5%"
+length_weight: "4.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

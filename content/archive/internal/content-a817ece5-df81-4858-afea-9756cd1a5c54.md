@@ -4,7 +4,7 @@ author: "Filip Wästberg"
 date: "2019-09-17T17:28:05Z"
 tags: [Package]
 link: "https://bookdown.org/content/a817ece5-df81-4858-afea-9756cd1a5c54/"
-length_weight: "32.2%"
+length_weight: "28.3%"
 pinned: false
 ---
 

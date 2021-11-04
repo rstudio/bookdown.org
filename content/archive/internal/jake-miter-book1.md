@@ -3,7 +3,7 @@ title: "Should I Stay or Should I Go? Retaining A World-Class Workforce at Thriv
 author: "Jake Miter"
 date: "2020-07-24T02:20:38Z"
 link: "https://bookdown.org/jake_miter/book1/"
-length_weight: "10.2%"
+length_weight: "9%"
 pinned: false
 ---
 

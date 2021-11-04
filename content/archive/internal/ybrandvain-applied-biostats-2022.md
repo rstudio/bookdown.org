@@ -4,7 +4,7 @@ author: "Yaniv Brandvain"
 date: "2021-10-19T21:10:49Z"
 tags: [Textbook]
 link: "https://bookdown.org/ybrandvain/Applied_Biostats_2022/"
-length_weight: "8.2%"
+length_weight: "7.2%"
 repo: "ybrandvain/book_3272_2022"
 pinned: false
 ---

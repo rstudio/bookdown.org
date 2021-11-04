@@ -3,7 +3,7 @@ title: "ABJ Syllabus"
 author: "Associação Brasileira de Jurimetria"
 date: "2017-10-23T19:12:05Z"
 link: "https://bookdown.org/fcorrea/bookdown/"
-length_weight: "5.2%"
+length_weight: "4.6%"
 pinned: false
 ---
 

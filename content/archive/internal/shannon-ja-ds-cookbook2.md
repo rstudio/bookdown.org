@@ -4,7 +4,7 @@ author: "Shannon Carter & David McClendon"
 date: "2021-08-26T16:16:34Z"
 tags: [Data Science]
 link: "https://bookdown.org/shannon/ja_ds_cookbook2/"
-length_weight: "6.6%"
+length_weight: "5.8%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Boyoung Kim(202AIE06)"
 date: "2020-09-26T14:21:27Z"
 tags: [Education, ggplot2, Package]
 link: "https://bookdown.org/boyoungbk/hw1/"
-length_weight: "4.4%"
+length_weight: "3.9%"
 pinned: false
 ---
 

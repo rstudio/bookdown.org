@@ -3,7 +3,7 @@ title: "Krisenmanagement Buch"
 author: "multiple"
 date: "2020-03-26T16:53:45Z"
 link: "https://bookdown.org/julien79colomb/lehrbuch-krisenmanagment/"
-length_weight: "27.2%"
+length_weight: "23.9%"
 pinned: false
 ---
 

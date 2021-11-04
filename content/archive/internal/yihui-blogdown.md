@@ -4,7 +4,7 @@ author: "Yihui Xie, Amber Thomas, Alison Presmanes Hill"
 date: "2021-09-29T03:57:29Z"
 tags: [R Markdown, Guide, Package, Github]
 link: "https://bookdown.org/yihui/blogdown/"
-length_weight: "33.8%"
+length_weight: "29.8%"
 cover: "https://bookdown.org/yihui/blogdown/images/cover.png"
 repo: "rstudio/blogdown"
 pinned: true

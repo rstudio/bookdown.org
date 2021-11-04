@@ -3,7 +3,7 @@ title: "EDAV Final Project - Chess Analysis"
 author: "Hanlin Tong, Wendy Qian, Yishi Wang"
 date: "2020-12-18T14:34:41Z"
 link: "https://bookdown.org/pq2142/finalproj/"
-length_weight: "8.3%"
+length_weight: "7.3%"
 pinned: false
 ---
 

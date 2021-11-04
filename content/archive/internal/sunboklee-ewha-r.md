@@ -1,10 +1,10 @@
 ---
 title: "R @ Ewha (Sunbok Lee)"
 author: "Sunbok Lee"
-date: "2021-09-20T02:39:28Z"
+date: "2021-11-01T00:48:59Z"
 tags: [Course, Data Science, Social Science, Package]
 link: "https://bookdown.org/sunboklee/ewha_r/"
-length_weight: "17.1%"
+length_weight: "30%"
 pinned: false
 ---
 

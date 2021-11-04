@@ -3,7 +3,7 @@ title: "Talleres NetLogo Modelación basada en Agentes"
 author: "Alfonso Meléndez"
 date: "2020-07-27T15:34:19Z"
 link: "https://bookdown.org/jamelende/TalleresMobaBookDown/"
-length_weight: "20.6%"
+length_weight: "18.1%"
 pinned: false
 ---
 

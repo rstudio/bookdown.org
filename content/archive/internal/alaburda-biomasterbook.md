@@ -4,7 +4,7 @@ author: "Paulius Alaburda"
 date: "2017-06-26T08:50:47Z"
 tags: [Guide, Biology]
 link: "https://bookdown.org/Alaburda/BioMasterBook/"
-length_weight: "11.7%"
+length_weight: "10.3%"
 pinned: false
 ---
 

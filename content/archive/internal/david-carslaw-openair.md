@@ -4,7 +4,7 @@ author: "David C. Carslaw"
 date: "2021-04-26T17:07:47Z"
 tags: [Package]
 link: "https://bookdown.org/david_carslaw/openair/"
-length_weight: "13.6%"
+length_weight: "12%"
 cover: "https://bookdown.org/david_carslaw/openair/images/cover.png"
 repo: "davidcarslaw/openair-book"
 pinned: false

@@ -4,7 +4,7 @@ author: "Jena University Hospital, Institute of Medical Statistics, Computer and
 date: "2021-04-27T11:57:00Z"
 tags: [Course, Seminar]
 link: "https://bookdown.org/palmjulia/r_intro_exercises/"
-length_weight: "6.9%"
+length_weight: "6.1%"
 pinned: false
 ---
 

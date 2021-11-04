@@ -4,7 +4,7 @@ author: "Jorge Herrera de la Cruz"
 date: "2021-10-25T11:54:27Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/libro_MATES_I_UCM/"
-length_weight: "27.4%"
+length_weight: "24.1%"
 pinned: false
 ---
 

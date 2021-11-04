@@ -4,7 +4,7 @@ author: ""
 date: "2021-01-29T07:23:47Z"
 tags: [Guide]
 link: "https://bookdown.org/sveinungarnesen78/nordforsk-survey/"
-length_weight: "30.2%"
+length_weight: "26.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

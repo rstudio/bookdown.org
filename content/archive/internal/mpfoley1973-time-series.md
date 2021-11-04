@@ -1,10 +1,10 @@
 ---
 title: "Time Series Analysis"
 author: "Michael Foley"
-date: "2021-08-09T09:58:31Z"
+date: "2021-10-30T14:17:33Z"
 tags: [Forecasting, Models]
 link: "https://bookdown.org/mpfoley1973/time-series/"
-length_weight: "21.9%"
+length_weight: "10%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Oliver Yu-You Liou, MStat, MS, BS, BA"
 date: "2021-10-13T03:04:03Z"
 tags: [臺灣]
 link: "https://bookdown.org/yyl/web/"
-length_weight: "10%"
+length_weight: "8.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

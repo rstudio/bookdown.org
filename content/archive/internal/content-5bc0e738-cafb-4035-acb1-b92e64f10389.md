@@ -4,7 +4,7 @@ author: "The IsoriX core Team"
 date: "2020-09-15T19:49:35Z"
 tags: [Package]
 link: "https://bookdown.org/content/5bc0e738-cafb-4035-acb1-b92e64f10389/"
-length_weight: "18.4%"
+length_weight: "16.2%"
 repo: "courtiol/IsoriX"
 pinned: false
 ---

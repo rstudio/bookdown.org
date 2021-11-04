@@ -4,7 +4,7 @@ author: "罗飞"
 date: "2020-10-15T14:29:00Z"
 tags: [笔记, Python]
 link: "https://bookdown.org/luofei/rnotebook/"
-length_weight: "12%"
+length_weight: "10.6%"
 repo: "luofeicq/Rnotebook"
 pinned: false
 ---

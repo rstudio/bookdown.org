@@ -3,7 +3,7 @@ title: "Exploration de données avec R"
 author: "ael"
 date: "2021-10-19T17:09:06Z"
 link: "https://bookdown.org/ael/rexplor/"
-length_weight: "7.1%"
+length_weight: "6.2%"
 pinned: false
 ---
 

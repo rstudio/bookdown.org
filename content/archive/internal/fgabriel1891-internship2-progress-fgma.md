@@ -3,7 +3,7 @@ title: "Advances on the analysis on connectivity of Raphia taedigera palm swamps
 author: "Gabriel Muñoz"
 date: "2017-03-13T17:08:05Z"
 link: "https://bookdown.org/fgabriel1891/Internship2_progress_FGMA/"
-length_weight: "5%"
+length_weight: "4.4%"
 pinned: false
 ---
 

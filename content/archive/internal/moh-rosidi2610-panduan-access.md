@@ -4,7 +4,7 @@ author: "Technaut"
 date: "2020-03-23T10:25:10Z"
 tags: [Data Science]
 link: "https://bookdown.org/moh_rosidi2610/panduan_access/"
-length_weight: "11.4%"
+length_weight: "10%"
 pinned: false
 ---
 

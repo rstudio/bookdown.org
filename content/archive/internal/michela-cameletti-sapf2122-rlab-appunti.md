@@ -3,7 +3,7 @@ title: "Statistica Applicata per la Finanza - 2021/22"
 author: "Michela Cameletti"
 date: "2021-10-16T08:38:28Z"
 link: "https://bookdown.org/michela_cameletti/sapf2122_rlab_appunti/"
-length_weight: "9%"
+length_weight: "8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

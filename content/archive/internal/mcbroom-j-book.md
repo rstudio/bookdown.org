@@ -4,7 +4,7 @@ author: "James McBroom"
 date: "2020-12-05T23:02:38Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/mcbroom_j/Book/"
-length_weight: "14.8%"
+length_weight: "13.1%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "國立臺北大學 林茂廷老師"
 date: "2019-11-21T03:54:11Z"
 tags: [Package]
 link: "https://bookdown.org/tpemartin/108-1-emajor/"
-length_weight: "13.1%"
+length_weight: "11.5%"
 pinned: false
 ---
 

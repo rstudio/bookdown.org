@@ -4,7 +4,7 @@ author: "于淼"
 date: "2020-08-19T21:57:08Z"
 tags: [数据分析, 笔记]
 link: "https://bookdown.org/yufree/datadown/"
-length_weight: "37.7%"
+length_weight: "33.2%"
 pinned: false
 ---
 

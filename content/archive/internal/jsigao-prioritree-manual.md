@@ -4,7 +4,7 @@ author: "Jiansi Gao, Michael R. May, Bruce Rannala, Brian R. Moore"
 date: "2021-03-05T01:19:02Z"
 tags: [Geographic, Shiny, Models]
 link: "https://bookdown.org/jsigao/PrioriTree_manual/"
-length_weight: "17.4%"
+length_weight: "15.3%"
 pinned: false
 ---
 

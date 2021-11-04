@@ -4,7 +4,7 @@ author: "Carson Sievert"
 date: "2019-12-19"
 tags: [Visualization, Shiny, Guide, Data Analysis, Package, Data Science, Tidyverse]
 link: "https://plotly-book.cpsievert.me/"
-length_weight: "23.5%"
+length_weight: "20.7%"
 cover: "https://plotly-book.cpsievert.me/crc-cover.png"
 repo: "ropensci/plotly"
 pinned: false

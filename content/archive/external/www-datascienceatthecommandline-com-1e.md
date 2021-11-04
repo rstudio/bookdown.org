@@ -4,7 +4,7 @@ author: "Jeroen Janssens"
 date: "2020-12-21"
 tags: [Data Science, Guide]
 link: "https://www.datascienceatthecommandline.com/1e/"
-length_weight: "20.4%"
+length_weight: "18%"
 cover: "https://www.datascienceatthecommandline.com/1e/images/cover.png"
 repo: "jeroenjanssens/data-science-at-the-command-line"
 pinned: true
