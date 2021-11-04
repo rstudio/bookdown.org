@@ -3,7 +3,7 @@ title: "DEMOVATE Survey 2020"
 author: "Daniel Instebø og Sveinung Arnesen"
 date: "2020-04-01T10:58:42Z"
 link: "https://bookdown.org/danielno/DEMOVATE/"
-length_weight: "12%"
+length_weight: "10.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

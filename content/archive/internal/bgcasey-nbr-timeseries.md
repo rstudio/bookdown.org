@@ -3,7 +3,7 @@ title: "Extract spectral regeneration data using Google Earth Engine"
 author: "Brendan Casey"
 date: "2021-10-05T23:35:50Z"
 link: "https://bookdown.org/bgcasey/NBR_timeSeries/"
-length_weight: "28%"
+length_weight: "24.6%"
 repo: "https://github.com/bgcasey/chapter_3"
 pinned: false
 ---

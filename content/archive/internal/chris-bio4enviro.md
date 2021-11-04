@@ -4,7 +4,7 @@ author: "cjlortie"
 date: "2021-09-23T14:31:02Z"
 tags: [Biology, Guide, Course]
 link: "https://bookdown.org/chris/bio4enviro/"
-length_weight: "13.2%"
+length_weight: "11.6%"
 pinned: false
 ---
 

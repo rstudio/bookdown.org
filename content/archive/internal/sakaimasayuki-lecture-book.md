@@ -1,9 +1,9 @@
 ---
 title: "2021年秋期：データサイエンス"
 author: "Masayuki Sakai"
-date: "2021-10-24T08:02:29Z"
+date: "2021-11-03T12:58:56Z"
 link: "https://bookdown.org/sakaimasayuki/lecture-book/"
-length_weight: "20%"
+length_weight: "20.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

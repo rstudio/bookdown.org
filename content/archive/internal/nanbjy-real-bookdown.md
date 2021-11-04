@@ -4,7 +4,7 @@ author: "John Doe"
 date: "2021-09-28T14:54:41Z"
 tags: [Package]
 link: "https://bookdown.org/nanbjy/real_bookdown/"
-length_weight: "6%"
+length_weight: "5.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

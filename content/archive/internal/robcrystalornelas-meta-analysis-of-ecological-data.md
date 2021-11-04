@@ -1,10 +1,10 @@
 ---
 title: "Meta-analysis of Ecological Data in R"
 author: "Rob Crystal-Ornelas, PhD"
-date: "2021-10-25T16:09:52Z"
+date: "2021-10-28T14:54:10Z"
 tags: [Meta-Analysis, Guide, Ecology]
 link: "https://bookdown.org/robcrystalornelas/meta-analysis_of_ecological_data/"
-length_weight: "8.1%"
+length_weight: "9%"
 repo: "robcrystalornelas/meta-analysis_of_ecological_data"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "OpenQuants.com"
 date: "2019-12-16T03:31:41Z"
 tags: [Data Analysis, Machine Learning, Guide]
 link: "https://bookdown.org/souzatharsis/open-quant-live-book/"
-length_weight: "21.1%"
+length_weight: "18.6%"
 cover: "https://bookdown.org/souzatharsis/open-quant-live-book/./fig/cover.jpg"
 repo: "souzatharsis/open-quant-live-book"
 pinned: false

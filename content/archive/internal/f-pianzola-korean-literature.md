@@ -4,7 +4,7 @@ author: "Wayne de Fremery"
 date: "2021-04-11T20:15:12Z"
 tags: [Course]
 link: "https://bookdown.org/f_pianzola/Korean_literature/"
-length_weight: "29.8%"
+length_weight: "26.3%"
 pinned: false
 ---
 

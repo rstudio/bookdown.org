@@ -3,7 +3,7 @@ title: "Interactive Teaching Techniques"
 author: "Teaching & Learning Centre"
 date: "2020-08-11"
 link: "https://tlc-uva.github.io/Interactive_Teaching_Techniques/"
-length_weight: "12%"
+length_weight: "10.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

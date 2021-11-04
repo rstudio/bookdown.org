@@ -1,12 +1,12 @@
 ---
 title: "Clinical Inquiry"
 author: "Sean Collins"
-date: "2021-10-06T19:43:26Z"
-tags: [Package]
+date: "2021-11-02T12:20:13Z"
+tags: [Package, Course]
 link: "https://bookdown.org/scollinspt/Clinical_Inquiry/"
-length_weight: "14.7%"
+length_weight: "13.2%"
 repo: "scollinspt/Clinical_Inquiry"
 pinned: false
 ---
 
-This is the first step towards creating a book for Clinical Inquiry based on a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook. Clinical Inquiry: Integration for Practice is a work in progress that presents a system of clinical logic, epistemology and reasoning (CLEaR) founded on the belief that it is necessary to develop theory and practice in conjunction not in isolation. A clinical inquiry that provides integration for practice. While thinking about these topics has been a career long endeavor, writing about it started ...
+This is the first step towards creating a book for Clinical Inquiry based on a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook. [...] Clinical Inquiry is a book writing project that aims to provide a book for the Clinical Inquiry course sequence (I, II, III) in the Plymouth State University DPT program. Writing occurs intermittently and largely when the author is teaching the courses in the sequence when he is working on the concepts with students and providing them with notes to supplement class discussions. Clinical ...

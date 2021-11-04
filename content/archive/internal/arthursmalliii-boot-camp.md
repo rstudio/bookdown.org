@@ -4,7 +4,7 @@ author: "Arthur Small, Principal Scientist"
 date: "2021-06-09T11:18:30Z"
 tags: [Data Science, Course]
 link: "https://bookdown.org/arthursmalliii/boot-camp/"
-length_weight: "9.9%"
+length_weight: "8.7%"
 pinned: false
 ---
 

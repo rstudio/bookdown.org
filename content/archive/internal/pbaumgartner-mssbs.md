@@ -4,7 +4,7 @@ author: "Peter Baumgartner"
 date: "2019-11-01T17:40:15Z"
 tags: [Statistics]
 link: "https://bookdown.org/pbaumgartner/mssbs/"
-length_weight: "5.9%"
+length_weight: "5.2%"
 cover: "https://bookdown.org/pbaumgartner/mssbs/images/MSSBS-Notes-cover-min.jpg"
 pinned: false
 ---

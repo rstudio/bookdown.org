@@ -4,7 +4,7 @@ author: "Gavin Masterson"
 date: "2021-07-20T16:31:20Z"
 tags: [Visualization, Course, ggplot2, Package]
 link: "https://bookdown.org/gavinmasterson/dvfc/"
-length_weight: "23.3%"
+length_weight: "20.5%"
 pinned: false
 ---
 

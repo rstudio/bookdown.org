@@ -4,7 +4,7 @@ author: "Jacob Kaplan"
 date: "2021-07-06"
 tags: [Guide]
 link: "https://r4crim.com/"
-length_weight: "26.5%"
+length_weight: "23.3%"
 repo: "jacobkap/crimebythenumbers"
 pinned: false
 ---

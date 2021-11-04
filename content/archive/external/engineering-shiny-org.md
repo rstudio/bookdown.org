@@ -4,7 +4,7 @@ author: "Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard"
 date: ""
 tags: [Shiny]
 link: "https://engineering-shiny.org/"
-length_weight: "26%"
+length_weight: "22.9%"
 cover: "https://raw.githubusercontent.com/ThinkR-open/engineering-shiny-book/master/img/engineering-shiny.jpg"
 repo: "ThinkR-open/engineering-shiny-book"
 pinned: true

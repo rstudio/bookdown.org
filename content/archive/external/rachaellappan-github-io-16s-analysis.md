@@ -4,7 +4,7 @@ author: "R.Lappan"
 date: ""
 tags: [Sequencing]
 link: "https://rachaellappan.github.io/16S-analysis/"
-length_weight: "13.8%"
+length_weight: "12.2%"
 repo: "rachaellappan/16S-analysis"
 pinned: false
 ---

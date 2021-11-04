@@ -4,7 +4,7 @@ author: "Derek L. Sonderegger"
 date: "2021-05-27T18:48:58Z"
 tags: [Exploratory Data Analysis, Visualization]
 link: "https://bookdown.org/dereksonderegger/141/"
-length_weight: "27.6%"
+length_weight: "24.3%"
 repo: "dereksonderegger/141"
 pinned: false
 ---

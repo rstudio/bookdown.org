@@ -1,9 +1,9 @@
 ---
 title: "Designcraft for experiments"
 author: "cjlortie"
-date: "2021-07-09T22:28:37Z"
+date: "2021-11-04T00:09:49Z"
 link: "https://bookdown.org/chris/designcraft4experiments/"
-length_weight: "12.7%"
+length_weight: "10.8%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Wesley Wehde, Hank Jenkins-Smith, Joseph Ripberger, Gary Copeland, Matt
 date: "2020-01-16T17:42:48Z"
 tags: [Textbook]
 link: "https://bookdown.org/wwwehde/qrm_textbook_updates/"
-length_weight: "4.4%"
+length_weight: "3.8%"
 pinned: false
 ---
 

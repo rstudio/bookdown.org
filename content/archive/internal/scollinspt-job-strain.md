@@ -3,7 +3,7 @@ title: "Job Strain"
 author: "Sean Collins"
 date: "2021-10-06T22:54:09Z"
 link: "https://bookdown.org/scollinspt/Job-Strain/"
-length_weight: "21.9%"
+length_weight: "19.2%"
 pinned: false
 ---
 

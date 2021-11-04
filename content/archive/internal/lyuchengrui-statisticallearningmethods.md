@@ -4,7 +4,7 @@ author: "lcrfromfzu@qq.com"
 date: "2018-04-08T01:57:51Z"
 tags: [Package]
 link: "https://bookdown.org/lyuchengrui/statisticallearningmethods/"
-length_weight: "35.1%"
+length_weight: "30.9%"
 pinned: false
 ---
 

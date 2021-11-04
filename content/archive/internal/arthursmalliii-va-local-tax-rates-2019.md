@@ -4,7 +4,7 @@ author: "Stephen C. Kulp, Weldon Cooper Center for Public Service, University of
 date: "2021-08-22T21:11:49Z"
 tags: [Guide]
 link: "https://bookdown.org/arthursmalliii/va-local-tax-rates-2019/"
-length_weight: "7.6%"
+length_weight: "6.7%"
 cover: "https://bookdown.org/arthursmalliii/va-local-tax-rates-2019/cover.png"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Lisa Lechner"
 date: "2021-03-19T19:00:42Z"
 tags: [Statistics]
 link: "https://bookdown.org/lechnerlima/statistik_vo_2021/"
-length_weight: "5.2%"
+length_weight: "4.6%"
 repo: "LisaLechner/statistik"
 pinned: false
 ---

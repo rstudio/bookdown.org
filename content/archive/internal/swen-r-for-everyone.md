@@ -4,7 +4,7 @@ author: "Shaoshuang Wen, University of South Carolina,"
 date: "2021-02-04T08:29:55Z"
 tags: [Data Science, Course]
 link: "https://bookdown.org/swen/R_for_Everyone/"
-length_weight: "19.2%"
+length_weight: "16.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

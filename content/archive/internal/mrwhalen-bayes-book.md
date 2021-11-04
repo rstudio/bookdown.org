@@ -4,7 +4,7 @@ author: "Matthew Whalen"
 date: "2020-08-28T20:30:31Z"
 tags: [Package]
 link: "https://bookdown.org/mrwhalen/bayes_book/"
-length_weight: "23.3%"
+length_weight: "20.5%"
 pinned: false
 ---
 

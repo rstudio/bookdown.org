@@ -4,7 +4,7 @@ author: "UK Public Health Rapid Support Team"
 date: "2021-08-05T15:48:50Z"
 tags: [Course]
 link: "https://bookdown.org/dsbkennedy/AfricaCDCRTraining/"
-length_weight: "21.9%"
+length_weight: "19.3%"
 pinned: false
 ---
 

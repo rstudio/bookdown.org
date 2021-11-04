@@ -3,7 +3,7 @@ title: "Austrian Long Term Growth Report"
 author: "Austrian Economic Committee"
 date: "2020-04-22T13:49:25Z"
 link: "https://bookdown.org/jose_lipis36/_main/"
-length_weight: "13.7%"
+length_weight: "12.1%"
 pinned: false
 ---
 
