@@ -1,7 +1,7 @@
 ---
 title: "Uma Introdução à Programação com o R"
 author: "Jessica Kubrusly"
-date: "2021-10-28T01:45:16Z"
+date: "2021-11-05T15:26:45Z"
 link: "https://bookdown.org/jessicakubrusly/programacao-estatistica/"
 length_weight: "34%"
 pinned: false

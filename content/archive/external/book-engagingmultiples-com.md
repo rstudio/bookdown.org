@@ -4,7 +4,7 @@ author: "David Yeung"
 date: "2020-04-22"
 tags: [Psychology]
 link: "https://book.engagingmultiples.com/"
-length_weight: "0%"
+length_weight: "27.4%"
 pinned: false
 ---
 
