@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning: Teoría y Práctica"
 author: "Víctor Morales-Oñate"
-date: "2021-11-10T05:15:59Z"
+date: "2021-11-15T11:54:06Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/victor_morales/TecnicasML/"
-length_weight: "28.4%"
+length_weight: "29.6%"
 pinned: false
 ---
 
