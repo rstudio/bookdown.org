@@ -1,10 +1,10 @@
 ---
 title: "CS5702 Modern Data Book"
 author: "Martin Shepperd"
-date: "2020-12-14T15:21:01Z"
+date: "2021-11-16T14:21:11Z"
 tags: [Course, Data Science, Package]
 link: "https://bookdown.org/martin_shepperd/ModernDataBook/"
-length_weight: "26.1%"
+length_weight: "23.5%"
 cover: "https://bookdown.org/martin_shepperd/ModernDataBook/images/KandinskyCarsCover.png"
 pinned: false
 ---

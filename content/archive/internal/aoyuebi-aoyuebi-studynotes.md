@@ -1,10 +1,10 @@
 ---
 title: "Aoyue Bi’s Study Notes"
 author: "Aoyue Bi"
-date: "2021-06-01T01:33:46Z"
+date: "2021-08-28T07:09:15Z"
 tags: [Biology]
 link: "https://bookdown.org/aoyuebi/AoyueBi_StudyNotes/"
-length_weight: "8.4%"
+length_weight: "8.3%"
 pinned: false
 ---
 

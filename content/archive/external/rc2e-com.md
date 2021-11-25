@@ -4,7 +4,7 @@ author: "James (JD) Long, Paul Teetor"
 date: "2019-09-26"
 tags: [Statistics, Package]
 link: "https://rc2e.com/"
-length_weight: "34.1%"
+length_weight: "28.8%"
 cover: "https://rc2e.com/images_v2/book_cover.jpg"
 repo: "CerebralMastication/R-Cookbook"
 pinned: false
@@ -17,4 +17,4 @@ implementation is the collective accomplishment of many intelligent,
 hard-working people. There are more than 10,000 available add-on packages, and R
 is a serious rival to all commercial statistical packages. But R can be frustrating. It’s not obvious how to accomplish many tasks,
 even simple ones. The simple tasks are easy once you know how, yet
-figuring ...
+figuring out that  ...

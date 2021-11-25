@@ -4,7 +4,7 @@ author: "Gary Napier"
 date: "2020-08-31T07:15:53Z"
 tags: [Course]
 link: "https://bookdown.org/gary_a_napier/induction_-_introduction_to_r/"
-length_weight: "8.4%"
+length_weight: "7.2%"
 pinned: false
 ---
 

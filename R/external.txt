@@ -43,6 +43,7 @@ https://epirhandbook.com/
 https://est-mult.netlify.com/
 https://f0nzie.github.io/rtorch-minimal-book/
 https://fg2re.sellorm.com/
+https://forwards.github.io/rdevguide
 https://geanders.github.io/navy_public_health/
 https://gedevan-aleksizde.github.io/Japan.R2019/
 https://gedevan-aleksizde.github.io/rmarkdown-cookbook/
@@ -97,8 +98,6 @@ https://ready4r.netlify.app/labbook/
 https://rkabacoff.github.io/datavis/
 https://rmd4sci.njtierney.com/
 https://ropensci.github.io/dev_guide/
-https://ropenscilabs.github.io/actions_sandbox/
-https://ropenscilabs.github.io/statistical-software-review-book/
 https://rpsystats.com/
 https://rs-aspr.netlify.com/
 https://rstats.wtf/
@@ -112,6 +111,7 @@ https://sctyner.github.io/OpenForSciR/
 https://smltar.com/
 https://soilmapper.org/
 https://sparkfromr.com/
+https://stats-devguide.ropensci.org/
 https://statsthinking21.org/
 https://steverxd.github.io/Stat_tests/
 https://thefaylab.github.io/lab-manual/
@@ -137,4 +137,3 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://forwards.github.io/rdevguide

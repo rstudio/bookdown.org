@@ -4,7 +4,7 @@ author: "Roger D. Peng"
 date: "2020-05-01T19:43:39Z"
 tags: [Exploratory Data Analysis, Models, Multivariate]
 link: "https://bookdown.org/rdpeng/exdata/"
-length_weight: "33.5%"
+length_weight: "28.9%"
 cover: "https://bookdown.org/rdpeng/exdata/cover_sm.png"
 repo: "rdpeng/exdata"
 pinned: false

@@ -4,7 +4,7 @@ author: "See contributing.md"
 date: "2020-10-09T20:26:07Z"
 tags: [R Programming]
 link: "https://bookdown.org/jimr1603/Solutions_to_Project_Euler/"
-length_weight: "8.4%"
+length_weight: "7.3%"
 pinned: false
 ---
 

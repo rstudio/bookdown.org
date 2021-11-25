@@ -3,7 +3,7 @@ title: "Sentiment Analysis of 49 years of Warren Buffett’s Letters to Sharehol
 author: "Paul D. Sonkin"
 date: "2021-01-19T13:42:52Z"
 link: "https://bookdown.org/psonkin18/berkshire/"
-length_weight: "28.5%"
+length_weight: "24.6%"
 pinned: false
 ---
 

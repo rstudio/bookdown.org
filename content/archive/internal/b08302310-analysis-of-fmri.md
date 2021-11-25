@@ -4,7 +4,7 @@ author: "Lecturer: Chia-Feng Lu Course page:"
 date: "2021-07-27T16:01:21Z"
 tags: [Multivariate]
 link: "https://bookdown.org/b08302310/Analysis_of_fMRI/"
-length_weight: "6.9%"
+length_weight: "6%"
 pinned: false
 ---
 

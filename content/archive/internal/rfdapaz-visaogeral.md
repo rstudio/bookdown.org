@@ -3,7 +3,7 @@ title: "1 Introdução"
 author: ""
 date: "2020-11-29T14:09:28Z"
 link: "https://bookdown.org/rfdapaz/visaogeral/"
-length_weight: "5.9%"
+length_weight: "5.1%"
 pinned: false
 ---
 

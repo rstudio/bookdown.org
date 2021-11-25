@@ -3,7 +3,7 @@ title: "Épidémiologie 2 - Labo informatique R (PTM-6675)"
 author: "Simon Dufour (Professeur à la Faculté de Médecine vétérinaire de l'Université de Montréal)"
 date: "2021-02-11T22:39:27Z"
 link: "https://bookdown.org/simon_dufour/test2/"
-length_weight: "15.8%"
+length_weight: "13.7%"
 pinned: false
 ---
 

@@ -28,7 +28,7 @@ The [RStudio IDE](https://www.rstudio.com/products/rstudio/download/preview/) is
 
 ### 2. Edit
 
-One way to get started is to fork or clone the the repository <https://github.com/rstudio/bookdown-demo> (if you are not familiar with Git and GitHub, you can alternatively download it as a [zip file](https://github.com/rstudio/bookdown-demo/archive/master.zip) and unzip it). Alternatively, if you are using a recent version of the RStudio IDE, you can directly create a book project in the IDE.
+One way to get started is to fork or clone the the repository <https://github.com/rstudio/bookdown-demo> (if you are not familiar with Git and GitHub, you can alternatively download it as a [zip file](https://github.com/rstudio/bookdown-demo/archive/refs/heads/main.zip) and unzip it). Alternatively, if you are using a recent version of the RStudio IDE, you can directly create a book project in the IDE.
 
 ![Create a book project in RStudio](https://user-images.githubusercontent.com/163582/42904357-6a41de3e-8a9a-11e8-87d1-fee8b85a2dfc.png)
 
@@ -76,14 +76,14 @@ github-repo: "rstudio/bookdown-demo"
 cover-image: "images/cover.png"
 ```
 
-If your book is written with **bookdown** but not published to bookdown.org, you may edit the file [`R/staging.txt`](https://github.com/rstudio/bookdown.org/edit/master/R/staging.txt) (just click this link) on Github and submit a pull request ([an example](https://github.com/rstudio/bookdown.org/pull/13)). This will get your book listed on the archive page after we merge the pull request.
+If your book is written with **bookdown** but not published to bookdown.org, you may edit the file [`R/staging.txt`](https://github.com/rstudio/bookdown.org/edit/main/R/staging.txt) (just click this link) on Github and submit a pull request ([an example](https://github.com/rstudio/bookdown.org/pull/13)). This will get your book listed on the archive page after we merge the pull request.
 
 Books on the bookdown.org homepage are selected manually by us according to their quality and completeness. If you want your book to be featured on the homepage (ideally the book has been published or is at least nearly finished), please submit a pull request as mentioned in the previous step to list it on the archive page. If it looks good to us, we will be happy to list it on the homepage.
 
-If you don't want your book to be publicly listed on bookdown.org, you may either request us to remove it from the list by editing the file [`R/exclude.txt`](https://github.com/rstudio/bookdown.org/edit/master/R/exclude.txt), or make the book private on bookdown.org:
+If you don't want your book to be publicly listed on bookdown.org, you may either request us to remove it from the list by editing the file [`R/exclude.txt`](https://github.com/rstudio/bookdown.org/edit/main/R/exclude.txt), or make the book private on bookdown.org:
 
 ![Make a book private on bookdown.org](https://user-images.githubusercontent.com/163582/43099998-9718029c-8e89-11e8-9abd-01934120d9dc.png)
 
-Books are also classified by [tags](/tags/) on this website. If you want your book to show up on a certain tag page, you need to make sure the tag appears in your book description (case-insensitive). To request a new tag to be added, you may edit the file [`R/tags.txt`](https://github.com/rstudio/bookdown.org/edit/master/R/tags.txt).
+Books are also classified by [tags](/tags/) on this website. If you want your book to show up on a certain tag page, you need to make sure the tag appears in your book description (case-insensitive). To request a new tag to be added, you may edit the file [`R/tags.txt`](https://github.com/rstudio/bookdown.org/edit/main/R/tags.txt).
 
 We hope you will enjoy **bookdown** and find this website useful. Looking forward to your own awesome books!

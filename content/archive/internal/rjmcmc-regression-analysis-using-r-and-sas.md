@@ -4,7 +4,7 @@ author: "Sungchan Kang"
 date: "2019-09-27T05:09:07Z"
 tags: [String]
 link: "https://bookdown.org/rjmcmc/regression_analysis_using_r_and_sas/"
-length_weight: "4.1%"
+length_weight: "3.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

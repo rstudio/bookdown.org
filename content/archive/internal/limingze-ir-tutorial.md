@@ -1,10 +1,10 @@
 ---
 title: "Methodology of Social Science & International Relations"
-author: "LI Mingze"
-date: "2020-11-27T09:33:45Z"
+author: "LiMingze"
+date: "2021-09-16T08:12:45Z"
 tags: [Social Science]
 link: "https://bookdown.org/LiMingze/ir_tutorial/"
-length_weight: "10.2%"
+length_weight: "8.8%"
 pinned: false
 ---
 
@@ -13,4 +13,4 @@ Q1: China first meet Greece Culture? Gandhara(犍陀罗) in Buddhism
 Q2: Suona originally come from? 5th harmony’s “Worth it”,Zurna(唢呐)
 Q3: David Vases and it’s relation with Chinese porcelian.(元青花)
 Q4: China first meet Christianity？ Kereit（克烈部）Nestorian
-Q5: Communist International in China, Heinz Neumann， ...
+Q5: Communist International in China, Otto Braun, ...

@@ -3,7 +3,7 @@ title: "K-Means Clustering"
 author: "Robert Goedegebuure"
 date: "2021-05-19T14:47:46Z"
 link: "https://bookdown.org/robert_statmind/kmeans_ebook/"
-length_weight: "11.2%"
+length_weight: "9.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

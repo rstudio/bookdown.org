@@ -4,7 +4,7 @@ author: "James Brophy"
 date: "2021-04-26T13:39:17Z"
 tags: [Epidemiology, Medicine, Statistics]
 link: "https://bookdown.org/jbrophy115/bookdown-clinepi/"
-length_weight: "34.1%"
+length_weight: "29.5%"
 repo: "brophyj/book_v1"
 pinned: false
 ---

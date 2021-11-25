@@ -3,7 +3,7 @@ title: "Responsabilidade Social no Exercício da Engenharia"
 author: "Vinicius Moreira"
 date: "2021-03-21T02:49:45Z"
 link: "https://bookdown.org/ViniciusMoreira/Responsabilidade-Social-no-Exercicio-da-Engenharia/"
-length_weight: "10.6%"
+length_weight: "9.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

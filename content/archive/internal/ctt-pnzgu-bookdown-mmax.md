@@ -4,7 +4,7 @@ author: "Митрохин Максим Александрович"
 date: "2019-05-14T08:21:40Z"
 tags: [Python]
 link: "https://bookdown.org/ctt_pnzgu/bookdown-mmax/"
-length_weight: "10.5%"
+length_weight: "9.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

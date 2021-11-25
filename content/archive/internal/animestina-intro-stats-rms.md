@@ -4,7 +4,7 @@ author: "Statistics Team, PPLS"
 date: "2019-07-23T13:32:25Z"
 tags: [Statistics, Course, Psychology]
 link: "https://bookdown.org/animestina/intro_stats_rms/"
-length_weight: "4.1%"
+length_weight: "3.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

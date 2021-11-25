@@ -4,7 +4,7 @@ author: "Дмитрий Городничий"
 date: "2019-02-05T20:08:08Z"
 tags: [Github]
 link: "https://bookdown.org/gorodnichy/detsky/"
-length_weight: "12.7%"
+length_weight: "11%"
 cover: "https://bookdown.org/gorodnichy/detsky/covers/cover-flowers.jpg"
 pinned: false
 ---

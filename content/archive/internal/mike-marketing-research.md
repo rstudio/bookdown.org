@@ -1,10 +1,12 @@
 ---
 title: "Marketing Research"
 author: "Mike Nguyen"
-date: "2021-05-01T20:59:52Z"
+date: "2021-11-22T20:20:22Z"
 tags: [Market]
 link: "https://bookdown.org/mike/marketing_research/"
-length_weight: "33.2%"
+length_weight: "100%"
+cover: "https://bookdown.org/mike/marketing_research/cover.jpg"
+repo: "mikenguyen13/marketing_research"
 pinned: false
 ---
 

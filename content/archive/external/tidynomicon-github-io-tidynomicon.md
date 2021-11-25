@@ -4,7 +4,7 @@ author: "Greg Wilson"
 date: "2021-01-11"
 tags: [Guide, Python, R Programming]
 link: "https://tidynomicon.github.io/tidynomicon/"
-length_weight: "21.9%"
+length_weight: "18.9%"
 repo: "gvwilson/tidynomicon"
 pinned: false
 ---
@@ -20,4 +20,5 @@ They only appear so because R draws on a tradition unfamiliar to those of us rai
 Counting from one,
 copying data rather than modifying it,
 lazy evaluation:
-to quote the other ...
+to quote the other bard,
+these are not ...

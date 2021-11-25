@@ -3,7 +3,7 @@ title: "FIN 473. Advanced Investments"
 author: "Adam Aiken"
 date: "2021-03-15T15:10:51Z"
 link: "https://bookdown.org/adam_aiken/advinv/"
-length_weight: "34.6%"
+length_weight: "29.9%"
 pinned: false
 ---
 

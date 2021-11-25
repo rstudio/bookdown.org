@@ -4,7 +4,7 @@ author: "DCR Infosel"
 date: "2021-08-10T20:12:26Z"
 tags: [Market, Statistics]
 link: "https://bookdown.org/dcr_infosel/catalogo_datos/"
-length_weight: "6.3%"
+length_weight: "5.4%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Arthur Small"
 date: "2021-04-21T13:07:37Z"
 tags: [Forecasting]
 link: "https://bookdown.org/arthursmalliii/tsf/"
-length_weight: "23%"
+length_weight: "19.9%"
 pinned: false
 ---
 

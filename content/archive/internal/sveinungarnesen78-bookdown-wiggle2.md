@@ -3,7 +3,7 @@ title: "The Status Quo Bias in Referendums"
 author: "Sveinung Arnesen, Troy S. Broderstad, Mikael P. Johannesson, Jonas Linde"
 date: "2019-02-12T14:24:35Z"
 link: "https://bookdown.org/sveinungarnesen78/Bookdown-wiggle2/"
-length_weight: "14.7%"
+length_weight: "12.7%"
 pinned: false
 ---
 

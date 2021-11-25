@@ -4,7 +4,7 @@ author: "Chris Sutherland, Dan Linden & Gates Dupont"
 date: "2020-08-13T22:41:58Z"
 tags: [Models]
 link: "https://bookdown.org/chrissuthy/oSCRvignettes/"
-length_weight: "16.1%"
+length_weight: "13.9%"
 pinned: false
 ---
 

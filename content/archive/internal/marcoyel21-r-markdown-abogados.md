@@ -4,7 +4,7 @@ author: "Marco Ramos"
 date: "2021-08-18T20:45:31Z"
 tags: [R Markdown]
 link: "https://bookdown.org/marcoyel21/r_markdown_abogados/"
-length_weight: "12.3%"
+length_weight: "10.7%"
 pinned: false
 ---
 

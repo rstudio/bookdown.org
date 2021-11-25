@@ -3,7 +3,7 @@ title: "Guía para usar Haver Analytics"
 author: "Victor Cuspinera"
 date: "2020-12-04T05:56:56Z"
 link: "https://bookdown.org/vcuspinera/Guide_Haver_Analytics/"
-length_weight: "9.2%"
+length_weight: "7.9%"
 repo: "vcuspinera/Guide_Haver_Analytics"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Sergio Berdiales, Javier Campos y Manuel Antonio García"
 date: "2019-06-21T07:03:03Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/sergioberdiales/hackathon_talento_reto_1_sunlab/"
-length_weight: "18.9%"
+length_weight: "16.3%"
 pinned: false
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Marketing Research - MKTG4000"
-author: "Jimmy Xu"
-date: "2021-01-25T04:28:47Z"
-tags: [Market, Course, Package, R Markdown]
+author: "Zhenning ‘Jimmy’ Xu"
+date: "2021-09-08T18:19:08Z"
+tags: [Market, Course]
 link: "https://bookdown.org/utjimmyx/marketing_research/"
-length_weight: "21.4%"
+length_weight: "18.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-This is an outline of the overall course structure for MKTG4000. [...] This is an early draft for my Marketing Research course (MKTG4000) at CSUB. The free mannual (outline) is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. “Despite the package name containing the word”book“, bookdown is not only for books. The”book" can be anything that consists of multiple R Markdown documents meant to be read in a linear sequence, such as course handouts, study notes, a software manual, a thesis, or even a diary." “You can’t build a reputation on what ...
+This is an outline of the overall course structure for MKTG4000. [...] This is an early draft for my Marketing Research course (MKTG4000) at CSUB. The free mannual (outline) is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. “The biggest challenge for the data scientist is to speak the language of the marketing department. We may face a lot of data challenges but the marketing team and the analytics team work in silos. One does not understand the other’s language and that’s a big communication gap. If there’s a way these two departments can ...

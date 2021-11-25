@@ -4,7 +4,7 @@ author: "Callum Arnold"
 date: "2019-08-15T21:48:32Z"
 tags: [Guide, Github, Course]
 link: "https://bookdown.org/arnold_c/repro-research/"
-length_weight: "15.7%"
+length_weight: "13.6%"
 repo: "arnold-c/reproducible-research"
 pinned: false
 ---

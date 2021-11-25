@@ -1,10 +1,10 @@
 ---
 title: "Guide R"
 author: "Marco Ramos"
-date: "2021-08-13T18:09:49Z"
+date: "2021-09-18T17:32:50Z"
 tags: [Guide]
 link: "https://bookdown.org/marcoyel21/bookdown_ramon/"
-length_weight: "11.5%"
+length_weight: "13.9%"
 pinned: false
 ---
 

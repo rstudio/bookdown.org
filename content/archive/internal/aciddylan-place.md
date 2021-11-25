@@ -3,7 +3,7 @@ title: "《地方: 記憶, 想像與認同》摘要"
 author: "陳奕達"
 date: "2021-06-04T11:50:41Z"
 link: "https://bookdown.org/aciddylan/place/"
-length_weight: "8.9%"
+length_weight: "7.7%"
 pinned: false
 ---
 

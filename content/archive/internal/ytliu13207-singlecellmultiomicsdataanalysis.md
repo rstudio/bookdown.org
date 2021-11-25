@@ -1,10 +1,10 @@
 ---
 title: "Single Cell Multi-Omics Data Analysis"
 author: "Yuting Liu"
-date: "2021-07-27T04:44:40Z"
+date: "2021-11-12T07:41:54Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis/"
-length_weight: "18.1%"
+length_weight: "19%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

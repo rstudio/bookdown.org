@@ -3,7 +3,7 @@ title: "QA of Code"
 author: "Joshua Halls"
 date: "2020-11-03T17:36:53Z"
 link: "https://bookdown.org/joshuah40/qa_code/"
-length_weight: "15.4%"
+length_weight: "13.3%"
 pinned: false
 ---
 

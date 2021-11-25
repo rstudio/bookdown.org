@@ -3,7 +3,7 @@ title: "2019 and 2020 Hybrid Maize x Teosinte Field Data"
 author: "Manisha Munasinghe"
 date: "2021-01-15T22:14:16Z"
 link: "https://bookdown.org/mmunasin/_hybrid_maize_phenotype_data/"
-length_weight: "21.1%"
+length_weight: "18.3%"
 pinned: false
 ---
 

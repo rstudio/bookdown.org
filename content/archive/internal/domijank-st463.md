@@ -4,7 +4,7 @@ author: "Katarina Domijan, Catherine Hurley"
 date: "2018-11-12T15:44:53Z"
 tags: [Models, Course, Statistics, Data Science, Data Analysis, R Programming, Package]
 link: "https://bookdown.org/domijank/ST463/"
-length_weight: "27.5%"
+length_weight: "23.7%"
 repo: "domijan/ST463LinearModels1"
 pinned: false
 ---

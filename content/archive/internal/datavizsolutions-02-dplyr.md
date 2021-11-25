@@ -4,7 +4,7 @@ author: "Jonathan Wong"
 date: "2017-07-16T15:20:29Z"
 tags: [Data Science, Visualization, Course, Tidyverse, Package]
 link: "https://bookdown.org/datavizsolutions/02-dplyr/"
-length_weight: "6%"
+length_weight: "5.1%"
 pinned: false
 ---
 

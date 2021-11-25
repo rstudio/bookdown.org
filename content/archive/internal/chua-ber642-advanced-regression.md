@@ -4,7 +4,7 @@ author: "Cheng Hua, Dr. Youn-Jeng Choi, Qingzhou Shi"
 date: "2020-10-27T19:47:22Z"
 tags: [Advanced R, Course, Statistics]
 link: "https://bookdown.org/chua/ber642_advanced_regression/"
-length_weight: "32.5%"
+length_weight: "28.1%"
 pinned: false
 ---
 

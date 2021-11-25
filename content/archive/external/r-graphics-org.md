@@ -1,10 +1,10 @@
 ---
 title: "R Graphics Cookbook, 2nd edition"
 author: "Winston Chang"
-date: "2021-08-18"
+date: "2021-09-23"
 tags: [Guide]
 link: "https://r-graphics.org/"
-length_weight: "25.2%"
+length_weight: "21.8%"
 cover: "https://r-graphics.org/cover.jpg"
 repo: "wch/rgcookbook"
 pinned: true

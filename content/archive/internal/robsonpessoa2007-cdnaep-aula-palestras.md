@@ -1,9 +1,9 @@
 ---
 title: "Aulas e Paletras - Ciência de Dados na Escola Pública"
 author: "Clarissa Narai e Robson Pessoa"
-date: "2021-08-09T17:40:37Z"
+date: "2021-10-18T01:05:21Z"
 link: "https://bookdown.org/robsonpessoa2007/cdnaep_aula_palestras/"
-length_weight: "5.5%"
+length_weight: "5.1%"
 pinned: false
 ---
 
