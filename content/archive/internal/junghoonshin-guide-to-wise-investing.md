@@ -1,7 +1,7 @@
 ---
 title: "Guide to Wise Investing"
 author: "Junghoon Shin"
-date: "2021-11-18T05:08:22Z"
+date: "2021-11-25T05:08:10Z"
 tags: [Guide, Market, Package]
 link: "https://bookdown.org/junghoonshin/guide-to-wise-investing/"
 length_weight: "11.1%"

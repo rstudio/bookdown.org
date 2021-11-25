@@ -1,10 +1,10 @@
 ---
 title: "2021 Introduction to Cognitive Modeling"
 author: "Chih-Chung Ting"
-date: "2021-11-17T11:15:30Z"
+date: "2021-11-24T12:40:23Z"
 tags: [Course]
 link: "https://bookdown.org/CMmaterials/2021_cognitivemodeling/"
-length_weight: "19.4%"
+length_weight: "21%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

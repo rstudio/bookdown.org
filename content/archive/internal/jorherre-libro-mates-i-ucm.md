@@ -1,10 +1,10 @@
 ---
 title: "Matemáticas I, UCM, Facultad de Económicas y Empresariales"
 author: "Jorge Herrera de la Cruz"
-date: "2021-10-25T11:54:27Z"
+date: "2021-11-21T22:58:09Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/libro_MATES_I_UCM/"
-length_weight: "24.1%"
+length_weight: "24.2%"
 pinned: false
 ---
 
