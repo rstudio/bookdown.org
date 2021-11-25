@@ -1,7 +1,7 @@
 ---
 title: "Data Visualization for International Relations"
 author: "Alfredo Hernandez Sanchez, PhD"
-date: "2021-11-14T19:13:54Z"
+date: "2021-11-22T17:15:22Z"
 tags: [Visualization, Course]
 link: "https://bookdown.org/alhdzsz/data_viz_ir/"
 length_weight: "3.9%"

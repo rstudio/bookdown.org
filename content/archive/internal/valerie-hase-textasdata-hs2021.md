@@ -1,10 +1,10 @@
 ---
 title: "Text as Data Methods in R - Applications for Automated Analyses of News Content"
 author: "Valerie Hase, IKMZ, University of Zurich"
-date: "2021-11-09T17:47:03Z"
+date: "2021-11-23T13:06:36Z"
 tags: [Seminar, Tutorial, Course]
 link: "https://bookdown.org/valerie_hase/TextasData_HS2021/"
-length_weight: "32.2%"
+length_weight: "32.7%"
 pinned: false
 ---
 

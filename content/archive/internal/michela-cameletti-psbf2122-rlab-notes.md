@@ -1,10 +1,10 @@
 ---
 title: "Probability and Statistics for Business and Finance - 2021/22"
 author: "Michela Cameletti and Raffaele Argiento"
-date: "2021-11-10T07:40:15Z"
+date: "2021-11-20T17:41:41Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/michela_cameletti/psbf2122_rlab_notes/"
-length_weight: "19.7%"
+length_weight: "22.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

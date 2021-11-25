@@ -1,7 +1,7 @@
 ---
 title: "Scientific Research and Methodology"
 author: "Peter K. Dunn"
-date: "2021-11-17T06:46:42Z"
+date: "2021-11-19T06:01:10Z"
 link: "https://bookdown.org/pkaldunn/SRM-Textbook/"
 length_weight: "100%"
 cover: "https://bookdown.org/pkaldunn/SRM-Textbook/OtherImages/cover.png"
