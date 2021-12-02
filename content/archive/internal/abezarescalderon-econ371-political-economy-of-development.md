@@ -4,7 +4,7 @@ author: "Alma A. Bezares Calderón"
 date: "2020-09-17T04:30:56Z"
 tags: [Guide, Course]
 link: "https://bookdown.org/abezarescalderon/econ371-political_economy_of_development/"
-length_weight: "22.9%"
+length_weight: "26%"
 repo: "mmeapple/Books"
 pinned: false
 ---

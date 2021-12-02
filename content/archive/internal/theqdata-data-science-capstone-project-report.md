@@ -4,7 +4,7 @@ author: "Quang Nguyen Data Science Capstone Spring 2020"
 date: "2020-07-10T20:50:34Z"
 tags: [Conference]
 link: "https://bookdown.org/theqdata/data_science_capstone_project_report/"
-length_weight: "13%"
+length_weight: "14.8%"
 pinned: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Marketing Research"
 author: "Mike Nguyen"
-date: "2021-11-22T20:20:22Z"
+date: "2021-12-01T20:27:49Z"
 tags: [Market]
 link: "https://bookdown.org/mike/marketing_research/"
 length_weight: "100%"

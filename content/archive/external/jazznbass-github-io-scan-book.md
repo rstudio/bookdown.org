@@ -4,7 +4,7 @@ author: "Jürgen Wilbert"
 date: "2021-10-19"
 tags: [Package]
 link: "https://jazznbass.github.io/scan-Book/"
-length_weight: "11.7%"
+length_weight: "13.2%"
 cover: "https://jazznbass.github.io/scan-Book/images/cover.png"
 repo: "jazznbass/scan-book"
 pinned: false

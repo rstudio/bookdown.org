@@ -4,7 +4,7 @@ author: "Дмитрий Городничий"
 date: "2019-02-05T19:47:23Z"
 tags: [Github]
 link: "https://bookdown.org/gorodnichy/amour/"
-length_weight: "8.3%"
+length_weight: "9.4%"
 cover: "https://bookdown.org/gorodnichy/amour/covers/cover-love-yin-sq.jpg"
 pinned: false
 ---

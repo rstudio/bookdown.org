@@ -4,7 +4,7 @@ author: "thea_knowles"
 date: "2019-04-27T03:58:26Z"
 tags: [Tutorial]
 link: "https://bookdown.org/thea_knowles/dissertating_rmd_presentation/"
-length_weight: "11.4%"
+length_weight: "12.9%"
 pinned: false
 ---
 

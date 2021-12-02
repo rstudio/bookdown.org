@@ -4,7 +4,7 @@ author: "Kim-Anh Le Cao1, Sebastien Dejean2, Al J Abadi3"
 date: ""
 tags: [Package, Course]
 link: "https://mixomicsteam.github.io/Bookdown/"
-length_weight: "9.6%"
+length_weight: "10.9%"
 repo: "mixOmicsTeam/mixOmics"
 pinned: false
 ---

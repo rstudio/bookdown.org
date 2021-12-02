@@ -4,7 +4,7 @@ author: "Nana Kim"
 date: "2021-02-16T05:05:12Z"
 tags: [Tidyverse, Package, ggplot2, Tidy, Visualization]
 link: "https://bookdown.org/nana/intror_part2/"
-length_weight: "9.8%"
+length_weight: "11.2%"
 pinned: false
 ---
 

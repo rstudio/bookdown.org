@@ -4,7 +4,7 @@ author: "Nicholas R. Jenkins"
 date: "2021-09-15T23:09:37Z"
 tags: [Tidyverse, Python]
 link: "https://bookdown.org/njenk001/qmppa/"
-length_weight: "6.4%"
+length_weight: "7.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
