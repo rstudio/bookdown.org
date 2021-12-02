@@ -4,7 +4,7 @@ author: "Malte Grosser"
 date: "2018-12-07T00:25:36Z"
 tags: [Tidyverse, Package]
 link: "https://bookdown.org/Tazinho/Tidyverse-Cookbook/"
-length_weight: "15.8%"
+length_weight: "17.9%"
 repo: "Tazinho/Tidyverse-Cookbook"
 pinned: false
 ---

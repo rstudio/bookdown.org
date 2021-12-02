@@ -3,7 +3,7 @@ title: "Руководство по data.table"
 author: "Андрей Огурцов"
 date: "2016-09-12T16:17:48Z"
 link: "https://bookdown.org/statist_/DataTableManual/"
-length_weight: "25.2%"
+length_weight: "28.6%"
 pinned: false
 ---
 

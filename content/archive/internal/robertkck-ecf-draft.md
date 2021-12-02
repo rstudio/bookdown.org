@@ -3,7 +3,7 @@ title: "An approach to identify the sources of low-carbon growth for Europe"
 author: "Georg Zachmann"
 date: "2017-04-03T12:27:12Z"
 link: "https://bookdown.org/robertkck/ecf_draft/"
-length_weight: "7.6%"
+length_weight: "8.6%"
 cover: "https://bookdown.org/robertkck/ecf_draft/images/cover.png"
 repo: "robertkck/ecf"
 pinned: false

@@ -4,7 +4,7 @@ author: "Edwin Thoen"
 date: "2019-07-16T14:51:14Z"
 tags: [Machine Learning, Statistics, Course]
 link: "https://bookdown.org/edwinthoen/AMLwR/"
-length_weight: "10.7%"
+length_weight: "12.1%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: ""
 date: "2021-11-25T05:23:31Z"
 tags: [Data Science]
 link: "https://bookdown.org/rehk/stm1001_dsm_data_visualisation_in_r/"
-length_weight: "9.7%"
+length_weight: "11%"
 pinned: false
 ---
 

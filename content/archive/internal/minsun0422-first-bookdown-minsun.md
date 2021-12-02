@@ -4,7 +4,7 @@ author: "Minsun Yoo"
 date: "2021-09-25T10:27:47Z"
 tags: [Package]
 link: "https://bookdown.org/minsun0422/first_bookdown_minsun/"
-length_weight: "6.4%"
+length_weight: "7.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

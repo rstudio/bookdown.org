@@ -4,7 +4,7 @@ author: "國立臺北大學 林茂廷老師"
 date: "2020-01-09T16:00:39Z"
 tags: [Package, Python]
 link: "https://bookdown.org/tpemartin/bookdown-programming-for-math-economics/"
-length_weight: "19.3%"
+length_weight: "21.9%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Gastón Becerra y Juan Pablo López Alurralde"
 date: "2021-06-14T17:51:27Z"
 tags: [Seminar]
 link: "https://bookdown.org/gaston_becerra/curso-intro-r/"
-length_weight: "27.2%"
+length_weight: "30.8%"
 repo: "gastonbecerra/curso-intro-r"
 pinned: false
 ---

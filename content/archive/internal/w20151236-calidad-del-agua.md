@@ -4,7 +4,7 @@ author: "Yihui Xie"
 date: "2021-03-30T21:11:40Z"
 tags: [Package]
 link: "https://bookdown.org/w20151236/calidad_del_agua/"
-length_weight: "9.5%"
+length_weight: "10.8%"
 pinned: false
 ---
 

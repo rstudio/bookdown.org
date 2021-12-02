@@ -3,7 +3,7 @@ title: "Đức Phật Trong Ba lô"
 author: "Daisaku Ikeda"
 date: "2020-05-02T14:35:33Z"
 link: "https://bookdown.org/namkyodai/daisakuikeda-daophattrongbalo/"
-length_weight: "29.9%"
+length_weight: "33.9%"
 cover: "https://bookdown.org/namkyodai/daisakuikeda-daophattrongbalo/visuals/cover.jpg"
 repo: "namkyodai/daisakuikeda-ducphattrongbalo"
 pinned: false

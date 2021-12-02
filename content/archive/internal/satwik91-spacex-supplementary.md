@@ -4,7 +4,7 @@ author: "Satwik Acharyya, Xiang Zhou, Veera Baladandayuthapani"
 date: "2021-11-22T22:44:20Z"
 tags: [Network]
 link: "https://bookdown.org/satwik91/SpaceX_supplementary/"
-length_weight: "8.1%"
+length_weight: "9.2%"
 pinned: false
 ---
 

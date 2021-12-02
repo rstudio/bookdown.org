@@ -3,7 +3,7 @@ title: "«Shri Jobim»"
 author: "Dmitry Gorodnichy"
 date: "2019-12-30T00:51:54Z"
 link: "https://bookdown.org/gorodnichy/jobim2/"
-length_weight: "11.6%"
+length_weight: "13.2%"
 cover: "https://bookdown.org/gorodnichy/jobim2/c_jobim/cover-cd-ShriJobim.jpg"
 repo: "gorodnichy/Shri-Jobim"
 pinned: false

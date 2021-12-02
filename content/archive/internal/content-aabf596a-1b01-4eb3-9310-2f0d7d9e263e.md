@@ -4,7 +4,7 @@ author: "Jake Vander Laan, Elise Hinman, & Emilie Flemer, Utah Division of Water
 date: "2019-05-03T18:59:25Z"
 tags: [Package, Github]
 link: "https://bookdown.org/content/aabf596a-1b01-4eb3-9310-2f0d7d9e263e/"
-length_weight: "8.9%"
+length_weight: "10.1%"
 pinned: false
 ---
 

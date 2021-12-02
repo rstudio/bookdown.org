@@ -3,7 +3,7 @@ title: "Matemáticas 0 UCM, 2021/22"
 author: "Mercedes Vázquez Furelos, María Eugenia Mera Rivas,Jorge Herrera de la Cruz"
 date: "2021-08-20T12:03:04Z"
 link: "https://bookdown.org/jorherre/Matematicas_Grupo_0/"
-length_weight: "4.7%"
+length_weight: "5.3%"
 pinned: false
 ---
 

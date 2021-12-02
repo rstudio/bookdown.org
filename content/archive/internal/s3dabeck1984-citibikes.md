@@ -3,7 +3,7 @@ title: "Klassifikation von Citi Bike-Kunden"
 author: "Daniel Becker"
 date: "2021-08-29T09:43:40Z"
 link: "https://bookdown.org/s3dabeck1984/citibikes/"
-length_weight: "10.9%"
+length_weight: "12.3%"
 repo: "rstudio/bookdown-citibike"
 pinned: false
 ---

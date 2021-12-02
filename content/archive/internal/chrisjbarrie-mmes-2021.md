@@ -4,7 +4,7 @@ author: "Christopher Barrie"
 date: "2021-02-17T07:44:05Z"
 tags: [Course, Seminar]
 link: "https://bookdown.org/chrisjbarrie/MMES-2021/"
-length_weight: "18%"
+length_weight: "20.4%"
 cover: "https://bookdown.org/chrisjbarrie/MMES-2021/images/Bahre_Fars.jpeg"
 repo: "cjbarrie/bookdown_template"
 pinned: false

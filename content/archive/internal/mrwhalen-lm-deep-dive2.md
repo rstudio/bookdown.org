@@ -4,7 +4,7 @@ author: "Matthew Whalen"
 date: "2021-04-16T16:55:15Z"
 tags: [Statistics]
 link: "https://bookdown.org/mrwhalen/lm_deep_dive2/"
-length_weight: "8.6%"
+length_weight: "9.7%"
 pinned: false
 ---
 
