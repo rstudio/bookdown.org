@@ -1,9 +1,9 @@
 ---
 title: "Untitled"
 author: "Goran Kardum, Prorektor za nastavu"
-date: "2021-12-01T13:38:56Z"
+date: "2021-12-06T07:57:23Z"
 link: "https://bookdown.org/gkardum/poo/"
-length_weight: "28.5%"
+length_weight: "29.1%"
 repo: "gkardum/poo"
 pinned: false
 ---
