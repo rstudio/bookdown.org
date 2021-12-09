@@ -1,7 +1,7 @@
 ---
 title: "Data Analytics: A Small Data Approach"
 author: "Shuai Huang & Houtao Deng"
-date: "2021-04-18"
+date: "2021-12-03"
 tags: [Course, Models, Data Science, Exploratory Data Analysis]
 link: "https://dataanalyticsbook.info/"
 length_weight: "3.1%"

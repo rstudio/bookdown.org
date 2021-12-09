@@ -1,7 +1,7 @@
 ---
 title: "Coding for Data Science 2021/22 - R part"
 author: "Michela Cameletti"
-date: "2021-11-30T22:55:19Z"
+date: "2021-12-04T20:47:33Z"
 tags: [Data Science, Course, Machine Learning, Python, R Programming, Visualization]
 link: "https://bookdown.org/michela_cameletti/c4ds_rlabs/"
 length_weight: "0%"
