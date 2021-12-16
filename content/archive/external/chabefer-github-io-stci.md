@@ -1,7 +1,7 @@
 ---
 title: "Statistical Tools for Causal Inference"
 author: "Sylvain Chabé-Ferret"
-date: "2021-12-01"
+date: "2021-12-15"
 link: "https://chabefer.github.io/STCI/"
 length_weight: "26.3%"
 repo: "chabefer/STCI"

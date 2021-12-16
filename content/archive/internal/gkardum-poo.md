@@ -1,9 +1,9 @@
 ---
-title: "Untitled"
-author: "Goran Kardum, Prorektor za nastavu"
-date: "2021-12-06T07:57:23Z"
+title: "Psihologija odgoja i obrazovanja"
+author: "Goran Kardum"
+date: "2021-12-14T09:34:00Z"
 link: "https://bookdown.org/gkardum/poo/"
-length_weight: "29.1%"
+length_weight: "8.9%"
 repo: "gkardum/poo"
 pinned: false
 ---
