@@ -1,10 +1,10 @@
 ---
 title: "Crime by the Numbers: A Criminologist’s Guide to R"
 author: "Jacob Kaplan"
-date: "2021-12-14"
+date: "2021-12-20"
 tags: [Guide]
 link: "https://r4crim.com/"
-length_weight: "28.5%"
+length_weight: "28.3%"
 repo: "jacobkap/crimebythenumbers"
 pinned: false
 ---
