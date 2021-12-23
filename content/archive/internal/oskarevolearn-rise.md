@@ -1,7 +1,7 @@
 ---
-title: "A Ritual Lens Reveals the Importance of Embeddedness for Understanding Community Health Workers"
+title: "Bridging the gap between service extension and cultural facilitation among ASHAs"
 author: "Oskar Burger, Maciej J. Danko, Faiz Hashmi, Palash Singh, Hannah Lunkenheimer, Emily Little, Micah Goldwater, Tracy Johnson, Cristine Legare"
-date: "2021-12-07T22:23:59Z"
+date: "2021-12-16T18:59:06Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/oskarevolearn/rise/"
 length_weight: "100%"

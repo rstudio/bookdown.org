@@ -1,7 +1,7 @@
 ---
 title: "R 로 하는 Mixed Model"
 author: "Michael Clark m-clark.github.io Translator : 김설기"
-date: "2021-12-16T05:09:56Z"
+date: "2021-12-16T06:30:49Z"
 tags: [Mixed Models, Package, Bayesian, Github]
 link: "https://bookdown.org/sulgi/mixed_models/"
 length_weight: "29%"
