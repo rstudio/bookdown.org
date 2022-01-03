@@ -1,10 +1,10 @@
 ---
 title: "A Minimal Book Example"
 author: "John Doe"
-date: "2021-09-28T14:54:41Z"
+date: "2021-12-27T21:49:16Z"
 tags: [Package]
-link: "https://bookdown.org/nanbjy/real_bookdown/"
-length_weight: "6%"
+link: "https://bookdown.org/madsstenbonielsen/appliedmachinelearning_v02/"
+length_weight: "0%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
