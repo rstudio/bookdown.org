@@ -1,9 +1,9 @@
 ---
-title: "Lean Seis Sigma"
+title: "Lean Seis Sigma para la Mejora de Procesos"
 author: "asun_mayoral"
-date: "2021-11-02T18:41:47Z"
+date: "2022-01-05T17:49:18Z"
 link: "https://bookdown.org/asun_mayoral/book-l6s/"
-length_weight: "37.7%"
+length_weight: "38.6%"
 pinned: false
 ---
 

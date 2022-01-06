@@ -1,12 +1,11 @@
 ---
-title: "A Minimal Book Example"
-author: "John Doe"
-date: "2021-12-27T21:49:16Z"
-tags: [Package]
+title: "Business Intelligence II - Anvendt Machine Learning"
+author: "Mads Stenbo Nielsen"
+date: "2022-01-04T11:56:59Z"
+tags: [Machine Learning]
 link: "https://bookdown.org/madsstenbonielsen/appliedmachinelearning_v02/"
 length_weight: "0%"
-repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-<p>This is a minimal example of using the bookdown package to write a book. The HTML output format for this example is bookdown::gitbook, set in the _output.yml file.</p> [...] This is a sample book written in Markdown. You can use anything that Pandoc’s Markdown supports; for example, a math equation \(a^2 + b^2 = c^2\). Each bookdown chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter must start with a first-level heading: # A good chapter, and can contain one (and only one) first-level heading. Use second-level and higher headings within chapters ...
+Eksempel- og opgavesamling til HD Business Intelligence II, CBS, forår 2022. [...] Første modul omhandler en generel introduktion til softwareprogrammet R (https://www.r-project.org/). Her gengives en række eksempler på R-kode samt det tilhørende R-output for at illustrere forskellige grundlæggende funktionaliteter i programmet. Programmet R tager koder som input, så hver gang man skal have udført noget, skal man skrive de(n) relevante kode(r), som herefter eksekveres af programmet og giver det efterspurgte output. Man kan bruge de almindelige regnearter plus (+), minus (-), multiplikation ...
