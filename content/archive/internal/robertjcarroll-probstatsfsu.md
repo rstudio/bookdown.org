@@ -4,7 +4,7 @@ author: "Rob Carroll"
 date: "2017-08-28T17:57:17Z"
 tags: [Statistics, Textbook]
 link: "https://bookdown.org/robertjcarroll/ProbStatsFSU/"
-length_weight: "4.4%"
+length_weight: "3.4%"
 pinned: false
 ---
 

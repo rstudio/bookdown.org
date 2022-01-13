@@ -4,7 +4,7 @@ author: "Ismael Calandri"
 date: "2021-08-08T18:11:26Z"
 tags: [Seminar]
 link: "https://bookdown.org/ismaelcalandri/libro_de_r3/"
-length_weight: "5.3%"
+length_weight: "4.1%"
 repo: "rstudio/libroR"
 pinned: false
 ---

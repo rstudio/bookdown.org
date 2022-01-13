@@ -4,7 +4,7 @@ author: "Matthew Sharkey"
 date: "2019-04-27T15:44:29Z"
 tags: [Web Applications, Shiny, Guide]
 link: "https://bookdown.org/msharkey3434/ShinyDB_Book/"
-length_weight: "12.2%"
+length_weight: "9.4%"
 pinned: false
 ---
 

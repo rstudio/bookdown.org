@@ -4,7 +4,7 @@ author: "Lorena A. Barba, Lecia J. Barker, Douglas S. Blank, Jed Brown, Allen B.
 date: "2019-12-06"
 tags: [Data Analysis, Course]
 link: "https://jupyter4edu.github.io/jupyter-edu-book/"
-length_weight: "18.8%"
+length_weight: "14.4%"
 repo: "jupyter4edu/jupyter-edu-book"
 pinned: false
 ---

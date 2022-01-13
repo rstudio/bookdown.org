@@ -4,7 +4,7 @@ author: "An Honors Thesis submitted in partial fulfillment of the requirements f
 date: "2020-09-08T14:04:50Z"
 tags: [Predictive Model]
 link: "https://bookdown.org/theqdata/honors_thesis/"
-length_weight: "19.1%"
+length_weight: "14.7%"
 pinned: false
 ---
 

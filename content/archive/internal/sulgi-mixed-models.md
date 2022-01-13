@@ -4,7 +4,7 @@ author: "Michael Clark m-clark.github.io Translator : 김설기"
 date: "2021-12-16T06:30:49Z"
 tags: [Mixed Models, Package, Bayesian, Github]
 link: "https://bookdown.org/sulgi/mixed_models/"
-length_weight: "29%"
+length_weight: "22.3%"
 cover: "https://m-clark.github.io/mixed-models-with-R/img/nineteeneightyR.png"
 repo: "m-clark/mixed-models-with-R"
 pinned: false

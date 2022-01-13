@@ -4,7 +4,7 @@ author: "Brendan Casey"
 date: "2021-11-17T20:56:53Z"
 tags: [Course, Tutorial, Guide, Github]
 link: "https://bookdown.org/bgcasey/BioacousticsClass_GEE/"
-length_weight: "7.8%"
+length_weight: "6%"
 repo: "https://github.com/bgcasey/GEE_lab_class"
 pinned: false
 ---

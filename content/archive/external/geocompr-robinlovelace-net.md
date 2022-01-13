@@ -1,10 +1,10 @@
 ---
 title: "Geocomputation with R"
 author: "Robin Lovelace, Jakub Nowosad, Jannes Muenchow"
-date: "2021-12-31"
+date: "2022-01-10"
 tags: [Geographic, Visualization, Data Science, Spatial Data]
 link: "https://geocompr.robinlovelace.net/"
-length_weight: "0%"
+length_weight: "21.1%"
 cover: "https://geocompr.robinlovelace.net/images/cover.png"
 repo: "Robinlovelace/geocompr"
 pinned: true

@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Medical Research with R"
 author: "Peter D.R. Higgins, MD, PhD, MSc"
-date: "2021-12-09T22:46:23Z"
+date: "2022-01-06T23:18:57Z"
 link: "https://bookdown.org/pdr_higgins/rmrwr/"
 length_weight: "100%"
 repo: "higgi13425/rmrwr-book"

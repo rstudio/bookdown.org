@@ -4,7 +4,7 @@ author: "Yaohui Ding"
 date: "2020-11-11T23:04:09Z"
 tags: [Statistics, Course, Psychology]
 link: "https://bookdown.org/yaohuiding/PSY230_website/"
-length_weight: "6.2%"
+length_weight: "4.8%"
 pinned: false
 ---
 

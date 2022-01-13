@@ -1,10 +1,10 @@
 ---
 title: "Painting the Malaysian Covid Public Data"
 author: "Azman Hussin and Wan M Hasni"
-date: "2021-11-07T01:34:15Z"
+date: "2022-01-11T08:09:51Z"
 tags: [Data Science, Exploratory Data Analysis, Visualization]
-link: "https://bookdown.org/azman1959/painting_the_malaysian_covid_public_data/"
-length_weight: "40%"
+link: "https://bookdown.org/azmanh/MalaysiaCovid/"
+length_weight: "100%"
 pinned: false
 ---
 

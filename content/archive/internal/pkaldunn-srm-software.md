@@ -3,7 +3,7 @@ title: "Scientific Research and Methodology: Software"
 author: "Peter K. Dunn"
 date: "2021-05-25T03:51:55Z"
 link: "https://bookdown.org/pkaldunn/SRM-software/"
-length_weight: "12.2%"
+length_weight: "9.4%"
 pinned: false
 ---
 

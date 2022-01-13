@@ -3,7 +3,7 @@ title: "awc_expansion.knit"
 author: "kwfwqx"
 date: "2021-11-17T22:34:35Z"
 link: "https://bookdown.org/kwfwqx/awc_expansion/"
-length_weight: "10.6%"
+length_weight: "8.1%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "Processo de Produção do Formaldeído"
 author: ""
 date: "2021-06-01T15:34:59Z"
 link: "https://bookdown.org/janainas/processos_formaldeido/"
-length_weight: "7%"
+length_weight: "5.4%"
 pinned: false
 ---
 

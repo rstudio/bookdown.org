@@ -4,7 +4,7 @@ author: "Jeroen Janssens"
 date: ""
 tags: [Data Science, Guide, Unix]
 link: "https://www.datascienceatthecommandline.com/1e/"
-length_weight: "5.8%"
+length_weight: "0%"
 cover: "https://datascienceatthecommandline.com/og.png"
 repo: "jeroenjanssens/data-science-at-the-command-line"
 pinned: true

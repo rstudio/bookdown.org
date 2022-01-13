@@ -3,7 +3,7 @@ title: "Variáveis Aleatórias"
 author: "Rosineide da Paz"
 date: "2020-08-19T01:11:21Z"
 link: "https://bookdown.org/rfdapaz/varale/"
-length_weight: "5.4%"
+length_weight: "4.1%"
 pinned: false
 ---
 
