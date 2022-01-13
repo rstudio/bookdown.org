@@ -3,7 +3,7 @@ title: "Faylab Lab Manual"
 author: "Gavin Fay & Ashleigh Novak"
 date: ""
 link: "https://thefaylab.github.io/lab-manual/"
-length_weight: "10.9%"
+length_weight: "8.5%"
 repo: "thefaylab/lab-manual"
 pinned: false
 ---

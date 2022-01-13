@@ -3,7 +3,7 @@ title: "Entre le terre et le ciel"
 author: "ΔΓ"
 date: "2019-02-06T23:01:49Z"
 link: "https://bookdown.org/gorodnichy/ciel/"
-length_weight: "18.1%"
+length_weight: "13.9%"
 pinned: false
 ---
 

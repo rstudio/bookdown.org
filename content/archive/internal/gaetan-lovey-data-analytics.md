@@ -4,7 +4,7 @@ author: "Cédric Vuignier and Gaëtan Lovey"
 date: "2020-12-16T13:38:51Z"
 tags: [Course]
 link: "https://bookdown.org/gaetan_lovey/data_analytics/"
-length_weight: "18.4%"
+length_weight: "14.2%"
 pinned: false
 ---
 

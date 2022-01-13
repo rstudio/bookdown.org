@@ -1,9 +1,9 @@
 ---
 title: "Deliberativ meningsmåling i Bergen"
 author: "Sveinung Arnesen, Anne Lise Fimreite, Jon Kåre Skiple"
-date: "2021-12-06T16:54:22Z"
+date: "2022-01-09T22:11:49Z"
 link: "https://bookdown.org/sveinungarnesen78/deliberativ-meningsmaaling-bergen/"
-length_weight: "23%"
+length_weight: "17.7%"
 cover: "https://bookdown.org/sveinungarnesen78/deliberativ-meningsmaaling-bergen/cover.png"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Felix E. Rivera-Mariani, PhD"
 date: "2019-01-25T13:51:19Z"
 tags: [Data Science, Models]
 link: "https://bookdown.org/friveram/uprprise_ds_wksp_manual/"
-length_weight: "8.2%"
+length_weight: "6.3%"
 pinned: false
 ---
 

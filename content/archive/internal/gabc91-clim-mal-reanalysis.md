@@ -4,7 +4,7 @@ author: "Varios"
 date: "2021-03-08T16:53:55Z"
 tags: [Epidemiology]
 link: "https://bookdown.org/gabc91/clim_mal_reanalysis/"
-length_weight: "38.6%"
+length_weight: "29.6%"
 pinned: false
 ---
 

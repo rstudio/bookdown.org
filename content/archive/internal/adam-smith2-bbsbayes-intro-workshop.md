@@ -4,7 +4,7 @@ author: "Adam C. Smith, and Brandon P.M. Edwards"
 date: "2021-08-11T15:35:59Z"
 tags: [Package, Github, Bayesian, Models]
 link: "https://bookdown.org/adam_smith2/bbsbayes_intro_workshop/"
-length_weight: "14.7%"
+length_weight: "11.3%"
 pinned: false
 ---
 

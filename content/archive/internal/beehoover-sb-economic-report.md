@@ -3,7 +3,7 @@ title: "Economic Impact Report"
 author: "Commercial Fishermen of Santa Barbara"
 date: "2021-04-02T17:17:39Z"
 link: "https://bookdown.org/beehoover/sb_economic_report/"
-length_weight: "7.6%"
+length_weight: "5.8%"
 pinned: false
 ---
 

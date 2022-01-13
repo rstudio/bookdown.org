@@ -4,7 +4,7 @@ author: "JPAG"
 date: "2021-12-21T19:11:12Z"
 tags: [Python]
 link: "https://bookdown.org/jp_6/bcdr/"
-length_weight: "10.7%"
+length_weight: "8.2%"
 pinned: false
 ---
 

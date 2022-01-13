@@ -4,7 +4,7 @@ author: "Scott Ming"
 date: "2016-07-31T01:24:12Z"
 tags: [笔记, 数据科学, Github]
 link: "https://bookdown.org/scottming/rns/"
-length_weight: "12.3%"
+length_weight: "9.5%"
 repo: "scottming/rns"
 pinned: false
 ---

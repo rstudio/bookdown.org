@@ -4,7 +4,7 @@ author: "cjlortie"
 date: "2021-10-10T23:24:09Z"
 tags: [Statistics, R Programming, Guide]
 link: "https://bookdown.org/chris/rstats4bio/"
-length_weight: "12.5%"
+length_weight: "9.6%"
 pinned: false
 ---
 

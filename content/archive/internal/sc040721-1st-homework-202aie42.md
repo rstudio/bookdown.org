@@ -4,7 +4,7 @@ author: "Hong hyejin"
 date: "2020-09-29T09:07:16Z"
 tags: [R Programming, Package]
 link: "https://bookdown.org/sc040721/1st_homework_202aie42/"
-length_weight: "9.2%"
+length_weight: "7.1%"
 pinned: false
 ---
 

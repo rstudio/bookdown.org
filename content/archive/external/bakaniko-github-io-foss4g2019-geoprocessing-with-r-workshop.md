@@ -3,7 +3,7 @@ title: "R for Geospatial Processing"
 author: "Nicolas Roelandt"
 date: "2019-08-27"
 link: "https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/"
-length_weight: "2.2%"
+length_weight: "1.7%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Ronald Gualán Saavedra"
 date: "2018-07-14T02:57:13Z"
 tags: [GPU, Tutorial]
 link: "https://bookdown.org/content/bda9bd24-47e7-4ecb-85e4-752a913954ce/"
-length_weight: "11.9%"
+length_weight: "9.1%"
 repo: "rgualan/R-gpu-workshop"
 pinned: false
 ---

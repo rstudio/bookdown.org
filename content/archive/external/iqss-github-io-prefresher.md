@@ -3,7 +3,7 @@ title: "Math Prefresher for Political Scientists"
 author: "iqss.github.io"
 date: ""
 link: "https://iqss.github.io/prefresher/"
-length_weight: "23.5%"
+length_weight: "18.1%"
 repo: "IQSS/prefresher"
 pinned: false
 ---

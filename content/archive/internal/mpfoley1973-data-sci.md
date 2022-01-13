@@ -4,7 +4,7 @@ author: "Michael Foley"
 date: "2020-08-03T12:09:55Z"
 tags: [Data Science, Tutorial]
 link: "https://bookdown.org/mpfoley1973/data-sci/"
-length_weight: "12.5%"
+length_weight: "9.6%"
 pinned: false
 ---
 

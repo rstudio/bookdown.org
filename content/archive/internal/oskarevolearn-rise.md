@@ -1,7 +1,7 @@
 ---
 title: "Bridging the gap between service extension and cultural facilitation among ASHAs"
 author: "Oskar Burger, Maciej J. Danko, Faiz Hashmi, Palash Singh, Hannah Lunkenheimer, Emily Little, Micah Goldwater, Tracy Johnson, Cristine Legare"
-date: "2021-12-16T18:59:06Z"
+date: "2022-01-12T20:06:19Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/oskarevolearn/rise/"
 length_weight: "100%"

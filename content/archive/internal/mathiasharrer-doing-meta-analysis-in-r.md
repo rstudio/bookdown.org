@@ -4,7 +4,7 @@ author: "Mathias Harrer, Pim Cuijpers, Toshi A. Furukawa, David D. Ebert"
 date: "2021-12-14T09:50:33Z"
 tags: [Meta-Analysis, Guide, Network, Bayesian]
 link: "https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/"
-length_weight: "4.5%"
+length_weight: "3.5%"
 cover: "https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/images/cover.png"
 pinned: false
 ---

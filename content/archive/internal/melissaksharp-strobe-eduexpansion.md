@@ -4,7 +4,7 @@ author: "Melissa K Sharp"
 date: "2020-05-10T22:27:38Z"
 tags: [Epidemiology, Education, Population Health]
 link: "https://bookdown.org/melissaksharp/STROBE_eduexpansion/"
-length_weight: "31.3%"
+length_weight: "24%"
 repo: "sharpmel/STROBECourse"
 pinned: false
 ---

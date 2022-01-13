@@ -1,9 +1,9 @@
 ---
 title: "Psihologija odgoja i obrazovanja"
 author: "Goran Kardum"
-date: "2021-12-14T09:34:00Z"
+date: "2022-01-10T17:25:11Z"
 link: "https://bookdown.org/gkardum/poo/"
-length_weight: "8.9%"
+length_weight: "5.3%"
 repo: "gkardum/poo"
 pinned: false
 ---

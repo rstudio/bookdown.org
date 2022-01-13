@@ -3,7 +3,7 @@ title: "R och Demoskop"
 author: "Filip Wastberg"
 date: "2018-01-09T13:10:57Z"
 link: "https://bookdown.org/filipwastberg/r-och-demoskop/"
-length_weight: "13.3%"
+length_weight: "10.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "R para principiantes"
 author: "Juan Bosco Mendoza Vega"
 date: "2018-08-27T00:38:40Z"
 link: "https://bookdown.org/jboscomendoza/r-principiantes4/"
-length_weight: "32.4%"
+length_weight: "24.9%"
 cover: "https://bookdown.org/jboscomendoza/r-principiantes4/images/r-principiantes-cover.png"
 repo: "jboscomendoza/r-principiantes-bookdown"
 pinned: false

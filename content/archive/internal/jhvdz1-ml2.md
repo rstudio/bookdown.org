@@ -4,7 +4,7 @@ author: "J.H. van der Zwan"
 date: "2021-04-19T17:11:53Z"
 tags: [Machine Learning, Course, Textbook]
 link: "https://bookdown.org/jhvdz1/ml2/"
-length_weight: "6.3%"
+length_weight: "4.8%"
 pinned: false
 ---
 

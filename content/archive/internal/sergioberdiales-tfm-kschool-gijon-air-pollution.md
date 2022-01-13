@@ -4,7 +4,7 @@ author: "Sergio Berdiales"
 date: "2019-01-17T22:40:50Z"
 tags: [Visualization, Forecasting, Data Science, Course, Python]
 link: "https://bookdown.org/sergioberdiales/tfm-kschool_gijon_air_pollution/"
-length_weight: "24.8%"
+length_weight: "19.1%"
 pinned: false
 ---
 

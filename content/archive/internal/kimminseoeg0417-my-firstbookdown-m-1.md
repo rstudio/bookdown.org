@@ -4,7 +4,7 @@ author: "minseo_"
 date: "2021-09-26T00:00:31Z"
 tags: [Package]
 link: "https://bookdown.org/kimminseoeg0417/my_firstbookdown_M-1/"
-length_weight: "8.5%"
+length_weight: "6.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

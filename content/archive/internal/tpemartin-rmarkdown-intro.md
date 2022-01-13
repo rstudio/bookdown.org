@@ -4,7 +4,7 @@ author: "林茂廷老師"
 date: "2017-12-27T09:19:07Z"
 tags: [R Markdown]
 link: "https://bookdown.org/tpemartin/rmarkdown_intro/"
-length_weight: "5.9%"
+length_weight: "4.5%"
 pinned: false
 ---
 
