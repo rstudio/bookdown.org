@@ -4,7 +4,7 @@ author: "Piotr Fryzlewicz"
 date: "2021-08-16T14:15:32Z"
 tags: [GPU]
 link: "https://bookdown.org/p_fryzlewicz/deep-learning-in-r/"
-length_weight: "9.7%"
+length_weight: "12.6%"
 pinned: false
 ---
 

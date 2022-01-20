@@ -4,7 +4,7 @@ author: "Mohammad Shamim Hasan Mandal"
 date: "2021-10-30T17:41:08Z"
 tags: [Textbook, Github]
 link: "https://bookdown.org/mshmandal/SAUCC_Manual/"
-length_weight: "4%"
+length_weight: "5.2%"
 repo: "mshmandal/rstat-bangla"
 pinned: false
 ---

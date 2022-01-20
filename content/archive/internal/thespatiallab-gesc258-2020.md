@@ -4,7 +4,7 @@ author: "Colin Robertson"
 date: "2021-03-19T13:30:33Z"
 tags: [Course]
 link: "https://bookdown.org/thespatiallab/GESC258-2020/"
-length_weight: "14.2%"
+length_weight: "18.5%"
 pinned: false
 ---
 

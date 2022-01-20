@@ -1,12 +1,12 @@
 ---
 title: "CASA0005 Geographic Information Systems and Science"
 author: "Andy MacLachlan and Adam Dennett"
-date: "2021-12-21"
-tags: [Geographic, Github]
+date: "2022-01-14"
+tags: [Geographic]
 link: "https://andrewmaclachlan.github.io/CASA0005repo/"
-length_weight: "19.3%"
+length_weight: "25.5%"
 repo: "andrewmaclachlan/CASA0005repo"
 pinned: false
 ---
 
-The CASA0005 Geographic Information Systems and Science practical book [...] Hello and a warm welcome to the CASA0005 Geographic Information Systems and Science online pratical handbook. This website is hosted on GitHub and holds all the practical instructions and data. Data used within the practicals is available online, however occasionally websites can undergo maintenance or be inaccessible due to political factors such as government shutdowns. Accessing this data is explained in the section hello GIS. Thanks to the following people who have either contributed directly or provided code in ...
+The CASA0005 Geographic Information Systems and Science practical book [...] Hello and a warm welcome to the CASA0005 Geographic Information Systems and Science online practical handbook. The buzzword ‘Big data’ and associated roles of data scientists have become common additions to academia, industry and government organisations seeking to optimise workflows and base decisions on factual evidence (Donoho 2017; Li et al. 2016).In response, the demand for data scientists has significantly grown, with two major recruitment websites LinkedIn and Glassdoor reporting a respective 56% and 44% year ...

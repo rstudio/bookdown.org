@@ -4,7 +4,7 @@ author: "Rob Hayward"
 date: "2020-08-06T14:22:10Z"
 tags: [Macroeconomics, Textbook]
 link: "https://bookdown.org/robohay/economicsnotes/"
-length_weight: "23%"
+length_weight: "30%"
 repo: "robhayward/macroeconomics"
 pinned: false
 ---

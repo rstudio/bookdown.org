@@ -4,7 +4,7 @@ author: "Yuleng Zeng"
 date: "2020-05-21T13:26:36Z"
 tags: [Course]
 link: "https://bookdown.org/Yuleng/polimethods/"
-length_weight: "11.3%"
+length_weight: "14.8%"
 repo: "rstudio/yuleng"
 pinned: false
 ---

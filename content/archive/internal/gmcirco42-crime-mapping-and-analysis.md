@@ -4,7 +4,7 @@ author: "Gio Circo"
 date: "2022-01-03T20:50:21Z"
 tags: [Course]
 link: "https://bookdown.org/gmcirco42/crime_mapping_and_analysis/"
-length_weight: "19.1%"
+length_weight: "24.9%"
 pinned: false
 ---
 

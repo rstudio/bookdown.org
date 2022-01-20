@@ -4,7 +4,7 @@ author: "Laurent Gatto"
 date: "2020-02-28"
 tags: [Machine Learning, Course, Package, Github]
 link: "https://lgatto.github.io/IntroMachineLearningWithR/"
-length_weight: "8.3%"
+length_weight: "10.9%"
 repo: "lgatto/IntroMachineLearningWithR"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "STM1001: Data Visualisation in R"
 author: ""
-date: "2022-01-12T01:02:43Z"
+date: "2022-01-14T06:08:09Z"
 tags: [Data Science]
 link: "https://bookdown.org/rehk/stm1001_dsm_data_visualisation_in_r/"
-length_weight: "3.8%"
+length_weight: "6.7%"
 pinned: false
 ---
 

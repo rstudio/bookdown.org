@@ -3,7 +3,7 @@ title: "Summer RA Conclusion"
 author: "Yuyang Shi, Yokia Xu"
 date: "2021-05-09T11:13:12Z"
 link: "https://bookdown.org/yangtzesyy/summer-conclusion-2/"
-length_weight: "3.5%"
+length_weight: "4.6%"
 pinned: false
 ---
 

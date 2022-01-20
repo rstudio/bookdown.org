@@ -4,7 +4,7 @@ author: "Adam Aiken"
 date: "2022-01-11T02:08:21Z"
 tags: [Data Analysis, R Markdown, Visualization, Statistics]
 link: "https://bookdown.org/adam_aiken/rboot/"
-length_weight: "4.1%"
+length_weight: "5.3%"
 cover: "https://bookdown.org/adam_aiken/rboot/images/cover.png"
 repo: "aaiken1"
 pinned: false

@@ -3,7 +3,7 @@ title: "Uma introdução gentil à Ciência de Dados"
 author: "Janaina Souza, Júlia Bijos, Kaike Reis"
 date: "2021-04-01T22:46:59Z"
 link: "https://bookdown.org/cienciadedadosnaep/ciencia_de_dados_estudantes/"
-length_weight: "15.3%"
+length_weight: "19.9%"
 pinned: false
 ---
 

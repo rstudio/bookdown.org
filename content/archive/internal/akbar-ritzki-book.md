@@ -3,7 +3,7 @@ title: "Analisis Data Kategorik dengan R"
 author: "Akbar Rizki, Abdul Aziz Nurussadad"
 date: "2021-08-26T04:21:38Z"
 link: "https://bookdown.org/akbar_ritzki/book/"
-length_weight: "8.9%"
+length_weight: "11.6%"
 pinned: false
 ---
 

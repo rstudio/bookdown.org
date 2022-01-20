@@ -4,7 +4,7 @@ author: "Jean-Paul Courneya and Amy Yarnell"
 date: "2021-07-23T02:26:08Z"
 tags: [Epidemiology, Package]
 link: "https://bookdown.org/amy_yarnell/T32-book/"
-length_weight: "20.6%"
+length_weight: "26.8%"
 pinned: false
 ---
 

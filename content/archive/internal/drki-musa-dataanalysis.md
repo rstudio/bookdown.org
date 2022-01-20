@@ -4,7 +4,7 @@ author: "Kamarul Imran Musa"
 date: "2021-12-25T06:18:08Z"
 tags: [Package, Epidemiology, R Programming]
 link: "https://bookdown.org/drki_musa/dataanalysis/"
-length_weight: "27.8%"
+length_weight: "36.2%"
 repo: "drkamarul/multivar_data_analysis"
 pinned: false
 ---

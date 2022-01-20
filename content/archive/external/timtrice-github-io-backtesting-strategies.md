@@ -4,7 +4,7 @@ author: "Tim Trice"
 date: "2016-05-06"
 tags: [Statistics, Market]
 link: "https://timtrice.github.io/backtesting-strategies/"
-length_weight: "9.7%"
+length_weight: "12.6%"
 pinned: false
 ---
 
