@@ -4,7 +4,7 @@ author: "Editors (this version):Paul C. Bauer, Camille LandesvatterAuthors & con
 date: "2022-01-11T10:55:24Z"
 tags: [Github]
 link: "https://bookdown.org/paul/apis_for_social_scientists/"
-length_weight: "20%"
+length_weight: "26%"
 pinned: false
 ---
 

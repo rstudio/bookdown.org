@@ -4,7 +4,7 @@ author: "Taia Wu"
 date: "2021-07-09T05:22:00Z"
 tags: [Visualization, Course, Education]
 link: "https://bookdown.org/taiawu/data_viz_course/"
-length_weight: "7%"
+length_weight: "9.1%"
 pinned: false
 ---
 

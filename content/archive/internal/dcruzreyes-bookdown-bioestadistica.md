@@ -3,7 +3,7 @@ title: "Bioestadística"
 author: "Danna Cruz"
 date: "2021-07-13T01:44:11Z"
 link: "https://bookdown.org/dcruzreyes/bookdown-bioestadistica/"
-length_weight: "18.5%"
+length_weight: "24%"
 repo: "DannaCruz/DatColombia"
 pinned: false
 ---

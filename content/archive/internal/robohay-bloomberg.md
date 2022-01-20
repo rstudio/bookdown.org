@@ -4,7 +4,7 @@ author: "Rob Hayward"
 date: "2021-11-22T14:54:15Z"
 tags: [Github]
 link: "https://bookdown.org/robohay/bloomberg/"
-length_weight: "5.7%"
+length_weight: "7.5%"
 repo: "robhayward/bloomberg"
 pinned: false
 ---

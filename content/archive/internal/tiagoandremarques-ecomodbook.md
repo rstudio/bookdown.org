@@ -4,7 +4,7 @@ author: "Tiago A. Marques"
 date: "2020-11-15T17:22:41Z"
 tags: [Package, Course]
 link: "https://bookdown.org/tiagoandremarques/ecomodbook/"
-length_weight: "23.1%"
+length_weight: "30.1%"
 pinned: false
 ---
 

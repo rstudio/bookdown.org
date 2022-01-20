@@ -1,10 +1,10 @@
 ---
 title: "Guide to Wise Investing"
 author: "Junghoon Shin"
-date: "2022-01-13T05:07:38Z"
+date: "2022-01-20T05:08:23Z"
 tags: [Guide, Market, Package]
 link: "https://bookdown.org/junghoonshin/guide-to-wise-investing/"
-length_weight: "9.7%"
+length_weight: "12.6%"
 cover: "https://bookdown.org/junghoonshin/guide-to-wise-investing/images/mathieu-stern-1zO4O3Z0UJA-unsplash.jpg"
 repo: "junghoon-shin/guide-to-wise-investing"
 pinned: false

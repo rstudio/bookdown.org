@@ -4,7 +4,7 @@ author: "Golub Capital Social Impact Lab"
 date: "2021-04-01T17:37:12Z"
 tags: [Tutorial]
 link: "https://bookdown.org/halflearned/tutorial/"
-length_weight: "14.7%"
+length_weight: "19.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

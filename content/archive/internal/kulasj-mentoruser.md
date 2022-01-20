@@ -4,7 +4,7 @@ author: "Eagle I-O"
 date: "2019-09-04T21:11:06Z"
 tags: [Psychology]
 link: "https://bookdown.org/kulasj/mentoruser/"
-length_weight: "6.4%"
+length_weight: "8.3%"
 cover: "https://bookdown.org/kulasj/mentoruser/images/cover.png"
 pinned: false
 ---

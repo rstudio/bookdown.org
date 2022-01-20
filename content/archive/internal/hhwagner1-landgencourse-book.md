@@ -1,7 +1,7 @@
 ---
 title: "Landscape Genetic Data Analysis with R"
 author: "Editor: Helene Wagner (University of Toronto)"
-date: "2022-01-09T23:04:28Z"
+date: "2022-01-18T16:00:52Z"
 tags: [Data Analysis, Course, Seminar]
 link: "https://bookdown.org/hhwagner1/LandGenCourse_book/"
 length_weight: "100%"

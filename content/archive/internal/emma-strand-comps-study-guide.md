@@ -4,7 +4,7 @@ author: "Author: Emma Strand; Ph.D. Student at the University of Rhode Island"
 date: "2021-05-17T00:31:26Z"
 tags: [Guide]
 link: "https://bookdown.org/emma_strand/comps-study-guide/"
-length_weight: "21.3%"
+length_weight: "27.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

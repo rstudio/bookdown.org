@@ -4,7 +4,7 @@ author: "Heejun Lee"
 date: "2020-04-07T02:38:01Z"
 tags: [String]
 link: "https://bookdown.org/info_hlee/R_Basics/"
-length_weight: "3.8%"
+length_weight: "4.9%"
 pinned: false
 ---
 

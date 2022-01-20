@@ -4,7 +4,7 @@ author: "Yiming Gong"
 date: "2021-07-20T15:06:39Z"
 tags: [R Markdown]
 link: "https://bookdown.org/yg484/rec_2_note/"
-length_weight: "6.1%"
+length_weight: "7.9%"
 pinned: false
 ---
 

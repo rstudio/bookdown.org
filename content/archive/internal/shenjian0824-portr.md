@@ -4,7 +4,7 @@ author: "Jian SHEN"
 date: "2020-11-24T19:00:16Z"
 tags: [Machine Learning, Python]
 link: "https://bookdown.org/shenjian0824/portr/"
-length_weight: "6.4%"
+length_weight: "8.4%"
 pinned: false
 ---
 

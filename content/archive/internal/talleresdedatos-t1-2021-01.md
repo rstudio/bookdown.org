@@ -4,7 +4,7 @@ author: "Calderon, S., Zuñiga, L., Reyes, C., Bedoya, F."
 date: "2021-10-09T21:19:03Z"
 tags: [R Markdown]
 link: "https://bookdown.org/talleresdedatos/T1-2021-01/"
-length_weight: "16.7%"
+length_weight: "21.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

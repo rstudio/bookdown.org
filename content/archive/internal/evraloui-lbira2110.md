@@ -3,7 +3,7 @@ title: "Analyses statistiques avec R"
 author: "Evrard Louis - l.evrard@student.uclouvain.be - LSBA - UCLouvain, Govaerts Bernadette - bernadette.govaerts@uclouvain.be - LSBA - ISBA - UCLouvain"
 date: "2021-05-15T12:33:54Z"
 link: "https://bookdown.org/evraloui/lbira2110/"
-length_weight: "12.5%"
+length_weight: "16.3%"
 pinned: false
 ---
 

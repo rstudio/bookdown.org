@@ -4,7 +4,7 @@ author: "2035021 Choi Inyoung/최인영"
 date: "2021-09-25T03:19:27Z"
 tags: [Package]
 link: "https://bookdown.org/on727272/quiz3-choi_inyoung/"
-length_weight: "3.8%"
+length_weight: "4.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

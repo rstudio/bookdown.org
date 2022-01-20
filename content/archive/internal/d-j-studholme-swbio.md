@@ -4,7 +4,7 @@ author: "David Studholme"
 date: "2021-10-26T18:45:43Z"
 tags: [Course, Package]
 link: "https://bookdown.org/d_j_studholme/swbio/"
-length_weight: "11.3%"
+length_weight: "14.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

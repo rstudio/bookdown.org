@@ -3,7 +3,7 @@ title: "jamoviクイックガイド（Analysis編）"
 author: "芝田 征司"
 date: "2021-06-13T06:06:07Z"
 link: "https://bookdown.org/sbtseiji/jamovi_quickguide_J/"
-length_weight: "18%"
+length_weight: "23.5%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Eric van Holm, PhD"
 date: "2021-01-07T18:11:12Z"
 tags: [Textbook, R Programming]
 link: "https://bookdown.org/ejvanholm/WorkingWithData/"
-length_weight: "20.9%"
+length_weight: "27.3%"
 repo: "rstudio/bookdown/DataCleaning"
 pinned: false
 ---

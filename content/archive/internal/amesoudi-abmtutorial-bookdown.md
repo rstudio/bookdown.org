@@ -1,7 +1,7 @@
 ---
 title: "Simulation Models of Cultural Evolution in R"
 author: "Alex Mesoudi"
-date: "2021-11-23T14:35:45Z"
+date: "2022-01-14T18:36:18Z"
 tags: [Simulation, Models, Tutorial, Github]
 link: "https://bookdown.org/amesoudi/ABMtutorial_bookdown/"
 length_weight: "100%"

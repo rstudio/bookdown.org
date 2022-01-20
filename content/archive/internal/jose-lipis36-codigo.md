@@ -3,7 +3,7 @@ title: "Growth in times of Coronavirus"
 author: "Austria"
 date: "2020-04-18T23:41:05Z"
 link: "https://bookdown.org/jose_lipis36/Codigo/"
-length_weight: "4%"
+length_weight: "5.3%"
 pinned: false
 ---
 

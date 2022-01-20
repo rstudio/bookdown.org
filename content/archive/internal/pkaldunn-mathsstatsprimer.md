@@ -4,7 +4,7 @@ author: "Peter K. Dunn"
 date: "2021-07-30T02:33:03Z"
 tags: [Statistics, Models]
 link: "https://bookdown.org/pkaldunn/MathsStatsPrimer/"
-length_weight: "9.8%"
+length_weight: "12.7%"
 pinned: false
 ---
 

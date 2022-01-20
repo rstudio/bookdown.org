@@ -3,7 +3,7 @@ title: "Data Management for Analytics and Applications"
 author: "Marios Kokkodis"
 date: "2022-01-12T21:36:38Z"
 link: "https://bookdown.org/kokkodis/book/"
-length_weight: "26.4%"
+length_weight: "34.3%"
 pinned: false
 ---
 

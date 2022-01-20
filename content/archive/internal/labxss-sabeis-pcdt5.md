@@ -4,7 +4,7 @@ author: "Felipe Ferré"
 date: "2020-01-06T16:52:32Z"
 tags: [Tutorial]
 link: "https://bookdown.org/labxss/sabeis_pcdt5/"
-length_weight: "21.2%"
+length_weight: "27.6%"
 repo: "https://github.com/labxss/sabeis_pcdt"
 pinned: false
 ---

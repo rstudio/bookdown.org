@@ -4,7 +4,7 @@ author: "Jason Matthiopoulos, John Fieberg, Geert Aarts"
 date: "2020-12-17T22:19:45Z"
 tags: [Spatial Data, Predictive Model]
 link: "https://bookdown.org/jfieberg/SHABook/"
-length_weight: "30.3%"
+length_weight: "39.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

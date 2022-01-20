@@ -3,7 +3,7 @@ title: "Lecture 8 Note"
 author: "Yiming Gong"
 date: "2021-07-30T03:31:49Z"
 link: "https://bookdown.org/yg484/lec_8_note/"
-length_weight: "5.5%"
+length_weight: "7.1%"
 pinned: false
 ---
 

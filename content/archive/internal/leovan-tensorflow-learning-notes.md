@@ -4,7 +4,7 @@ author: "Leo Van | 范叶亮"
 date: "2018-08-19T08:05:34Z"
 tags: [笔记]
 link: "https://bookdown.org/leovan/TensorFlow-Learning-Notes/"
-length_weight: "22.7%"
+length_weight: "29.6%"
 repo: "leovan/TensorFlow-Learning-Notes"
 pinned: false
 ---
