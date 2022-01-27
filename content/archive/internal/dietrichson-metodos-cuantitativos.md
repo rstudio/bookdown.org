@@ -3,7 +3,7 @@ title: "Métodos Cuantitativos"
 author: "Aleksander Dietrichson, PhD"
 date: "2019-09-22T13:22:12Z"
 link: "https://bookdown.org/dietrichson/metodos-cuantitativos/"
-length_weight: "26.2%"
+length_weight: "26.1%"
 repo: "dietrichson/metodos_cuantitativos"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Fousseynou Bah"
 date: "2019-03-18T15:56:41Z"
 tags: [Data Science]
 link: "https://bookdown.org/fousseynoubah/dswr_book/"
-length_weight: "31.4%"
+length_weight: "31.3%"
 pinned: false
 ---
 

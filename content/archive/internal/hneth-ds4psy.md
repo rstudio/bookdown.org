@@ -1,7 +1,7 @@
 ---
 title: "Data Science for Psychologists"
 author: "Hansjörg Neth"
-date: "2022-01-12T11:35:33Z"
+date: "2022-01-25T17:52:22Z"
 tags: [Data Science, Psychology, Social Science, Statistics]
 link: "https://bookdown.org/hneth/ds4psy/"
 length_weight: "100%"

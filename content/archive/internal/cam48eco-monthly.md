@@ -1,7 +1,7 @@
 ---
 title: "Raport cykliczny"
 author: "LIFE Pilica +"
-date: "2022-01-13T18:39:24Z"
+date: "2022-01-24T14:55:35Z"
 link: "https://bookdown.org/cam48eco/monthly/"
 length_weight: "100%"
 repo: "rstudio/bookdown-demo"

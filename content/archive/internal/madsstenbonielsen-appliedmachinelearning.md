@@ -1,7 +1,7 @@
 ---
 title: "Business Intelligence II - Anvendt Machine Learning"
 author: "Mads Stenbo Nielsen"
-date: "2022-01-19T14:31:02Z"
+date: "2022-01-27T00:26:04Z"
 tags: [Machine Learning, Package]
 link: "https://bookdown.org/madsstenbonielsen/appliedmachinelearning/"
 length_weight: "15.2%"
