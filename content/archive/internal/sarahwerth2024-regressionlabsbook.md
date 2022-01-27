@@ -1,10 +1,10 @@
 ---
 title: "Linear Regression in Stata and R"
 author: "Rose Werth"
-date: "2022-01-14T02:11:27Z"
+date: "2022-01-26T17:20:01Z"
 tags: [Guide, Course]
 link: "https://bookdown.org/sarahwerth2024/RegressionLabsBook/"
-length_weight: "23.2%"
+length_weight: "30.1%"
 cover: "https://bookdown.org/sarahwerth2024/RegressionLabsBook/images/rw.png"
 pinned: false
 ---

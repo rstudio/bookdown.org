@@ -1,10 +1,10 @@
 ---
 title: "Miller Creek and Vogel Lake Water Quality"
 author: "Benjamin Meyer (ben@kenaiwatershed.org)"
-date: "2021-11-11T00:26:00Z"
+date: "2022-01-20T22:29:29Z"
 tags: [Package]
 link: "https://bookdown.org/kwfwqx/miller_creek_vogel_lake_wqx/"
-length_weight: "8.3%"
+length_weight: "9%"
 pinned: false
 ---
 

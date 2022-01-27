@@ -1,10 +1,10 @@
 ---
 title: "Companion to Stock and Watson’s Intro to Econometrics"
 author: "John Stone"
-date: "2022-01-15T20:47:32Z"
+date: "2022-01-27T00:38:40Z"
 tags: [Econometrics, Package]
 link: "https://bookdown.org/john_stone_3/Johns-Econometrics/"
-length_weight: "11.9%"
+length_weight: "15.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

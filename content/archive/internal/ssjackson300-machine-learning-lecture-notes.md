@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning"
 author: "Dr. S. Jackson"
-date: "2022-01-19T12:16:13Z"
+date: "2022-01-20T13:05:19Z"
 tags: [Machine Learning, Course, Data Science]
 link: "https://bookdown.org/ssjackson300/Machine-Learning-Lecture-Notes/"
-length_weight: "36.4%"
+length_weight: "36.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
