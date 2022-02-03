@@ -1,10 +1,10 @@
 ---
 title: "Statistical Inference"
 author: "Michael Foley"
-date: "2022-01-01T19:35:31Z"
+date: "2022-01-29T20:18:19Z"
 tags: [Tutorial, Machine Learning, Text Mining, Survival Analysis]
 link: "https://bookdown.org/mpfoley1973/statistics/"
-length_weight: "35.7%"
+length_weight: "37.3%"
 pinned: false
 ---
 

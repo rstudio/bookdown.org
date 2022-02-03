@@ -1,10 +1,10 @@
 ---
 title: "Kenai Peninsula Chapter of Trout Unlimited Embrace-a-Stream Project: Expanding Knowledge of Fish Habitat in Alaska’s Kenai Peninsula"
 author: "Benjamin Meyer, Kenai Watershed Forum (ben@kenaiwatershed.org)"
-date: "2021-12-16T04:05:40Z"
+date: "2022-02-01T01:45:58Z"
 tags: [Package]
 link: "https://bookdown.org/kwfwqx/tu_awc_expansion/"
-length_weight: "9.3%"
+length_weight: "9.4%"
 repo: "https://bookdown.org/kwfwqx/tu_awc_expansion"
 pinned: false
 ---

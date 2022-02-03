@@ -1,9 +1,9 @@
 ---
 title: "STM1001 Topic 10: Chi-squared Tests for Categorical Data"
 author: "Amanda Shaker"
-date: "2022-01-26T23:36:55Z"
+date: "2022-02-01T02:06:16Z"
 link: "https://bookdown.org/a_shaker/STM1001_Topic_10/"
-length_weight: "8.1%"
+length_weight: "8.4%"
 pinned: false
 ---
 

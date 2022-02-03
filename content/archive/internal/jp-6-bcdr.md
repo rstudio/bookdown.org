@@ -1,7 +1,7 @@
 ---
 title: "Bio Ciencia de Datos"
-author: "Act. Juan Pablo Acuña González"
-date: "2022-01-26T01:14:19Z"
+author: "jp_6"
+date: "2022-02-03T03:46:16Z"
 tags: [Python]
 link: "https://bookdown.org/jp_6/bcdr/"
 length_weight: "10.7%"
