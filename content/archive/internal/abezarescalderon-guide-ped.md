@@ -1,11 +1,11 @@
 ---
 title: "Political Economy of Development"
 author: "Alma A. Bezares Calderón"
-date: "2020-09-17T04:30:56Z"
+date: "2022-01-28T23:53:18Z"
 tags: [Guide, Course]
-link: "https://bookdown.org/abezarescalderon/econ371-political_economy_of_development/"
-length_weight: "25.9%"
-repo: "mmeapple/Books"
+link: "https://bookdown.org/abezarescalderon/guide-ped/"
+length_weight: "27%"
+repo: "mmeapple/Guide-PED"
 pinned: false
 ---
 

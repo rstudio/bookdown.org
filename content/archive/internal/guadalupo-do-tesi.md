@@ -1,7 +1,7 @@
 ---
 title: "VALUTAZIONE DELLA SUSCETTIBILITA’ DA FRANA NEL BACINO IDROGRAFICO DI TRUNCA (RC)"
 author: "Roberta Parlavecchia"
-date: "2022-01-18T15:26:27Z"
+date: "2022-01-27T10:09:00Z"
 link: "https://bookdown.org/guadalupo_do/tesi/"
 length_weight: "30.3%"
 repo: "rstudio/bookdown-demo"

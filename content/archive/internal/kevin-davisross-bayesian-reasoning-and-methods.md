@@ -4,7 +4,7 @@ author: "Kevin Ross"
 date: "2022-01-23T05:24:44Z"
 tags: [Bayesian, Textbook, Statistics, Data Analysis]
 link: "https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/"
-length_weight: "39.8%"
+length_weight: "39.7%"
 repo: "rstudio/bayesian-reasoning-and-methods"
 pinned: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "R Development Guide"
 author: "R Contribution Working Group"
-date: "2021-12-20"
+date: "2022-01-31"
 tags: [Guide]
 link: "https://contributor.r-project.org/rdevguide/"
 length_weight: "9.3%"
