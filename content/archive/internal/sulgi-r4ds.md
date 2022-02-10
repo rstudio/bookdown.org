@@ -1,7 +1,7 @@
 ---
 title: "R for Data Science - 한국어"
 author: "해들리 위컴, 개럿 그롤문드, 번역-김설기, 최혜민"
-date: "2022-01-18T14:47:32Z"
+date: "2022-02-08T12:53:56Z"
 tags: [Data Science, Github]
 link: "https://bookdown.org/sulgi/r4ds/"
 length_weight: "100%"

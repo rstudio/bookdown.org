@@ -1,9 +1,9 @@
 ---
 title: "Modul Praktikum Perancangan Percobaan"
 author: "Fardilla Rahmawati, Muhammad Ammar Sahab"
-date: "2022-02-02T07:06:36Z"
+date: "2022-02-07T10:04:46Z"
 link: "https://bookdown.org/mammarsahab3/ModulPrak-Rancob/"
-length_weight: "18.8%"
+length_weight: "22.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Data Science: A First Introduction"
 author: "Tiffany-Anne Timbers, Trevor Campbell, Melissa Lee"
-date: "2022-01-12"
+date: "2022-02-05"
 tags: [Data Science, Textbook, Education, Course, Tutorial]
 link: "https://ubc-dsci.github.io/introduction-to-datascience/"
-length_weight: "29%"
+length_weight: "29.1%"
 pinned: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "An Introduction to Bayesian Reasoning and Methods"
 author: "Kevin Ross"
-date: "2022-01-23T05:24:44Z"
+date: "2022-02-07T06:57:45Z"
 tags: [Bayesian, Textbook, Statistics, Data Analysis]
 link: "https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/"
-length_weight: "39.7%"
+length_weight: "100%"
 repo: "rstudio/bayesian-reasoning-and-methods"
 pinned: false
 ---

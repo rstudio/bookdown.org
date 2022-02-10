@@ -1,10 +1,10 @@
 ---
 title: "Pricing Danish Mortgage Bonds using Machine learning for estimation"
 author: "Morten Søby Willendrup"
-date: "2022-01-27T11:16:18Z"
+date: "2022-02-09T14:54:13Z"
 tags: [Machine Learning, Package]
 link: "https://bookdown.org/MortenWillendrup/thesis/"
-length_weight: "4.1%"
+length_weight: "9.6%"
 pinned: false
 ---
 
