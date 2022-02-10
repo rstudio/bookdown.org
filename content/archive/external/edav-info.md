@@ -1,7 +1,7 @@
 ---
 title: "edav.info, 2nd edition"
 author: "Joyce Robbins"
-date: "2022-02-03"
+date: "2022-02-09"
 tags: [Exploratory Data Analysis, Visualization, Course]
 link: "https://edav.info/"
 length_weight: "6.5%"
