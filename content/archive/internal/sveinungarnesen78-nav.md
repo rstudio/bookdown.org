@@ -1,9 +1,9 @@
 ---
 title: "Demokratiske algoritmer"
 author: ""
-date: "2022-01-26T08:09:06Z"
+date: "2022-02-16T12:58:04Z"
 link: "https://bookdown.org/sveinungarnesen78/NAV/"
-length_weight: "12.4%"
+length_weight: "13.9%"
 pinned: false
 ---
 

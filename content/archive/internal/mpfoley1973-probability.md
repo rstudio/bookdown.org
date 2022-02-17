@@ -1,10 +1,10 @@
 ---
 title: "Probability"
 author: "Michael Foley"
-date: "2022-01-29T13:28:46Z"
+date: "2022-02-12T21:05:56Z"
 tags: [Tutorial, Statistics, Machine Learning, Text Mining, Survival Analysis]
 link: "https://bookdown.org/mpfoley1973/probability/"
-length_weight: "11.7%"
+length_weight: "11.8%"
 pinned: false
 ---
 

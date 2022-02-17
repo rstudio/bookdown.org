@@ -4,7 +4,7 @@ author: "Aaron Coyner and Ted Laderas"
 date: "2020-06-12"
 tags: [Package, Course, Data Science]
 link: "https://ready4r.netlify.app/labbook/"
-length_weight: "11.2%"
+length_weight: "0%"
 repo: "laderast/ready_for_r_site"
 pinned: false
 ---

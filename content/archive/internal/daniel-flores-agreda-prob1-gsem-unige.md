@@ -1,11 +1,10 @@
 ---
 title: "🃏 Probability I"
 author: "Dr. Daniel Flores Agreda (based on the Lecture by Prof. Davide La Vecchia)"
-date: "2021-05-27T22:08:33Z"
+date: "2022-02-14T20:54:02Z"
 tags: [Course]
 link: "https://bookdown.org/daniel_flores_agreda/Prob1-GSEM-UNIGE/"
-length_weight: "7.9%"
-repo: "rstudio/bookdown-demo"
+length_weight: "9.4%"
 pinned: false
 ---
 

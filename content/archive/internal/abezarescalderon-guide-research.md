@@ -1,10 +1,10 @@
 ---
 title: "Research Guide"
 author: "Alma A. Bezares Calderón"
-date: "2022-02-01T03:22:38Z"
+date: "2022-02-15T21:26:06Z"
 tags: [Guide]
 link: "https://bookdown.org/abezarescalderon/guide-research/"
-length_weight: "14.2%"
+length_weight: "14.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
