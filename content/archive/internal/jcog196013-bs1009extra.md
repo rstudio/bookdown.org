@@ -1,9 +1,9 @@
 ---
 title: "BS1009: the Extra Bits"
 author: "Kevin the TA"
-date: "2022-02-09T07:41:26Z"
+date: "2022-02-14T16:51:47Z"
 link: "https://bookdown.org/jcog196013/BS1009extra/"
-length_weight: "14.2%"
+length_weight: "16.1%"
 pinned: false
 ---
 

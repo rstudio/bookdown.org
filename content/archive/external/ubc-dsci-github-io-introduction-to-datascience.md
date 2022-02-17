@@ -1,15 +1,20 @@
 ---
-title: "Data Science: A First Introduction"
-author: "Tiffany-Anne Timbers, Trevor Campbell, Melissa Lee"
-date: "2022-02-05"
-tags: [Data Science, Textbook, Education, Course, Tutorial]
+title: " Data Science"
+author: "Tiffany Timbers, Trevor Campbell, and Melissa Lee"
+date: "2022-02-13"
+tags: [Data Science, Textbook]
 link: "https://ubc-dsci.github.io/introduction-to-datascience/"
 length_weight: "29.1%"
+cover: "https://datasciencebook.ca/img/ds-a-first-intro-graphic.jpg"
 pinned: false
 ---
 
-This is a textbook for teaching a first introduction to data science. [...] Roger D. Peng Johns Hopkins Bloomberg School of Public Health 2022-01-04 The field of data science has expanded and grown significantly in recent years,
-attracting excitement and interest from many different directions. The demand for introductory
-educational materials has grown concurrently with the growth of the field itself, leading to
-a proliferation of textbooks, courses, blog posts, and tutorials. This book is an important
-contribution to this fast-growing literature, but given the wide availability of materials, ...
+This is a textbook for teaching a first introduction to data science. [...] Data Science This is the website for Data Science: A First Introduction.
+You can read the web version of the book on this site. Click a section in the table of contents
+on the left side of the page to navigate to it. If you are on a mobile device,
+you may need to open the table of contents first by clicking the menu button on
+the top left of the page.
+You can purchase a PDF or print copy of the book
+on the CRC Press website or on Amazon. This work by Tiffany Timbers, Trevor Campbell,
+and Melissa Lee is licensed under
+a ...

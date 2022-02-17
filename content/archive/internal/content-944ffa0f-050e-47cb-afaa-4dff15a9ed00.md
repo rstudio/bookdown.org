@@ -1,7 +1,7 @@
 ---
 title: "Simulación de Procesos y Sistemas"
 author: "content"
-date: "2022-02-09T10:26:40Z"
+date: "2022-02-16T08:55:45Z"
 link: "https://bookdown.org/content/944ffa0f-050e-47cb-afaa-4dff15a9ed00/"
 length_weight: "100%"
 pinned: false
