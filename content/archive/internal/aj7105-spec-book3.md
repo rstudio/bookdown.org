@@ -3,7 +3,7 @@ title: "R语言基础与光谱建模"
 author: "李彦杰, 中国林业科学研究院亚热带林业研究所, aj7105@gmail.com"
 date: "2021-07-20T02:54:00Z"
 link: "https://bookdown.org/aj7105/spec_book3/"
-length_weight: "34.5%"
+length_weight: "34.6%"
 repo: "https://github.com/Yanjie-Li/rbook-chinese-base"
 pinned: false
 ---

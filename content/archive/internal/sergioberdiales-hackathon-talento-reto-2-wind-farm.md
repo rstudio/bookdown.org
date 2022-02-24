@@ -4,7 +4,7 @@ author: "Sergio Berdiales, Javier Campos y Manuel Antonio García"
 date: "2019-06-21T07:57:01Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/sergioberdiales/hackathon_talento_reto_2_wind_farm/"
-length_weight: "12.4%"
+length_weight: "12.5%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Алексей Селезнёв"
 date: "2021-07-14T05:34:42Z"
 tags: [Tidyverse]
 link: "https://bookdown.org/selesnow/r-for-excel-users/"
-length_weight: "12.7%"
+length_weight: "12.8%"
 cover: "https://bookdown.org/selesnow/r-for-excel-users/cover.png"
 repo: "selesnow/r4excel_users"
 pinned: false

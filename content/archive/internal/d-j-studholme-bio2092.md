@@ -4,7 +4,7 @@ author: "David Studholme"
 date: "2022-01-15T10:28:37Z"
 tags: [Course]
 link: "https://bookdown.org/d_j_studholme/bio2092/"
-length_weight: "23.4%"
+length_weight: "23.5%"
 pinned: false
 ---
 

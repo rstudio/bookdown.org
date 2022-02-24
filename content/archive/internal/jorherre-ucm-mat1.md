@@ -4,7 +4,7 @@ author: "Jorge Herrera de la Cruz"
 date: "2022-02-12T19:52:43Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/UCM_MAT1/"
-length_weight: "37%"
+length_weight: "37.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

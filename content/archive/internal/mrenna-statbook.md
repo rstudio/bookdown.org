@@ -4,7 +4,7 @@ author: "By Seda Erdem | University of Stirling"
 date: "2021-09-27T12:43:08Z"
 tags: [Statistics]
 link: "https://bookdown.org/mrenna/statbook/"
-length_weight: "26.8%"
+length_weight: "26.9%"
 pinned: false
 ---
 

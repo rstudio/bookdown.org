@@ -4,7 +4,7 @@ author: "Peter K. Dunn"
 date: "2022-02-15T23:32:18Z"
 tags: [Tutorial, Course]
 link: "https://bookdown.org/pkaldunn/SRM-tutorials/"
-length_weight: "36.3%"
+length_weight: "36.4%"
 pinned: false
 ---
 

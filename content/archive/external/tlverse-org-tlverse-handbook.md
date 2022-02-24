@@ -4,7 +4,7 @@ author: "Mark van der Laan, Jeremy Coyle, Nima Hejazi, Ivana Malenica, Rachael P
 date: "2022-02-11"
 tags: [Data Science, Github, Guide, Course]
 link: "https://tlverse.org/tlverse-handbook/"
-length_weight: "21.2%"
+length_weight: "21.3%"
 repo: "tlverse/tlverse-handbook"
 pinned: false
 ---

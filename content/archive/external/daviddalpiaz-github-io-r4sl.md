@@ -4,7 +4,7 @@ author: "David Dalpiaz"
 date: "2020-10-28"
 tags: [Machine Learning]
 link: "https://daviddalpiaz.github.io/r4sl/"
-length_weight: "20.7%"
+length_weight: "20.8%"
 repo: "daviddalpiaz/r4sl"
 pinned: false
 ---
