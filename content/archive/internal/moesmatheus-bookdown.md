@@ -4,7 +4,7 @@ author: "Matheus Amaral Mões, Marcelo Semerene Farah, Luísa Belus Henriques an
 date: "2019-08-31T15:46:48Z"
 tags: [Business Analytics]
 link: "https://bookdown.org/moesmatheus/bookdown/"
-length_weight: "5.2%"
+length_weight: "5.3%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Joyce Robbins"
 date: "2022-02-17"
 tags: [Exploratory Data Analysis, Visualization, Course]
 link: "https://edav.info/"
-length_weight: "8.5%"
+length_weight: "8.9%"
 repo: "jtr13/edav2"
 pinned: false
 ---

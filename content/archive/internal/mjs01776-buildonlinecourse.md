@@ -4,7 +4,7 @@ author: "Martin Schedlbauer Khoury College of Computer Sciences Northeastern Uni
 date: "2020-06-20T12:54:39Z"
 tags: [Course, Tutorial]
 link: "https://bookdown.org/mjs01776/BuildOnlineCourse/"
-length_weight: "18.8%"
+length_weight: "18.9%"
 pinned: false
 ---
 

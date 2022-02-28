@@ -3,7 +3,7 @@ title: "Desmantelamiento Instalaciones Fases 1 a 5"
 author: "Alejandro Verri - SRK Consulting (Argentina)"
 date: "2021-09-23T16:06:14Z"
 link: "https://bookdown.org/srk_arma5h0/wbs/"
-length_weight: "25.9%"
+length_weight: "26%"
 cover: "https://bookdown.org/srk_arma5h0/wbs/imagenes/orebin.jpg"
 pinned: false
 ---

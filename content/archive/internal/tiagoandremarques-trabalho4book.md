@@ -4,7 +4,7 @@ author: "Tiago A. Marques, Susana França, Ana Sofia Reboleira e os alunos de Ec
 date: "2020-12-30T18:30:54Z"
 tags: [Package]
 link: "https://bookdown.org/tiagoandremarques/trabalho4book/"
-length_weight: "36.4%"
+length_weight: "36.5%"
 pinned: false
 ---
 

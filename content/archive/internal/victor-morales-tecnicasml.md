@@ -4,7 +4,7 @@ author: "Víctor Morales-Oñate"
 date: "2021-11-23T11:48:33Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/victor_morales/TecnicasML/"
-length_weight: "39.6%"
+length_weight: "39.7%"
 pinned: false
 ---
 

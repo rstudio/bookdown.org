@@ -1,10 +1,10 @@
 ---
 title: "Analysis of High-Dimensional Data: Prediction and Feature Assessment"
 author: "Nicolas Städler"
-date: "2022-02-16T13:04:56Z"
+date: "2022-02-23T17:38:21Z"
 tags: [Course, Data Science, Github, Statistics]
 link: "https://bookdown.org/staedler_n/highdimstats/"
-length_weight: "25%"
+length_weight: "24.9%"
 repo: "staedlern/highdim_stats"
 pinned: false
 ---

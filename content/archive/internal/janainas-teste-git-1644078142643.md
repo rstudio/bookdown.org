@@ -1,7 +1,7 @@
 ---
-title: "Exemplo Livro Git (05/02/2022)"
+title: "Exemplo Livro Git (18/02/2022)"
 author: "John Doe"
-date: "2022-02-05T17:29:33Z"
+date: "2022-02-18T20:20:13Z"
 tags: [Package]
 link: "https://bookdown.org/janainas/Teste-git-1644078142643/"
 length_weight: "6.2%"
