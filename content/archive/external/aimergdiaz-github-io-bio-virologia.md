@@ -3,7 +3,7 @@ title: "BioVirología:"
 author: "aimergdiaz.github.io"
 date: ""
 link: "https://aimergdiaz.github.io/Bio-Virologia/"
-length_weight: "0%"
+length_weight: "10.6%"
 cover: "https://aimergdiaz.github.io/Bio-Virologia/figures/Portrait.png"
 repo: "AimerGDiaz/Bio-Virologia"
 pinned: false

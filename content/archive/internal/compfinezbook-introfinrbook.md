@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Computational Finance and Financial Econometrics with R"
 author: "Eric Zivot"
-date: "2022-02-15T01:08:39Z"
+date: "2022-02-25T22:37:17Z"
 tags: [Econometrics, Course, Statistics]
 link: "https://bookdown.org/compfinezbook/introFinRbook/"
 length_weight: "100%"
