@@ -1,7 +1,7 @@
 ---
 title: " Data Science"
 author: "Tiffany Timbers, Trevor Campbell, and Melissa Lee"
-date: "2022-02-13"
+date: "2022-03-02"
 tags: [Data Science, Textbook]
 link: "https://ubc-dsci.github.io/introduction-to-datascience/"
 length_weight: "29.2%"

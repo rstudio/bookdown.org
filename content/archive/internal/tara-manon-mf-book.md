@@ -1,7 +1,7 @@
 ---
 title: "🃏 Probability I"
 author: "Dr. Daniel Flores Agreda (based on the Lecture by Prof. Davide La Vecchia)"
-date: "2022-02-23T14:02:01Z"
+date: "2022-02-24T14:08:19Z"
 tags: [Course, Seminar]
 link: "https://bookdown.org/tara_manon/MF_book/"
 length_weight: "27.7%"

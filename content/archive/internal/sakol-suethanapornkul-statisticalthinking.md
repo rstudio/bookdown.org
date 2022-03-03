@@ -1,10 +1,10 @@
 ---
 title: "Statistical Thinking for Linguists"
 author: "Sakol Suethanapornkul"
-date: "2022-02-22T13:49:22Z"
+date: "2022-03-02T14:13:05Z"
 tags: [Package, Tidyverse]
 link: "https://bookdown.org/sakol_suethanapornkul/statisticalthinking/"
-length_weight: "4.1%"
+length_weight: "5.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
