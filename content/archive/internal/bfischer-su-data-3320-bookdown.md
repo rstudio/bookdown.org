@@ -1,10 +1,10 @@
 ---
 title: "DATA 3320 Data Science Methodology and Applications"
 author: "Brian Fischer"
-date: "2022-02-26T19:59:44Z"
+date: "2022-03-07T05:57:22Z"
 tags: [Data Science, Course, Guide, R Markdown]
 link: "https://bookdown.org/bfischer_su/data_3320_bookdown/"
-length_weight: "31.6%"
+length_weight: "31.5%"
 repo: "rstudio/data-3320"
 pinned: false
 ---
