@@ -1,7 +1,7 @@
 ---
 title: "Data Analytics Coding Fundamentals"
 author: "Martin Monkman"
-date: "2022-02-28T15:37:46Z"
+date: "2022-03-05T04:24:13Z"
 tags: [Course, Python]
 link: "https://bookdown.org/martin_monkman/DataAnalyticsCodingFundamentals/"
 length_weight: "100%"
@@ -10,4 +10,4 @@ repo: "MonkmanMH/UVic_BIDA302"
 pinned: false
 ---
 
-The course book for BIDA302 [...] Latest update: 2022-02-28 This book is based on the lessons for BIDA302, “Data Analytics Coding Fundamentals,” offered at the University of Victoria’s Continuing Studies Department. From UVic Continuing Studies website This course will explore the fundamentals of coding and scripting for Data Analytics. You will develop the ability to script and code for basic tasks in Data Analytics in common data analytic tools such as R, Python, and Excel. This will allow you to import and export data appropriately and perform fundamental data manipulations and to automate ...
+The course book for BIDA302 [...] Latest update: 2022-03-04 This book is based on the lessons for BIDA302, “Data Analytics Coding Fundamentals,” offered at the University of Victoria’s Continuing Studies Department. From UVic Continuing Studies website This course will explore the fundamentals of coding and scripting for Data Analytics. You will develop the ability to script and code for basic tasks in Data Analytics in common data analytic tools such as R, Python, and Excel. This will allow you to import and export data appropriately and perform fundamental data manipulations and to automate ...
