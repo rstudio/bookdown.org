@@ -4,7 +4,7 @@ author: "Sean Collins"
 date: "2021-11-02T12:20:13Z"
 tags: [Package, Course]
 link: "https://bookdown.org/scollinspt/Clinical_Inquiry/"
-length_weight: "13.2%"
+length_weight: "15%"
 repo: "scollinspt/Clinical_Inquiry"
 pinned: false
 ---

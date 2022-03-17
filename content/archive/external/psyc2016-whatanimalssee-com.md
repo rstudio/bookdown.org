@@ -4,7 +4,7 @@ author: "Alex O. Holcombe"
 date: ""
 tags: [Textbook, Psychology]
 link: "https://psyc2016.whatanimalssee.com/"
-length_weight: "24.1%"
+length_weight: "27.3%"
 cover: "https://psyc2016.whatanimalssee.com/imagesForRmd/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg"
 repo: "alexholcombe/PSYC2016attention"
 pinned: false

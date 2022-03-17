@@ -1,12 +1,13 @@
 ---
-title: "High-dimensional statistics"
+title: " Prediction and Feature Assessment"
 author: "Nicolas Städler"
-date: "2021-11-18T13:58:15Z"
-tags: [Statistics, Course]
+date: "2022-03-16T13:26:02Z"
+tags: [Course, Data Science, Github, Statistics]
 link: "https://bookdown.org/staedler_n/highdimstats/"
-length_weight: "19.9%"
+length_weight: "25.3%"
+cover: "https://bookdown.org/staedler_n/highdimstats/logo2.jpg"
 repo: "staedlern/highdim_stats"
 pinned: false
 ---
 
-This book is for the CAS Module High-dimensional statistics [...] This book is thought as accompanying material for the course on High-dimensional statistics. Much of the content is based on the book from Hastie, Tibshirani, and Friedman (2001). The book has a focus on applications using R (R Core Team 2021). What is high-dimensional statistics? The Statistics Department of the University of California, Berkeley summarizes it as follows: High-dimensional statistics focuses on data sets in which the number of features is of comparable size, or larger than the number of observations. Data sets ...
+Script for Analysis of High-Dimensional Data [...] Prediction and Feature Assessment This script was written for the course on Analysis of High-Dimensional Data of the CAS in Advanced Statistical Data Science (CAS ASDS) held at the University of Bern. Much of the content is based on the book from Hastie, Tibshirani, and Friedman (2001). The course has a focus on applications using R (R Core Team 2021). All data sets used throughout the script can be downloaded from github. What are high-dimensional data and what is high-dimensional statistics? The Statistics Department of the University of ...

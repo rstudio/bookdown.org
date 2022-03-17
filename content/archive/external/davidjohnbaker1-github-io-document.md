@@ -4,7 +4,7 @@ author: "David John Baker"
 date: "2019-04-15"
 tags: [Models]
 link: "https://davidjohnbaker1.github.io/document/"
-length_weight: "17.7%"
+length_weight: "20.2%"
 repo: "davidjohnbaker1/document"
 pinned: false
 ---

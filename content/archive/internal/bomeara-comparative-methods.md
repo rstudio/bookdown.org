@@ -1,10 +1,10 @@
 ---
 title: "Comparative Methods"
 author: "Brian O’Meara"
-date: "2020-01-09T15:32:51Z"
+date: "2022-02-28T12:06:20Z"
 tags: [Ecology, Course, Github]
 link: "https://bookdown.org/bomeara/comparative-methods/"
-length_weight: "17.9%"
+length_weight: "20.3%"
 repo: "bomeara/ComparativeMethodsInR"
 pinned: false
 ---

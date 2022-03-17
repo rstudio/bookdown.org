@@ -1,13 +1,12 @@
 ---
-title: "edav.info/"
-author: "Zach Bogart, Joyce Robbins"
-date: "2021-09-10"
-tags: [Exploratory Data Analysis, Visualization, Course, Textbook]
+title: "edav.info, 2nd edition"
+author: "Joyce Robbins"
+date: "2022-03-06"
+tags: [Exploratory Data Analysis, Visualization, Course]
 link: "https://edav.info/"
-length_weight: "0%"
-cover: "https://edav.info/images/edav_link_logo.png"
-repo: "jtr13/EDAV"
+length_weight: "10.1%"
+repo: "jtr13/edav2"
 pinned: false
 ---
 
-This resource is a collaborative collection of resources designed to help students succeed in GR5702 Exploratory Data Analysis and Visualization, a course offered at Columbia University. While the course lectures and textbook focus on theoretical issues, this resource, in contrast, provides coding tips and examples to assist students as they create their own analyses and visualizations. It is our hope that students will contribute to edav.info and it will grow with the course.
+Supplemental resources for GR5293 and GR5702 [...] This is the brand new start of edav.info 2.0! The first version of edav.info is still available, but will no longer be updated. With this resource, we try to give you a curated collection of tools and references that will make it easier to learn how to work with data in R. Detailed Examples will also be used to show proper exploratory data analysis under different circumstances. This resource is specifically tailored to the GR5293 Statistical Graphics and GR5702 Exploratory Data Analysis and Visualization courses offered at Columbia ...

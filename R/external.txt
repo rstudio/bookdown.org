@@ -1,6 +1,7 @@
 https://a-bc.gitlab.io/bbc/
 https://advanced-r-solutions.rbind.io/
 https://agailloty.github.io/suicide-evolution/
+https://aimergdiaz.github.io/Bio-Virologia/
 https://andrewmaclachlan.github.io/CASA0005repo/
 https://ardata-fr.github.io/officeverse/
 https://argoshare.is.ed.ac.uk/healthyr_book/
@@ -22,6 +23,7 @@ https://christophm.github.io/interpretable-ml-book/
 https://claut.gitlab.io/man_ccia/
 https://coleridge-initiative.github.io/big-data-and-social-science/
 https://compgenomr.github.io/book/
+https://contributor.r-project.org/rdevguide/
 https://cookdown.ellisvalentiner.com/
 https://covid19r.github.io/documentation/
 https://dataanalyticsbook.info/
@@ -43,7 +45,6 @@ https://epirhandbook.com/
 https://est-mult.netlify.com/
 https://f0nzie.github.io/rtorch-minimal-book/
 https://fg2re.sellorm.com/
-https://forwards.github.io/rdevguide
 https://geanders.github.io/navy_public_health/
 https://gedevan-aleksizde.github.io/Japan.R2019/
 https://gedevan-aleksizde.github.io/rmarkdown-cookbook/

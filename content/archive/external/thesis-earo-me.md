@@ -4,7 +4,7 @@ author: "Earo Wang"
 date: ""
 tags: [Tidy, Data Analysis]
 link: "https://thesis.earo.me/"
-length_weight: "12.6%"
+length_weight: "0%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Sebastian Stöckl"
 date: "2018-09-21T00:15:34Z"
 tags: [Tidy]
 link: "https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/"
-length_weight: "20.1%"
+length_weight: "22.9%"
 pinned: false
 ---
 

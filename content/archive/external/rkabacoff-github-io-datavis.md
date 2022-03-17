@@ -4,7 +4,7 @@ author: "Rob Kabacoff"
 date: "2020-12-01"
 tags: [Visualization, Guide, Multivariate, Geographic, Models, ggplot2, Package]
 link: "https://rkabacoff.github.io/datavis/"
-length_weight: "14.3%"
+length_weight: "16.3%"
 cover: "https://rkabacoff.github.io/datavis/img/cover.png"
 repo: "rkabacoff/datavis"
 pinned: false

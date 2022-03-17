@@ -1,10 +1,10 @@
 ---
 title: "An(other) introduction to R"
 author: "Felix Lennert"
-date: "2021-08-30T21:21:52Z"
+date: "2022-02-07T06:26:47Z"
 tags: [Tidyverse, Package, Tidy, ggplot2, String, Visualization, Tutorial, Data Science]
 link: "https://bookdown.org/f_lennert/introduction-to-r/"
-length_weight: "5.6%"
+length_weight: "35.5%"
 pinned: false
 ---
 

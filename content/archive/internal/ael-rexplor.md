@@ -1,10 +1,10 @@
 ---
 title: "Exploration de données avec R"
 author: "ael"
-date: "2021-11-24T18:12:37Z"
+date: "2022-02-24T15:35:28Z"
 link: "https://bookdown.org/ael/rexplor/"
-length_weight: "8.5%"
+length_weight: "26.2%"
 pinned: false
 ---
 
-Exploration de données avec R [...] Ce document est une introduction à l’utilisation du logiciel libre de traitement de données et d’analyse statistique R. Il vise à introduire uniquement les notions de base nécessaire à connaitre pour quelqu’un qui découvre ce langage de programmation pour la première fois. Ce document est inspiré de plusieurs sources, parmi lesquels nous citons les références suivantes En anglais : En français :  ...
+Ce document est une introduction à l’utilisation du logiciel libre de traitement de données et d’analyse statistique R. Il vise à introduire uniquement les notions de base nécessaire à connaitre pour quelqu’un qui découvre ce langage de programmation pour la première fois. Ce document est inspiré de plusieurs sources, parmi lesquels nous citons les références suivantes En anglais : En français :  ...

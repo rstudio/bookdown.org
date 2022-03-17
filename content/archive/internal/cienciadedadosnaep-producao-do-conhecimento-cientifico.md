@@ -3,7 +3,7 @@ title: "Produção do Conhecimento Científico"
 author: "Elaine Christine de Magalhães Cabral Albuquerque, Rejane de Almeida Santana dos Santos, Simão Pedro de Oliveira Urpia"
 date: "2021-02-22T17:02:15Z"
 link: "https://bookdown.org/cienciadedadosnaep/producao_do_conhecimento_cientifico/"
-length_weight: "13.9%"
+length_weight: "15.8%"
 pinned: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Lab notes for Statistics for Social Sciences II: Multivariate Techniques"
-author: "Eduardo García Portugués"
-date: "2020-12-29T17:03:30Z"
+author: "Eduardo García-Portugués"
+date: "2022-02-19T20:39:26Z"
 tags: [Statistics, Social Science, Multivariate, Statistical Methods]
 link: "https://bookdown.org/egarpor/SSS2-UC3M/"
 length_weight: "100%"

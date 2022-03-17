@@ -4,7 +4,7 @@ author: "Tae Geun Kim"
 date: "2019-01-29T04:29:28Z"
 tags: [Machine Learning, Package]
 link: "https://bookdown.org/edeftg/machine_learning_with_rust/"
-length_weight: "9.5%"
+length_weight: "10.8%"
 repo: "axect/ML_with_Rust"
 pinned: false
 ---

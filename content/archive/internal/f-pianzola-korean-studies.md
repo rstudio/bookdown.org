@@ -4,7 +4,7 @@ author: "Wayne de Fremery"
 date: "2020-09-09T06:31:40Z"
 tags: [Seminar]
 link: "https://bookdown.org/f_pianzola/Korean_studies/"
-length_weight: "18.3%"
+length_weight: "20.8%"
 pinned: false
 ---
 

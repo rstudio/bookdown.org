@@ -4,7 +4,7 @@ author: "sveinungarnesen78"
 date: "2020-02-28T21:28:34Z"
 tags: [Guide, Social Science]
 link: "https://bookdown.org/sveinungarnesen78/eips2017-guide/"
-length_weight: "18.6%"
+length_weight: "21.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,12 +1,12 @@
 ---
 title: "An Introduction to Bayesian Reasoning and Methods"
 author: "Kevin Ross"
-date: "2021-03-08T08:22:59Z"
-tags: [Bayesian, Textbook]
+date: "2022-03-06T02:34:31Z"
+tags: [Bayesian, Textbook, Statistics, Data Analysis]
 link: "https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/"
 length_weight: "100%"
 repo: "rstudio/bayesian-reasoning-and-methods"
 pinned: false
 ---
 
-This textbook presents an introduction to Bayesian reasoning and methods. The exercises in this book are used to both motivate new topics and to help you practice your understanding of the material. You should attempt the exercises on your own before reading the solutions. To encourage you to do so, the solutions have been hidden. You can reveal the solution by clicking on the Show/hide solution button. Show/hide solution Here is where a solution would be, but be sure to think about the problem on your own first! (Careful: in your browser, the triangle for the Show/hide solution button might ...
+This textbook presents an introduction to Bayesian reasoning and methods [...] Statistics is the science of learning from data. Statistics involves We will assume some familiarity with many of these aspects, and we will focus on the items in italics. That is, we will focus on statistical inference, the process of using data analysis to draw conclusions about a population or process beyond the existing data. “Traditional” hypothesis tests and confidence intervals that you are familiar with are components of “frequestist” statistics. This book will introduce aspects of “Bayesian” statistics. We  ...

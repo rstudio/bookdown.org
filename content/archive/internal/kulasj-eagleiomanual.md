@@ -1,10 +1,10 @@
 ---
 title: "Eagle I.O Consultant Manual"
 author: "Eagle I.O"
-date: "2021-10-29T15:35:52Z"
+date: "2022-02-14T16:14:58Z"
 tags: [Psychology]
 link: "https://bookdown.org/kulasj/eagleiomanual/"
-length_weight: "8%"
+length_weight: "9.4%"
 pinned: false
 ---
 

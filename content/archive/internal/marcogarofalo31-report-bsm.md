@@ -1,9 +1,9 @@
 ---
 title: "Report BSM"
 author: "Bsmsimul"
-date: "2021-11-11T13:01:31Z"
+date: "2022-03-03T13:33:03Z"
 link: "https://bookdown.org/marcogarofalo31/report_BSM/"
-length_weight: "3.5%"
+length_weight: "13.5%"
 pinned: false
 ---
 

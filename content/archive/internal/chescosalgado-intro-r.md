@@ -4,7 +4,7 @@ author: "Paúl Bravo L. & Francisco Salgado C."
 date: "2019-11-09T13:51:14Z"
 tags: [Tutorial, Github]
 link: "https://bookdown.org/chescosalgado/intro_r/"
-length_weight: "12.3%"
+length_weight: "14%"
 pinned: false
 ---
 

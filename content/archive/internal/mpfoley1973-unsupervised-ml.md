@@ -4,7 +4,7 @@ author: "Michael Foley"
 date: "2021-10-03T15:30:41Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/mpfoley1973/unsupervised-ml/"
-length_weight: "18.2%"
+length_weight: "20.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

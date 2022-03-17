@@ -4,7 +4,7 @@ author: "Christine Griffith"
 date: "2021-04-12T15:23:11Z"
 tags: [Psychology]
 link: "https://bookdown.org/griffithc2/christine-griffith-portfolio/"
-length_weight: "3.4%"
+length_weight: "3.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Bruna Wundervald"
 date: "2021-10-22T15:18:47Z"
 tags: [Models, Simulation]
 link: "https://bookdown.org/brunadaviesw/hierachical_bart_maths_text/"
-length_weight: "10.4%"
+length_weight: "11.8%"
 pinned: false
 ---
 

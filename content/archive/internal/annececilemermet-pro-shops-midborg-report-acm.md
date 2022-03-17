@@ -3,7 +3,7 @@ title: "Behind changing windows: understanding shop changes in Miðborg"
 author: "Anne-Cécile Mermet"
 date: "2021-07-20T17:07:26Z"
 link: "https://bookdown.org/annececilemermet_pro/shops_midborg_report_ACM/"
-length_weight: "9.4%"
+length_weight: "10.7%"
 pinned: false
 ---
 

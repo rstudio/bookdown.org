@@ -1,10 +1,10 @@
 ---
 title: "jamoviguiden"
 author: "Jonas Rafi"
-date: "2020-01-05"
+date: "2021-12-03"
 tags: [Guide, Statistics, Psychology]
 link: "https://jamoviguiden.se/"
-length_weight: "6.3%"
+length_weight: "7.2%"
 repo: "jRafi/jamoviguiden"
 pinned: false
 ---

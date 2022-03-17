@@ -4,7 +4,7 @@ author: "Trevor Hefley"
 date: "2020-11-18T23:36:15Z"
 tags: [Statistics, Course, Geographic, Exploratory Data Analysis, Visualization]
 link: "https://bookdown.org/hefleyt2/STAT764fall2020/"
-length_weight: "22.4%"
+length_weight: "25.5%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "CAHP Team"
 date: "2020-10-12T13:46:42Z"
 tags: [Course]
 link: "https://bookdown.org/mckay_todd/docanalysis/"
-length_weight: "14.4%"
+length_weight: "16.4%"
 pinned: false
 ---
 

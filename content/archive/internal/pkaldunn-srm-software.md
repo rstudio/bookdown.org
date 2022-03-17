@@ -1,9 +1,9 @@
 ---
-title: "Scientific Research and Methodology: Software"
+title: "Science Research Methods: Software"
 author: "Peter K. Dunn"
-date: "2021-05-25T03:51:55Z"
+date: "2022-02-04T05:45:18Z"
 link: "https://bookdown.org/pkaldunn/SRM-software/"
-length_weight: "10.8%"
+length_weight: "11.9%"
 pinned: false
 ---
 
@@ -12,4 +12,4 @@ Scientific Research and Methodology,
 which is an introduction to quantitative research methods in the scientific, engineering and health disciplines. This book is an introduction to quantitative research methods in the scientific and health disciplines,
 and introduces the whole research process,
 from asking a research question to analysis and reporting of the data.
-The focus, ...
+The focus, however, is  ...

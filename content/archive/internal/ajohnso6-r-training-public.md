@@ -4,7 +4,7 @@ author: "Amy L Johnson"
 date: "2021-10-11T21:43:13Z"
 tags: [Data Science]
 link: "https://bookdown.org/ajohnso6/r_training_public/"
-length_weight: "10.3%"
+length_weight: "11.7%"
 pinned: false
 ---
 
