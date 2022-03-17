@@ -3,7 +3,7 @@ title: "BioVirología"
 author: "Aimer G. Díaz, Víctor P. Avellaneda, Juan Corao, Roberto Nájera y Natalia A. Chaparro"
 date: ""
 link: "https://aimergdiaz.github.io/Bio-Virologia/"
-length_weight: "5.3%"
+length_weight: "4.3%"
 cover: "https://aimergdiaz.github.io/Bio-Virologia/figures/Portrait.gif"
 repo: "AimerGDiaz/Bio-Virologia"
 pinned: false

@@ -1,10 +1,10 @@
 ---
 title: "Regression and Analysis of Variance"
 author: "Trevor Hefley"
-date: "2022-03-09T15:08:19Z"
+date: "2022-03-11T15:03:53Z"
 tags: [Course, Models, Machine Learning, Bayesian]
 link: "https://bookdown.org/hefleyt2/stat705/"
-length_weight: "18.4%"
+length_weight: "18.9%"
 pinned: false
 ---
 
