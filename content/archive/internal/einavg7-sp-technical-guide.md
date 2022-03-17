@@ -1,10 +1,10 @@
 ---
 title: "Technical Guide for Estimating Building Rooftop Solar Potential in a City"
 author: "Einav Grinberg"
-date: "2021-12-06T10:54:41Z"
+date: "2022-03-11T13:10:43Z"
 tags: [Guide, Ecology]
 link: "https://bookdown.org/einavg7/sp_technical_guide/"
-length_weight: "17.4%"
+length_weight: "17.6%"
 repo: "Einavg7/Solar-Potential-Technical-Guide"
 pinned: false
 ---

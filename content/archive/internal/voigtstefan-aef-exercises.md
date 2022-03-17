@@ -1,10 +1,10 @@
 ---
 title: "Exercises for Advanced Empirical Finance: Topics and Data Science"
 author: "Christoph Scheuch, wikifolio Financial Technologies, Stefan Voigt, University of Copenhagen and Danish Finance Institute, Patrick Weiss, Vienna University of Economics and Business"
-date: "2022-02-23T10:20:22Z"
+date: "2022-03-11T09:05:29Z"
 tags: [Data Science, Course, Tidy]
 link: "https://bookdown.org/voigtstefan/aef_exercises/"
-length_weight: "18%"
+length_weight: "19.5%"
 pinned: false
 ---
 
