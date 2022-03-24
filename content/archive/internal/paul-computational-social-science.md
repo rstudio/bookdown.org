@@ -1,10 +1,10 @@
 ---
 title: "Computational Social Science"
 author: "Paul C. Bauer"
-date: "2022-03-16T14:10:04Z"
+date: "2022-03-23T13:49:06Z"
 tags: [Social Science, Seminar, Course]
 link: "https://bookdown.org/paul/computational_social_science/"
-length_weight: "36.2%"
+length_weight: "35.3%"
 pinned: false
 ---
 

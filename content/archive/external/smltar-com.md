@@ -7,7 +7,7 @@ link: "https://smltar.com/"
 length_weight: "26.7%"
 cover: "https://smltar.com/cover.jpg"
 repo: "EmilHvitfeldt/smltar"
-pinned: true
+pinned: false
 ---
 
 This is the website for Supervised Machine Learning for Text Analysis in R! Visit the GitHub repository for this site, or buy a physical copy from CRC Press, Bookshop.org, or Amazon. This online work by Emil Hvitfeldt and Julia Silge is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ...

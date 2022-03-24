@@ -1,10 +1,10 @@
 ---
 title: " Prediction and Feature Assessment"
 author: "Nicolas Städler"
-date: "2022-03-16T13:26:02Z"
+date: "2022-03-23T12:37:05Z"
 tags: [Course, Data Science, Github, Statistics]
 link: "https://bookdown.org/staedler_n/highdimstats/"
-length_weight: "25.3%"
+length_weight: "20%"
 cover: "https://bookdown.org/staedler_n/highdimstats/logo2.jpg"
 repo: "staedlern/highdim_stats"
 pinned: false
