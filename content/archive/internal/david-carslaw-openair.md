@@ -1,10 +1,10 @@
 ---
 title: "The openair book"
 author: "David C. Carslaw"
-date: "2022-03-16T18:00:56Z"
+date: "2022-03-22T15:47:28Z"
 tags: [Package]
 link: "https://bookdown.org/david_carslaw/openair/"
-length_weight: "100%"
+length_weight: "37.7%"
 pinned: false
 ---
 
