@@ -1,10 +1,10 @@
 ---
 title: "Teste de progresso"
 author: "Alexandre Jaloto"
-date: "2022-02-10T00:02:18Z"
+date: "2022-03-31T00:15:20Z"
 tags: [Package]
 link: "https://bookdown.org/alexandrejaloto/unesp_unicamp/"
-length_weight: "12.7%"
+length_weight: "15.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
