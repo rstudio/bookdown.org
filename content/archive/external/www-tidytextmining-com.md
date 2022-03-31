@@ -4,7 +4,7 @@ author: "Julia Silge and David Robinson"
 date: "2022-02-07"
 tags: [Text Mining, Guide, Tidy, Package, Github]
 link: "https://www.tidytextmining.com/"
-length_weight: "17.7%"
+length_weight: "0%"
 cover: "https://www.tidytextmining.com/images/cover.png"
 repo: "dgrtwo/tidy-text-mining"
 pinned: true

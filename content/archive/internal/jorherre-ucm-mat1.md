@@ -1,10 +1,10 @@
 ---
 title: "Matemáticas I-II UCM"
 author: "Jorge Herrera de la Cruz"
-date: "2022-03-23T20:03:18Z"
+date: "2022-03-24T18:24:36Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/UCM_MAT1/"
-length_weight: "100%"
+length_weight: "40.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
