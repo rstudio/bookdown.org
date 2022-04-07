@@ -1,10 +1,10 @@
 ---
 title: "Casella & Berger: Classical Inference"
 author: "Miles Moran"
-date: "2022-03-30T06:59:08Z"
+date: "2022-03-31T08:49:16Z"
 tags: [Textbook]
 link: "https://bookdown.org/moramile/Classical-Inference/"
-length_weight: "12.8%"
+length_weight: "14.5%"
 pinned: false
 ---
 

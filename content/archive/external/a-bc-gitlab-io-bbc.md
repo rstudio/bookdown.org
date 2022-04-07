@@ -1,10 +1,10 @@
 ---
 title: "The Book of Behavior Change"
 author: "Rik Crutzen & Gjalt-Jorn Ygram Peters"
-date: "2021-03-26"
+date: "2022-04-05"
 tags: [Guide]
 link: "https://a-bc.gitlab.io/bbc/"
-length_weight: "20.5%"
+length_weight: "20.1%"
 cover: "https://a-bc.gitlab.io/bbc/img/bbc-cover.png"
 pinned: false
 ---

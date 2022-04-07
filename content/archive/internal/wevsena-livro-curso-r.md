@@ -1,9 +1,9 @@
 ---
 title: "Introdução ao R"
 author: "Weverton Lisboa de Sena, Luiz Henrique dos Santos Fernandes"
-date: "2022-03-29T19:43:17Z"
+date: "2022-04-03T14:07:01Z"
 link: "https://bookdown.org/wevsena/livro_curso_r/"
-length_weight: "12.5%"
+length_weight: "13.2%"
 cover: "https://bookdown.org/wevsena/livro_curso_r/imagens/cover2.png"
 repo: "rstudio/bookdown-demo"
 pinned: false

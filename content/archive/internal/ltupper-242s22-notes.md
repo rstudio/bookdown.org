@@ -1,9 +1,9 @@
 ---
 title: "Stat 242 Notes: Spring 2022"
 author: "Laurie Tupper"
-date: "2022-03-30T17:40:13Z"
+date: "2022-04-06T20:02:51Z"
 link: "https://bookdown.org/ltupper/242s22_notes/"
-length_weight: "25.2%"
+length_weight: "30.7%"
 pinned: false
 ---
 
