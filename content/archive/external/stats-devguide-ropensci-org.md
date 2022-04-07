@@ -1,7 +1,7 @@
 ---
 title: "rOpenSci Statistical Software Peer Review"
 author: "Mark Padgham and Noam Ross"
-date: "2022-03-24"
+date: "2022-04-04"
 tags: [Package, Guide]
 link: "https://stats-devguide.ropensci.org/"
 length_weight: "0%"

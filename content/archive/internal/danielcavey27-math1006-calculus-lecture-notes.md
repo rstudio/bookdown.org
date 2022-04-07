@@ -1,9 +1,9 @@
 ---
 title: "MATH1006 Calculus"
 author: "Daniel Cavey"
-date: "2022-03-28T04:19:10Z"
+date: "2022-04-05T11:18:56Z"
 link: "https://bookdown.org/danielcavey27/math1006_calculus_lecture_notes/"
-length_weight: "6.1%"
+length_weight: "27%"
 pinned: false
 ---
 
