@@ -1,7 +1,7 @@
 ---
 title: "Epistemic Network Analysis Web Tool User Guide"
 author: "tan78"
-date: "2022-04-07T04:36:15Z"
+date: "2022-04-07T18:20:57Z"
 tags: [Network, Guide, Visualization]
 link: "https://bookdown.org/tan78/intro_to_ena/"
 length_weight: "4.2%"

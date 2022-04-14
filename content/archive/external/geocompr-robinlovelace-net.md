@@ -4,7 +4,7 @@ author: "Robin Lovelace, Jakub Nowosad, Jannes Muenchow"
 date: "2022-03-31"
 tags: [Geographic, Visualization, Data Science, Spatial Data]
 link: "https://geocompr.robinlovelace.net/"
-length_weight: "0%"
+length_weight: "27.8%"
 cover: "https://geocompr.robinlovelace.net/images/cover.png"
 repo: "Robinlovelace/geocompr"
 pinned: true

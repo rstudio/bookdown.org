@@ -4,7 +4,7 @@ author: "Michael Clark"
 date: "2019-11-06"
 tags: [R Markdown]
 link: "https://m-clark.github.io/Introduction-to-Rmarkdown/"
-length_weight: "11.6%"
+length_weight: "11.5%"
 cover: "https://m-clark.github.io/Introduction-to-Rmarkdown/img/nineteeneightyR.png"
 repo: "m-clark/Introduction-to-Rmarkdown"
 pinned: false

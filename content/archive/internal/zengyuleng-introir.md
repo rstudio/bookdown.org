@@ -4,7 +4,7 @@ author: "Yuleng Zeng"
 date: "2022-04-04T13:19:11Z"
 tags: [Seminar, Course, Education]
 link: "https://bookdown.org/zengyuleng/introir/"
-length_weight: "11.9%"
+length_weight: "11.8%"
 repo: "rstudio/introir"
 pinned: false
 ---

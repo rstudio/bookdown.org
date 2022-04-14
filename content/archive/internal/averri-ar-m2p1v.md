@@ -1,9 +1,9 @@
 ---
 title: "Seismic Hazard Assessment - Gruyere"
 author: "Alejandro Verri, Lindsay Linzer, Juan Mussat and Wesley Harrison. SRK Consulting"
-date: "2022-04-06T23:37:20Z"
+date: "2022-04-08T20:34:09Z"
 link: "https://bookdown.org/averri/ar-m2p1v/"
-length_weight: "30.7%"
+length_weight: "30.6%"
 cover: "https://bookdown.org/averri/ar-m2p1v/static/CoverImage2.png"
 pinned: false
 ---

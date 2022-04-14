@@ -3,7 +3,7 @@ title: "Evaluating Geospatial and Temporal Trends in Payments to Primary Care Ph
 author: "Meredith Brown"
 date: "2022-04-04T15:59:09Z"
 link: "https://bookdown.org/mjbrown375/thesis/"
-length_weight: "12.2%"
+length_weight: "12.1%"
 pinned: false
 ---
 

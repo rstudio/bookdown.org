@@ -4,7 +4,7 @@ author: "Chaeeun Song"
 date: "2020-10-28T03:14:21Z"
 tags: [R Programming, Education, Package, R Markdown]
 link: "https://bookdown.org/chaeeunSong/song/"
-length_weight: "24.6%"
+length_weight: "24.5%"
 pinned: false
 ---
 

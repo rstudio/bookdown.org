@@ -4,7 +4,7 @@ author: "Sérgio Moreira"
 date: "2021-11-22T19:31:26Z"
 tags: [Psychology]
 link: "https://bookdown.org/spjmoreira1/my_conding_index/"
-length_weight: "11.4%"
+length_weight: "11.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

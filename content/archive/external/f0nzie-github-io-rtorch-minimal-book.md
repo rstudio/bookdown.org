@@ -4,7 +4,7 @@ author: "Alfonso R. Reyes"
 date: "2020-11-19"
 tags: [Tutorial, Package, Machine Learning, Python]
 link: "https://f0nzie.github.io/rtorch-minimal-book/"
-length_weight: "16.6%"
+length_weight: "16.5%"
 pinned: false
 ---
 

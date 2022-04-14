@@ -4,7 +4,7 @@ author: "Jorge Herrera de la Cruz"
 date: "2022-04-02T20:22:37Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/Matematicas2_UCM/"
-length_weight: "32.6%"
+length_weight: "32.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

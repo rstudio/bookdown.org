@@ -4,7 +4,7 @@ author: "Christoph Scheuch, wikifolio Financial Technologies, Stefan Voigt, Univ
 date: "2022-03-30T15:46:07Z"
 tags: [Data Science, Course, Tidy]
 link: "https://bookdown.org/voigtstefan/aef_exercises/"
-length_weight: "22%"
+length_weight: "21.9%"
 pinned: false
 ---
 
