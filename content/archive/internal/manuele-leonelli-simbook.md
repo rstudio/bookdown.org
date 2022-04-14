@@ -4,7 +4,7 @@ author: "Manuele Leonelli"
 date: "2021-04-19T19:22:32Z"
 tags: [Simulation, Business Analytics, R Programming, Statistics]
 link: "https://bookdown.org/manuele_leonelli/SimBook/"
-length_weight: "32.2%"
+length_weight: "32.1%"
 repo: "manueleleonelli/SimBook"
 pinned: false
 ---

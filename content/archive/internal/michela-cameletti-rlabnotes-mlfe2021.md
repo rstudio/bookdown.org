@@ -4,7 +4,7 @@ author: "Michela Cameletti"
 date: "2021-05-31T20:00:38Z"
 tags: [Machine Learning, Course, R Programming, Tidyverse, Package]
 link: "https://bookdown.org/michela_cameletti/rlabnotes_mlfe2021/"
-length_weight: "27.1%"
+length_weight: "27%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

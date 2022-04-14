@@ -1,7 +1,7 @@
 ---
-title: "Data Integration, Manipulation and Visualization of Phylogenetic Trees"
+title: "Data Integration, Manipulation and Visualization of Phylogenetic Trees with R"
 author: "Guangchuang Yu"
-date: "2022-01-10"
+date: "2022-04-13"
 tags: [Visualization, Package, Guide, Tidy, ggplot2]
 link: "https://yulab-smu.top/treedata-book/"
 length_weight: "10.1%"

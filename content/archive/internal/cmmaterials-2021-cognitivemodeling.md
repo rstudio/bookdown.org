@@ -4,7 +4,7 @@ author: "Chih-Chung Ting"
 date: "2021-12-01T12:54:49Z"
 tags: [Course]
 link: "https://bookdown.org/CMmaterials/2021_cognitivemodeling/"
-length_weight: "25.7%"
+length_weight: "25.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

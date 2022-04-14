@@ -4,7 +4,7 @@ author: "Prof. Michela Cameletti & Tutor Marco Villa"
 date: "2022-03-31T15:29:54Z"
 tags: [Course, Machine Learning, Data Science, R Programming, Tidyverse, Package]
 link: "https://bookdown.org/m_villa43/rlabnotes_mlfe2022/"
-length_weight: "16.8%"
+length_weight: "16.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

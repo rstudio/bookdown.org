@@ -4,7 +4,7 @@ author: "Paul C. Bauer"
 date: "2022-04-06T12:25:38Z"
 tags: [Social Science, Seminar, Course]
 link: "https://bookdown.org/paul/computational_social_science/"
-length_weight: "35.6%"
+length_weight: "35.5%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Jon Green and Mark H. White II"
 date: "2022-03-19T21:32:27Z"
 tags: [Machine Learning, Social Science]
 link: "https://bookdown.org/jon_green_440/Manuscript/"
-length_weight: "24%"
+length_weight: "23.9%"
 pinned: false
 ---
 

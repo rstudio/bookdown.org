@@ -1,10 +1,10 @@
 ---
 title: "Stability Of Industry Level Climate Coalitions: A Computational Framework for Environmental Governance In Maritime Shipping"
 author: "Feryel Lassoued and James Nolan"
-date: "2022-04-04T23:27:33Z"
+date: "2022-04-11T23:31:32Z"
 tags: [Package]
 link: "https://bookdown.org/lassoued_feryel/Book/"
-length_weight: "6.2%"
+length_weight: "8.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
