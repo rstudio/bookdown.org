@@ -1,9 +1,9 @@
 ---
 title: "Perbandingan Smoothing, ARIMA, dan ARIMAX untuk prediksi harga minyak mentah"
 author: "Adley Dityo Valentinus Putra (G14180009), Muhammad Ammar Sahab (G14190020), Putri Eka Perdanti (G14190027), Farhan Narendra Achyara (G14190050), Grashella Clara Nesa Br Ginting (G14190086)"
-date: "2022-04-14T03:30:33Z"
+date: "2022-04-21T03:58:19Z"
 link: "https://bookdown.org/mammarsahab3/LaporanMPDW/"
-length_weight: "18.3%"
+length_weight: "16%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

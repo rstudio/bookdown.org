@@ -1,9 +1,9 @@
 ---
 title: "1000013-B Probabilidad y Estadística Fundamental"
 author: "Camilo José Torres Jiménez"
-date: "2022-04-13T02:54:41Z"
+date: "2022-04-18T15:11:26Z"
 link: "https://bookdown.org/cjtorresj/pyef/"
-length_weight: "21.4%"
+length_weight: "22.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

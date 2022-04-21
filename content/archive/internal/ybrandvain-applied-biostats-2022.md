@@ -1,7 +1,7 @@
 ---
 title: "Applied Biostats – BIOL3272 UMN – Fall 2022"
 author: "Yaniv Brandvain"
-date: "2022-04-13T18:46:57Z"
+date: "2022-04-17T14:53:55Z"
 tags: [Textbook, Course]
 link: "https://bookdown.org/ybrandvain/Applied_Biostats_2022/"
 length_weight: "100%"
