@@ -1,9 +1,9 @@
 ---
 title: "Pravdepodobnosť a štatistika 1"
 author: "Lukáš Lafférs"
-date: "2022-04-13T12:05:07Z"
+date: "2022-04-20T19:17:24Z"
 link: "https://bookdown.org/lukas_laffers/pas1/"
-length_weight: "27.6%"
+length_weight: "28.7%"
 pinned: false
 ---
 

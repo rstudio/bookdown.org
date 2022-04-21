@@ -1,10 +1,10 @@
 ---
 title: "Pengantar R"
 author: "DataGood.id"
-date: "2022-04-12T05:50:04Z"
+date: "2022-04-14T07:59:38Z"
 tags: [Package]
 link: "https://bookdown.org/datagood_id/pengantarr/"
-length_weight: "5.9%"
+length_weight: "6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

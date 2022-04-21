@@ -1,11 +1,11 @@
 ---
 title: "Data Analytics with R"
 author: "Brian Machut, Nathan Cornwell"
-date: "2022-04-05T17:03:22Z"
+date: "2022-04-17T12:36:48Z"
 tags: [Course, Predictive Model]
-link: "https://bookdown.org/brianmachut/uofm_case_v5/"
-length_weight: "27.4%"
-cover: "https://bookdown.org/brianmachut/uofm_case_v5/cover.png"
+link: "https://bookdown.org/brianmachut/uofm_analytics_r/"
+length_weight: "27.5%"
+cover: "https://bookdown.org/brianmachut/uofm_analytics_r/cover.png"
 pinned: false
 ---
 
