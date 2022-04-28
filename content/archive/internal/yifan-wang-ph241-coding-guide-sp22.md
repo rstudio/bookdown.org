@@ -1,10 +1,10 @@
 ---
 title: "Coding Guide"
 author: "yifan_wang"
-date: "2021-03-19T10:08:42Z"
+date: "2022-04-22T20:17:02Z"
 tags: [Guide]
-link: "https://bookdown.org/yifan_wang/PH241-Coding-Guide/"
-length_weight: "11%"
+link: "https://bookdown.org/yifan_wang/ph241-coding-guide-sp22/"
+length_weight: "8.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

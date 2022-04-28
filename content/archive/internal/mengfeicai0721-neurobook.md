@@ -1,11 +1,12 @@
 ---
-title: "Mengfei NeuroBook"
+title: "Mengfei RCodeBank"
 author: "Mengfei Cai"
-date: "2021-08-01T21:33:20Z"
+date: "2022-04-25T10:23:46Z"
+tags: [Data Science]
 link: "https://bookdown.org/mengfeicai0721/NeuroBook/"
-length_weight: "16.1%"
+length_weight: "6.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-Neuroimaging is fascinating. [...] Welcome to Mengfei's NeuroBook. I am a PhD student, working in the domain of Vascular Neurology. The ongoing project I am currently working on is the the progression of small vessel disease (SVD): 14-year Follow-up embedded into the RUN DMC study, supervised by Professor FrankErik de Leeuw. Specifically, we apply some neuroimaging analyses to extract the structural/diffusion information from MRI scans in an effort to leverage these information to gain a better understanding of SVD. MRI has emerged as an increasingly popular and powerful way to study in vivo ...
+R is data science. [...] Welcome to Mengfei's ...

@@ -4,7 +4,7 @@ author: "John Doe"
 date: "2022-03-24T20:24:16Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/UCM_MatematicasI_II/"
-length_weight: "40.2%"
+length_weight: "100%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning for Experiments in the Social Sciences"
 author: "Jon Green and Mark H. White II"
-date: "2022-04-20T19:28:26Z"
+date: "2022-04-25T18:52:29Z"
 tags: [Machine Learning, Social Science]
-link: "https://bookdown.org/jon_green_440/Manuscript/"
-length_weight: "23.9%"
+link: "https://bookdown.org/jon_green_440/green_white_MLESS/"
+length_weight: "24.8%"
 pinned: false
 ---
 

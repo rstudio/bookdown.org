@@ -1,11 +1,11 @@
 ---
 title: "Text Mining for Social Scientists"
 author: "Felix Lennert"
-date: "2022-04-07T06:40:24Z"
+date: "2022-04-25T18:25:02Z"
 tags: [Text Mining, Social Science, Course]
 link: "https://bookdown.org/f_lennert/text-mining-book/"
-length_weight: "12.8%"
+length_weight: "13.8%"
 pinned: false
 ---
 
-This book is supposed to introduce the reader (i.e., you) into a fundamental techniques for computational social science research: the quantitative analysis of text. [...] Dear student, if you read this script, you are either participating in one of my courses on digital methods for the social sciences, or at least interested in this topic. If you have any questions or remarks regarding this script, hit me up at felix.lennert@ensae.fr. This script will introduce you to the quantitative analysis of text using R. Through the last decades, more and more text has been readily available. Think for  ...
+This book is supposed to introduce the reader (i.e., you) to a fundamental technique for computational social science research: the quantitative analysis of text. [...] Dear student, if you read this script, you are either participating in one of my courses on digital methods for the social sciences, or at least interested in this topic. If you have any questions or remarks regarding this script, hit me up at felix.lennert@ensae.fr. This script will introduce you to the quantitative analysis of text using R. Through the last decades, more and more text has become readily available. Think for ...
