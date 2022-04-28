@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Science for Busy Researchers: How to Save Time using Literate Programming"
 author: "Dr. Andrew P. Lapointe"
-date: "2022-04-20T09:46:21Z"
+date: "2022-04-22T09:46:03Z"
 tags: [Package, Tutorial, Github]
 link: "https://bookdown.org/alapo/learnr/"
 length_weight: "24.6%"

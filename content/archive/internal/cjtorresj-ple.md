@@ -1,9 +1,9 @@
 ---
 title: "2016374 Programación en Lenguajes Estadísticos"
 author: "Camilo José Torres Jiménez"
-date: "2022-04-21T03:44:43Z"
+date: "2022-04-28T04:05:29Z"
 link: "https://bookdown.org/cjtorresj/ple/"
-length_weight: "20.4%"
+length_weight: "22.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

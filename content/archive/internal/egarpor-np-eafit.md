@@ -1,7 +1,7 @@
 ---
 title: "A Short Course on Nonparametric Curve Estimation"
 author: "Eduardo García-Portugués"
-date: "2022-02-19T20:31:44Z"
+date: "2022-04-26T13:23:54Z"
 tags: [Course, Nonparametric Estimation]
 link: "https://bookdown.org/egarpor/NP-EAFIT/"
 length_weight: "31.7%"
