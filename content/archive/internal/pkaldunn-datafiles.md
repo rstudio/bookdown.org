@@ -1,10 +1,10 @@
 ---
 title: "The Data Files"
 author: "Peter K. Dunn and Margaret Marshman"
-date: "2021-08-10T01:56:21Z"
+date: "2022-05-03T04:25:07Z"
 tags: [Statistics, Education]
 link: "https://bookdown.org/pkaldunn/DataFiles/"
-length_weight: "10.1%"
+length_weight: "9.1%"
 pinned: false
 ---
 

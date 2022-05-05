@@ -4,7 +4,7 @@ author: "marwaelatrache"
 date: "2019-07-03T20:22:53Z"
 tags: [Shiny, Statistics]
 link: "https://bookdown.org/marwaelatrache/gitbook/"
-length_weight: "7.3%"
+length_weight: "6.5%"
 pinned: false
 ---
 

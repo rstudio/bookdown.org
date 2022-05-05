@@ -4,7 +4,7 @@ author: "Sean Collins"
 date: "2022-04-02T18:21:08Z"
 tags: [Statistics, Education, Package]
 link: "https://bookdown.org/scollinspt/Biostatistics/"
-length_weight: "10%"
+length_weight: "8.9%"
 repo: "scollinspt/Biostatistics"
 pinned: false
 ---

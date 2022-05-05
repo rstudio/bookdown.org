@@ -4,7 +4,7 @@ author: "Eduardo García-Portugués"
 date: "2022-04-26T13:23:54Z"
 tags: [Course, Nonparametric Estimation]
 link: "https://bookdown.org/egarpor/NP-EAFIT/"
-length_weight: "31.7%"
+length_weight: "28.2%"
 cover: "https://bookdown.org/egarpor/NP-EAFIT/images/figures/cover.png"
 pinned: false
 ---

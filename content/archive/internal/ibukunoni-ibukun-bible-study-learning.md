@@ -1,9 +1,9 @@
 ---
 title: "Lessons from the Bible"
 author: "Ibukun Oni"
-date: "2022-04-05T23:39:17Z"
+date: "2022-05-03T13:49:44Z"
 link: "https://bookdown.org/ibukunoni/ibukun_bible_study_learning/"
-length_weight: "7.8%"
+length_weight: "7.6%"
 pinned: false
 ---
 

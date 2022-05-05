@@ -3,7 +3,7 @@ title: "GSL salinity dashboard analyses"
 author: "Jake Vander Laan (jvander@utah.gov), Utah Division of Water Quality"
 date: "2020-04-21T21:10:36Z"
 link: "https://bookdown.org/jakevl/gsldb-analyses/"
-length_weight: "10%"
+length_weight: "8.9%"
 repo: "jakevl/GSL-dashboard"
 pinned: false
 ---

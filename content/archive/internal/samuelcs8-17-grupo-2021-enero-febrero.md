@@ -4,7 +4,7 @@ author: "Samuel Calderon, Sandra Cerna, Antenor Escudero, Christian Reyes"
 date: "2021-05-07T03:33:45Z"
 tags: [R Markdown]
 link: "https://bookdown.org/samuelcs8_17/grupo_2021_enero_febrero/"
-length_weight: "19.4%"
+length_weight: "17.3%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Henrik Eckermann"
 date: "2020-08-17T13:32:37Z"
 tags: [R Programming, Biology, Data Analysis, Visualization]
 link: "https://bookdown.org/henrikeckermann/donders_r/"
-length_weight: "5.8%"
+length_weight: "5.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

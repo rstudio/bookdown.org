@@ -3,7 +3,7 @@ title: "DEMOVATE"
 author: ""
 date: "2021-03-23T10:22:35Z"
 link: "https://bookdown.org/sveinungarnesen78/DEMOVATE/"
-length_weight: "22.4%"
+length_weight: "19.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

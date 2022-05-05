@@ -4,7 +4,7 @@ author: "Myo Minn Oo, MD, PhD"
 date: "2021-12-12T05:08:17Z"
 tags: [Guide]
 link: "https://bookdown.org/myominnoo/dmur/"
-length_weight: "14.7%"
+length_weight: "13.1%"
 repo: "myominnoo/dmur"
 pinned: false
 ---

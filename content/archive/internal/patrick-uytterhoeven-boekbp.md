@@ -3,7 +3,7 @@ title: "Processen"
 author: ""
 date: "2021-09-17T13:04:45Z"
 link: "https://bookdown.org/patrick_uytterhoeven/boekbp/"
-length_weight: "6.9%"
+length_weight: "6.2%"
 pinned: false
 ---
 

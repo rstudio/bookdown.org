@@ -4,7 +4,7 @@ author: "Thomas S. Robinson  ("
 date: "2021-09-06T08:03:18Z"
 tags: [Econometrics, Statistics]
 link: "https://bookdown.org/ts_robinson1994/10EconometricTheorems/"
-length_weight: "4.8%"
+length_weight: "4.3%"
 repo: "tsrobinson/10EconometricTheorems"
 pinned: false
 ---

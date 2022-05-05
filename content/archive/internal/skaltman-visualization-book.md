@@ -4,7 +4,7 @@ author: "Stanford Data Lab"
 date: "2018-12-27T04:49:39Z"
 tags: [Visualization, ggplot2]
 link: "https://bookdown.org/skaltman/visualization-book/"
-length_weight: "10.3%"
+length_weight: "9.2%"
 repo: "stanford-datalab/sara-dev/visualization"
 pinned: false
 ---

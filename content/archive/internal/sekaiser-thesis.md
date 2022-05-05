@@ -4,7 +4,7 @@ author: "Sergej Kaiser"
 date: "2017-01-26T12:32:23Z"
 tags: [Network Centrality]
 link: "https://bookdown.org/sekaiser/Thesis/"
-length_weight: "19.6%"
+length_weight: "17.4%"
 pinned: false
 ---
 

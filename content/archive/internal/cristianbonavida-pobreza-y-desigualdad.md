@@ -4,7 +4,7 @@ author: "cristianbonavida"
 date: "2022-02-12T19:44:24Z"
 tags: [Python]
 link: "https://bookdown.org/cristianbonavida/Pobreza_y_Desigualdad/"
-length_weight: "19.8%"
+length_weight: "17.6%"
 repo: "crisbonavida/PyD_codes"
 pinned: false
 ---

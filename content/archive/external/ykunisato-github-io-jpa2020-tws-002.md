@@ -3,7 +3,7 @@ title: "今日からできる再現可能な論文執筆"
 author: "国里愛彦(専修大学)・竹林由武(福島県立医科大学)"
 date: ""
 link: "https://ykunisato.github.io/jpa2020-tws-002/"
-length_weight: "5.6%"
+length_weight: "5%"
 pinned: false
 ---
 

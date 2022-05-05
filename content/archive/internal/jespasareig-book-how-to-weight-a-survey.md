@@ -4,7 +4,7 @@ author: "Josep Espasa Reig"
 date: "2017-07-03T10:30:49Z"
 tags: [Guide, Social Survey, Statistics]
 link: "https://bookdown.org/jespasareig/Book_How_to_weight_a_survey/"
-length_weight: "20.2%"
+length_weight: "18%"
 repo: "JosepER/Book_How_to_weight_a_survey"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Corrupted Data and the Illicit Arms Trade"
 author: "Rose Graves"
 date: "2020-04-16T02:12:03Z"
 link: "https://bookdown.org/rosekgraves/bookdown-demo-master/"
-length_weight: "17%"
+length_weight: "15.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

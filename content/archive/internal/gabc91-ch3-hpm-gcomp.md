@@ -1,9 +1,9 @@
 ---
 title: "Thesis Aim 3"
 author: "Gabriel Carrasco-Escobar"
-date: "2022-03-27T07:42:56Z"
+date: "2022-04-30T09:22:27Z"
 link: "https://bookdown.org/gabc91/ch3_hpm_gcomp/"
-length_weight: "11.4%"
+length_weight: "12%"
 pinned: false
 ---
 

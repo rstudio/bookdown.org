@@ -4,7 +4,7 @@ author: ""
 date: "2022-04-01T02:53:59Z"
 tags: [Machine Learning, Data Science, Statistics]
 link: "https://bookdown.org/rehk/stm1001_dsm_introduction_to_machine_learning_in_r/"
-length_weight: "8.9%"
+length_weight: "7.9%"
 pinned: false
 ---
 

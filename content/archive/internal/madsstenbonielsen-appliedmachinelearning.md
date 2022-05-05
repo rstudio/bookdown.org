@@ -4,7 +4,7 @@ author: "Mads Stenbo Nielsen"
 date: "2022-02-23T15:44:53Z"
 tags: [Machine Learning, Package]
 link: "https://bookdown.org/madsstenbonielsen/appliedmachinelearning/"
-length_weight: "22%"
+length_weight: "19.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

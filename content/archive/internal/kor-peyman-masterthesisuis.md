@@ -4,7 +4,7 @@ author: "Peyman Kor"
 date: "2019-07-04T16:56:33Z"
 tags: [Machine Learning, Package, Github]
 link: "https://bookdown.org/kor_peyman/masterthesisuis/"
-length_weight: "22.1%"
+length_weight: "19.7%"
 repo: "Peymankor/thesis"
 pinned: false
 ---

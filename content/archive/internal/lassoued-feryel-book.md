@@ -4,7 +4,7 @@ author: "Feryel Lassoued and James Nolan"
 date: "2022-04-11T23:31:32Z"
 tags: [Package]
 link: "https://bookdown.org/lassoued_feryel/Book/"
-length_weight: "8.4%"
+length_weight: "7.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
