@@ -3,7 +3,7 @@ title: "Teoria das Probabilidades"
 author: "Rosineide da Paz"
 date: "2020-11-28T21:09:32Z"
 link: "https://bookdown.org/rfdapaz/probabilidade/"
-length_weight: "10.1%"
+length_weight: "9%"
 pinned: false
 ---
 

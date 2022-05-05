@@ -4,7 +4,7 @@ author: "Guangchuang Yu"
 date: "2022-04-22"
 tags: [Visualization, Package, Guide, Tidy, ggplot2]
 link: "https://yulab-smu.top/treedata-book/"
-length_weight: "10.1%"
+length_weight: "9%"
 cover: "https://yulab-smu.top/treedata-book/book-cover.png"
 pinned: false
 ---

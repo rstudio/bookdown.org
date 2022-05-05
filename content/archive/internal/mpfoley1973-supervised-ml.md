@@ -4,7 +4,7 @@ author: "Michael Foley"
 date: "2022-04-26T09:53:03Z"
 tags: [Machine Learning, Models]
 link: "https://bookdown.org/mpfoley1973/supervised-ml/"
-length_weight: "19.4%"
+length_weight: "17.3%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Steve Midway"
 date: "2019-10-28T13:06:24Z"
 tags: [Bayesian, Models, Ecology, Course]
 link: "https://bookdown.org/steve_midway/BHME/"
-length_weight: "20.6%"
+length_weight: "18.3%"
 pinned: false
 ---
 

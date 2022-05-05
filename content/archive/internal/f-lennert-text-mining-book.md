@@ -1,10 +1,10 @@
 ---
 title: "Text Mining for Social Scientists"
 author: "Felix Lennert"
-date: "2022-04-25T18:25:02Z"
+date: "2022-05-04T09:05:12Z"
 tags: [Text Mining, Social Science, Course]
 link: "https://bookdown.org/f_lennert/text-mining-book/"
-length_weight: "13.8%"
+length_weight: "100%"
 pinned: false
 ---
 

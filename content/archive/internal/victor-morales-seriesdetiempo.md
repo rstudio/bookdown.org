@@ -3,7 +3,7 @@ title: "Series de Tiempo"
 author: "Víctor Morales-Oñate"
 date: "2021-07-02T02:56:29Z"
 link: "https://bookdown.org/victor_morales/SeriesdeTiempo/"
-length_weight: "26.2%"
+length_weight: "23.3%"
 pinned: false
 ---
 

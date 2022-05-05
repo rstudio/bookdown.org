@@ -4,7 +4,7 @@ author: "Sérgio Moreira"
 date: "2022-02-26T10:28:57Z"
 tags: [Models, Tutorial, Psychology]
 link: "https://bookdown.org/spj_moreira/StepbyStepI/"
-length_weight: "19%"
+length_weight: "16.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

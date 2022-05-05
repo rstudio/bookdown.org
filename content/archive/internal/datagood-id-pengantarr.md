@@ -4,7 +4,7 @@ author: "DataGood.id"
 date: "2022-04-25T06:18:32Z"
 tags: [Package]
 link: "https://bookdown.org/datagood_id/pengantarr/"
-length_weight: "9%"
+length_weight: "8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

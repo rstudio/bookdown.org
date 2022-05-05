@@ -4,7 +4,7 @@ author: "Benjamin Meyer (ben@kenaiwatershed.org)"
 date: "2022-03-18T19:32:02Z"
 tags: [Package]
 link: "https://bookdown.org/kwfwqx/miller_creek_vogel_lake_wqx/"
-length_weight: "9.5%"
+length_weight: "8.5%"
 pinned: false
 ---
 

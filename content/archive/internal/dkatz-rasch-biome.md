@@ -4,7 +4,7 @@ author: "Daniel Katz, Anthony Clairmont, Mike Wilton"
 date: "2021-03-05T17:25:21Z"
 tags: [Guide]
 link: "https://bookdown.org/dkatz/Rasch_Biome/"
-length_weight: "23.1%"
+length_weight: "20.6%"
 pinned: false
 ---
 

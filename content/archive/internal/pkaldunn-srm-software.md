@@ -3,7 +3,7 @@ title: "Science Research Methods: Software"
 author: "Peter K. Dunn"
 date: "2022-02-04T05:45:18Z"
 link: "https://bookdown.org/pkaldunn/SRM-software/"
-length_weight: "11.9%"
+length_weight: "10.5%"
 pinned: false
 ---
 

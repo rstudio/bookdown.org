@@ -4,7 +4,7 @@ author: "Editor: Sam Tyner, Ph.D."
 date: "2019-09-19"
 tags: [Statistics]
 link: "https://sctyner.github.io/OpenForSciR/"
-length_weight: "18.9%"
+length_weight: "16.8%"
 repo: "sctyner/openforscir"
 pinned: false
 ---

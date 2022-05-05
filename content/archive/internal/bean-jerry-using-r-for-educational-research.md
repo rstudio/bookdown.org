@@ -4,7 +4,7 @@ author: "Jerry Bean, College of Education and Human Ecology, The Ohio State Univ
 date: "2021-04-08T20:16:33Z"
 tags: [Education, Package, Data Analysis, R Markdown]
 link: "https://bookdown.org/bean_jerry/using_r_for_educational_research/"
-length_weight: "21.6%"
+length_weight: "19.2%"
 pinned: false
 ---
 

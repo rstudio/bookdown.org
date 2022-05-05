@@ -4,7 +4,7 @@ author: "Student Number: 19175131"
 date: "2021-01-08T18:01:09Z"
 tags: [Tutorial, R Markdown, Course, Geographic, Spatial Data, Github]
 link: "https://bookdown.org/zczllfe/GIS_assessment/"
-length_weight: "8.5%"
+length_weight: "7.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

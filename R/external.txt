@@ -32,6 +32,7 @@ https://datascienceineducation.com/
 https://datasciencepractice.study/
 https://daviddalpiaz.github.io/r4sl/
 https://davidjohnbaker1.github.io/document/
+https://designexptr.org/
 https://divadnojnarg.github.io/outstanding-shiny-ui/
 https://dzchilds.github.io/eda-for-bio/
 https://edav.info/
@@ -138,4 +139,3 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://designexptr.org/

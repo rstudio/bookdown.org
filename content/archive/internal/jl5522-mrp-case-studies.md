@@ -4,7 +4,7 @@ author: "Juan Lopez-Martin, Justin H. Phillips, and Andrew Gelman"
 date: "2021-03-17T06:34:13Z"
 tags: [Bayesian]
 link: "https://bookdown.org/jl5522/MRP-case-studies/"
-length_weight: "21.2%"
+length_weight: "18.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

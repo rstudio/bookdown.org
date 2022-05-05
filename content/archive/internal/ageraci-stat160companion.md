@@ -4,7 +4,7 @@ author: "Statistics/Data Science at St. John Fisher College"
 date: "2021-05-10T18:43:08Z"
 tags: [Data Science, Textbook, Course]
 link: "https://bookdown.org/ageraci/STAT160Companion/"
-length_weight: "18.9%"
+length_weight: "16.8%"
 pinned: false
 ---
 

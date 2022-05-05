@@ -4,7 +4,7 @@ author: "Isabel Molina Peralta and Eduardo García-Portugués"
 date: "2022-03-04T18:26:44Z"
 tags: [Course, Statistics, Data Science]
 link: "https://bookdown.org/egarpor/inference/"
-length_weight: "38.6%"
+length_weight: "34.3%"
 pinned: false
 ---
 

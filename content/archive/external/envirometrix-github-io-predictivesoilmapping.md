@@ -4,7 +4,7 @@ author: "Tomislav Hengl and Robert A. MacMillan"
 date: "2019-03-17"
 tags: [Machine Learning, R Programming, Tutorial]
 link: "https://envirometrix.github.io/PredictiveSoilMapping/"
-length_weight: "33.9%"
+length_weight: "30.2%"
 repo: "envirometrix/PredictiveSoilMapping"
 pinned: false
 ---

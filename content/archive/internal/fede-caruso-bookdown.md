@@ -4,7 +4,7 @@ author: "fede_caruso"
 date: "2021-03-02T14:15:50Z"
 tags: [Guide]
 link: "https://bookdown.org/fede_caruso/bookdown/"
-length_weight: "25%"
+length_weight: "22.2%"
 pinned: false
 ---
 

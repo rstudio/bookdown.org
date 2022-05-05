@@ -3,7 +3,7 @@ title: "国内任天堂 Switch 使用情况与玩家需求调查报告"
 author: "OldNin"
 date: "2019-08-30T01:20:34Z"
 link: "https://bookdown.org/CoLin00/_switch_/"
-length_weight: "10.7%"
+length_weight: "9.6%"
 cover: "https://bookdown.org/CoLin00/_switch_/image/cover.png"
 pinned: false
 ---

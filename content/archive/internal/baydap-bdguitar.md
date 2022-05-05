@@ -4,7 +4,7 @@ author: "大鹏"
 date: "2017-05-25T20:11:40Z"
 tags: [数据分析]
 link: "https://bookdown.org/baydap/bdguitar/"
-length_weight: "6.7%"
+length_weight: "6%"
 cover: "https://bookdown.org/baydap/bdguitar/images/cover.jpg"
 repo: "pzhaonet/boookdown-guitar"
 pinned: false

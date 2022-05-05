@@ -3,7 +3,7 @@ title: "Buku Visualisasi Data yang Efektif"
 author: "Aep Hidayatuloh"
 date: "2021-12-31T01:54:22Z"
 link: "https://bookdown.org/aepstk/visualisasiefektif/"
-length_weight: "4.9%"
+length_weight: "4.4%"
 cover: "https://bookdown.org/aepstk/visualisasiefektif/img/coverfront.jpeg"
 pinned: false
 ---

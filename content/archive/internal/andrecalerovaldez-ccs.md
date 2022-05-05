@@ -3,7 +3,7 @@ title: "Computational Communication Science mit R"
 author: "André Calero Valdez"
 date: "2018-10-18T18:58:53Z"
 link: "https://bookdown.org/andrecalerovaldez/ccs/"
-length_weight: "12%"
+length_weight: "10.7%"
 repo: "sumidu/ccs"
 pinned: false
 ---
