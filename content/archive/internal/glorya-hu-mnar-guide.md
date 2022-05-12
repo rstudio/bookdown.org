@@ -1,10 +1,10 @@
 ---
 title: "A Practical Guide to Sensitivity Analysis for Causal Effects in the Presence of Non-Ignorable Loss to Follow-Up"
 author: "Aleya Khalifa and Gloria HJ Graf"
-date: "2022-05-04T23:51:13Z"
+date: "2022-05-09T17:59:45Z"
 tags: [Guide, Package, Tutorial]
 link: "https://bookdown.org/glorya_hu/MNAR-Guide/"
-length_weight: "14.6%"
+length_weight: "15%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

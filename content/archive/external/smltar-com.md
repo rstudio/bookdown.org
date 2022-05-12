@@ -1,10 +1,10 @@
 ---
 title: "Supervised Machine Learning for Text Analysis in R"
 author: "Emil Hvitfeldt and Julia Silge"
-date: "2021-11-11"
+date: "2022-05-11"
 tags: [Machine Learning, Github]
 link: "https://smltar.com/"
-length_weight: "23.7%"
+length_weight: "0%"
 cover: "https://smltar.com/cover.jpg"
 repo: "EmilHvitfeldt/smltar"
 pinned: false

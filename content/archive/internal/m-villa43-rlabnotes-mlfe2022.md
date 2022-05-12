@@ -1,10 +1,10 @@
 ---
 title: "MLFE R labs (2022 ed.)"
 author: "Prof. Michela Cameletti & Tutor Marco Villa"
-date: "2022-04-21T14:51:24Z"
+date: "2022-05-05T14:56:28Z"
 tags: [Course, Machine Learning, Data Science, R Programming, Tidyverse, Package]
 link: "https://bookdown.org/m_villa43/rlabnotes_mlfe2022/"
-length_weight: "17.7%"
+length_weight: "20%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

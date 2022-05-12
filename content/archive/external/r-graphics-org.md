@@ -1,7 +1,7 @@
 ---
 title: "R Graphics Cookbook, 2nd edition"
 author: "Winston Chang"
-date: "2022-05-04"
+date: "2022-05-11"
 tags: [Guide]
 link: "https://r-graphics.org/"
 length_weight: "22.4%"
