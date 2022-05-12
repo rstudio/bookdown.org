@@ -1,9 +1,9 @@
 ---
 title: "A Collection of small Skills"
 author: "Kan Lei"
-date: "2021-11-06T16:30:15Z"
+date: "2022-05-11T19:55:42Z"
 link: "https://bookdown.org/hr_kanlei/Suisong/"
-length_weight: "3.2%"
+length_weight: "5.3%"
 pinned: false
 ---
 

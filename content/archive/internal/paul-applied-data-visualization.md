@@ -1,10 +1,10 @@
 ---
 title: "GESIS Workshop: Applied Data Visualization"
 author: "Paul C. Bauer"
-date: "2022-05-04T10:10:43Z"
+date: "2022-05-09T08:44:13Z"
 tags: [Visualization]
 link: "https://bookdown.org/paul/applied-data-visualization/"
-length_weight: "29.2%"
+length_weight: "29.9%"
 pinned: false
 ---
 
