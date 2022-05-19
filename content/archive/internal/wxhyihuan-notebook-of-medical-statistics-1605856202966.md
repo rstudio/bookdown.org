@@ -4,7 +4,7 @@ author: "wxhyihuan"
 date: "2020-12-12T11:53:32Z"
 tags: [笔记]
 link: "https://bookdown.org/wxhyihuan/Notebook-of-medical-statistics-1605856202966/"
-length_weight: "31.6%"
+length_weight: "35.5%"
 pinned: false
 ---
 

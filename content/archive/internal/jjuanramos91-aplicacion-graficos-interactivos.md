@@ -3,7 +3,7 @@ title: "Herramientas de visualización interactivas para la toma de decisiones e
 author: "Juan Ramos Hernández, Grado en Administración y dirección de Empresas"
 date: "2020-07-05T11:44:57Z"
 link: "https://bookdown.org/jjuanramos91/aplicacion_graficos_interactivos/"
-length_weight: "24.1%"
+length_weight: "27.1%"
 pinned: false
 ---
 

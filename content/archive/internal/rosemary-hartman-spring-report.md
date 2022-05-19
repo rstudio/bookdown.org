@@ -3,7 +3,7 @@ title: "Secchi Depth"
 author: "Rosemary_Hartman"
 date: "2020-03-18T22:23:17Z"
 link: "https://bookdown.org/Rosemary_Hartman/spring-report/"
-length_weight: "8.3%"
+length_weight: "9.3%"
 repo: "https://github.com/InteragencyEcologicalProgram/Status-and-Trends"
 pinned: false
 ---

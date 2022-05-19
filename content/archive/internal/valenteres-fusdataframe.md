@@ -3,7 +3,7 @@ title: "Manual de R"
 author: "Valen Terés"
 date: "2022-02-07T11:55:00Z"
 link: "https://bookdown.org/valenteres/FusDataFrame/"
-length_weight: "12.5%"
+length_weight: "14.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

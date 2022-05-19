@@ -4,7 +4,7 @@ author: "Gruppe B2-19, Ronni Carlsen, Mads Corfixen, Thomas Heede, Christian F. 
 date: "2020-05-26T07:51:33Z"
 tags: [Simulation]
 link: "https://bookdown.org/madscorfixen/bookdown-demo-master/"
-length_weight: "17.9%"
+length_weight: "20.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

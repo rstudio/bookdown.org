@@ -4,7 +4,7 @@ author: "统计科学部"
 date: "2020-06-09T07:05:56Z"
 tags: [Package, Github]
 link: "https://bookdown.org/wangdalongctw/bookdown0609/"
-length_weight: "3.3%"
+length_weight: "3.7%"
 pinned: false
 ---
 

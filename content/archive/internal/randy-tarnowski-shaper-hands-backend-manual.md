@@ -4,7 +4,7 @@ author: "Sacramento Shapers"
 date: "2020-05-06T00:48:52Z"
 tags: [Package]
 link: "https://bookdown.org/randy_tarnowski/shaper_hands_backend_manual/"
-length_weight: "3.3%"
+length_weight: "3.7%"
 pinned: false
 ---
 

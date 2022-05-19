@@ -4,7 +4,7 @@ author: "Yan Ren"
 date: "2022-01-30T20:33:26Z"
 tags: [Statistics, Spatial Data]
 link: "https://bookdown.org/yan_ren0518/summary_note/"
-length_weight: "16.1%"
+length_weight: "18.1%"
 repo: "Ryanna-github/Geostatistics"
 pinned: false
 ---

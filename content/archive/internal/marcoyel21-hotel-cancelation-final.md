@@ -3,7 +3,7 @@ title: "Proyecto Final: Hotel Cancelation"
 author: "Alex Joel Marco"
 date: "2021-12-06T19:46:02Z"
 link: "https://bookdown.org/marcoyel21/hotel_cancelation_final/"
-length_weight: "12.2%"
+length_weight: "13.7%"
 pinned: false
 ---
 

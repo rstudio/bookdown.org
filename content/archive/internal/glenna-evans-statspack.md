@@ -4,7 +4,7 @@ author: "Glenna Nightingale"
 date: "2022-03-03T11:30:07Z"
 tags: [Statistics]
 link: "https://bookdown.org/glenna_evans/statspack/"
-length_weight: "9.6%"
+length_weight: "10.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

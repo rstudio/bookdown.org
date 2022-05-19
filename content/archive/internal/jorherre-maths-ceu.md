@@ -4,7 +4,7 @@ author: "Jorge Herrera de la Cruz"
 date: "2022-05-07T20:01:48Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/MATHS_CEU/"
-length_weight: "32.7%"
+length_weight: "36.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

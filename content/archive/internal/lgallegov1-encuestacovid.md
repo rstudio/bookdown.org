@@ -4,7 +4,7 @@ author: "Sonia Monroy, Hernando Díaz, Francisco Amórtegui, Luis E. Gallego"
 date: "2021-12-17T17:01:59Z"
 tags: [Package]
 link: "https://bookdown.org/lgallegov1/EncuestaCovid/"
-length_weight: "9.7%"
+length_weight: "10.9%"
 pinned: false
 ---
 

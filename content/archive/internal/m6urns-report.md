@@ -3,7 +3,7 @@ title: "FDA 503B Product Report"
 author: "08/31/2021 v1.0.1"
 date: "2021-09-01T22:51:27Z"
 link: "https://bookdown.org/m6urns/report/"
-length_weight: "18.4%"
+length_weight: "20.7%"
 pinned: false
 ---
 

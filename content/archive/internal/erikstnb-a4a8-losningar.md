@@ -4,7 +4,7 @@ author: "Erik Stenberg"
 date: "2018-09-17T11:39:21Z"
 tags: [Guide]
 link: "https://bookdown.org/erikstnb/a4a8-losningar/"
-length_weight: "11.5%"
+length_weight: "12.9%"
 repo: "shitoushan/losningar"
 pinned: false
 ---

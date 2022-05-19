@@ -4,7 +4,7 @@ author: "Davi Moreira"
 date: "2020-09-11T02:06:10Z"
 tags: [Tutorial]
 link: "https://bookdown.org/davi_moreira/txt4cs2/"
-length_weight: "14.5%"
+length_weight: "16.3%"
 pinned: false
 ---
 

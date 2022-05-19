@@ -4,7 +4,7 @@ author: "B. Depaire"
 date: "2019-12-26T11:00:28Z"
 tags: [Course]
 link: "https://bookdown.org/content/e12712f9-eea3-49cb-ad8d-a3e908f52a2f/"
-length_weight: "19.4%"
+length_weight: "21.8%"
 pinned: false
 ---
 

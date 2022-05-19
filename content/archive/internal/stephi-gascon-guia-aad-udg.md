@@ -4,7 +4,7 @@ author: "“Jordi Compte, Rafael Muñoz-Mas, María Antón-Pardo & Stéphanie Ga
 date: "2020-11-02T13:47:48Z"
 tags: [Package]
 link: "https://bookdown.org/stephi_gascon/Guia-AAD-UdG/"
-length_weight: "23.9%"
+length_weight: "26.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

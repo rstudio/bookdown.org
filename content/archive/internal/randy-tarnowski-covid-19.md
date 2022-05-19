@@ -3,7 +3,7 @@ title: "ICCU as Employers"
 author: "Randy Tarnowski"
 date: "2020-04-29T17:58:29Z"
 link: "https://bookdown.org/randy_tarnowski/covid-19/"
-length_weight: "4.1%"
+length_weight: "4.6%"
 pinned: false
 ---
 

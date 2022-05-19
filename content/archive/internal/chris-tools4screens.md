@@ -4,7 +4,7 @@ author: "cjlortie"
 date: "2022-05-11T03:50:57Z"
 tags: [Models]
 link: "https://bookdown.org/chris/tools4screens/"
-length_weight: "6.5%"
+length_weight: "7.3%"
 pinned: false
 ---
 

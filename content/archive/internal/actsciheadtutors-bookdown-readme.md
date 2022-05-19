@@ -3,7 +3,7 @@ title: "UCT Actuarial Science Student Managment Program"
 author: "Various Authors"
 date: "2021-12-09T08:34:29Z"
 link: "https://bookdown.org/actsciheadtutors/bookdown-readme/"
-length_weight: "5.3%"
+length_weight: "5.9%"
 pinned: false
 ---
 

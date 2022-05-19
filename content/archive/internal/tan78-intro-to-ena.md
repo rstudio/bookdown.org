@@ -4,7 +4,7 @@ author: "tan78"
 date: "2022-04-07T18:20:57Z"
 tags: [Network, Guide, Visualization]
 link: "https://bookdown.org/tan78/intro_to_ena/"
-length_weight: "3.8%"
+length_weight: "4.2%"
 pinned: false
 ---
 

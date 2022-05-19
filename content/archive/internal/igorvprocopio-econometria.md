@@ -1,10 +1,10 @@
 ---
 title: "R Notebook"
 author: "Igor Procópio"
-date: "2022-05-12T04:30:39Z"
+date: "2022-05-19T03:45:46Z"
 tags: [Package]
 link: "https://bookdown.org/igorvprocopio/Econometria/"
-length_weight: "15.2%"
+length_weight: "16.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

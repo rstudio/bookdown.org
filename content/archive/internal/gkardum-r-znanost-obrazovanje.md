@@ -4,7 +4,7 @@ author: "Goran Kardum, Krešimir Ivanda, Ivan Buljan"
 date: "2021-11-26T20:11:15Z"
 tags: [R Markdown]
 link: "https://bookdown.org/gkardum/r_znanost_obrazovanje/"
-length_weight: "6.9%"
+length_weight: "7.7%"
 repo: "gkardum/r-u-znanosti"
 pinned: false
 ---

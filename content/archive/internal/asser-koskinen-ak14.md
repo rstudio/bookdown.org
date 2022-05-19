@@ -4,7 +4,7 @@ author: "Asser Koskinen"
 date: "2022-05-03T11:37:11Z"
 tags: [Guide, Package]
 link: "https://bookdown.org/asser_koskinen/AK14/"
-length_weight: "3.3%"
+length_weight: "3.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

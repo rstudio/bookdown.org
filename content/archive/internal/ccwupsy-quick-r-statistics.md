@@ -1,10 +1,10 @@
 ---
 title: "Quick R for Statistics"
 author: "Chia-Ching Wu"
-date: "2022-05-10T19:02:22Z"
+date: "2022-05-16T03:16:17Z"
 tags: [Statistics]
 link: "https://bookdown.org/ccwupsy/quick-r-statistics/"
-length_weight: "18.6%"
+length_weight: "23.5%"
 pinned: false
 ---
 

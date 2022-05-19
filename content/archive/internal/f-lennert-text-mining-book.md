@@ -1,10 +1,10 @@
 ---
-title: "Text Mining for Social Scientists"
+title: "Fighting Words Exercise – Solution"
 author: "Felix Lennert"
-date: "2022-05-04T09:05:12Z"
-tags: [Text Mining, Social Science, Course]
+date: "2022-05-18T05:26:01Z"
+tags: [Social Science, Course]
 link: "https://bookdown.org/f_lennert/text-mining-book/"
-length_weight: "100%"
+length_weight: "8.6%"
 pinned: false
 ---
 

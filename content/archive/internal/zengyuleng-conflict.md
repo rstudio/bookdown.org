@@ -1,10 +1,10 @@
 ---
 title: "Interstate Conflict"
 author: "Yuleng Zeng"
-date: "2022-05-11T12:43:11Z"
+date: "2022-05-18T13:14:03Z"
 tags: [Seminar, Course, Education]
 link: "https://bookdown.org/zengyuleng/conflict/"
-length_weight: "12.5%"
+length_weight: "14.2%"
 repo: "rstudio/conflict"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Harvard Business Analytics Program"
 date: "2022-04-06T15:07:35Z"
 tags: [Guide]
 link: "https://bookdown.org/dsmfaculty/hbap_r_reference_guide/"
-length_weight: "13.4%"
+length_weight: "15.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

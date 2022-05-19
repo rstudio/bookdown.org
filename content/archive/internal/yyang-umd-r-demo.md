@@ -4,7 +4,7 @@ author: "Yunlong Yang"
 date: "2020-10-19T23:39:46Z"
 tags: [Course, R Markdown]
 link: "https://bookdown.org/yyang_umd/R_demo/"
-length_weight: "13.5%"
+length_weight: "15.1%"
 pinned: false
 ---
 

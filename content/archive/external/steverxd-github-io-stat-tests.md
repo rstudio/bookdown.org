@@ -4,7 +4,7 @@ author: "Steve Doogue"
 date: "2019-07-09"
 tags: [Models, Package]
 link: "https://steverxd.github.io/Stat_tests/"
-length_weight: "9.1%"
+length_weight: "10.2%"
 pinned: false
 ---
 

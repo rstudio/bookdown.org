@@ -4,7 +4,7 @@ author: "Joao M. Souto-Maior, PhD student at NYU"
 date: "2021-02-11T15:51:24Z"
 tags: [Statistics, Course, Guide]
 link: "https://bookdown.org/joao_msoutomaior/intro-stats-notes/"
-length_weight: "17.2%"
+length_weight: "19.4%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Andrew Clark"
 date: "2016-07-19T22:16:26Z"
 tags: [Conference, Sports, Shiny]
 link: "https://bookdown.org/aclark/useR2016videos/"
-length_weight: "7.1%"
+length_weight: "7.9%"
 cover: "https://bookdown.org/aclark/useR2016videos/images/logo.png"
 repo: "pssguy/user2016"
 pinned: false
