@@ -1,10 +1,10 @@
 ---
 title: "AI and Machine Learning For Finance 2021/22"
 author: "Michela Cameletti"
-date: "2022-05-07T08:52:33Z"
+date: "2022-05-14T10:26:26Z"
 tags: [Machine Learning, Course, R Programming, Data Science, Visualization]
-link: "https://bookdown.org/michela_cameletti/aimlff2122_rnotes4/"
-length_weight: "23.6%"
+link: "https://bookdown.org/michela_cameletti/aimlff2122_rnotes5/"
+length_weight: "27.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Brian Nguyen"
 date: "2020-12-07T22:55:16Z"
 tags: [Multivariate, Statistical Methods]
 link: "https://bookdown.org/brian_nguyen0305/Multivariate_Statistical_Analysis_with_R/"
-length_weight: "29.7%"
+length_weight: "33.3%"
 cover: "https://bookdown.org/brian_nguyen0305/Multivariate_Statistical_Analysis_with_R/cover.png"
 pinned: false
 ---

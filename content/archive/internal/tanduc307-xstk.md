@@ -1,9 +1,9 @@
 ---
 title: "Học xác suất thống kê qua phần mềm R"
 author: "Tan-Duc Nguyen"
-date: "2022-04-11T07:24:16Z"
+date: "2022-05-13T16:31:59Z"
 link: "https://bookdown.org/tanduc307/xstk/"
-length_weight: "8.4%"
+length_weight: "13.8%"
 cover: "https://bookdown.org/tanduc307/xstk/images/cover.jpg"
 pinned: false
 ---

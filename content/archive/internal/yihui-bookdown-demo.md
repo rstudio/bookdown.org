@@ -4,7 +4,7 @@ author: "Yihui Xie"
 date: "2016-04-12T22:30:13Z"
 tags: [Package, Github]
 link: "https://bookdown.org/yihui/bookdown-demo/"
-length_weight: "3.4%"
+length_weight: "3.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

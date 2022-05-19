@@ -4,7 +4,7 @@ author: "Yiming Gong"
 date: "2021-07-28T08:42:17Z"
 tags: [Market]
 link: "https://bookdown.org/yg484/lec_7_note/"
-length_weight: "4.7%"
+length_weight: "5.2%"
 pinned: false
 ---
 

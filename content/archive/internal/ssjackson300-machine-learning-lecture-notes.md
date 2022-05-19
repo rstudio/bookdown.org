@@ -4,7 +4,7 @@ author: "Dr. S. Jackson"
 date: "2022-04-06T10:10:45Z"
 tags: [Machine Learning, Course, Data Science]
 link: "https://bookdown.org/ssjackson300/Machine-Learning-Lecture-Notes/"
-length_weight: "32.7%"
+length_weight: "36.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

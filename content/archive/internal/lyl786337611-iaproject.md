@@ -1,10 +1,10 @@
 ---
 title: "A Minimal Book Example"
 author: "John Doe"
-date: "2022-03-24T20:24:16Z"
+date: "2022-05-18T12:22:57Z"
 tags: [Package]
-link: "https://bookdown.org/jorherre/UCM_MatematicasI_II/"
-length_weight: "35.8%"
+link: "https://bookdown.org/lyl786337611/iaproject/"
+length_weight: "6.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

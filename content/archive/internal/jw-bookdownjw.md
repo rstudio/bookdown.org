@@ -3,7 +3,7 @@ title: "Summary of Presentation at the International Justice Forum in Nur-Sultan
 author: "Jesper Wittrup"
 date: "2019-11-16T19:10:26Z"
 link: "https://bookdown.org/jw_/BookdownJW/"
-length_weight: "9.1%"
+length_weight: "10.2%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "@kazutan"
 date: "2016-11-20"
 tags: [ggplot2, まとめ, Github]
 link: "https://kazutan.github.io/ggplot2-gyakubiki-book/"
-length_weight: "6.5%"
+length_weight: "7.4%"
 repo: "kazutan/ggplot2-gyakubiki-book"
 pinned: false
 ---

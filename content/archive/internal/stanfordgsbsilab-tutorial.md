@@ -4,7 +4,7 @@ author: "Golub Capital Social Impact Lab"
 date: "2021-06-15T19:53:28Z"
 tags: [Tutorial, Machine Learning]
 link: "https://bookdown.org/stanfordgsbsilab/tutorial/"
-length_weight: "28.6%"
+length_weight: "32.2%"
 repo: "gsbDBI/public_tutorials"
 pinned: false
 ---

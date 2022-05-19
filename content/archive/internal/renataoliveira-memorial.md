@@ -3,7 +3,7 @@ title: "Sobre reduzir distâncias…"
 author: "Renata Lúcia Magalhães de Oliveira"
 date: "2021-05-23T19:14:36Z"
 link: "https://bookdown.org/renataoliveira/memorial/"
-length_weight: "23%"
+length_weight: "25.9%"
 cover: "https://retaoliveira.github.io/memorial/img/reta_nova.jpeg"
 repo: "retaoliveira/memorial"
 pinned: false

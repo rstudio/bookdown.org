@@ -4,7 +4,7 @@ author: "王敏杰"
 date: "2021-05-24T03:49:45Z"
 tags: [数据科学, Tidyverse]
 link: "https://bookdown.org/wangminjie/R4IS/"
-length_weight: "24.6%"
+length_weight: "27.6%"
 repo: "perlatex/R4IS"
 pinned: false
 ---

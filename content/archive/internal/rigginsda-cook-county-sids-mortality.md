@@ -3,7 +3,7 @@ title: "SIDS-Related Deaths in Cook County, IL"
 author: "Daniel P. Hall Riggins"
 date: "2022-02-20T17:45:37Z"
 link: "https://bookdown.org/rigginsda/cook_county_sids_mortality/"
-length_weight: "5.9%"
+length_weight: "6.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

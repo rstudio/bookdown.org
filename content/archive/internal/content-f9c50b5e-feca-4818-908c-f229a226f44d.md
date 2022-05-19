@@ -4,7 +4,7 @@ author: "Vikram Singh Rawat"
 date: "2019-07-22T16:28:09Z"
 tags: [Guide, Package]
 link: "https://bookdown.org/content/f9c50b5e-feca-4818-908c-f229a226f44d/"
-length_weight: "6.4%"
+length_weight: "7.2%"
 cover: "https://bookdown.org/content/f9c50b5e-feca-4818-908c-f229a226f44d/figures/cover.png"
 pinned: false
 ---

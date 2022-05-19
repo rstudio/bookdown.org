@@ -3,7 +3,7 @@ title: "Mapping Workshop"
 author: "Jonas Rodriguez, This material is based upon work supported by the National Science Foundation under Grant No. (1733633)"
 date: "2022-01-21T20:29:42Z"
 link: "https://bookdown.org/jrodriguez36/PGRP-Mapping-Workshop/"
-length_weight: "13%"
+length_weight: "14.6%"
 repo: "rstudio/PGRP_mapping_workshop"
 pinned: false
 ---

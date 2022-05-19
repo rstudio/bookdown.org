@@ -4,7 +4,7 @@ author: "Ko Chiu Yu"
 date: "2021-05-10T02:06:27Z"
 tags: [Textbook]
 link: "https://bookdown.org/kochiuyu/technical-analysis-with-r-second-edition2/"
-length_weight: "27.9%"
+length_weight: "31.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

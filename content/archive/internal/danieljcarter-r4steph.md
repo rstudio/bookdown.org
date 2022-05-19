@@ -4,7 +4,7 @@ author: "Daniel J Carter"
 date: "2019-09-25T09:49:47Z"
 tags: [Statistics]
 link: "https://bookdown.org/danieljcarter/r4steph/"
-length_weight: "6.8%"
+length_weight: "7.6%"
 pinned: false
 ---
 

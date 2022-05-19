@@ -4,7 +4,7 @@ author: "Sunbok Lee copied by 212AIE40 Jiwon Choi"
 date: "2021-10-11T09:27:33Z"
 tags: [Social Science, Data Analysis]
 link: "https://bookdown.org/zeewonee2/ewha_r_test/"
-length_weight: "5.7%"
+length_weight: "6.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

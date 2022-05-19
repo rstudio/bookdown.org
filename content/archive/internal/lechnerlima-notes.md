@@ -4,7 +4,7 @@ author: "Lisa Lechner"
 date: "2022-03-14T10:23:37Z"
 tags: [Statistics]
 link: "https://bookdown.org/lechnerlima/notes/"
-length_weight: "16.9%"
+length_weight: "19%"
 repo: "LisaLechner/statistik"
 pinned: false
 ---

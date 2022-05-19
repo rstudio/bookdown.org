@@ -3,7 +3,7 @@ title: "R Function A Day"
 author: "Indrajeet Patil"
 date: "2022-02-02T08:31:04Z"
 link: "https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/"
-length_weight: "22.7%"
+length_weight: "25.5%"
 cover: "https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/images/cover.jpg"
 repo: "IndrajeetPatil/R-Function-A-Day-book/"
 pinned: false

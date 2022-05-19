@@ -4,7 +4,7 @@ author: "Aleya Khalifa and Gloria HJ Graf"
 date: "2022-05-09T17:59:45Z"
 tags: [Guide, Package, Tutorial]
 link: "https://bookdown.org/glorya_hu/MNAR-Guide/"
-length_weight: "15%"
+length_weight: "16.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

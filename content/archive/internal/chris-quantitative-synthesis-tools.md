@@ -3,7 +3,7 @@ title: "quantitative_synthesis_tools.knit"
 author: "cjlortie"
 date: "2021-09-28T21:33:37Z"
 link: "https://bookdown.org/chris/quantitative_synthesis_tools/"
-length_weight: "10.3%"
+length_weight: "11.6%"
 pinned: false
 ---
 

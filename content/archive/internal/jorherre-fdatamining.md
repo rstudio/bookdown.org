@@ -1,10 +1,10 @@
 ---
 title: "Introducción a la minería de datos"
 author: "Jorge Herrera de la Cruz"
-date: "2022-05-04T19:53:57Z"
+date: "2022-05-16T18:12:56Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/FDATAMINING/"
-length_weight: "33%"
+length_weight: "37.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

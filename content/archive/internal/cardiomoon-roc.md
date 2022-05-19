@@ -3,7 +3,7 @@ title: "밑바닥부터 시작하는 ROC 커브 분석"
 author: "문건웅"
 date: "2020-04-18T11:52:32Z"
 link: "https://bookdown.org/cardiomoon/roc/"
-length_weight: "9.1%"
+length_weight: "10.2%"
 pinned: false
 ---
 

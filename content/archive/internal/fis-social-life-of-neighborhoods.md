@@ -4,7 +4,7 @@ author: "Professor Forrest Stuart, TA: Francine Stephens"
 date: "2021-06-19T04:31:28Z"
 tags: [Tutorial, Course]
 link: "https://bookdown.org/fis/social-life-of-neighborhoods/"
-length_weight: "23.3%"
+length_weight: "26.2%"
 pinned: false
 ---
 

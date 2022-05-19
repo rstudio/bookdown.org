@@ -4,7 +4,7 @@ author: "Marco Garofalo"
 date: "2022-04-25T15:11:13Z"
 tags: [Package]
 link: "https://bookdown.org/marcogarofalo31/report_BSM/"
-length_weight: "4.8%"
+length_weight: "5.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

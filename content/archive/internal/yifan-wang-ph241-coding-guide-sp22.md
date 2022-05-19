@@ -4,7 +4,7 @@ author: "yifan_wang"
 date: "2022-04-22T20:17:02Z"
 tags: [Guide]
 link: "https://bookdown.org/yifan_wang/ph241-coding-guide-sp22/"
-length_weight: "7.8%"
+length_weight: "8.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

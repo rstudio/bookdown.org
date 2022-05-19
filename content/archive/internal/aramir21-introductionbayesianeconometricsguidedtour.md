@@ -4,7 +4,7 @@ author: "Andrés Ramírez-Hassan"
 date: "2022-05-02T20:19:20Z"
 tags: [Bayesian, Econometrics, Textbook]
 link: "https://bookdown.org/aramir21/IntroductionBayesianEconometricsGuidedTour/"
-length_weight: "16.8%"
+length_weight: "18.9%"
 repo: "https://github.com/aramir21/IntroductionBayesianEconometricsBook"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Yiming Gong"
 date: "2021-08-05T02:05:30Z"
 tags: [Models]
 link: "https://bookdown.org/yg484/rec_7_note/"
-length_weight: "8.7%"
+length_weight: "9.8%"
 pinned: false
 ---
 

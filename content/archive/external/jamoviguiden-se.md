@@ -4,7 +4,7 @@ author: "Jonas Rafi"
 date: "2022-04-05"
 tags: [Guide, Statistics, Psychology]
 link: "https://jamoviguiden.se/"
-length_weight: "6.2%"
+length_weight: "6.9%"
 repo: "jRafi/jamoviguiden"
 pinned: false
 ---
