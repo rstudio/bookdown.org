@@ -4,7 +4,7 @@ author: "Abdoul Oudouss Diakite"
 date: "2022-05-08T21:43:43Z"
 tags: [Package]
 link: "https://bookdown.org/AODiakite/r4econometrics/"
-length_weight: "15.5%"
+length_weight: "13.7%"
 repo: "AODiakite/r4econometrics"
 pinned: false
 ---

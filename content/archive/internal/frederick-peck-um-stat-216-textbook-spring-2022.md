@@ -4,7 +4,7 @@ author: ""
 date: "2022-04-27T11:30:52Z"
 tags: [Simulation, Github]
 link: "https://bookdown.org/frederick_peck/um_stat_216_textbook_-_spring_2022/"
-length_weight: "31.6%"
+length_weight: "27.9%"
 cover: "https://bookdown.org/frederick_peck/um_stat_216_textbook_-_spring_2022/img/catalst-textbook-cover-v4.png"
 pinned: false
 ---

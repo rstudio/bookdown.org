@@ -4,7 +4,7 @@ author: "Nandini Dendukuri, McGill University"
 date: "2020-06-10T20:14:14Z"
 tags: [Medicine]
 link: "https://bookdown.org/mandyyao98/bookdown-demo-master/"
-length_weight: "37.9%"
+length_weight: "33.5%"
 pinned: false
 ---
 

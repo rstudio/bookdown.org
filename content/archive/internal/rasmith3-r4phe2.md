@@ -4,7 +4,7 @@ author: "Robert Smith"
 date: "2020-07-05T09:28:10Z"
 tags: [Data Science, Course]
 link: "https://bookdown.org/rasmith3/r4phe2/"
-length_weight: "23.4%"
+length_weight: "20.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

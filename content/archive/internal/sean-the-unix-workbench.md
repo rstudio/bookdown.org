@@ -4,7 +4,7 @@ author: "Sean Kross"
 date: "2017-06-29T17:38:48Z"
 tags: [Unix]
 link: "https://bookdown.org/sean/the-unix-workbench/"
-length_weight: "32.3%"
+length_weight: "28.5%"
 cover: "https://bookdown.org/sean/the-unix-workbench/images/cover.png"
 repo: "seankross/the-unix-workbench"
 pinned: false

@@ -4,7 +4,7 @@ author: "Siyeon Kim"
 date: "2021-09-26T09:42:06Z"
 tags: [Package]
 link: "https://bookdown.org/marcia1204/week3_hw_siyeon/"
-length_weight: "4.9%"
+length_weight: "4.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

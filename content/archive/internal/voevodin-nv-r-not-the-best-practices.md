@@ -3,7 +3,7 @@ title: "R, Not the Best Practices"
 author: "Nikita Voevodin"
 date: "2020-04-07T03:35:04Z"
 link: "https://bookdown.org/voevodin_nv/R_Not_the_Best_Practices/"
-length_weight: "39.6%"
+length_weight: "35%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

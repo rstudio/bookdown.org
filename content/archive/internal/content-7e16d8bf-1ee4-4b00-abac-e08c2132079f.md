@@ -3,7 +3,7 @@ title: "Kenai River Thermal Imagery"
 author: "Benjamin Meyer (ben@kenaiwatershed.org)"
 date: "2022-05-17T01:13:59Z"
 link: "https://bookdown.org/content/7e16d8bf-1ee4-4b00-abac-e08c2132079f/"
-length_weight: "8.7%"
+length_weight: "7.7%"
 pinned: false
 ---
 

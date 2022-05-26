@@ -4,7 +4,7 @@ author: "Yuleng Zeng"
 date: "2022-02-01T11:02:59Z"
 tags: [Seminar, Course, Education]
 link: "https://bookdown.org/zengyuleng/chineseforeignpolicy/"
-length_weight: "20.1%"
+length_weight: "17.7%"
 repo: "rstudio/economicstatecraft"
 pinned: false
 ---

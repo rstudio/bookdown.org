@@ -4,7 +4,7 @@ author: "Qiushi Yan"
 date: "2020-05-10T16:33:27Z"
 tags: [Text Mining, Tidy, Tidyverse]
 link: "https://bookdown.org/Maxine/tidy-text-mining/"
-length_weight: "39.7%"
+length_weight: "35.1%"
 repo: "enixam/tidy-text-mining"
 pinned: false
 ---

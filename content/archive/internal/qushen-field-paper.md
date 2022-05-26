@@ -4,7 +4,7 @@ author: "Shen Qu"
 date: "2021-11-02T15:48:05Z"
 tags: [Package, Models]
 link: "https://bookdown.org/qushen/field_paper/"
-length_weight: "32.9%"
+length_weight: "29.1%"
 repo: "qushen26/field_paper"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Felix Lennert"
 date: "2022-01-24T11:43:52Z"
 tags: [Social Science, Text Mining, Course]
 link: "https://bookdown.org/f_lennert/book-toolbox_css/"
-length_weight: "28.3%"
+length_weight: "25.1%"
 pinned: false
 ---
 

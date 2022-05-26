@@ -4,7 +4,7 @@ author: "Marek Gagolewski"
 date: ""
 tags: [Machine Learning]
 link: "https://lmlcr.gagolewski.com/"
-length_weight: "26.4%"
+length_weight: "23.4%"
 repo: "gagolews/lmlcr"
 pinned: false
 ---

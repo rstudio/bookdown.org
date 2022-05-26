@@ -4,7 +4,7 @@ author: "Chengxiang Tang"
 date: "2022-05-18T01:06:01Z"
 tags: [Education, 醫學]
 link: "https://bookdown.org/tang_chengxiang/nb_he/"
-length_weight: "9%"
+length_weight: "8%"
 repo: "ctang83/NB_HE"
 pinned: false
 ---

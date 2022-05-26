@@ -4,7 +4,7 @@ author: "Андрей Городничий"
 date: "2018-06-17T16:29:02Z"
 tags: [Poetry]
 link: "https://bookdown.org/gorodnichy/andre/"
-length_weight: "26.4%"
+length_weight: "23.3%"
 cover: "https://bookdown.org/gorodnichy/andre/images/cover2.jpg"
 pinned: false
 ---

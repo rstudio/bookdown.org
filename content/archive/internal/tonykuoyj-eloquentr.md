@@ -4,7 +4,7 @@ author: "郭耀仁"
 date: "2018-05-12T01:37:34Z"
 tags: [Python, Market]
 link: "https://bookdown.org/tonykuoyj/eloquentr/"
-length_weight: "18.6%"
+length_weight: "16.5%"
 pinned: false
 ---
 

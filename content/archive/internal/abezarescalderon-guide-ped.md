@@ -4,7 +4,7 @@ author: "Alma A. Bezares Calderón"
 date: "2022-01-28T23:53:18Z"
 tags: [Guide, Course]
 link: "https://bookdown.org/abezarescalderon/guide-ped/"
-length_weight: "27.1%"
+length_weight: "23.9%"
 repo: "mmeapple/Guide-PED"
 pinned: false
 ---

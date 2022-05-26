@@ -4,7 +4,7 @@ author: "문 건 웅"
 date: "2020-05-12T06:57:28Z"
 tags: [Shiny]
 link: "https://bookdown.org/cardiomoon/webrbook2020/"
-length_weight: "12.9%"
+length_weight: "11.4%"
 pinned: false
 ---
 
