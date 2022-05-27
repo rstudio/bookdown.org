@@ -3,7 +3,7 @@ title: "Lessons from the Bible"
 author: "Ibukun Oni"
 date: "2022-05-03T13:49:44Z"
 link: "https://bookdown.org/ibukunoni/ibukun_bible_study_learning/"
-length_weight: "8.5%"
+length_weight: "7.5%"
 pinned: false
 ---
 

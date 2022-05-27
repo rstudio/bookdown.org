@@ -4,7 +4,7 @@ author: ""
 date: "2022-02-03T04:57:24Z"
 tags: [Data Science, Statistics]
 link: "https://bookdown.org/rehk/stm1001_dsm_introduction_to_bioinformatics_in_r/"
-length_weight: "7.7%"
+length_weight: "6.8%"
 pinned: false
 ---
 

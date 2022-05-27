@@ -4,7 +4,7 @@ author: "Ekarin E. Pongpipat, Giuseppe G. Miranda, & Matthew J. Kmiecik"
 date: ""
 tags: [Statistics, Psychology, Course]
 link: "https://rpsystats.com/"
-length_weight: "11.4%"
+length_weight: "10%"
 repo: "epongpipat/practical-ext-of-intro-stats-in-psy-using-R"
 pinned: false
 ---

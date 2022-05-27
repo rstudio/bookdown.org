@@ -1,10 +1,10 @@
 ---
-title: "A Minimal Book Example"
+title: "A Minimal Book Example!!"
 author: "John Doe"
-date: "2022-05-18T12:22:57Z"
+date: "2022-05-22T14:04:03Z"
 tags: [Package]
-link: "https://bookdown.org/lyl786337611/iaproject/"
-length_weight: "6.1%"
+link: "https://bookdown.org/forforture/firstbookdown/"
+length_weight: "5.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

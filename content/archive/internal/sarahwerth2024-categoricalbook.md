@@ -1,10 +1,10 @@
 ---
 title: "Categorical Regression in Stata and R"
 author: "Rose Werth"
-date: "2022-05-12T14:21:04Z"
+date: "2022-05-19T15:09:48Z"
 tags: [Models, Course]
 link: "https://bookdown.org/sarahwerth2024/CategoricalBook/"
-length_weight: "38.6%"
+length_weight: "34.3%"
 cover: "https://bookdown.org/sarahwerth2024/RegressionLabsBook/images/rw.png"
 pinned: false
 ---

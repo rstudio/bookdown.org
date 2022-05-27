@@ -3,7 +3,7 @@ title: "Long-form recordings: From A to Z"
 author: "Sara Pisani"
 date: "2021-09-29T08:54:54Z"
 link: "https://bookdown.org/alecristia/exelang-book/"
-length_weight: "28.2%"
+length_weight: "24.9%"
 pinned: false
 ---
 

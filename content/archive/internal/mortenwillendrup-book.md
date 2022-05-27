@@ -4,7 +4,7 @@ author: "Morten Søby Willendrup"
 date: "2022-01-27T10:41:33Z"
 tags: [Package]
 link: "https://bookdown.org/MortenWillendrup/_book/"
-length_weight: "4.4%"
+length_weight: "3.9%"
 pinned: false
 ---
 

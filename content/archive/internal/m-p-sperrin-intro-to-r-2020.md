@@ -4,7 +4,7 @@ author: "Matthew Sperrin"
 date: "2021-12-10T13:46:00Z"
 tags: [Data Science, Course]
 link: "https://bookdown.org/m_p_sperrin/intro_to_r_2020/"
-length_weight: "16.9%"
+length_weight: "14.9%"
 pinned: false
 ---
 

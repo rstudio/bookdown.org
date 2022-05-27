@@ -4,7 +4,7 @@ author: "Abdoul Oudouss DIAKITE, Othmane ETTADLAOUI"
 date: "2022-05-11T20:16:41Z"
 tags: [Package]
 link: "https://bookdown.org/abdouloudoussdiakite/Tarification/"
-length_weight: "7.8%"
+length_weight: "6.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

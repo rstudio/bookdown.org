@@ -3,7 +3,7 @@ title: "Data Management for Analytics and Applications"
 author: "Marios Kokkodis, George Wyner"
 date: "2022-01-23T20:48:41Z"
 link: "https://bookdown.org/geowyner/book/"
-length_weight: "16.6%"
+length_weight: "14.7%"
 pinned: false
 ---
 

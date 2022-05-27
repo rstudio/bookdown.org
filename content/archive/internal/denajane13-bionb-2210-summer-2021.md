@@ -4,7 +4,7 @@ author: "Dena J. Clink"
 date: "2021-07-25T15:12:43Z"
 tags: [Tutorial, Package]
 link: "https://bookdown.org/denajane13/BIONB_2210_Summer_2021/"
-length_weight: "22%"
+length_weight: "19.5%"
 repo: "DenaJGibbon/behaviouRtutorials"
 pinned: false
 ---

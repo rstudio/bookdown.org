@@ -4,7 +4,7 @@ author: "Yuyang Shi"
 date: "2021-06-06T08:08:22Z"
 tags: [笔记]
 link: "https://bookdown.org/yangtzesyy/Reading-Project-1/"
-length_weight: "15.6%"
+length_weight: "13.8%"
 pinned: false
 ---
 

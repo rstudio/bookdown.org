@@ -1,10 +1,10 @@
 ---
 title: "A Pre-Arrival Guide For Incoming & Prospective Students"
 author: "By the Student Outreach Committee of MaSA UIUC"
-date: "2022-05-19T05:38:37Z"
+date: "2022-05-21T16:04:19Z"
 tags: [Guide]
 link: "https://bookdown.org/afnanfdz/masa-pre-arrival-booklet2/"
-length_weight: "7.5%"
+length_weight: "7.6%"
 pinned: false
 ---
 

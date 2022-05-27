@@ -1,10 +1,10 @@
 ---
-title: "R Notebook"
+title: "Econometria com Simulação e Visualização de Dados"
 author: "Igor Procópio"
-date: "2022-05-19T03:45:46Z"
+date: "2022-05-26T04:50:33Z"
 tags: [Package]
 link: "https://bookdown.org/igorvprocopio/Econometria/"
-length_weight: "16.9%"
+length_weight: "15.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

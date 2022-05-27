@@ -1,10 +1,10 @@
 ---
 title: "Intermediate Microeconomics"
 author: "Yogi Gohel"
-date: "2022-05-18T03:21:06Z"
+date: "2022-05-20T02:24:02Z"
 tags: [Course, Textbook]
 link: "https://bookdown.org/yogigohel/Intermediate_Microeconomics/"
-length_weight: "8.1%"
+length_weight: "7.6%"
 repo: "spxxf/Intermediate-Micro-Textbook"
 pinned: false
 ---

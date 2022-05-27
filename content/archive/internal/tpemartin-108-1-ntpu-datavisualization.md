@@ -4,7 +4,7 @@ author: "林茂廷, 國立臺北大學經濟學系"
 date: "2019-12-25T12:15:30Z"
 tags: [Course, R Programming, Data Science]
 link: "https://bookdown.org/tpemartin/108-1-ntpu-datavisualization/"
-length_weight: "26.4%"
+length_weight: "23.4%"
 pinned: false
 ---
 

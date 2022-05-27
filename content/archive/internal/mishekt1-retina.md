@@ -3,7 +3,7 @@ title: "Characterizing Disease with the Retinal Code"
 author: "Mishek Thapa"
 date: "2020-07-03T22:33:36Z"
 link: "https://bookdown.org/mishekt1/Retina/"
-length_weight: "8.8%"
+length_weight: "7.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

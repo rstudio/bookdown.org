@@ -4,7 +4,7 @@ author: "Berry Boessenkool, berry-b@gmx.de"
 date: "2022-05-17T10:01:04Z"
 tags: [Course, Github]
 link: "https://bookdown.org/brry/course/"
-length_weight: "8.6%"
+length_weight: "7.6%"
 pinned: false
 ---
 
