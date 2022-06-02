@@ -3,7 +3,7 @@ title: "Understanding Work With Data in Summer STEM Programs Through An Experien
 author: "Joshua M. Rosenberg"
 date: "2018-07-16T15:22:02Z"
 link: "https://bookdown.org/jmichaelrosenberg/docs2/"
-length_weight: "27%"
+length_weight: "26.6%"
 repo: "jrosen48/dissertation"
 pinned: false
 ---

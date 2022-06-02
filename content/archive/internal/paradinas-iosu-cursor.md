@@ -3,7 +3,7 @@ title: "Curso R base"
 author: "Iosu Paradinas"
 date: "2021-04-03T16:34:11Z"
 link: "https://bookdown.org/paradinas_iosu/CursoR/"
-length_weight: "25.3%"
+length_weight: "24.9%"
 pinned: false
 ---
 

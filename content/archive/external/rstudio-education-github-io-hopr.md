@@ -4,7 +4,7 @@ author: "Garrett Grolemund"
 date: ""
 tags: [Data Science]
 link: "https://rstudio-education.github.io/hopr/"
-length_weight: "20.9%"
+length_weight: "20.6%"
 cover: "https://rstudio-education.github.io/hopr/cover.png"
 repo: "rstudio-education/hopr"
 pinned: true

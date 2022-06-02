@@ -4,7 +4,7 @@ author: "Dylan Z. Childs"
 date: "2019-02-03"
 tags: [Exploratory Data Analysis, Course]
 link: "https://dzchilds.github.io/eda-for-bio/"
-length_weight: "20.5%"
+length_weight: "20.2%"
 repo: "dzchilds/eda-for-bio"
 pinned: false
 ---

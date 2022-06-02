@@ -4,7 +4,7 @@ author: "Yuleng Zeng"
 date: "2022-02-01T11:04:20Z"
 tags: [Seminar, Course, Education]
 link: "https://bookdown.org/zengyuleng/economicstatecraft/"
-length_weight: "17%"
+length_weight: "16.8%"
 repo: "rstudio/economicstatecraft"
 pinned: false
 ---

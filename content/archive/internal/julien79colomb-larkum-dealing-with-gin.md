@@ -3,7 +3,7 @@ title: "dealing with gin"
 author: "Julien Colomb and Keisuke Sehara"
 date: "2020-03-19T20:47:17Z"
 link: "https://bookdown.org/julien79colomb/larkum-Dealing_with_Gin/"
-length_weight: "7%"
+length_weight: "6.9%"
 pinned: false
 ---
 

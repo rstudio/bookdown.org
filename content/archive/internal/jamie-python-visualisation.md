@@ -4,7 +4,7 @@ author: "Jumping Rivers"
 date: "2019-10-02T09:11:09Z"
 tags: [Python, Machine Learning]
 link: "https://bookdown.org/jamie/python_visualisation/"
-length_weight: "13.2%"
+length_weight: "13%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "Mathematical methods for Economic analysis"
 author: "G.L."
 date: "2021-01-16T00:04:10Z"
 link: "https://bookdown.org/praxeolab/mathematics-for-economics/"
-length_weight: "8.9%"
+length_weight: "8.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

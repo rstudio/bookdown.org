@@ -4,7 +4,7 @@ author: "Trevor Hefley"
 date: "2022-05-04T14:20:18Z"
 tags: [Course, Models, Machine Learning, Bayesian]
 link: "https://bookdown.org/hefleyt2/stat705/"
-length_weight: "25.4%"
+length_weight: "25%"
 pinned: false
 ---
 

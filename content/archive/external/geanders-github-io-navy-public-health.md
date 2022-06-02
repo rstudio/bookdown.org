@@ -4,7 +4,7 @@ author: "Brooke Anderson"
 date: "2019-03-28"
 tags: [Visualization, Conference]
 link: "https://geanders.github.io/navy_public_health/"
-length_weight: "10.1%"
+length_weight: "9.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

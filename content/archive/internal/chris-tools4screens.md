@@ -1,10 +1,10 @@
 ---
 title: "Tools for human-screen interactions"
 author: "cjlortie"
-date: "2022-05-11T03:50:57Z"
+date: "2022-05-31T16:46:41Z"
 tags: [Models]
 link: "https://bookdown.org/chris/tools4screens/"
-length_weight: "6.5%"
+length_weight: "6.4%"
 pinned: false
 ---
 

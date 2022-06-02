@@ -1,10 +1,10 @@
 ---
 title: "Introductory Predictive Analytics and Machine Learning in Education and Healthcare"
 author: "Anshul Kumar"
-date: "2022-05-25T03:42:39Z"
+date: "2022-05-30T16:26:40Z"
 tags: [Machine Learning, Education, Textbook, Course, Statistics]
 link: "https://bookdown.org/anshul302/paml/"
-length_weight: "23.6%"
+length_weight: "26.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

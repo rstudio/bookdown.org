@@ -1,10 +1,10 @@
 ---
 title: "R Programming for Data Science"
 author: "Roger D. Peng"
-date: "2020-09-03T21:06:23Z"
+date: "2022-05-31T13:29:10Z"
 tags: [R Programming, Data Science]
 link: "https://bookdown.org/rdpeng/rprogdatascience/"
-length_weight: "31.7%"
+length_weight: "31.3%"
 cover: "https://bookdown.org/rdpeng/rprogdatascience/cover_sm.png"
 repo: "rdpeng/rprogdatascience"
 pinned: true

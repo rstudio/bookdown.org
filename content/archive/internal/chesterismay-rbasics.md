@@ -4,7 +4,7 @@ author: "Chester Ismay"
 date: "2016-09-13T01:46:12Z"
 tags: [R Markdown]
 link: "https://bookdown.org/chesterismay/rbasics/"
-length_weight: "16.1%"
+length_weight: "15.8%"
 repo: "ismayc/rbasics-book"
 pinned: false
 ---

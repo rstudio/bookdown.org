@@ -4,7 +4,7 @@ author: "Emine Fidan"
 date: "2020-11-13T21:00:12Z"
 tags: [Guide, Spatial Data]
 link: "https://bookdown.org/eneminef/DRR_Bookdown/"
-length_weight: "10.5%"
+length_weight: "10.3%"
 pinned: false
 ---
 

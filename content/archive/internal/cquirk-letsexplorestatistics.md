@@ -4,7 +4,7 @@ author: "Colin Quirk"
 date: "2020-04-01T20:42:56Z"
 tags: [Statistics, Simulation]
 link: "https://bookdown.org/cquirk/LetsExploreStatistics/"
-length_weight: "12.6%"
+length_weight: "12.4%"
 repo: "https://github.com/colinquirk/LetsExploreStatistics"
 pinned: false
 ---

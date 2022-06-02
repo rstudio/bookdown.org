@@ -4,7 +4,7 @@ author: "Michael Clark m-clark.github.io"
 date: "2018-09-15"
 tags: [Package, Models, Bayesian, Network]
 link: "https://m-clark.github.io/sem/"
-length_weight: "21.8%"
+length_weight: "21.4%"
 repo: "m-clark/sem"
 pinned: false
 ---

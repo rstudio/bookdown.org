@@ -3,7 +3,7 @@ title: "KUT 計量経済学応用"
 author: "矢内 勇生"
 date: ""
 link: "https://yukiyanai.github.io/econometrics2/"
-length_weight: "17.9%"
+length_weight: "17.6%"
 pinned: false
 ---
 

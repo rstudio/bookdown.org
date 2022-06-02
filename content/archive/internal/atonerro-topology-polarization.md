@@ -4,7 +4,7 @@ author: "Aidan Toner-Rodgers"
 date: "2021-03-13T18:56:49Z"
 tags: [Data Analysis, Social Science]
 link: "https://bookdown.org/atonerro/topology-polarization/"
-length_weight: "7.1%"
+length_weight: "7%"
 repo: "aidantr/topology-polarization"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Jerry Bean, College of Social Work, The Ohio State University"
 date: "2021-02-26T22:40:11Z"
 tags: [Package, Data Analysis, R Markdown]
 link: "https://bookdown.org/bean_jerry/using_r_for_social_work_research/"
-length_weight: "19.1%"
+length_weight: "18.8%"
 pinned: false
 ---
 

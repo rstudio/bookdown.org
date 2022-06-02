@@ -3,7 +3,7 @@ title: "DSBA-5122 Final Project"
 author: "Nicholas Occhipinti, Karyn Cook, Ziyin Liu"
 date: "2019-05-06T01:34:21Z"
 link: "https://bookdown.org/nocchipi/dsba-5122-final_report/"
-length_weight: "9.8%"
+length_weight: "9.6%"
 repo: "nick-occ/dsba_5122_final_project"
 pinned: false
 ---

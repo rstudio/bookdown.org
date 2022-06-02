@@ -4,7 +4,7 @@ author: "Michela Cameletti and Raffaele Argiento"
 date: "2022-01-14T13:54:17Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/michela_cameletti/psbf2122_rlab_notes/"
-length_weight: "29.1%"
+length_weight: "28.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

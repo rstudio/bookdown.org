@@ -4,7 +4,7 @@ author: "Chris Qi from Data Maniac"
 date: "2018-09-09T01:08:21Z"
 tags: [Package]
 link: "https://bookdown.org/qiyuandong/intro_r/"
-length_weight: "9.5%"
+length_weight: "9.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

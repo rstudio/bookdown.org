@@ -3,7 +3,7 @@ title: "VALUTAZIONE DELLA SUSCETTIBILITA’ DA FRANA NEL BACINO IDROGRAFICO DI T
 author: "Roberta Parlavecchia"
 date: "2022-01-27T10:09:00Z"
 link: "https://bookdown.org/guadalupo_do/tesi/"
-length_weight: "26.8%"
+length_weight: "26.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

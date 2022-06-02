@@ -4,7 +4,7 @@ author: "Brian Fischer"
 date: "2022-03-07T05:57:22Z"
 tags: [Data Science, Course, Guide, R Markdown]
 link: "https://bookdown.org/bfischer_su/data_3320_bookdown/"
-length_weight: "27.8%"
+length_weight: "27.4%"
 repo: "rstudio/data-3320"
 pinned: false
 ---
