@@ -4,7 +4,7 @@ author: "Chester Ismay and Albert Y. Kim STARRING FRANK MCGRADE"
 date: "2017-08-23T02:41:21Z"
 tags: [Textbook, Statistics, Data Science, Course, R Programming]
 link: "https://bookdown.org/fjmcgrade/ismaykim/"
-length_weight: "34.2%"
+length_weight: "33.7%"
 repo: "ismayc/moderndiver-book"
 pinned: false
 ---

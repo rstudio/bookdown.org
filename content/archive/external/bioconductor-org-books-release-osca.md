@@ -3,7 +3,7 @@ title: "Orchestrating Single-Cell Analysis with Bioconductor"
 author: "release"
 date: ""
 link: "https://bioconductor.org/books/release/OSCA/"
-length_weight: "7%"
+length_weight: "6.8%"
 cover: "https://github.com/Bioconductor/BiocStickers/raw/master/Bioconductor/Bioconductor-serial.gif"
 repo: "OSCA-source/OSCA"
 pinned: false

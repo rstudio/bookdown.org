@@ -4,7 +4,7 @@ author: ""
 date: "2020-12-17T04:09:34Z"
 tags: [Package, Network]
 link: "https://bookdown.org/mishekt1/rp-physiology-genetics/"
-length_weight: "11.9%"
+length_weight: "11.7%"
 pinned: false
 ---
 

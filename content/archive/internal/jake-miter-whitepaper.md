@@ -4,7 +4,7 @@ author: "Jake Miter"
 date: "2020-08-06T15:28:42Z"
 tags: [Visualization]
 link: "https://bookdown.org/jake_miter/whitepaper/"
-length_weight: "8.9%"
+length_weight: "8.8%"
 pinned: false
 ---
 

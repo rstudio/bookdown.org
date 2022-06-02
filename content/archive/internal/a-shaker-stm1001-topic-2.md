@@ -4,7 +4,7 @@ author: "Amanda Shaker"
 date: "2022-01-06T03:15:53Z"
 tags: [Statistics]
 link: "https://bookdown.org/a_shaker/STM1001_Topic_2/"
-length_weight: "9%"
+length_weight: "8.8%"
 pinned: false
 ---
 

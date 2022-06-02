@@ -4,7 +4,7 @@ author: "James Craig"
 date: "2020-04-07T18:00:10Z"
 tags: [Tidy, Package]
 link: "https://bookdown.org/jameswbcraig/tidyvpc_bookdown/"
-length_weight: "10.2%"
+length_weight: "10%"
 pinned: false
 ---
 

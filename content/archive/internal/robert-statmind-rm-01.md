@@ -3,7 +3,7 @@ title: "Research Methods"
 author: "Robert Goedegebuure"
 date: "2021-05-04T19:33:59Z"
 link: "https://bookdown.org/robert_statmind/rm_01/"
-length_weight: "7.1%"
+length_weight: "7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

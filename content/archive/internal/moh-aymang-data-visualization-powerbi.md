@@ -4,7 +4,7 @@ author: "Mohamed Kassem"
 date: "2021-04-27T20:48:59Z"
 tags: [Visualization, Course, Education, Github]
 link: "https://bookdown.org/moh_aymang/data_visualization_powerbi/"
-length_weight: "6.9%"
+length_weight: "6.8%"
 repo: "Mkassem16/NycTaxiPBI"
 pinned: false
 ---

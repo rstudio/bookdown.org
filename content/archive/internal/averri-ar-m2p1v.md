@@ -3,7 +3,7 @@ title: "Seismic Hazard Assessment for the Gruyere TSF"
 author: "A. Verri, L. Linzer, J. Mussat, D. Levis and W. Harrison. SRK Consulting"
 date: "2022-05-10T00:46:19Z"
 link: "https://bookdown.org/averri/ar-m2p1v/"
-length_weight: "33.7%"
+length_weight: "33.2%"
 cover: "https://bookdown.org/averri/ar-m2p1v/static/CoverImage.png"
 pinned: false
 ---

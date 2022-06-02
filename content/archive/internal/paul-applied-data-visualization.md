@@ -4,7 +4,7 @@ author: "Paul C. Bauer"
 date: "2022-05-09T08:44:13Z"
 tags: [Visualization]
 link: "https://bookdown.org/paul/applied-data-visualization/"
-length_weight: "29.7%"
+length_weight: "29.2%"
 pinned: false
 ---
 

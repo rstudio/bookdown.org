@@ -3,7 +3,7 @@ title: "重庆市公共卫生医师规范化培训-寄生虫病"
 author: "罗飞"
 date: "2021-12-20T08:33:13Z"
 link: "https://bookdown.org/luofei/Parasitologybook/"
-length_weight: "13.5%"
+length_weight: "13.3%"
 repo: "github.com/luofeicq/Parasitologybook"
 pinned: false
 ---

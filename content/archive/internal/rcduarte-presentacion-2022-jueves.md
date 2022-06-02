@@ -1,10 +1,10 @@
 ---
 title: "Curso R 2022 Jueves"
 author: "Roberto C. Duarte"
-date: "2022-05-20T00:03:45Z"
+date: "2022-05-26T13:19:45Z"
 tags: [Package]
 link: "https://bookdown.org/Rcduarte/presentacion_2022_jueves/"
-length_weight: "19.3%"
+length_weight: "22%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Decision Modeling Lab Manual"
 author: "Alton Russell and lab members"
 date: "2022-04-29T18:02:42Z"
 link: "https://bookdown.org/altonrus/lab_manual/"
-length_weight: "11%"
+length_weight: "10.9%"
 pinned: false
 ---
 

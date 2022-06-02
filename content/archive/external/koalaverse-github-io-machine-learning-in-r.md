@@ -4,7 +4,7 @@ author: "Erin LeDell"
 date: "2018-04-05"
 tags: [Machine Learning, Tutorial]
 link: "https://koalaverse.github.io/machine-learning-in-R/"
-length_weight: "12.6%"
+length_weight: "12.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

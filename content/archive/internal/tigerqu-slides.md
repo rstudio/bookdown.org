@@ -4,7 +4,7 @@ author: "Tiger Qu"
 date: "2022-03-13T06:36:26Z"
 tags: [Course]
 link: "https://bookdown.org/TigerQu/Slides/"
-length_weight: "9%"
+length_weight: "8.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

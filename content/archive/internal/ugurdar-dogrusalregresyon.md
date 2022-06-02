@@ -3,7 +3,7 @@ title: "Doğrusal (Lineer) Regresyon"
 author: "Uğur Dar"
 date: "2020-01-28T14:03:00Z"
 link: "https://bookdown.org/ugurdar/dogrusalregresyon/"
-length_weight: "9.8%"
+length_weight: "9.7%"
 pinned: false
 ---
 

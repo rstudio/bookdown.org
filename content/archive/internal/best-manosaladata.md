@@ -4,7 +4,7 @@ author: "BEST: Behavioral Economics & Data Science Team"
 date: "2020-03-10T13:23:33Z"
 tags: [Data Science]
 link: "https://bookdown.org/BEST/manosaladata/"
-length_weight: "7.5%"
+length_weight: "7.4%"
 repo: "https://github.com/arturochian/manosaladataopenbook"
 pinned: false
 ---

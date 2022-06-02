@@ -3,7 +3,7 @@ title: "Ian and Molly’s Odyssey"
 author: "Ian K Salter"
 date: "2019-01-05T08:39:58Z"
 link: "https://bookdown.org/ianksalter/odyssey/"
-length_weight: "9.4%"
+length_weight: "9.3%"
 repo: "ianksalter/ian-molly-odyssey"
 pinned: false
 ---

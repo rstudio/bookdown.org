@@ -4,7 +4,7 @@ author: "Kevin, Kevin, and Kevin"
 date: "2021-11-04T10:08:40Z"
 tags: [Package, Machine Learning, Models]
 link: "https://bookdown.org/jcog196013/CancerMe/"
-length_weight: "13.5%"
+length_weight: "13.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

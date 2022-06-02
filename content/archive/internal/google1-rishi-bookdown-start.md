@@ -4,7 +4,7 @@ author: "Rishi Goutam"
 date: "2022-04-25T14:42:20Z"
 tags: [Package, Github]
 link: "https://bookdown.org/google1/rishi-bookdown-start/"
-length_weight: "5.3%"
+length_weight: "5.2%"
 cover: "https://goutam.io/memoji.png"
 repo: "rishigoutam/bookdown-start"
 pinned: false

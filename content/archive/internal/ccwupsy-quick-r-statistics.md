@@ -4,7 +4,7 @@ author: "Chia-Ching Wu"
 date: "2022-05-16T03:16:17Z"
 tags: [Statistics]
 link: "https://bookdown.org/ccwupsy/quick-r-statistics/"
-length_weight: "20.8%"
+length_weight: "20.5%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "Linea base indicadores AVGM"
 author: "paolamanzorom"
 date: "2021-11-03T06:21:42Z"
 link: "https://bookdown.org/paolamanzorom/Indicadores_AVGM/"
-length_weight: "5.7%"
+length_weight: "5.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

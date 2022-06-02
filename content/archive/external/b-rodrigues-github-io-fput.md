@@ -4,7 +4,7 @@ author: "Bruno Rodrigues"
 date: "2017-12-28"
 tags: [Functional Programming, Unit Test, R Programming]
 link: "https://b-rodrigues.github.io/fput/"
-length_weight: "14.6%"
+length_weight: "14.4%"
 repo: "b-rodrigues/fput"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Trevor Hefley"
 date: "2020-02-03T21:26:40Z"
 tags: [Ecology]
 link: "https://bookdown.org/hefleyt2/Project_ideas_spring_2020/"
-length_weight: "6.3%"
+length_weight: "6.2%"
 pinned: false
 ---
 

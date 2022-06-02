@@ -4,7 +4,7 @@ author: "Kevin Morales"
 date: "2019-11-15T19:44:51Z"
 tags: [Software Development]
 link: "https://bookdown.org/kevinmorales2114/Accessible-Web-Development/"
-length_weight: "19.9%"
+length_weight: "19.6%"
 repo: "Kevin-Morales/Accessible-Web-Development"
 pinned: false
 ---

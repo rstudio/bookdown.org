@@ -4,7 +4,7 @@ author: "林建甫 Jeff Lin"
 date: "2020-10-29T06:55:50Z"
 tags: [ggplot2, Tidyverse]
 link: "https://bookdown.org/jefflinmd38/r4biost/"
-length_weight: "34.2%"
+length_weight: "33.7%"
 pinned: false
 ---
 

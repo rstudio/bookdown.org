@@ -4,7 +4,7 @@ author: "Brynjólfur gauti Jónsson"
 date: "2020-06-18T17:31:07Z"
 tags: [Package]
 link: "https://bookdown.org/bgautijonsson/ModirOgBarn/"
-length_weight: "12.2%"
+length_weight: "12%"
 pinned: false
 ---
 
