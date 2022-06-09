@@ -4,7 +4,7 @@ author: "Hugo Cornet, Pierre-Emmanuel Diot, Guillaume Le Halper, Djawed Mancer"
 date: "2021-11-28T19:35:19Z"
 tags: [Econometrics, Data Analysis, Models, Machine Learning]
 link: "https://bookdown.org/p_emmanuel_diot/portfolio_churn_customer_value/"
-length_weight: "7%"
+length_weight: "6.9%"
 pinned: false
 ---
 

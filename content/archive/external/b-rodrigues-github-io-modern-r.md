@@ -1,13 +1,13 @@
 ---
 title: "Modern R with the tidyverse"
 author: "Bruno Rodrigues"
-date: "2020-11-10"
-tags: [Tidyverse, Data Science, Machine Learning, Statistics, Models]
+date: "2022-06-06"
+tags: [Tidyverse, Data Science, Machine Learning, Statistics, Models, Package]
 link: "https://b-rodrigues.github.io/modern_R/"
-length_weight: "22.6%"
+length_weight: "22.2%"
 pinned: false
 ---
 
-This book will teach you how to use R to solve your statistical, data science and machine learning problems. Importing data, computing descriptive statistics, running regressions (or more complex machine learning models) and generating reports are some of the topics covered. No previous experience with R is needed. [...] This book is still being written. Chapters 1 to 8 are almost ready, but more content is being added
-(especially to chapter 8). 9 and 10 are empty for now. Some exercises might be at the wrong place
-too and more are coming. You can purchase an ebook version of this book on leanpub. ...
+This book will teach you how to use R to solve your statistical, data science and machine learning problems. Importing data, computing descriptive statistics, running regressions (or more complex machine learning models) and generating reports are some of the topics covered. No previous experience with R is needed. [...] I have been working on this on and off for the past 4 years or so. In 2022, I have updated the
+contents of the book to reflect updates introduced with R 4.1 and in several packages (especially
+those from the {tidyverse}). I have also cut some content that I think is not that ...

@@ -3,7 +3,7 @@ title: "Recitation 3 Note"
 author: "Yiming Gong"
 date: "2021-07-22T02:56:26Z"
 link: "https://bookdown.org/yg484/rec_3_note/"
-length_weight: "6.8%"
+length_weight: "6.7%"
 pinned: false
 ---
 

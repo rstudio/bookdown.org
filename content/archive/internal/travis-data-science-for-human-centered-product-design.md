@@ -4,7 +4,7 @@ author: "Travis Kassab"
 date: "2021-02-15T22:08:07Z"
 tags: [Data Science, Tutorial, Statistics, Machine Learning]
 link: "https://bookdown.org/travis/data_science_for_human_centered_product_design/"
-length_weight: "27%"
+length_weight: "26.8%"
 pinned: false
 ---
 

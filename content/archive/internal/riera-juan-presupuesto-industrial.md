@@ -4,7 +4,7 @@ author: "Juan Riera"
 date: "2021-02-09T18:26:46Z"
 tags: [Package]
 link: "https://bookdown.org/riera_juan/presupuesto-industrial/"
-length_weight: "12.9%"
+length_weight: "12.8%"
 pinned: false
 ---
 

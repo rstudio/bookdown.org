@@ -4,7 +4,7 @@ author: "Gabriel Muñoz"
 date: "2017-02-03T20:29:48Z"
 tags: [Package, Github]
 link: "https://bookdown.org/fgabriel1891/datalunch2feb/"
-length_weight: "7.8%"
+length_weight: "7.7%"
 pinned: false
 ---
 

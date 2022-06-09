@@ -4,7 +4,7 @@ author: "Mau-Ting Lin"
 date: "2018-06-19T01:55:08Z"
 tags: [Macroeconomics, Visualization, Github]
 link: "https://bookdown.org/tpemartin/Macroeconomics_discussion/"
-length_weight: "15.4%"
+length_weight: "15.3%"
 repo: "tpemartin/Macroeconomics"
 pinned: false
 ---

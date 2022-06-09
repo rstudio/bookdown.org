@@ -4,7 +4,7 @@ author: "Shaoshuang Wen, University of South Carolina,"
 date: "2021-03-14T06:55:37Z"
 tags: [Data Science]
 link: "https://bookdown.org/swen/R_for_Data_Science/"
-length_weight: "22%"
+length_weight: "21.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

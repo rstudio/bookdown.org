@@ -1,11 +1,12 @@
 ---
-title: "现代应用统计与 R 语言"
+title: "R 语言学习笔记"
 author: "黄湘云"
-date: "2022-05-29T12:07:38Z"
+date: "2022-06-05T07:58:23Z"
+tags: [笔记]
 link: "https://bookdown.org/xiangyun/masr/"
 length_weight: "100%"
-repo: "XiangyunHuang/masr"
+repo: "XiangyunHuang/notesdown"
 pinned: false
 ---
 
-线性模型理论及其应用，注意模型的适用范围、参数估计方法、模型检验和诊断，理论和应用并重，同时附以真实的案例分析。将线性模型、广义线性模型、广义可加模型、线性混合效应模型、广义线性混合效应模型和广义可加混合效应模型融合到同一框架下。应用层面，要考虑数据集的平衡问题、缺失问题和异常问题。应用场景包括环境污染、流行病学和风险控制等领域。 [...] Book in early development. Planned release in 202X. 可以说，点估计、区间估计、假设检验、统计功效是每一个学数理统计的学生都绕不过去的坎，离开学校从事数据相关的工作，它们仍然是必备的工具。所以，本书会覆盖相关内容，但是和高校的教材最大的区别是更加注重它们之间的区别和联系，毕竟每一个统计概念 ...
+A book created with bookdown. [...] Book in early development. Planned release in 202X. 本书采用 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 许可，请君自重，别没事儿拿去传个什么新浪爱问、百度文库以及 XX 经济论坛，项目中代码使用 MIT 协议 开源 书籍在 R version 4.2.0 (2022-04-22) 下编译，Pandoc 版本 2.16.2，最新一次编译发生在 2022-06-05 ...

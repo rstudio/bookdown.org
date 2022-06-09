@@ -4,7 +4,7 @@ author: "Department of Mathematics"
 date: "2022-04-06T17:52:53Z"
 tags: [Statistics, Course, Visualization]
 link: "https://bookdown.org/siju_swamy/Stat_Lab/"
-length_weight: "5%"
+length_weight: "4.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "A Vulnerability Prediction Analysis"
 author: "Luis Guerra, Elmer Oliveros, Roger Chauca"
 date: "2022-05-30T02:45:40Z"
 link: "https://bookdown.org/lsebastianguerra/FirstBookDownProject/"
-length_weight: "11.2%"
+length_weight: "11.1%"
 pinned: false
 ---
 

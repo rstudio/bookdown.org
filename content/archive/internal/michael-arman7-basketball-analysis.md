@@ -4,7 +4,7 @@ author: "Michael Armanious"
 date: "2019-09-13T04:24:38Z"
 tags: [Sports, Statistics, Predictive Model]
 link: "https://bookdown.org/michael_arman7/Basketball-Analysis/"
-length_weight: "20.8%"
+length_weight: "20.6%"
 pinned: false
 ---
 

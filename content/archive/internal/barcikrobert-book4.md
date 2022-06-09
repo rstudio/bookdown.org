@@ -4,7 +4,7 @@ author: "Robert Barcik"
 date: "2020-03-27T09:43:45Z"
 tags: [Data Science, Market]
 link: "https://bookdown.org/barcikrobert/_book4/"
-length_weight: "27.4%"
+length_weight: "27.2%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Michael C. Wimberly"
 date: "2022-02-24T21:56:33Z"
 tags: [Spatial Data, Course]
 link: "https://bookdown.org/mcwimberly/gdswr-book/"
-length_weight: "32.1%"
+length_weight: "31.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

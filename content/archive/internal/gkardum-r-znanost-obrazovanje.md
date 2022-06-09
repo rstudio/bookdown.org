@@ -1,10 +1,9 @@
 ---
-title: "R markdown"
-author: "Goran Kardum, Krešimir Ivanda, Ivan Buljan"
-date: "2021-11-26T20:11:15Z"
-tags: [R Markdown]
+title: "R - u znanosti i obrazovanju"
+author: "Goran Kardum"
+date: "2022-06-04T09:40:29Z"
 link: "https://bookdown.org/gkardum/r_znanost_obrazovanje/"
-length_weight: "6.7%"
+length_weight: "24%"
 repo: "gkardum/r-u-znanosti"
 pinned: false
 ---

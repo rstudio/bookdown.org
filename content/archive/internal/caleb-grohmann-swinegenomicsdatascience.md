@@ -4,7 +4,7 @@ author: "Caleb J. Grohmann"
 date: "2021-02-20T02:12:48Z"
 tags: [Data Science]
 link: "https://bookdown.org/caleb_grohmann/SwineGenomicsDataScience/"
-length_weight: "22.6%"
+length_weight: "22.4%"
 repo: "cjgwx7/phd-bookdown"
 pinned: false
 ---

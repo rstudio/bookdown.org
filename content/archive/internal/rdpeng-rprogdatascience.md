@@ -4,7 +4,7 @@ author: "Roger D. Peng"
 date: "2022-05-31T13:29:10Z"
 tags: [R Programming, Data Science]
 link: "https://bookdown.org/rdpeng/rprogdatascience/"
-length_weight: "31.3%"
+length_weight: "31%"
 cover: "https://bookdown.org/rdpeng/rprogdatascience/cover_sm.png"
 repo: "rdpeng/rprogdatascience"
 pinned: true

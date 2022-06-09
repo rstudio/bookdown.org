@@ -4,7 +4,7 @@ author: "Qiushi Yan"
 date: "2019-11-21T13:46:16Z"
 tags: [Data Science, Data Analysis]
 link: "https://bookdown.org/Maxine/data-science-readings/"
-length_weight: "9.7%"
+length_weight: "9.6%"
 repo: "enixam/data-science-readings"
 pinned: false
 ---

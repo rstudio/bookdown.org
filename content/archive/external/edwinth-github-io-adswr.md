@@ -4,7 +4,7 @@ author: "Edwin Thoen"
 date: ""
 tags: [Data Science, Statistics, Machine Learning]
 link: "https://edwinth.github.io/ADSwR/"
-length_weight: "11.1%"
+length_weight: "11%"
 pinned: false
 ---
 

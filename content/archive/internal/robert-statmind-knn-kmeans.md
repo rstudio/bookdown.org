@@ -4,7 +4,7 @@ author: "Robert Goedegebuure"
 date: "2021-04-28T16:54:36Z"
 tags: [Market, Package]
 link: "https://bookdown.org/robert_statmind/knn_kmeans/"
-length_weight: "17%"
+length_weight: "16.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Введение в dplyr 1.0.0"
 author: "Алексей Селезнёв"
 date: "2022-03-30T17:15:51Z"
 link: "https://bookdown.org/selesnow/intro_to_dplyr_1/"
-length_weight: "10.7%"
+length_weight: "10.6%"
 cover: "https://bookdown.org/selesnow/intro_to_dplyr_1/img/cover.png"
 repo: "selesnow/dplyr_1_0_0_course"
 pinned: false

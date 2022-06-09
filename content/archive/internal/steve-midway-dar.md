@@ -4,7 +4,7 @@ author: "Steve Midway"
 date: "2022-04-24T13:34:11Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/steve_midway/DAR/"
-length_weight: "30.4%"
+length_weight: "30.1%"
 pinned: false
 ---
 

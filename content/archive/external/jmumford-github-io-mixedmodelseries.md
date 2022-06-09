@@ -4,7 +4,7 @@ author: "Jeanette Mumford"
 date: "2020-01-31"
 tags: [Mixed Models]
 link: "https://jmumford.github.io/MixedModelSeries/"
-length_weight: "8.6%"
+length_weight: "8.5%"
 cover: "https://jmumford.github.io/MixedModelSeries/./images/mixed_model_book_cover.png"
 pinned: false
 ---

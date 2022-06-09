@@ -4,7 +4,7 @@ author: "Andrea Bellavia"
 date: "2021-12-07T15:20:58Z"
 tags: [Statistical Methods, Course, Models]
 link: "https://bookdown.org/andreabellavia/mixtures/"
-length_weight: "23.1%"
+length_weight: "22.9%"
 cover: "https://bookdown.org/andreabellavia/mixtures/images/cover2.jpg"
 repo: "andreabellavia/mixtures"
 pinned: false

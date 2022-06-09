@@ -4,7 +4,7 @@ author: "Dena J. Clink, Isabel A. Comella & Maryam Zafar"
 date: "2022-05-25T20:50:02Z"
 tags: [R Programming]
 link: "https://bookdown.org/denajane13/FundamentalsBioacousticsR/"
-length_weight: "10.9%"
+length_weight: "10.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

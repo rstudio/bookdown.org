@@ -4,7 +4,7 @@ author: "Igor Procópio"
 date: "2022-05-26T04:50:33Z"
 tags: [Package]
 link: "https://bookdown.org/igorvprocopio/Econometria/"
-length_weight: "15.3%"
+length_weight: "15.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
