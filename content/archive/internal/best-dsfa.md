@@ -4,7 +4,7 @@ author: "BEST: Behavioral Economics & Data Science Team"
 date: "2019-02-04T13:12:06Z"
 tags: [Data Science]
 link: "https://bookdown.org/BEST/DSFA/"
-length_weight: "8.5%"
+length_weight: "8.4%"
 repo: "BESTDATASCIENCE/DATA-SCIENCE-CON-R-FUNDAMENTOS-Y-APLICACIONES"
 pinned: false
 ---

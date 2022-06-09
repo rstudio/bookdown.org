@@ -4,7 +4,7 @@ author: "Deanna Li"
 date: "2020-10-23T19:29:54Z"
 tags: [Guide, Statistics, Course, Package, ggplot2, Tutorial]
 link: "https://bookdown.org/dli/rguide/"
-length_weight: "24.9%"
+length_weight: "24.7%"
 pinned: false
 ---
 

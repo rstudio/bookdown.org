@@ -3,7 +3,7 @@ title: "Underlagsrapport för En ännu bättre strålbehandling avseende inciden
 author: "Erik Bülow"
 date: "2017-06-16T09:05:41Z"
 link: "https://bookdown.org/eriklgb/incidensprediktion/"
-length_weight: "19.7%"
+length_weight: "19.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

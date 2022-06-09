@@ -4,7 +4,7 @@ author: "Dr. Lauren Cappiello"
 date: "2021-11-03T22:57:31Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/lgpcappiello/IntroStats/"
-length_weight: "21.3%"
+length_weight: "21.1%"
 pinned: false
 ---
 

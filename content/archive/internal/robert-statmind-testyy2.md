@@ -4,7 +4,7 @@ author: "Robert Goedegebuure"
 date: "2021-09-02T15:51:18Z"
 tags: [Package]
 link: "https://bookdown.org/robert_statmind/testyy2/"
-length_weight: "8%"
+length_weight: "7.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

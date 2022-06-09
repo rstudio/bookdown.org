@@ -3,7 +3,7 @@ title: "What does the plant do?"
 author: "Otho Mantegazza"
 date: "2019-02-05T13:52:05Z"
 link: "https://bookdown.org/otho/ps_booklet/"
-length_weight: "9.2%"
+length_weight: "9.1%"
 repo: "othomantegazza/ps_booklet"
 pinned: false
 ---

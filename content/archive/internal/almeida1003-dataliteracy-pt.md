@@ -3,7 +3,7 @@ title: "Alfabetização em Dados para Inovação"
 author: "Rodrigo Almeida dos Santos - rodrigo.almeida @ gmail.com"
 date: "2020-01-19T18:40:51Z"
 link: "https://bookdown.org/almeida1003/dataliteracy_pt/"
-length_weight: "15.1%"
+length_weight: "14.9%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "Como Começar na Calistenia - Guia Prático"
 author: "Pinho Júnior"
 date: "2020-08-12T13:57:05Z"
 link: "https://bookdown.org/kaiquegalois/guia_pratico/"
-length_weight: "15%"
+length_weight: "14.8%"
 pinned: false
 ---
 

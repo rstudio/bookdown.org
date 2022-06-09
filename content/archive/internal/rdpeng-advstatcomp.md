@@ -4,7 +4,7 @@ author: "Roger D. Peng"
 date: "2022-05-27T19:26:06Z"
 tags: [Statistical Computing, Statistics, Course]
 link: "https://bookdown.org/rdpeng/advstatcomp/"
-length_weight: "13.4%"
+length_weight: "13.2%"
 repo: "rdpeng/advstatcomp"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "KP"
 date: "2021-04-05T20:37:01Z"
 tags: [Data Science, Econometrics, Sports]
 link: "https://bookdown.org/NBADSTutorials/nbads/"
-length_weight: "15.1%"
+length_weight: "15%"
 pinned: false
 ---
 

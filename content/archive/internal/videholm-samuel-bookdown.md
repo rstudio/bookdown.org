@@ -4,7 +4,7 @@ author: "Editor: Samuel Videholm"
 date: "2022-06-01T16:14:34Z"
 tags: [Guide]
 link: "https://bookdown.org/videholm_samuel/bookdown/"
-length_weight: "24.8%"
+length_weight: "24.6%"
 pinned: false
 ---
 

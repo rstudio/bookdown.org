@@ -3,7 +3,7 @@ title: "Introducción a la Automatización Industrial"
 author: "Alberto Brunete, Pablo San Segundo y Rebeca Herrero"
 date: "2020-07-28T12:16:27Z"
 link: "https://bookdown.org/alberto_brunete/intro_automatica/"
-length_weight: "27.5%"
+length_weight: "27.2%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Michela Cameletti"
 date: "2022-05-14T10:26:26Z"
 tags: [Machine Learning, Course, R Programming, Data Science, Visualization]
 link: "https://bookdown.org/michela_cameletti/aimlff2122_rnotes5/"
-length_weight: "24.1%"
+length_weight: "23.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

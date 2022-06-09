@@ -4,7 +4,7 @@ author: "Equipo Investigación"
 date: "2022-03-11T21:36:22Z"
 tags: [Package]
 link: "https://bookdown.org/marcoyel21/migration_data/"
-length_weight: "6.2%"
+length_weight: "6.1%"
 pinned: false
 ---
 

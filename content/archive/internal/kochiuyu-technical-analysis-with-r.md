@@ -4,7 +4,7 @@ author: "Ko Chiu Yu"
 date: "2019-04-16T13:43:55Z"
 tags: [Textbook, Data Analysis]
 link: "https://bookdown.org/kochiuyu/Technical-Analysis-with-R/"
-length_weight: "23.8%"
+length_weight: "23.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

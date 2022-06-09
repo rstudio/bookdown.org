@@ -1,20 +1,18 @@
 ---
 title: "Targeted Learning in R"
 author: "Mark van der Laan, Jeremy Coyle, Nima Hejazi, Ivana Malenica, Rachael Phillips, Alan Hubbard"
-date: "2022-05-03"
-tags: [Data Science, Github, Guide, Course]
+date: "2022-06-08"
+tags: [Machine Learning, Data Science, Github]
 link: "https://tlverse.org/tlverse-handbook/"
-length_weight: "18.5%"
+length_weight: "19.3%"
 repo: "tlverse/tlverse-handbook"
 pinned: false
 ---
 
-Targeted Learning in R: Causal Data Science with the tlverse Software
+An open source handbook for causal machine learning and data science with the Targeted Learning framework using the tlverse software ecosystem. [...] Targeted Learning in R: Causal Data Science with the tlverse Software
 Ecosystem is an open source, reproducible electronic handbook for applying the
 Targeted Learning methodology in practice using the tlverse software
 ecosystem. This work is currently in an early draft
 phase and is available to facilitate input from the community. To view or
 contribute to the available content, consider visiting the GitHub
-repository. The contents of this handbook are meant to serve as a reference guide for
-applied research as well as materials that can be taught in a series of short
-courses focused on the ...
+repository. The contents of this handbook are ...

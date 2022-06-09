@@ -4,7 +4,7 @@ author: "Bingwei Liu"
 date: "2019-08-09T20:07:14Z"
 tags: [Tutorial, Package]
 link: "https://bookdown.org/bingweiliu11/aws-tutorial-book/"
-length_weight: "4.4%"
+length_weight: "4.3%"
 pinned: false
 ---
 

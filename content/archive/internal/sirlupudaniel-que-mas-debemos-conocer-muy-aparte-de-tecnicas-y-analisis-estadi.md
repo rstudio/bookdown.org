@@ -4,7 +4,7 @@ author: "Daniel Sirlupu"
 date: "2020-09-30T03:43:46Z"
 tags: [R Markdown]
 link: "https://bookdown.org/sirlupudaniel/que_mas_debemos_conocer_muy_aparte_de_tecnicas_y_analisis_estadi/"
-length_weight: "5.5%"
+length_weight: "5.4%"
 pinned: false
 ---
 

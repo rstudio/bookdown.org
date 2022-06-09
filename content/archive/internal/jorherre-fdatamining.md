@@ -4,7 +4,7 @@ author: "Jorge Herrera de la Cruz"
 date: "2022-05-28T19:36:49Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/FDATAMINING/"
-length_weight: "33.1%"
+length_weight: "32.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

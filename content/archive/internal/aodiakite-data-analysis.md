@@ -1,10 +1,10 @@
 ---
 title: "Annalyse de données"
 author: "Abdoul Oudouss Diakite, Othmane ETTADLAOUI"
-date: "2022-06-01T14:56:29Z"
+date: "2022-06-05T12:16:23Z"
 tags: [Github]
 link: "https://bookdown.org/AODiakite/data-analysis/"
-length_weight: "9.5%"
+length_weight: "9.4%"
 repo: "AODiakite/Data-Analysis"
 pinned: false
 ---

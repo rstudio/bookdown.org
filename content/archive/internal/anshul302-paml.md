@@ -4,7 +4,7 @@ author: "Anshul Kumar"
 date: "2022-05-30T16:26:40Z"
 tags: [Machine Learning, Education, Textbook, Course, Statistics]
 link: "https://bookdown.org/anshul302/paml/"
-length_weight: "26.1%"
+length_weight: "25.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
