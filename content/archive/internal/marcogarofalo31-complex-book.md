@@ -1,10 +1,10 @@
 ---
 title: "A Minimal Book Example"
 author: "Marco Garofalo"
-date: "2022-06-03T13:30:40Z"
+date: "2022-06-14T07:57:12Z"
 tags: [Package]
 link: "https://bookdown.org/marcogarofalo31/complex_book/"
-length_weight: "3.7%"
+length_weight: "21.5%"
 pinned: false
 ---
 
