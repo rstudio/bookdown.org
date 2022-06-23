@@ -3,7 +3,7 @@ title: "Skript zur Vorlesung Staatsrecht II – Grundrechte"
 author: "Florian Meinel florian.meinel@jura.uni-goettingen.de"
 date: "2021-05-10T20:44:19Z"
 link: "https://bookdown.org/florian_meinel/staatsrecht2-skript/"
-length_weight: "23.6%"
+length_weight: "23.8%"
 pinned: false
 ---
 

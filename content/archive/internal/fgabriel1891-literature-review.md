@@ -4,7 +4,7 @@ author: "Gabriel Muñoz"
 date: "2017-04-28T12:16:08Z"
 tags: [Ecology, Geographic]
 link: "https://bookdown.org/fgabriel1891/literature_review/"
-length_weight: "18.3%"
+length_weight: "18.5%"
 pinned: false
 ---
 

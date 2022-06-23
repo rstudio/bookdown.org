@@ -3,7 +3,7 @@ title: "R 學習筆記"
 author: "Ting-Chih Hung"
 date: "2021-09-01T19:47:13Z"
 link: "https://bookdown.org/b08302310/R_learning_notes/"
-length_weight: "25.3%"
+length_weight: "25.5%"
 pinned: false
 ---
 

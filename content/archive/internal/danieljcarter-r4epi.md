@@ -4,7 +4,7 @@ author: "Daniel J Carter"
 date: "2019-09-24T21:44:30Z"
 tags: [Course]
 link: "https://bookdown.org/danieljcarter/r4epi/"
-length_weight: "12.9%"
+length_weight: "13%"
 pinned: false
 ---
 

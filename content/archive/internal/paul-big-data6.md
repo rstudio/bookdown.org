@@ -4,7 +4,7 @@ author: "Paul C. Bauer"
 date: "2018-12-07T00:09:22Z"
 tags: [Social Science, Seminar, Course, Data Analysis]
 link: "https://bookdown.org/paul/big-data6/"
-length_weight: "28.8%"
+length_weight: "29%"
 pinned: false
 ---
 

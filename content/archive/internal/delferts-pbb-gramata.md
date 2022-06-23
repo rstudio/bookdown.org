@@ -3,7 +3,7 @@ title: "Praktiskā biometrija"
 author: "Didzis Elferts"
 date: "2016-04-19T05:46:04Z"
 link: "https://bookdown.org/delferts/PBB_gramata/"
-length_weight: "24.8%"
+length_weight: "25%"
 pinned: false
 ---
 

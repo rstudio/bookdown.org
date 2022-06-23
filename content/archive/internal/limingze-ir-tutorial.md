@@ -4,7 +4,7 @@ author: "LiMingze"
 date: "2021-09-16T08:12:45Z"
 tags: [Social Science]
 link: "https://bookdown.org/LiMingze/ir_tutorial/"
-length_weight: "8.6%"
+length_weight: "8.7%"
 pinned: false
 ---
 

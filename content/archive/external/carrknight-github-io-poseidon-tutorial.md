@@ -4,7 +4,7 @@ author: "Ernesto Carrella"
 date: "2018-11-19"
 tags: [Tutorial, Guide]
 link: "https://carrknight.github.io/poseidon/tutorial/"
-length_weight: "8.4%"
+length_weight: "8.5%"
 pinned: false
 ---
 

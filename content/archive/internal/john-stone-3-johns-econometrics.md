@@ -4,7 +4,7 @@ author: "John Stone"
 date: "2022-02-11T21:53:14Z"
 tags: [Econometrics, Package]
 link: "https://bookdown.org/john_stone_3/Johns-Econometrics/"
-length_weight: "16.2%"
+length_weight: "16.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

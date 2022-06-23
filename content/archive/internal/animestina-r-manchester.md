@@ -4,7 +4,7 @@ author: "Anastasia Ushakova and Milan Valasek"
 date: "2019-03-12T10:08:13Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/animestina/R_Manchester/"
-length_weight: "28.9%"
+length_weight: "29.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

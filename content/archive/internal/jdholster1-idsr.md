@@ -4,7 +4,7 @@ author: "Jacob D. Holster"
 date: "2022-06-10T15:42:50Z"
 tags: [Data Science, Social Science, R Programming, Python]
 link: "https://bookdown.org/jdholster1/idsr/"
-length_weight: "32.5%"
+length_weight: "32.7%"
 pinned: false
 ---
 

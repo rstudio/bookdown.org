@@ -3,7 +3,7 @@ title: "CookDown"
 author: "Ellis Valentiner"
 date: ""
 link: "https://cookdown.ellisvalentiner.com/"
-length_weight: "4.8%"
+length_weight: "4.9%"
 repo: "ellisvalentiner/cookdown"
 pinned: false
 ---

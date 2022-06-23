@@ -4,7 +4,7 @@ author: "Vinayak Anand-Kumar"
 date: "2019-09-11T19:03:45Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/v_anandkumar88/docs2/"
-length_weight: "15.6%"
+length_weight: "15.7%"
 repo: "Vinayak-NZ/ML-Imputation"
 pinned: false
 ---

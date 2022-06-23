@@ -4,7 +4,7 @@ author: "Brian Machut, Nathan Cornwell"
 date: "2022-04-17T12:54:03Z"
 tags: [Course, Predictive Model]
 link: "https://bookdown.org/brianmachut/uofm_analytics_r_hw_sol_2/"
-length_weight: "25.9%"
+length_weight: "26.1%"
 cover: "https://bookdown.org/brianmachut/uofm_analytics_r_hw_sol_2/cover.png"
 pinned: false
 ---

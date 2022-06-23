@@ -3,7 +3,7 @@ title: "请 Inventor 用 FreeCAD"
 author: "Brad Collette 著，曲政 译"
 date: "2020-04-30T22:55:33Z"
 link: "https://bookdown.org/johnqu1982/FFI/"
-length_weight: "21.9%"
+length_weight: "22.1%"
 cover: "https://bookdown.org/johnqu1982/FFI/assets/images/cover.jpg"
 repo: "sliptonic/ffi"
 pinned: false

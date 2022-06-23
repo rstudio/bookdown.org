@@ -3,7 +3,7 @@ title: "544 Notes"
 author: "JHao Sun"
 date: "2022-06-13T00:19:03Z"
 link: "https://bookdown.org/eugenesun95/544Notes/"
-length_weight: "10.6%"
+length_weight: "10.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

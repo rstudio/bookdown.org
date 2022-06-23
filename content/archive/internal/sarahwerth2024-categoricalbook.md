@@ -4,7 +4,7 @@ author: "Rose Werth"
 date: "2022-05-19T15:09:48Z"
 tags: [Models, Course]
 link: "https://bookdown.org/sarahwerth2024/CategoricalBook/"
-length_weight: "33.5%"
+length_weight: "33.8%"
 cover: "https://bookdown.org/sarahwerth2024/RegressionLabsBook/images/rw.png"
 pinned: false
 ---

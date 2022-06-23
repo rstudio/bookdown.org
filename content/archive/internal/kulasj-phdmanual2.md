@@ -4,7 +4,7 @@ author: "Industrial and Organizational Program Faculty"
 date: "2020-08-07T19:23:06Z"
 tags: [Psychology]
 link: "https://bookdown.org/kulasj/phdmanual2/"
-length_weight: "8.8%"
+length_weight: "8.9%"
 cover: "https://bookdown.org/kulasj/phdmanual2/manual.png"
 pinned: false
 ---

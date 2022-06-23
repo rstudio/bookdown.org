@@ -4,7 +4,7 @@ author: "Shaoshuang Wen, University of South Carolina,"
 date: "2021-05-25T14:08:07Z"
 tags: [Package, Course]
 link: "https://bookdown.org/swen/poli330/"
-length_weight: "18.2%"
+length_weight: "18.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

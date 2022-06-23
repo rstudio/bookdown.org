@@ -4,7 +4,7 @@ author: "R Contribution Working Group"
 date: "2022-06-09"
 tags: [Guide]
 link: "https://contributor.r-project.org/rdevguide/"
-length_weight: "8%"
+length_weight: "8.1%"
 repo: "forwards/rdevguide"
 pinned: false
 ---

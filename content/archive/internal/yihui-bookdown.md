@@ -4,7 +4,7 @@ author: "Yihui Xie"
 date: "2022-06-14T14:59:04Z"
 tags: [R Markdown, Guide, Shiny]
 link: "https://bookdown.org/yihui/bookdown/"
-length_weight: "26.1%"
+length_weight: "26.3%"
 cover: "https://bookdown.org/yihui/bookdown/images/cover.jpg"
 repo: "rstudio/bookdown"
 pinned: true

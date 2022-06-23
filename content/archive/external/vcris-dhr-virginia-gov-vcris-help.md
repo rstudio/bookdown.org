@@ -4,7 +4,7 @@ author: "VCRIS logo Virginia Department of Historic Resources"
 date: ""
 tags: [Guide]
 link: "https://vcris.dhr.virginia.gov/vcris/help/"
-length_weight: "19.5%"
+length_weight: "19.7%"
 pinned: false
 ---
 

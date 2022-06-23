@@ -4,7 +4,7 @@ author: "Abdoul Oudouss Diakite, Othmane ETTADLAOUI"
 date: "2022-06-09T14:47:46Z"
 tags: [Github]
 link: "https://bookdown.org/AODiakite/data-analysis/"
-length_weight: "9.4%"
+length_weight: "9.5%"
 cover: "https://bookdown.org/AODiakite/data-analysis/Data.png"
 repo: "AODiakite/Data-Analysis"
 pinned: false
