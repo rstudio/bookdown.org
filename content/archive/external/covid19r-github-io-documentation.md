@@ -4,7 +4,7 @@ author: "Rami Krispin, Amanda Dobbyn, Jarrett Byrnes"
 date: "2020-06-20"
 tags: [Tidy, Package]
 link: "https://covid19r.github.io/documentation/"
-length_weight: "8.1%"
+length_weight: "8.2%"
 repo: "covid19R/documentation"
 pinned: false
 ---

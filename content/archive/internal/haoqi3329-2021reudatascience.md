@@ -4,7 +4,7 @@ author: "Haoqi Wang"
 date: "2021-07-01T21:02:13Z"
 tags: [Data Science, Visualization, Tutorial]
 link: "https://bookdown.org/haoqi3329/2021REUDataScience/"
-length_weight: "11.2%"
+length_weight: "11.3%"
 pinned: false
 ---
 

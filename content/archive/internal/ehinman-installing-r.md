@@ -4,7 +4,7 @@ author: "Integrated Report Team"
 date: "2019-08-05T18:53:10Z"
 tags: [Guide, Package]
 link: "https://bookdown.org/ehinman/Installing_R/"
-length_weight: "8.4%"
+length_weight: "8.5%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "中文书籍的 bookdown 模版"
 author: "黄湘云"
 date: "2022-01-08T07:51:02Z"
 link: "https://bookdown.org/xiangyun/bookdown-template/"
-length_weight: "3.8%"
+length_weight: "3.9%"
 repo: "XiangyunHuang/bookdown-template"
 pinned: false
 ---

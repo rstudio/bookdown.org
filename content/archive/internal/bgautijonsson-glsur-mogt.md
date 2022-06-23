@@ -3,7 +3,7 @@ title: "Mál- og tegurfræði"
 author: "Brynjólfur Gauti Jónsson"
 date: "2019-09-26T15:29:20Z"
 link: "https://bookdown.org/bgautijonsson/glsur_mogt/"
-length_weight: "18.7%"
+length_weight: "18.8%"
 pinned: false
 ---
 

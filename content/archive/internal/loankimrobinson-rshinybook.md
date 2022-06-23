@@ -4,7 +4,7 @@ author: "loankimrobinson"
 date: "2022-06-02T22:12:23Z"
 tags: [Shiny, Medicine, Education, Advanced R, Visualization, Web Applications]
 link: "https://bookdown.org/loankimrobinson/rshinybook/"
-length_weight: "16.4%"
+length_weight: "16.6%"
 pinned: false
 ---
 

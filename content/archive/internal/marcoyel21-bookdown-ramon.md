@@ -4,7 +4,7 @@ author: "Marco Ramos"
 date: "2021-09-18T17:32:50Z"
 tags: [Guide]
 link: "https://bookdown.org/marcoyel21/bookdown_ramon/"
-length_weight: "13.6%"
+length_weight: "13.7%"
 pinned: false
 ---
 

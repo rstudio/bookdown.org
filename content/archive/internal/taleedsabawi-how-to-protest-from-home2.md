@@ -4,7 +4,7 @@ author: "taleedsabawi"
 date: "2020-06-05T00:11:06Z"
 tags: [Guide]
 link: "https://bookdown.org/taleedsabawi/how_to_protest_from_home2/"
-length_weight: "5.8%"
+length_weight: "5.9%"
 pinned: false
 ---
 

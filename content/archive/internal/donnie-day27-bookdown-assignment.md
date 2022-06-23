@@ -4,7 +4,7 @@ author: "Donnie Day"
 date: "2020-12-02T22:09:21Z"
 tags: [Github]
 link: "https://bookdown.org/donnie_day27/bookdown_assignment/"
-length_weight: "19.4%"
+length_weight: "19.5%"
 pinned: false
 ---
 

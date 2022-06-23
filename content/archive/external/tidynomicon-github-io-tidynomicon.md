@@ -4,7 +4,7 @@ author: "Greg Wilson"
 date: "2021-01-11"
 tags: [Guide, Python, R Programming]
 link: "https://tidynomicon.github.io/tidynomicon/"
-length_weight: "18.5%"
+length_weight: "18.7%"
 repo: "gvwilson/tidynomicon"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Miles Moran"
 date: "2022-04-10T23:07:38Z"
 tags: [Textbook]
 link: "https://bookdown.org/moramile/Classical-Inference/"
-length_weight: "15.2%"
+length_weight: "15.3%"
 pinned: false
 ---
 

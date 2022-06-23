@@ -4,7 +4,7 @@ author: "Brian Wood"
 date: "2021-11-18T01:14:58Z"
 tags: [Social Science, Data Science]
 link: "https://bookdown.org/brianwood1/QDASS/"
-length_weight: "6.7%"
+length_weight: "6.8%"
 pinned: false
 ---
 

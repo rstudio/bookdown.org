@@ -3,7 +3,7 @@ title: "SHUD水文模型"
 author: "Lele Shu (shulele@lzb.ac.cn)"
 date: "2020-11-08T13:20:23Z"
 link: "https://bookdown.org/lele_shu/SHUD_Book/"
-length_weight: "13.9%"
+length_weight: "14%"
 pinned: false
 ---
 

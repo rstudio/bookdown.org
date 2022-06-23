@@ -4,7 +4,7 @@ author: "Nathan Taback"
 date: "2022-05-02"
 tags: [Course, Statistics]
 link: "https://designexptr.org/"
-length_weight: "19.4%"
+length_weight: "19.6%"
 cover: "https://designexptr.org/crccover.jpg"
 pinned: false
 ---

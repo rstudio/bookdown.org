@@ -4,7 +4,7 @@ author: "Andrew Tamalunas"
 date: "2021-01-09T22:21:59Z"
 tags: [Visualization, Tutorial, Package]
 link: "https://bookdown.org/anta8363/fluoR_bookdown/"
-length_weight: "10.7%"
+length_weight: "10.8%"
 repo: "atamalu/fluoR_book_fiber_photometry_analysis"
 pinned: false
 ---

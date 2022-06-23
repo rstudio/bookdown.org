@@ -4,7 +4,7 @@ author: "Hochia"
 date: "2020-05-05T14:35:28Z"
 tags: [Package]
 link: "https://bookdown.org/Hochia/orientchessr/"
-length_weight: "4.1%"
+length_weight: "4.2%"
 repo: "Hochia/oc-bkd"
 pinned: false
 ---

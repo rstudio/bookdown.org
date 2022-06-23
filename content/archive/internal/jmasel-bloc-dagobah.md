@@ -3,7 +3,7 @@ title: "Planeta Dagobah"
 author: "Jordi Mas Elias"
 date: "2020-04-21T10:40:49Z"
 link: "https://bookdown.org/jmasel/bloc_dagobah/"
-length_weight: "4.9%"
+length_weight: "5%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Roger D. Peng and Elizabeth Matsui"
 date: "2017-04-26T14:14:09Z"
 tags: [Data Science, Software Development, Package, Visualization]
 link: "https://bookdown.org/rdpeng/artofdatascience/"
-length_weight: "28%"
+length_weight: "28.3%"
 repo: "rdpeng/artofdatascience"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Los shocks observados en el PIB de México respecto a la tasa de interé
 author: "Hernández Castelán Jorge Valente y Garcia Lozada Hector Andrés"
 date: "2021-02-12T06:20:52Z"
 link: "https://bookdown.org/eljorgehdz/trabajo_final_series_de_tiempo/"
-length_weight: "19.4%"
+length_weight: "19.6%"
 pinned: false
 ---
 

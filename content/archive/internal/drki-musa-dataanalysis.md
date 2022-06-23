@@ -4,7 +4,7 @@ author: "Kamarul Imran, Wan Nor Arifin, Tengku Muhammad Hanis Tengku Mukhtar"
 date: "2022-02-22T03:50:22Z"
 tags: [Data Analysis, Medicine, Epidemiology, R Programming, Package]
 link: "https://bookdown.org/drki_musa/dataanalysis/"
-length_weight: "33.5%"
+length_weight: "33.8%"
 repo: "drkamarul/multivar_data_analysis"
 pinned: false
 ---

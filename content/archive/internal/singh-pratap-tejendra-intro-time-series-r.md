@@ -4,7 +4,7 @@ author: "Tejendra Pratap Singh"
 date: "2019-08-19T18:09:00Z"
 tags: [Forecasting, Course, Models, Mixed Models]
 link: "https://bookdown.org/singh_pratap_tejendra/intro_time_series_r/"
-length_weight: "23.2%"
+length_weight: "23.4%"
 pinned: false
 ---
 

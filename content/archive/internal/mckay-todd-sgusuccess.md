@@ -3,7 +3,7 @@ title: "SGU Communications Success"
 author: "CAHP Team"
 date: "2021-10-05T19:37:34Z"
 link: "https://bookdown.org/mckay_todd/sgusuccess/"
-length_weight: "6.6%"
+length_weight: "6.7%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Michael Clark m-clark.github.io"
 date: ""
 tags: [Mixed Models, Package, Bayesian, Github]
 link: "https://m-clark.github.io/mixed-models-with-R/"
-length_weight: "14.8%"
+length_weight: "14.9%"
 cover: "https://m-clark.github.io/mixed-models-with-R/img/nineteeneightyR.png"
 repo: "m-clark/mixed-models-with-R"
 pinned: false

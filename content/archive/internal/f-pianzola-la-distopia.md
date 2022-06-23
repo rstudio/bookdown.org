@@ -3,7 +3,7 @@ title: "La distopia. Modelli e momenti di una tradizione moderna"
 author: "Mario Barenghi e Federico Pianzola"
 date: "2021-10-13T09:11:33Z"
 link: "https://bookdown.org/f_pianzola/La_distopia/"
-length_weight: "21.8%"
+length_weight: "22%"
 pinned: false
 ---
 

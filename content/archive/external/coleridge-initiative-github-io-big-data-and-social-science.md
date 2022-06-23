@@ -4,7 +4,7 @@ author: "Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter and Julia Lane"
 date: ""
 tags: [Social Science, Statistics]
 link: "https://coleridge-initiative.github.io/big-data-and-social-science/"
-length_weight: "29.1%"
+length_weight: "29.3%"
 repo: "Coleridge-Initiative/big-data-and-social-science"
 pinned: false
 ---

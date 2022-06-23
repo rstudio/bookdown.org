@@ -4,7 +4,7 @@ author: "UDWQ Integrated report team"
 date: "2021-06-14T15:38:17Z"
 tags: [Guide, Package]
 link: "https://bookdown.org/jakevl/IR-R-tools-guide/"
-length_weight: "10.8%"
+length_weight: "10.9%"
 pinned: false
 ---
 

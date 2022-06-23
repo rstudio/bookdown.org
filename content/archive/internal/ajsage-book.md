@@ -4,7 +4,7 @@ author: "Andrew Sage - Stat 255, Lawrence University"
 date: "2021-11-01T23:02:12Z"
 tags: [Statistics, Data Science, Guide, Package]
 link: "https://bookdown.org/ajsage/_book/"
-length_weight: "17.6%"
+length_weight: "17.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

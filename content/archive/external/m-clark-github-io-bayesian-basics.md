@@ -4,7 +4,7 @@ author: "Michael Clark m-clark.github.io"
 date: ""
 tags: [Bayesian, Data Analysis, Github]
 link: "https://m-clark.github.io/bayesian-basics/"
-length_weight: "13%"
+length_weight: "13.1%"
 cover: "https://m-clark.github.io/bayesian-basics/img/nineteeneightyR.png"
 repo: "m-clark/bayesian-basics"
 pinned: false

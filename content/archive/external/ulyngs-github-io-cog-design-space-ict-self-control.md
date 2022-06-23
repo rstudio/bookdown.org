@@ -4,7 +4,7 @@ author: "Ulrik Lyngs, Kai Lukoff, Petr Slovak, Reuben Binns, Adam Slack, Michael
 date: ""
 tags: [Conference]
 link: "https://ulyngs.github.io/cog-design-space-ict-self-control/"
-length_weight: "8.6%"
+length_weight: "8.7%"
 pinned: false
 ---
 

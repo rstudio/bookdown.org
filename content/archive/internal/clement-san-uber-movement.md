@@ -4,7 +4,7 @@ author: "Clement Lefevre"
 date: "2019-11-15T13:00:25Z"
 tags: [Spatial Data, Data Analysis]
 link: "https://bookdown.org/clement_san/uber_movement/"
-length_weight: "10.7%"
+length_weight: "10.8%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "Indigenous Languages of Latin America"
 author: "Ann Garbett"
 date: "2022-06-07T13:35:00Z"
 link: "https://bookdown.org/content/d9f3ca9e-3314-4f4f-b952-ccf75f62addb/"
-length_weight: "6.4%"
+length_weight: "6.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

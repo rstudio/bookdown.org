@@ -4,7 +4,7 @@ author: "Vince"
 date: "2022-05-31T18:12:18Z"
 tags: [Biology, Medicine, Course]
 link: "https://bookdown.org/ggiaever/omics/"
-length_weight: "14.5%"
+length_weight: "14.6%"
 pinned: false
 ---
 
