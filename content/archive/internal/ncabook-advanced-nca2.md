@@ -1,9 +1,9 @@
 ---
 title: "Advances in Necessary Condition Analysis"
 author: "Jan Dul"
-date: "2022-06-18T09:41:47Z"
+date: "2022-06-26T11:07:08Z"
 link: "https://bookdown.org/ncabook/advanced_nca2/"
-length_weight: "31.8%"
+length_weight: "32.1%"
 repo: "null"
 pinned: false
 ---

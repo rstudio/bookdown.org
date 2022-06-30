@@ -1,7 +1,7 @@
 ---
 title: "Series de Tiempo"
 author: "victor_morales"
-date: "2022-06-22T16:13:46Z"
+date: "2022-06-28T03:47:39Z"
 link: "https://bookdown.org/victor_morales/SeriesdeTiempo/"
 length_weight: "23%"
 pinned: false

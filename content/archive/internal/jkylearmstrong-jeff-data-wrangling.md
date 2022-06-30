@@ -1,7 +1,7 @@
 ---
 title: "Fundamentals of Wrangling Healthcare Data with R"
 author: "J. Kyle Armstrong"
-date: "2022-06-09T05:17:07Z"
+date: "2022-06-27T02:32:47Z"
 link: "https://bookdown.org/jkylearmstrong/jeff_data_wrangling/"
 length_weight: "100%"
 pinned: false

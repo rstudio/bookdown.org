@@ -1,16 +1,12 @@
 ---
-title: "R Shiny Applications in Finance, Medicine, Pharma and Education Industry"
+title: "R-Shiny-Book.knit"
 author: "loankimrobinson"
-date: "2022-06-02T22:12:23Z"
-tags: [Shiny, Medicine, Education, Advanced R, Visualization, Web Applications]
+date: "2022-06-29T02:21:11Z"
+tags: [Shiny, Advanced R, Visualization]
 link: "https://bookdown.org/loankimrobinson/rshinybook/"
-length_weight: "16.6%"
+length_weight: "17.1%"
+repo: "loankimrobinson/R_shiny_book"
 pinned: false
 ---
 
-This book is for the beginner, intermediate and advanced R programmer looking to produce higher level reporting and advanced visualization techniques using R Shiny. [...] R Shiny Application is a structure for making web applications utilizing R code. It is
-planned fundamentally considering information researchers, and keeping that in
-mind, you can make pretty confounded Shiny applications with no knowledge about
-HTML, CSS, or JavaScript. Then again, Shiny doesn’t restrict you to making
-insignificant or pre-assembled applications: its UI segments can be handily modified
-or expanded, and its worker  ...
+This book is for the beginner, intermediate and advanced R programmer looking to produce higher level reporting and advanced visualization techniques using R Shiny. [...]  ...

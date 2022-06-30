@@ -1,10 +1,10 @@
 ---
 title: "2021_apis_for_social_scientists_a_collaborative_review.knit"
 author: "Current editors:Paul C. Bauer, Lion Behrens, Camille LandesvatterAuthors & contributors:Paul C. Bauer, Jan Behnert, Lion Behrens, Chung-hong Chan, Bernhard Clemm von Hohenberg, Lukas Isermann, Philipp Kadel, Melike N. Kaplan, Jana Klein, Markus Konrad, Barbara K. Kreis, Dean Lajic, Camille Landesvatter, Madleen Meier-Barthold, Ondrej Pekacek, Pirmin Stöckle, Malte Söhren"
-date: "2022-04-25T14:20:34Z"
+date: "2022-06-28T13:13:20Z"
 tags: [Github]
 link: "https://bookdown.org/paul/apis_for_social_scientists/"
-length_weight: "26.3%"
+length_weight: "27.2%"
 pinned: false
 ---
 
