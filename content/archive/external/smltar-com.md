@@ -4,7 +4,7 @@ author: "Emil Hvitfeldt and Julia Silge"
 date: "2022-05-11"
 tags: [Machine Learning, Github]
 link: "https://smltar.com/"
-length_weight: "24.1%"
+length_weight: "23.2%"
 cover: "https://smltar.com/cover.jpg"
 repo: "EmilHvitfeldt/smltar"
 pinned: false

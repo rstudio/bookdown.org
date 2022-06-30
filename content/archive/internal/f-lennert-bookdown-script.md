@@ -1,7 +1,7 @@
 ---
 title: "Course script for SICSS Paris"
 author: "Germain Gauthier, Felix Lennert, Étienne Ollion"
-date: "2022-06-22T11:50:17Z"
+date: "2022-06-28T15:58:28Z"
 tags: [Course, Social Science]
 link: "https://bookdown.org/f_lennert/bookdown_script/"
 length_weight: "100%"
