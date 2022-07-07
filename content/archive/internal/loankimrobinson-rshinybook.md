@@ -1,10 +1,10 @@
 ---
 title: "R-Shiny-Book.knit"
 author: "loankimrobinson"
-date: "2022-06-29T02:21:11Z"
+date: "2022-07-06T15:37:33Z"
 tags: [Shiny, Advanced R, Visualization]
 link: "https://bookdown.org/loankimrobinson/rshinybook/"
-length_weight: "17.1%"
+length_weight: "15.2%"
 repo: "loankimrobinson/R_shiny_book"
 pinned: false
 ---
