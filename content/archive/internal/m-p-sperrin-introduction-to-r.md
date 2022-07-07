@@ -1,10 +1,10 @@
 ---
 title: "Introduction to R for Health Data Science"
-author: "Matthew Sperrin"
-date: "2021-12-10T13:46:00Z"
+author: "Statistics Team"
+date: "2022-07-01T10:47:14Z"
 tags: [Data Science, Course]
-link: "https://bookdown.org/m_p_sperrin/intro_to_r_2020/"
-length_weight: "14.7%"
+link: "https://bookdown.org/m_p_sperrin/introduction_to_r/"
+length_weight: "16.1%"
 pinned: false
 ---
 

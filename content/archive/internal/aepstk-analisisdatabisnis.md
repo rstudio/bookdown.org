@@ -1,10 +1,10 @@
 ---
-title: "Analisis Data untuk Bisnis"
+title: "Statistika dan Sains Data untuk Bisnis"
 author: "Aep Hidayatuloh"
-date: "2022-01-07T14:14:10Z"
+date: "2022-07-01T14:52:13Z"
 link: "https://bookdown.org/aepstk/analisisdatabisnis/"
-length_weight: "11.4%"
-cover: "https://bookdown.org/aepstk/analisisdatabisnis/img/aplikasi_analisis_data_untuk_bisnis.png"
+length_weight: "11.3%"
+cover: "https://bookdown.org/aepstk/analisisdatabisnis/img/ssdb.png"
 pinned: false
 ---
 
