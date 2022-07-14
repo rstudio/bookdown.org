@@ -1,10 +1,10 @@
 ---
 title: "STM1001 Topic 1: Introduction to statistics and presenting data"
 author: "Amanda Shaker"
-date: "2022-03-01T00:23:14Z"
+date: "2022-07-08T02:56:24Z"
 tags: [Statistics]
 link: "https://bookdown.org/a_shaker/STM1001_Topic_1/"
-length_weight: "3.5%"
+length_weight: "8.2%"
 pinned: false
 ---
 
