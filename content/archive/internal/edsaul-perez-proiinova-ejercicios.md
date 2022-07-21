@@ -1,9 +1,9 @@
 ---
 title: "R para principiantes aplicado a ciencias de la salud. Curso PROINNOVA"
 author: "Pérez-Guerrero EE"
-date: "2022-07-12T12:42:05Z"
+date: "2022-07-18T20:11:29Z"
 link: "https://bookdown.org/edsaul_perez/PROIINOVA_Ejercicios/"
-length_weight: "23.6%"
+length_weight: "26.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
