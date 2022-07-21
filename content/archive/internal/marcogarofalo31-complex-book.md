@@ -1,10 +1,10 @@
 ---
 title: "Complex \\phi^4"
 author: "Marco Garofalo"
-date: "2022-07-07T15:29:49Z"
+date: "2022-07-18T11:48:37Z"
 tags: [Package]
 link: "https://bookdown.org/marcogarofalo31/complex_book/"
-length_weight: "22.5%"
+length_weight: "3.4%"
 pinned: false
 ---
 
