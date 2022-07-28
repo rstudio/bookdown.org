@@ -119,6 +119,7 @@ https://steverxd.github.io/Stat_tests/
 https://thefaylab.github.io/lab-manual/
 https://therinspark.com/
 https://thesis.earo.me/
+https://tidy-finance.org/
 https://tidyeval.tidyverse.org/
 https://tidynomicon.github.io/tidynomicon/
 https://timtrice.github.io/backtesting-strategies/
@@ -139,4 +140,3 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://tidy-finance.org/
