@@ -4,7 +4,7 @@ author: "Jeff Webb"
 date: "2017-09-03T16:06:55Z"
 tags: [Course, Statistics, Data Analysis, Data Science]
 link: "https://bookdown.org/jefftemplewebb/IS-6489/"
-length_weight: "100%"
+length_weight: "35%"
 pinned: false
 ---
 

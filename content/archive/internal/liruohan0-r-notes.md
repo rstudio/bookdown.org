@@ -1,10 +1,10 @@
 ---
 title: "R 语言学习笔记"
 author: "Ruohan Li"
-date: "2022-07-09T14:42:29Z"
+date: "2022-08-10T20:10:42Z"
 tags: [笔记]
 link: "https://bookdown.org/liruohan0/r-notes/"
-length_weight: "9.6%"
+length_weight: "10.3%"
 pinned: false
 ---
 

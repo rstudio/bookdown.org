@@ -1,10 +1,10 @@
 ---
 title: "Who R You?"
 author: "Dr. Zachary Blastnuts Pilot, PhD"
-date: "2022-07-25T16:54:11Z"
+date: "2022-08-09T14:15:00Z"
 tags: [Package]
 link: "https://bookdown.org/pinksosteel/book_try/"
-length_weight: "8.5%"
+length_weight: "9.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

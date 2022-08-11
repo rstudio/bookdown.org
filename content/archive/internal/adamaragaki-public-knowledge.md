@@ -3,7 +3,7 @@ title: "Public Knowledge"
 author: "Kai Aragaki, Bridget McGuire"
 date: "2021-11-14T21:34:39Z"
 link: "https://bookdown.org/adamaragaki/public_knowledge/"
-length_weight: "100%"
+length_weight: "35.4%"
 pinned: false
 ---
 

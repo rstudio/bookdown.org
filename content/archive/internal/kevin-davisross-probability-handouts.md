@@ -1,9 +1,9 @@
 ---
 title: "Probability Handouts"
 author: "Kevin Ross"
-date: "2022-07-28T03:13:59Z"
+date: "2022-07-31T23:15:21Z"
 link: "https://bookdown.org/kevin_davisross/probability-handouts/"
-length_weight: "31.8%"
+length_weight: "32.3%"
 pinned: false
 ---
 

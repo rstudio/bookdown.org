@@ -1,10 +1,10 @@
 ---
 title: "blogdown: Creating Websites with R Markdown"
 author: "Yihui Xie, Amber Thomas, Alison Presmanes Hill"
-date: "2022-07-04T14:02:38Z"
+date: "2022-08-08T18:03:59Z"
 tags: [R Markdown, Guide, Package, Github]
 link: "https://bookdown.org/yihui/blogdown/"
-length_weight: "29.9%"
+length_weight: "30%"
 cover: "https://bookdown.org/yihui/blogdown/images/cover.png"
 repo: "rstudio/blogdown"
 pinned: true

@@ -1,7 +1,7 @@
 ---
 title: "醫學統計學"
 author: "王 超辰 Chaochen Wang"
-date: "2022-05-16"
+date: "2022-08-06"
 tags: [醫學]
 link: "https://wangcc.me/LSHTMlearningnote/"
 length_weight: "100%"
