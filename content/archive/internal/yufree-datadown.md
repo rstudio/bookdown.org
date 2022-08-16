@@ -1,7 +1,7 @@
 ---
 title: "数据分析残卷"
 author: "于淼"
-date: "2022-07-09T18:50:04Z"
+date: "2022-08-01T17:17:21Z"
 tags: [数据分析, 笔记]
 link: "https://bookdown.org/yufree/datadown/"
 length_weight: "32.7%"

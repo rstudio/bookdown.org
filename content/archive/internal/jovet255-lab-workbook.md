@@ -1,12 +1,13 @@
 ---
-title: "lab-workbook.knit"
-author: "Rafael Verudzco Torres and Mark Wong"
-date: "2022-07-11T19:55:15Z"
-tags: [Social Science]
+title: "UG Quantitative Methods in the Social Sciences lab workbook"
+author: "by J Rafael Verudzco Torres and Mark Wong"
+date: "2022-08-10T15:39:02Z"
+tags: [Social Science, Course, Package, Github]
 link: "https://bookdown.org/jovet255/lab-workbook/"
-length_weight: "24.1%"
+length_weight: "22.4%"
+cover: "https://bookdown.org/jovet255/lab-workbook/images/cover.PNG"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-This is the workbook you will use for the Quantitative Methods in the Social Sciences lab sessions. [...] Welcome to the Quantitative Methods in the Social Sciences lab! The online version of this book is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ...
+This is the workbook you will use for the Quantitative Methods in the Social Sciences lab sessions. [...] Welcome to the Quantitative Methods in the Social Sciences lab! This woorkbook is targeted to University of Glasgow students enrolled in the Undergraduate Quantitative Research Methods course of the School of Social & Political Sciences. The activities are designed for RStudio Cloud. The book was written using R bookdown package based on the GitHub repository: https://github.com/rstudio/bookdown-demo. The online version of this book is licensed under the Creative Commons ...

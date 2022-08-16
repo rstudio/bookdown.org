@@ -1,7 +1,7 @@
 ---
 title: "510 Notes"
 author: "Hao Sun"
-date: "2022-05-28T02:28:05Z"
+date: "2022-08-09T21:15:32Z"
 link: "https://bookdown.org/eugenesun95/510Notes/"
 length_weight: "18%"
 pinned: false
