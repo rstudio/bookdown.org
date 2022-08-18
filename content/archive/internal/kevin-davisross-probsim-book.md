@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Probability and Simulation"
 author: "Kevin Ross"
-date: "2022-08-09T18:17:29Z"
+date: "2022-08-11T21:33:28Z"
 tags: [Simulation, Textbook, Package]
 link: "https://bookdown.org/kevin_davisross/probsim-book/"
 length_weight: "100%"
