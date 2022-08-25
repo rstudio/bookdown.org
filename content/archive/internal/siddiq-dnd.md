@@ -1,10 +1,10 @@
 ---
 title: "Data and Decisions"
 author: "Auyon Siddiq"
-date: "2022-08-15T03:15:27Z"
+date: "2022-08-25T01:57:30Z"
 tags: [Course]
 link: "https://bookdown.org/siddiq/dnd/"
-length_weight: "22.4%"
+length_weight: "23.2%"
 pinned: false
 ---
 

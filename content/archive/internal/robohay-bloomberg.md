@@ -1,10 +1,10 @@
 ---
 title: "Bloomberg"
 author: "Rob Hayward"
-date: "2021-11-22T14:54:15Z"
+date: "2022-08-22T14:34:59Z"
 tags: [Github]
 link: "https://bookdown.org/robohay/bloomberg/"
-length_weight: "6.5%"
+length_weight: "6.6%"
 repo: "robhayward/bloomberg"
 pinned: false
 ---
