@@ -1,7 +1,7 @@
 ---
 title: "Prelude to Econometrics Using R"
 author: "Matt Dobra"
-date: "2022-08-08T22:50:57Z"
+date: "2022-08-22T20:06:50Z"
 tags: [Econometrics]
 link: "https://bookdown.org/mattdobra/Prelude/"
 length_weight: "100%"

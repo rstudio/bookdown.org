@@ -1,7 +1,7 @@
 ---
 title: "QCA with R"
 author: "Adrian Dușa"
-date: "2022-08-16T18:53:58Z"
+date: "2022-08-21T10:12:30Z"
 tags: [Package, Guide]
 link: "https://bookdown.org/dusadrian/QCAbook/"
 length_weight: "100%"
