@@ -1,7 +1,7 @@
 ---
 title: "Interactive Intermediate Microeconomics"
 author: "Yogi Gohel"
-date: "2022-07-26T19:28:13Z"
+date: "2022-08-30T18:16:54Z"
 tags: [Package, Course, Textbook]
 link: "https://bookdown.org/yogigohel/interactive_microeconomics/"
 length_weight: "7.8%"
