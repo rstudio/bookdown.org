@@ -1,7 +1,7 @@
 ---
 title: "Omic Sciences"
 author: "Guri Giaever"
-date: "2022-08-21T23:52:58Z"
+date: "2022-08-27T21:58:07Z"
 tags: [Biology, Medicine, Course]
 link: "https://bookdown.org/ggiaever/omic_sciences/"
 length_weight: "100%"

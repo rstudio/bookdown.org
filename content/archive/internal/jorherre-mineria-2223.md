@@ -1,10 +1,10 @@
 ---
 title: "A Minimal Book Example"
 author: "John Doe"
-date: "2022-06-16T16:43:42Z"
+date: "2022-08-31T16:33:35Z"
 tags: [Package]
-link: "https://bookdown.org/shivani141296/amba_2022_06/"
-length_weight: "0%"
+link: "https://bookdown.org/jorherre/MINERIA_2223/"
+length_weight: "33.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
