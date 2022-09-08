@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning: Teoría y Práctica"
 author: "victor_morales"
-date: "2022-07-26T17:52:54Z"
+date: "2022-09-03T12:28:03Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/victor_morales/TecnicasML/"
-length_weight: "35.1%"
+length_weight: "100%"
 pinned: false
 ---
 

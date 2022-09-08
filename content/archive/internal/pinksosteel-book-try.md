@@ -1,10 +1,10 @@
 ---
 title: "Who R You?"
 author: "Dr. Zachary Pilot"
-date: "2022-08-31T14:45:41Z"
+date: "2022-09-05T23:29:12Z"
 tags: [Package]
 link: "https://bookdown.org/pinksosteel/book_try/"
-length_weight: "9.6%"
+length_weight: "9.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

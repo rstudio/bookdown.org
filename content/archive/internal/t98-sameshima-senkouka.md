@@ -1,10 +1,10 @@
 ---
 title: "データ解析入門"
 author: "Takuya Smaeshima"
-date: "2022-08-31T01:32:08Z"
+date: "2022-09-01T23:31:49Z"
 tags: [Package, Python]
 link: "https://bookdown.org/t98_sameshima/senkouka/"
-length_weight: "23.9%"
+length_weight: "24.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
