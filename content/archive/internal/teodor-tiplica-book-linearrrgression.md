@@ -1,10 +1,10 @@
 ---
 title: "Régression linéaire avec R"
 author: "Teodor TIPLICA"
-date: "2022-08-18T09:14:20Z"
+date: "2022-09-06T09:23:02Z"
 tags: [Package]
 link: "https://bookdown.org/teodor_tiplica/book_linearrrgression/"
-length_weight: "21.4%"
+length_weight: "24.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
