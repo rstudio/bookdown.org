@@ -1,10 +1,10 @@
 ---
 title: "MUED 540"
 author: "jdholster1"
-date: "2022-09-06T03:47:40Z"
+date: "2022-09-13T22:27:32Z"
 tags: [Course]
-link: "https://bookdown.org/jdholster1/5402/"
-length_weight: "13.5%"
+link: "https://bookdown.org/jdholster1/5403/"
+length_weight: "17.9%"
 pinned: false
 ---
 

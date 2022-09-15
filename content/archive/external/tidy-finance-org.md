@@ -1,11 +1,11 @@
 ---
 title: "Tidy Finance with R"
 author: "Christoph Scheuch (wikifolio Financial Technologies) and Stefan Voigt (University of Copenhagen and Danish Finance Institute) and Patrick Weiss (Vienna University of Economics and Business)"
-date: "2022-08-31"
+date: "2022-09-13"
 tags: [Tidy, Textbook]
 link: "https://tidy-finance.org/"
-length_weight: "18%"
-cover: "https://www.tidy-finance.org/cover.jpg"
+length_weight: "18.6%"
+cover: "https://tidy-finance.org/cover.jpg"
 repo: "voigtstefan/tidy_finance"
 pinned: false
 ---

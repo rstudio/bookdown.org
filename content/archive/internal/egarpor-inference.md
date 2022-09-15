@@ -1,12 +1,12 @@
 ---
 title: "A First Course on Statistical Inference"
 author: "Isabel Molina Peralta and Eduardo García-Portugués"
-date: "2022-03-04T18:26:44Z"
+date: "2022-09-14T19:55:17Z"
 tags: [Course, Statistics, Data Science]
 link: "https://bookdown.org/egarpor/inference/"
-length_weight: "33.6%"
+length_weight: "100%"
 pinned: false
 ---
 
 <p>Notes for Statistical Inference. MSc in Statistics for Data Science.
-Carlos III University of Madrid.</p> [...] Definition 1.1 (Random experiment) A random experiment is an experiment with the following properties: The following concepts are associated with a random experiment: Example 1.1 The next experiments are random experiments: A probability function is defined as a mapping of subsets (events) of the sample space \(\Omega\) to elements in \([0,1].\) Therefore, it is convenient to count on a “good” structure for these subsets, which will provide “good” properties to the probability ...
+Carlos III University of Madrid.</p> [...] Welcome to the notes for Statistical Inference. The course is part of the MSc in Statistics for Data Science from Carlos III University of Madrid. The course is designed to have, roughly, one session per each main topic in the syllabus. The schedule is tight due to time constraints, which will inevitably make the exposition of certain methods somehow superficial. Nevertheless, the course and exercises will hopefully give you a respectable panoramic view of the fundamentals of ...

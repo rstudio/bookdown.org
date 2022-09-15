@@ -1,7 +1,7 @@
 ---
 title: "A Minimal Book Example"
 author: "John Doe"
-date: "2022-08-31T16:33:35Z"
+date: "2022-09-12T21:18:05Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/MINERIA_2223/"
 length_weight: "33.4%"

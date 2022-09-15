@@ -1,7 +1,7 @@
 ---
 title: "Elon R Data Camp"
 author: "Adam Aiken"
-date: "2022-02-08T14:14:57Z"
+date: "2022-09-10T15:20:29Z"
 tags: [Data Analysis, R Markdown]
 link: "https://bookdown.org/adam_aiken/rboot/"
 length_weight: "17.4%"

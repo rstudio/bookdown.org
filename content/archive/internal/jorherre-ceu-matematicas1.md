@@ -1,7 +1,7 @@
 ---
 title: "Matemáticas I-II CEU, Grupo de Excelencia"
 author: "Jorge Herrera de la Cruz"
-date: "2022-09-07T19:56:21Z"
+date: "2022-09-14T18:25:25Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/CEU_MATEMATICAS1/"
 length_weight: "34.2%"

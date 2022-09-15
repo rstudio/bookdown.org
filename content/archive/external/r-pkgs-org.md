@@ -4,7 +4,7 @@ author: ""
 date: ""
 tags: [Package]
 link: "https://r-pkgs.org/"
-length_weight: "23%"
+length_weight: "0%"
 cover: "https://r-pkgs.org/images/cover.png"
 pinned: true
 ---
