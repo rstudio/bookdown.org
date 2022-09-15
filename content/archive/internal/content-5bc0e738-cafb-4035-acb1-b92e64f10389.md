@@ -1,13 +1,13 @@
 ---
 title: "IsoriX: Isoscape Computation and Inference of Spatial Origins using R"
 author: "The IsoriX core Team"
-date: "2020-09-15T19:49:35Z"
+date: "2022-09-13T07:04:09Z"
 tags: [Package]
 link: "https://bookdown.org/content/5bc0e738-cafb-4035-acb1-b92e64f10389/"
-length_weight: "16%"
+length_weight: "17.6%"
 repo: "courtiol/IsoriX"
 pinned: false
 ---
 
-This book is the official documentation for the R package IsoriX. [...] This documentation of the R package IsoriX is a work in progress.
-So far, only the chapters 1 to 5 are close to completion.  ...
+This book is the official documentation for the R package IsoriX. [...] This bookdown (a particular form of R documentation) provides information on how to use the R package IsoriX.
+It is a work in progress, but it already contains plenty of material that should help you getting started with IsoriX.  ...

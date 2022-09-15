@@ -1,10 +1,10 @@
 ---
 title: "Targeted Learning in R"
 author: "Mark van der Laan, Jeremy Coyle, Nima Hejazi, Ivana Malenica, Rachael Phillips, Alan Hubbard"
-date: "2022-08-26"
+date: "2022-09-10"
 tags: [Machine Learning, Data Science, Github]
 link: "https://tlverse.org/tlverse-handbook/"
-length_weight: "19.6%"
+length_weight: "19.8%"
 repo: "tlverse/tlverse-handbook"
 pinned: false
 ---

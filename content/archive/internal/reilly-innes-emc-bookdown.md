@@ -1,7 +1,7 @@
 ---
 title: "Model Based Sampling with EMC2 - Extended Models of Choice"
 author: "Reilly Innes, Niek Stevenson, Russell Boag, Andrew Heathcote"
-date: "2022-08-05T12:38:15Z"
+date: "2022-09-12T09:31:33Z"
 tags: [Models, Tutorial, Github, Guide]
 link: "https://bookdown.org/reilly_innes/EMC_bookdown/"
 length_weight: "100%"
