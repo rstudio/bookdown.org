@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Statistical Learning with the tidyverse and tidymodels"
 author: "Taylor Dunn"
-date: "2022-08-19T21:02:36Z"
+date: "2022-09-19T14:44:26Z"
 tags: [Tidyverse, Tidy, Models, Textbook, Package]
 link: "https://bookdown.org/taylordunn/islr-tidy-1655226885741/"
 length_weight: "100%"

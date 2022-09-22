@@ -1,7 +1,7 @@
 ---
 title: "Statistik 1: Beschreibende Statistik"
 author: "Mark Trede"
-date: "2022-09-13T13:30:17Z"
+date: "2022-09-15T14:51:56Z"
 link: "https://bookdown.org/marktrede/DS1Deskription/"
 length_weight: "33.5%"
 cover: "https://bookdown.org/marktrede/DS1Deskription/images/AdobeStock_262173764b.jpeg"

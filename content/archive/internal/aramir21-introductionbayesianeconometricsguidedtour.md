@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Bayesian Econometrics"
 author: "Andrés Ramírez-Hassan"
-date: "2022-09-14T21:46:43Z"
+date: "2022-09-21T15:10:24Z"
 tags: [Bayesian, Econometrics, Textbook]
 link: "https://bookdown.org/aramir21/IntroductionBayesianEconometricsGuidedTour/"
-length_weight: "15.5%"
+length_weight: "29%"
 repo: "https://github.com/aramir21/IntroductionBayesianEconometricsBook"
 pinned: false
 ---

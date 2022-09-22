@@ -1,14 +1,14 @@
 ---
-title: "R Plot Gallery"
+title: "R Table & Plot Gallery"
 author: "Hao Sun"
-date: "2022-08-27T15:43:22Z"
+date: "2022-09-21T02:37:01Z"
 tags: [Package, ggplot2]
 link: "https://bookdown.org/eugenesun95/Rplotgallery/"
-length_weight: "4.7%"
+length_weight: "6.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
 <p>This is a minimal example of using the bookdown package to write a book.
 The HTML output format for this example is bookdown::gitbook,
-set in the _output.yml file.</p> [...] This bookdown includes some interesting ggplot examples and can be used as a manual of ggplot2 and other ...
+set in the _output.yml file.</p> [...] This bookdown includes some interesting table and figure examples. It can be used as a manual of ggplot2, DT, ...

@@ -1,9 +1,9 @@
 ---
 title: "Tarification avancée: théorie et applications en R"
 author: "Jean-Philippe Boucher"
-date: "2022-09-12T21:30:58Z"
+date: "2022-09-19T18:54:14Z"
 link: "https://bookdown.org/boucherjphilippe/MAT998H/"
-length_weight: "19.5%"
+length_weight: "32.2%"
 pinned: false
 ---
 
