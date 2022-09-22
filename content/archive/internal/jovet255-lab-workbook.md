@@ -1,7 +1,7 @@
 ---
 title: "UG Quantitative Methods in the Social Sciences lab workbook"
 author: "by J Rafael Verudzco Torres and Mark Wong"
-date: "2022-09-06T13:56:33Z"
+date: "2022-09-17T11:19:48Z"
 tags: [Social Science, Course, Package, Github]
 link: "https://bookdown.org/jovet255/lab-workbook/"
 length_weight: "23.6%"

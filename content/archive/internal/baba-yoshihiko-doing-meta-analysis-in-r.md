@@ -1,7 +1,7 @@
 ---
 title: "Doing Meta-Analysis in R"
 author: "Mathias Harrer, Pim Cuijpers, Toshi A. Furukawa, David D. Ebert"
-date: "2022-08-18T04:44:09Z"
+date: "2022-09-17T05:19:44Z"
 tags: [Meta-Analysis, Guide]
 link: "https://bookdown.org/baba_yoshihiko/Doing_Meta_Analysis_in_R/"
 length_weight: "100%"

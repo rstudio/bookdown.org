@@ -1,7 +1,7 @@
 ---
 title: "Biometry"
 author: "Pleuni Pennings and Kevin Magnaye"
-date: "2022-08-27T00:49:23Z"
+date: "2022-09-15T16:49:43Z"
 tags: [Course, Data Science]
 link: "https://bookdown.org/kmbm92/Applied-Biostats/"
 length_weight: "34%"

@@ -1,12 +1,12 @@
 ---
 title: "The Data Preparation Journey"
 author: "Martin Monkman"
-date: "2022-09-15T04:50:59Z"
+date: "2022-09-19T04:16:29Z"
 tags: [Tidy, Data Science, Visualization, Textbook, Course]
 link: "https://bookdown.org/martin_monkman/DataPreparationJourney_draft/"
 length_weight: "22.1%"
-repo: "MonkmanMH/data_preparation_with_r"
+repo: "MonkmanMH/data_preparation_journey"
 pinned: false
 ---
 
-Before you can analyze your data, you need to ensure that it is clean and tidy. [...] It is routinely noted that the Pareto principle applies to data science—80% of one’s time is spent on data collection and preparation, and the remaining 20% on the “fun stuff” like modeling, data visualization, and communication. There is no shortage of material—textbooks, journal articles, blog posts, online courses, podcasts, etc.—about the 20%. That’s not to say that there is no material for the other 80%. But it is scattered, found across technique-specific articles and domain-specific books, along with ...
+Before you can analyze your data, you need to ensure that it is clean and tidy. [...] This is the online home of The Data Preparation Journey: Finding Your Way With R, a forthcoming book published with CRC Press as part of The R Series. It is routinely noted that the Pareto principle applies to data science—80% of one’s time is spent on data collection and preparation, and the remaining 20% on the “fun stuff” like modeling, data visualization, and communication. There is no shortage of material—textbooks, journal articles, blog posts, online courses, podcasts, etc.—about the 20%. That’s not ...

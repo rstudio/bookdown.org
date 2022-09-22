@@ -1,7 +1,7 @@
 ---
 title: "Язык R для пользователей Excel"
 author: "Алексей Селезнёв"
-date: "2022-08-12T07:28:34Z"
+date: "2022-09-15T20:16:03Z"
 tags: [Tidyverse]
 link: "https://bookdown.org/selesnow/r-for-excel-users/"
 length_weight: "15.6%"

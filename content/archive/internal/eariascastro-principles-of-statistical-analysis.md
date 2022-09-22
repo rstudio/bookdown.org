@@ -1,11 +1,11 @@
 ---
 title: "Principles of Statistical Analysis: R Companion"
 author: "Ery Arias-Castro"
-date: "2022-09-05T18:26:10Z"
+date: "2022-09-21T23:03:07Z"
 tags: [Textbook, Package]
 link: "https://bookdown.org/eariascastro/principles_of_statistical_analysis/"
 length_weight: "18.5%"
-repo: "rstudio/bookdown-demo"
+cover: "https://bookdown.org/eariascastro/principles_of_statistical_analysis/R_companion_cover.png"
 pinned: false
 ---
 

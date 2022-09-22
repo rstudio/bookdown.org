@@ -1,10 +1,10 @@
 ---
 title: "A Research about the Employee’s Motivation for Knowledge Sharing and Employee Creativity"
 author: "潘薇"
-date: "2022-06-30T09:58:35Z"
+date: "2022-09-21T16:53:36Z"
 tags: [Package]
 link: "https://bookdown.org/ivypan/independent-study/"
-length_weight: "21.3%"
+length_weight: "22%"
 cover: "https://bookdown.org/ivypan/independent-study/files/cover.png"
 pinned: false
 ---
