@@ -1,10 +1,10 @@
 ---
 title: "Stat 340 Notes: Fall 2022"
 author: "Laurie Tupper"
-date: "2022-09-21T18:58:55Z"
+date: "2022-09-27T18:32:08Z"
 tags: [Course]
 link: "https://bookdown.org/ltupper/340f22_notes/"
-length_weight: "30.1%"
+length_weight: "100%"
 pinned: false
 ---
 

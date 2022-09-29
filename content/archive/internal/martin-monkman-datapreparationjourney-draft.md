@@ -1,7 +1,7 @@
 ---
 title: "The Data Preparation Journey"
 author: "Martin Monkman"
-date: "2022-09-19T04:16:29Z"
+date: "2022-09-29T02:48:30Z"
 tags: [Tidy, Data Science, Visualization, Textbook, Course]
 link: "https://bookdown.org/martin_monkman/DataPreparationJourney_draft/"
 length_weight: "22.1%"

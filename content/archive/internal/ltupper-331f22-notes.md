@@ -1,10 +1,10 @@
 ---
 title: "Stat 331 Notes: Fall 2022"
 author: "Laurie Tupper"
-date: "2022-09-19T20:13:33Z"
+date: "2022-09-26T21:40:59Z"
 tags: [Course]
 link: "https://bookdown.org/ltupper/331f22_notes/"
-length_weight: "27.6%"
+length_weight: "30.1%"
 pinned: false
 ---
 

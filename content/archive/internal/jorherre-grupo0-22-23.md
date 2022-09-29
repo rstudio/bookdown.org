@@ -1,10 +1,10 @@
 ---
 title: "Grupo 0 Matemáticas"
 author: "Mercedes Vázquez Furelos, María Eugenia Mera Rivas, Jorge Herrera de la Cruz"
-date: "2021-09-03T15:55:03Z"
+date: "2022-09-27T18:39:22Z"
 tags: [Package]
-link: "https://bookdown.org/jorherre/Grupo_0_FINAL/"
-length_weight: "8.5%"
+link: "https://bookdown.org/jorherre/GRUPO0_22_23/"
+length_weight: "8.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
