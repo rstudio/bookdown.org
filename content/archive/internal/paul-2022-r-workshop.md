@@ -1,7 +1,7 @@
 ---
 title: "Programming and Applied Data Visualization with R"
 author: "Dr. Paul C. Bauer (University of Mannheim)"
-date: "2022-09-14T08:35:51Z"
+date: "2022-09-27T10:55:08Z"
 tags: [Visualization, Data Analysis, Package, ggplot2]
 link: "https://bookdown.org/paul/2022_r_workshop/"
 length_weight: "0%"
