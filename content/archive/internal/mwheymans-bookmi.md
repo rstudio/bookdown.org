@@ -1,7 +1,7 @@
 ---
 title: "Book_MI.knit"
 author: "mwheymans"
-date: "2021-06-06T13:47:33Z"
+date: "2022-09-29T18:37:49Z"
 link: "https://bookdown.org/mwheymans/bookmi/"
 length_weight: "100%"
 cover: "https://bookdown.org/mwheymans/bookmi/images/cover2.png"

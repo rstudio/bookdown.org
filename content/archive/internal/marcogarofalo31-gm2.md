@@ -1,10 +1,10 @@
 ---
 title: "g-2"
 author: "Marco Garofalo"
-date: "2022-09-27T15:46:01Z"
+date: "2022-10-04T17:12:30Z"
 tags: [Package]
 link: "https://bookdown.org/marcogarofalo31/gm2/"
-length_weight: "19.4%"
+length_weight: "20.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

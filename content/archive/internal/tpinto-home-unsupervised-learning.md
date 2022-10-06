@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning for Biostatistics"
 author: "Armando Teixeira-Pinto & Jaroslaw Harezlak"
-date: "2022-08-01T07:28:53Z"
+date: "2022-10-05T10:44:53Z"
 tags: [Machine Learning, Statistics]
 link: "https://bookdown.org/tpinto_home/Unsupervised-learning/"
-length_weight: "11.3%"
+length_weight: "11.4%"
 pinned: false
 ---
 

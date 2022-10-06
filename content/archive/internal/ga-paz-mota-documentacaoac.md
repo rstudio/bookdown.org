@@ -1,9 +1,9 @@
 ---
 title: "Documentação da Academia Científica: Um guia para transformação, modelagem e formatação de dados"
 author: "Academia Científica"
-date: "2022-09-13T09:21:32Z"
+date: "2022-10-03T20:46:11Z"
 link: "https://bookdown.org/ga_paz_mota/DocumentacaoAC/"
-length_weight: "28.1%"
+length_weight: "28.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

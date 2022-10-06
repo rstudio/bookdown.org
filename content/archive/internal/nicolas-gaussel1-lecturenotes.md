@@ -1,7 +1,7 @@
 ---
 title: "Practice and theory of financial markets"
 author: "Nicolas Gaussel"
-date: "2022-09-28T17:05:14Z"
+date: "2022-09-29T17:01:46Z"
 tags: [Market]
 link: "https://bookdown.org/nicolas_gaussel1/lectureNotes/"
 length_weight: "17.8%"
