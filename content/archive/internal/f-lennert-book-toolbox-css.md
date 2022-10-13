@@ -1,10 +1,10 @@
 ---
 title: "Toolbox CSS"
 author: "Felix Lennert"
-date: "2022-01-24T11:43:52Z"
+date: "2022-10-10T09:44:38Z"
 tags: [Social Science, Text Mining, Course]
 link: "https://bookdown.org/f_lennert/book-toolbox_css/"
-length_weight: "24.7%"
+length_weight: "8.9%"
 pinned: false
 ---
 

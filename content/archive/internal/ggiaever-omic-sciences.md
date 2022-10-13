@@ -1,10 +1,10 @@
 ---
 title: "Omic Sciences"
 author: "Guri Giaever"
-date: "2022-09-09T06:43:14Z"
+date: "2022-10-12T01:20:24Z"
 tags: [Biology, Medicine, Course]
 link: "https://bookdown.org/ggiaever/omic_sciences/"
-length_weight: "9.6%"
+length_weight: "100%"
 repo: "gurinina/omic_sciences"
 pinned: false
 ---

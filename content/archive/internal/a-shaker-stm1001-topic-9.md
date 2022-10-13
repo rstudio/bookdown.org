@@ -1,7 +1,7 @@
 ---
 title: "STM1001 Topic 9: Hypothesis Testing for One and Two Sample Proportions"
 author: "Amanda Shaker"
-date: "2022-10-05T23:45:54Z"
+date: "2022-10-13T02:27:13Z"
 link: "https://bookdown.org/a_shaker/STM1001_Topic_9/"
 length_weight: "6.6%"
 pinned: false
