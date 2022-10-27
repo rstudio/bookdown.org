@@ -4,7 +4,7 @@ author: "Joseph Fox"
 date: "2022-10-12T13:51:43Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/jaf005/Data-Analysis-with-R/"
-length_weight: "35.2%"
+length_weight: "100%"
 pinned: false
 ---
 

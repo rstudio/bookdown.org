@@ -1,9 +1,9 @@
 ---
 title: "Disciplina BiG Data Analytics"
 author: "Marcos Alves"
-date: "2022-10-12T14:34:35Z"
+date: "2022-10-27T01:15:13Z"
 link: "https://bookdown.org/malberto511/BIG019/"
-length_weight: "3.4%"
+length_weight: "5.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
