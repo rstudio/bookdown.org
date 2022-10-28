@@ -1,10 +1,10 @@
 ---
 title: "STAT101 Tutorials"
 author: "speedyjiang"
-date: "2022-10-20T02:52:47Z"
+date: "2022-10-21T01:22:22Z"
 tags: [Tutorial, Course, Textbook, Statistics]
-link: "https://bookdown.org/speedyjiang/stat101tutorials/"
-length_weight: "0%"
+link: "https://bookdown.org/speedyjiang/stat101tutorial/"
+length_weight: "6.4%"
 pinned: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "R Crash Course (for EF students) - 2022/23"
 author: "Michela Cameletti"
-date: "2022-10-18T14:44:16Z"
+date: "2022-10-21T09:02:11Z"
 tags: [Course]
 link: "https://bookdown.org/michela_cameletti/notescrashcourser/"
-length_weight: "15.8%"
+length_weight: "19%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

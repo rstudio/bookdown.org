@@ -1,10 +1,10 @@
 ---
 title: "R code for STAT101"
 author: "speedyjiang"
-date: "2022-10-20T02:46:11Z"
+date: "2022-10-27T00:27:55Z"
 tags: [Course, Textbook, Statistics]
 link: "https://bookdown.org/speedyjiang/r_code_for_stat101/"
-length_weight: "19.1%"
+length_weight: "19.3%"
 pinned: false
 ---
 
