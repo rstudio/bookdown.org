@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning and Neural Networks"
 author: "Dr. Hailiang Du"
-date: "2022-10-25T14:30:03Z"
+date: "2022-11-02T23:31:08Z"
 tags: [Machine Learning, Network, Course]
 link: "https://bookdown.org/hailiangdu80/Machine_Learning_and_Neural_Networks/"
-length_weight: "24.9%"
+length_weight: "30.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

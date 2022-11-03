@@ -1,10 +1,10 @@
 ---
 title: "Statistical Inference via Data Science"
 author: "Chester Ismay and Albert Y. Kim"
-date: "2022-06-02"
+date: "2022-10-28"
 tags: [Data Science, Textbook, Tidyverse, Github]
 link: "https://moderndive.com/"
-length_weight: "28.7%"
+length_weight: "28.9%"
 cover: "https://moderndive.com/images/logos/book_cover.png"
 repo: "moderndive/ModernDive_book"
 pinned: true

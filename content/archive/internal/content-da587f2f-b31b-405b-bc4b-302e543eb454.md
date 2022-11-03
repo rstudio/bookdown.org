@@ -1,10 +1,10 @@
 ---
 title: "SWBio Bioinformatics course task book"
 author: "David Studholme"
-date: "2021-10-26T18:45:43Z"
+date: "2022-11-02T14:23:50Z"
 tags: [Course, Package]
-link: "https://bookdown.org/d_j_studholme/swbio/"
-length_weight: "12.8%"
+link: "https://bookdown.org/content/da587f2f-b31b-405b-bc4b-302e543eb454/"
+length_weight: "12.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

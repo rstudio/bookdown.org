@@ -1,9 +1,9 @@
 ---
 title: "2022年度:データサイエンス　第１回"
 author: "酒井　優行"
-date: "2022-10-22T08:12:40Z"
+date: "2022-10-29T15:04:36Z"
 link: "https://bookdown.org/masayukeeeee/jiyu-dslec-2022-01/"
-length_weight: "22.7%"
+length_weight: "23.5%"
 pinned: false
 ---
 
