@@ -1,7 +1,7 @@
 ---
 title: "MGMTFT 402 - Data and Decisions"
 author: "Auyon Siddiq"
-date: "2022-10-16T03:14:21Z"
+date: "2022-11-07T02:39:02Z"
 link: "https://bookdown.org/siddiq/dnd/"
 length_weight: "24.3%"
 pinned: false

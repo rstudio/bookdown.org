@@ -1,14 +1,12 @@
 ---
 title: "The theory of distributions"
 author: "Peter K. Dunn"
-date: "2022-11-02T06:37:44Z"
-tags: [Package]
+date: "2022-11-08T05:21:00Z"
+tags: [Statistics]
 link: "https://bookdown.org/pkaldunn/DistTheory/"
-length_weight: "35%"
+length_weight: "14.4%"
 repo: "PeterKDunn/DistTheory"
 pinned: false
 ---
 
-<p>This is a minimal example of using the bookdown package to write a book.
-The HTML output format for this example is bookdown::bs4_book,
-set in the _output.yml file.</p> [...] This book is an introduction to the theory of statistical probability and ...
+An introduction to mathematical statistics, and the theory of distributions. [...] This book is an introduction to the theory of statistical probability and distributions. This book can be read without relying on any specific statistical software, though sometimes R code1 is included to demonstrate ideas. The icons used in this book have meanings; for example: These chunks introduce the objectives for the chapters of the book. These chunks highlight common mistakes or warnings, about a particular concept or about using a formula. These chunks offer helpful information. These chunks refer to ...

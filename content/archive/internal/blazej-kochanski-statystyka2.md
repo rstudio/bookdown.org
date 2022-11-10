@@ -1,9 +1,9 @@
 ---
 title: "Statystyka 2 - skrypt"
 author: "Błażej Kochański"
-date: "2022-10-24T10:14:21Z"
+date: "2022-11-07T13:02:39Z"
 link: "https://bookdown.org/blazej_kochanski/statystyka2/"
-length_weight: "14.5%"
+length_weight: "15.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
