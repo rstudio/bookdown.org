@@ -1,10 +1,11 @@
 ---
 title: "Policy Taxonomy Paper"
 author: "CE-Hub Working Paper"
-date: "2022-11-03T04:50:16Z"
+date: "2022-11-10T03:13:17Z"
+tags: [Guide, Github]
 link: "https://bookdown.org/oliverlysaght/policy_taxonomy_working_paper/"
-length_weight: "8.8%"
+length_weight: "6.7%"
 pinned: false
 ---
 
-This is a policy working paper. [...] The aim of establishing a taxonomy here is to provide a common terminology which can help describe and analyse the UK circular economy governance landscape and in doing so better understand barriers, entry points and opportunities to drive change. Here, we set out taxonomical components relating to: Actors involved in the landscape; Why and how they exert influence; and The way in which circular economy objectives become incorporated into decision-making processes. It is possible to co-author this paper. If you would like to make edits, these can either ...
+This is a policy working paper. [...] One purpose of a taxonomy here is to provide a common terminology which can help describe and analyse the UK circular economy governance landscape and in doing so, better understand and guide discussion around barriers, entry points and opportunities to drive change. Here, we set out taxonomical components relating to: Actors involved in the landscape; and How they exert influence. It is possible to co-author this paper. If you would like to make edits, these can either be sent via email, or access requested to the paper’s GitHub repository ...

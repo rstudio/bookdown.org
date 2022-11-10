@@ -1,7 +1,7 @@
 ---
 title: "Data Analysis in Medicine and Health using R"
 author: "Kamarul Imran, Wan Nor Arifin, Tengku Muhammad Hanis Tengku Mukhtar"
-date: "2022-10-28T03:54:16Z"
+date: "2022-11-09T15:19:54Z"
 tags: [Data Analysis, Medicine, Epidemiology, R Programming, Package]
 link: "https://bookdown.org/drki_musa/dataanalysis/"
 length_weight: "100%"

@@ -1,9 +1,9 @@
 ---
 title: "2022年度:データサイエンス　課題"
 author: "酒井　優行"
-date: "2022-10-22T00:14:05Z"
+date: "2022-11-05T04:35:20Z"
 link: "https://bookdown.org/masayukeeeee/jiyu-dslec-2022-work-assignments/"
-length_weight: "3.5%"
+length_weight: "4.5%"
 pinned: false
 ---
 

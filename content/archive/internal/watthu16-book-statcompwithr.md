@@ -1,10 +1,10 @@
 ---
 title: "统计计算"
 author: "Watthu"
-date: "2022-10-28T14:11:20Z"
+date: "2022-11-05T03:27:23Z"
 tags: [笔记, Package]
 link: "https://bookdown.org/watthu16/_Book_StatCompWithR/"
-length_weight: "20%"
+length_weight: "23.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
