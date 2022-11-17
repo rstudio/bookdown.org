@@ -1,9 +1,9 @@
 ---
 title: "_main.knit"
-author: "mohinkmohanan007"
-date: "2022-11-08T09:52:08Z"
-link: "https://bookdown.org/mohinkmohanan007/catalog/"
-length_weight: "0%"
+author: "genproresearch"
+date: "2022-11-10T08:57:28Z"
+link: "https://bookdown.org/genproresearch/catalog/"
+length_weight: "26%"
 pinned: false
 ---
 
