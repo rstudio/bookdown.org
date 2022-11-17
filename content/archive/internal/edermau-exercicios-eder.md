@@ -1,7 +1,7 @@
 ---
 title: "Disciplina BIG019 - BiG Data & Analytics"
 author: "Eder Mauricio Barbosa"
-date: "2022-11-10T01:20:56Z"
+date: "2022-11-12T13:29:08Z"
 tags: [Package]
 link: "https://bookdown.org/edermau/Exercicios_Eder/"
 length_weight: "7.5%"

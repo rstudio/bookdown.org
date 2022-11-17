@@ -1,9 +1,9 @@
 ---
 title: "R en Ciències Socials"
 author: "Jordi Mas Elias"
-date: "2022-09-23T09:54:28Z"
+date: "2022-11-10T16:47:35Z"
 link: "https://bookdown.org/jmasel/intror_cat/"
-length_weight: "12%"
+length_weight: "12.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

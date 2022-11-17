@@ -1,7 +1,7 @@
 ---
 title: "R for Non-Programmers: A Guide for Social Scientists"
 author: "Daniel Dauber"
-date: "2022-11-04T18:35:20Z"
+date: "2022-11-11T15:01:03Z"
 tags: [Guide, R Programming, Social Science]
 link: "https://bookdown.org/daniel_dauber_io/r4np_book/"
 length_weight: "100%"
