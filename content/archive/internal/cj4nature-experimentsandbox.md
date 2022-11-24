@@ -1,7 +1,7 @@
 ---
 title: "Experimental design"
 author: "cjlortie"
-date: "2022-11-06T14:22:49Z"
+date: "2022-11-20T00:43:19Z"
 link: "https://bookdown.org/cj4nature/experimentsandbox/"
 length_weight: "9.9%"
 pinned: false

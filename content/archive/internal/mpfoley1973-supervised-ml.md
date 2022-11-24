@@ -1,7 +1,7 @@
 ---
 title: "Supervised Machine Learning"
 author: "Michael Foley"
-date: "2022-06-14T11:57:30Z"
+date: "2022-11-18T09:17:28Z"
 tags: [Machine Learning, Models]
 link: "https://bookdown.org/mpfoley1973/supervised-ml/"
 length_weight: "100%"
