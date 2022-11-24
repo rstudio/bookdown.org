@@ -1,10 +1,10 @@
 ---
 title: "Introductory statistics skills pack"
 author: "Glenna Nightingale"
-date: "2022-08-10T15:07:57Z"
+date: "2022-11-21T11:20:15Z"
 tags: [Statistics]
 link: "https://bookdown.org/glenna_evans/statspack/"
-length_weight: "10%"
+length_weight: "10.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
