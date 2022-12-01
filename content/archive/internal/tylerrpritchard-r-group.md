@@ -1,10 +1,10 @@
 ---
 title: "R Interest Group"
 author: "Tyler R. Pritchard"
-date: "2022-11-21T00:24:44Z"
+date: "2022-11-25T23:49:45Z"
 tags: [Psychology]
 link: "https://bookdown.org/tylerrpritchard/r_group/"
-length_weight: "6.3%"
+length_weight: "8.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
