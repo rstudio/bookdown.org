@@ -1,7 +1,7 @@
 ---
 title: "g-2"
 author: "Marco Garofalo"
-date: "2022-11-16T16:25:45Z"
+date: "2022-11-28T15:07:32Z"
 tags: [Package]
 link: "https://bookdown.org/marcogarofalo31/gm2/"
 length_weight: "100%"

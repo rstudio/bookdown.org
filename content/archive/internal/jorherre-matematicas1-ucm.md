@@ -1,10 +1,10 @@
 ---
 title: "Notas para la asignatura de Matemáticas I , UCM Somosaguas"
 author: "Jorge Herrera de la Cruz"
-date: "2022-09-10T11:57:05Z"
+date: "2022-11-30T18:09:04Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/MATEMATICAS1_UCM/"
-length_weight: "25%"
+length_weight: "25.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

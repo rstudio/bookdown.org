@@ -1,9 +1,9 @@
 ---
 title: "Disciplina BIG Data & Analytics"
 author: "Josias Oliveira Lima - Turma T04"
-date: "2022-11-15T14:39:35Z"
+date: "2022-11-30T00:55:54Z"
 link: "https://bookdown.org/iot_ipt_br/Cadernos_Josias/"
-length_weight: "12.2%"
+length_weight: "10.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
