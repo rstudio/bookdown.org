@@ -3,7 +3,7 @@ title: "Descenso Internacional del Sella"
 author: "Sergio Berdiales"
 date: "2019-08-17T16:25:24Z"
 link: "https://bookdown.org/sergioberdiales/descenso_del_sella/"
-length_weight: "8.2%"
+length_weight: "2.4%"
 pinned: false
 ---
 

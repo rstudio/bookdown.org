@@ -3,7 +3,7 @@ title: "Statistik 1: Beschreibende Statistik"
 author: "Mark Trede"
 date: "2022-11-02T10:41:06Z"
 link: "https://bookdown.org/marktrede/DS1Deskription/"
-length_weight: "34.1%"
+length_weight: "9.9%"
 cover: "https://bookdown.org/marktrede/DS1Deskription/images/AdobeStock_262173764b.jpeg"
 repo: "rstudio/bookdown-demo"
 pinned: false

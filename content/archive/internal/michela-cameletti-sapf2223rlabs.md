@@ -3,7 +3,7 @@ title: "Statistica Applicata per la Finanza - 2022/23"
 author: "Michela Cameletti"
 date: "2022-11-14T20:26:04Z"
 link: "https://bookdown.org/michela_cameletti/sapf2223rlabs/"
-length_weight: "14%"
+length_weight: "4.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

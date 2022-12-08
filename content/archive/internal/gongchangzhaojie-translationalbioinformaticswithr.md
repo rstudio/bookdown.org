@@ -4,7 +4,7 @@ author: "Zhaojie Zhang"
 date: "2022-08-05T22:24:36Z"
 tags: [Translation, Package, Github]
 link: "https://bookdown.org/gongchangzhaojie/TranslationalBioinformaticsWithR/"
-length_weight: "18.9%"
+length_weight: "5.5%"
 repo: "gongchang/TBioR"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "John Lawson"
 date: "2021-01-12T20:53:04Z"
 tags: [Statistical Methods, Multivariate]
 link: "https://bookdown.org/lawson/an_introduction_to_acceptance_sampling_and_spc_with_r26/"
-length_weight: "5.2%"
+length_weight: "1.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Kieran Marray (Tinbergen Institute)"
 date: "2021-10-25T17:16:22Z"
 tags: [Econometrics, Course, R Programming, Models, Package]
 link: "https://bookdown.org/kieranmarray/intro_to_r_for_econometrics/"
-length_weight: "4.2%"
+length_weight: "1.2%"
 pinned: false
 ---
 

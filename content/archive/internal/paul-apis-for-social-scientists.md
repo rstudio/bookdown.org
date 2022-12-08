@@ -4,7 +4,7 @@ author: "Current editors:Paul C. Bauer, Camille Landesvatter, Lion BehrensAuthor
 date: "2022-10-11T16:09:22Z"
 tags: [Github]
 link: "https://bookdown.org/paul/apis_for_social_scientists/"
-length_weight: "7%"
+length_weight: "2%"
 pinned: false
 ---
 

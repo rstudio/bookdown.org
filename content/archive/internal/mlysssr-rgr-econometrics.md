@@ -3,7 +3,7 @@ title: "Методические указания по выполнению ра
 author: "Михаил Лысенко"
 date: "2020-04-10T20:54:17Z"
 link: "https://bookdown.org/mlysssr/rgr_econometrics/"
-length_weight: "5.9%"
+length_weight: "1.7%"
 pinned: false
 ---
 

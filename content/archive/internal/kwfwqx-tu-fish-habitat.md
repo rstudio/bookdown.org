@@ -4,7 +4,7 @@ author: "Benjamin Meyer, Kenai Watershed Forum"
 date: "2021-11-15T21:21:24Z"
 tags: [Package]
 link: "https://bookdown.org/kwfwqx/TU_Fish_Habitat/"
-length_weight: "8.4%"
+length_weight: "2.4%"
 repo: "https://bookdown.org/kwfwqx/tu_awc_expansion"
 pinned: false
 ---

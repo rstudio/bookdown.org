@@ -4,7 +4,7 @@ author: "Ruohan Li"
 date: "2022-08-10T20:10:42Z"
 tags: [笔记]
 link: "https://bookdown.org/liruohan0/r-notes/"
-length_weight: "10.3%"
+length_weight: "3%"
 pinned: false
 ---
 

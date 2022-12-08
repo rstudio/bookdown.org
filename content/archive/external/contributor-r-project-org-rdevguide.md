@@ -1,10 +1,10 @@
 ---
 title: "R Development Guide"
 author: "R Contribution Working Group"
-date: "2022-11-30"
+date: "2022-12-03"
 tags: [Guide]
 link: "https://contributor.r-project.org/rdevguide/"
-length_weight: "9.4%"
+length_weight: "2.8%"
 cover: "https://contributor.r-project.org/rdevguide/img/Rlogo.png"
 repo: "r-devel/rdevguide"
 pinned: false

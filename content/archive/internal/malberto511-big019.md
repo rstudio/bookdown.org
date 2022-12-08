@@ -1,9 +1,9 @@
 ---
 title: "Disciplina BIG019 - BiG Data & Analytics"
 author: "Matricula 43350 - Marcos A. Alves - Turma T04"
-date: "2022-11-29T23:41:03Z"
+date: "2022-12-06T00:22:10Z"
 link: "https://bookdown.org/malberto511/BIG019/"
-length_weight: "100%"
+length_weight: "5.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Teodor TIPLICA"
 date: "2022-09-06T09:23:02Z"
 tags: [Package]
 link: "https://bookdown.org/teodor_tiplica/book_linearrrgression/"
-length_weight: "24.1%"
+length_weight: "6.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

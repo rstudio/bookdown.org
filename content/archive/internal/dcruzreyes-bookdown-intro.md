@@ -4,7 +4,7 @@ author: "Danna Cruz"
 date: "2020-09-25T15:29:18Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/dcruzreyes/bookdown_intro/"
-length_weight: "11%"
+length_weight: "3.2%"
 repo: "DannaCruz/DatColombia"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "John Doe"
 date: "2022-05-22T14:04:03Z"
 tags: [Package]
 link: "https://bookdown.org/forforture/firstbookdown/"
-length_weight: "5.3%"
+length_weight: "1.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Cesar Nillaga, Milo Weller, Sophie Moore"
 date: "2022-06-10T06:04:50Z"
 tags: [Tutorial]
 link: "https://bookdown.org/cnillaga6/stat-431-final-project/"
-length_weight: "7.2%"
+length_weight: "2.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

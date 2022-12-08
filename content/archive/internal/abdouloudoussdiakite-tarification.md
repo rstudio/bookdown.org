@@ -3,7 +3,7 @@ title: "La tarification a priori"
 author: "Abdoul Oudouss DIAKITE, Othmane ETTADLAOUI"
 date: "2022-06-12T14:29:07Z"
 link: "https://bookdown.org/abdouloudoussdiakite/Tarification/"
-length_weight: "8.2%"
+length_weight: "2.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

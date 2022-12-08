@@ -3,7 +3,7 @@ title: "Effective Communication in Team Collaboration"
 author: "Team 4WARD"
 date: "2022-07-23T23:39:47Z"
 link: "https://bookdown.org/zaptain/effectivecommunication/"
-length_weight: "5.2%"
+length_weight: "1.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: ""
 date: "2022-11-22T02:15:58Z"
 tags: [Biology, Data Science, Statistics]
 link: "https://bookdown.org/rehk/stm1001_foundational_biology_for_analyses_of_biological_data/"
-length_weight: "5.5%"
+length_weight: "1.6%"
 pinned: false
 ---
 

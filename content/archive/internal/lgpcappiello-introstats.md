@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Statistics"
 author: "Dr. Lauren Cappiello"
-date: "2022-11-23T21:57:37Z"
+date: "2022-12-05T22:32:25Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/lgpcappiello/introstats/"
-length_weight: "22.4%"
+length_weight: "6.5%"
 pinned: false
 ---
 

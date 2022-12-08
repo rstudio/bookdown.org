@@ -3,7 +3,7 @@ title: "Applet Codebook: CA Partners Daily MindLogger Diary v0.1"
 author: "Mike X."
 date: "2020-09-16T20:01:08Z"
 link: "https://bookdown.org/mikemxxiao/ca-partners-applet-codebook/"
-length_weight: "6.7%"
+length_weight: "1.9%"
 pinned: false
 ---
 

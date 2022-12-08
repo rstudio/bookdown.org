@@ -3,7 +3,7 @@ title: "MICROSTRUCTURAL FAULT ANALYSIS IN ROCCHETTA E CROCE (MONTE MAGGIORE, CE)
 author: "Roberta Parlavecchia"
 date: "2022-03-12T16:47:16Z"
 link: "https://bookdown.org/guadalupo_do/TesiRoberta/"
-length_weight: "20.3%"
+length_weight: "5.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

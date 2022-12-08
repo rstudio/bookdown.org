@@ -4,7 +4,7 @@ author: "田丰 武汉大学遥感学院"
 date: "2022-03-04T14:32:19Z"
 tags: [Package]
 link: "https://bookdown.org/ftian2012/test/"
-length_weight: "4.8%"
+length_weight: "1.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

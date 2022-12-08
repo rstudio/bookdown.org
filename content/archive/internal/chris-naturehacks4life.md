@@ -4,7 +4,7 @@ author: "cjlortie"
 date: "2021-10-26T20:14:08Z"
 tags: [Ecology]
 link: "https://bookdown.org/chris/naturehacks4life/"
-length_weight: "6.4%"
+length_weight: "1.9%"
 pinned: false
 ---
 

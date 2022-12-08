@@ -3,7 +3,7 @@ title: "ORCA Transitional Facility Manual V4"
 author: "Bob Dagg"
 date: "2022-09-19T23:39:57Z"
 link: "https://bookdown.org/oarfacility/transfacmanual_v41/"
-length_weight: "8.8%"
+length_weight: "2.5%"
 pinned: false
 ---
 

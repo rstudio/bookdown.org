@@ -4,7 +4,7 @@ author: "Michela Cameletti"
 date: "2022-10-28T18:29:51Z"
 tags: [Course]
 link: "https://bookdown.org/michela_cameletti/notescrashcourser/"
-length_weight: "21.5%"
+length_weight: "6.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

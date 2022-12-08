@@ -3,7 +3,7 @@ title: "bookdown-demo.knit"
 author: "probability"
 date: "2021-07-22T22:19:05Z"
 link: "https://bookdown.org/probability/inference2/"
-length_weight: "26.3%"
+length_weight: "7.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

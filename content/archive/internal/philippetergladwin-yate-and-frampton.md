@@ -1,10 +1,9 @@
 ---
 title: "Exploring primary care health in Bristol, North Somerset, and South Gloucestershire"
 author: "Dr. Philip Gladwin"
-date: "2022-11-17T14:49:37Z"
+date: "2022-12-07T15:50:49Z"
 link: "https://bookdown.org/philippetergladwin/yate_and_frampton/"
-length_weight: "8.4%"
-cover: "https://bookdown.org/philippetergladwin/yate_and_frampton/Logo55mmCropped.jpg"
+length_weight: "2.4%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "loankimrobinson"
 date: "2022-07-06T15:37:33Z"
 tags: [Shiny, Advanced R, Visualization]
 link: "https://bookdown.org/loankimrobinson/rshinybook/"
-length_weight: "15.2%"
+length_weight: "4.4%"
 repo: "loankimrobinson/R_shiny_book"
 pinned: false
 ---

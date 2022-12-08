@@ -4,7 +4,7 @@ author: "Alexandre Jaloto"
 date: "2022-03-31T00:15:20Z"
 tags: [Package]
 link: "https://bookdown.org/alexandrejaloto/unesp_unicamp/"
-length_weight: "13.5%"
+length_weight: "3.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

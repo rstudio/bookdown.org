@@ -4,7 +4,7 @@ author: "J.W.Biggs"
 date: "2018-05-12T09:48:15Z"
 tags: [Digital Currency, Package]
 link: "https://bookdown.org/Jack_Biggs/Cryptocurrency/"
-length_weight: "11.5%"
+length_weight: "3.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

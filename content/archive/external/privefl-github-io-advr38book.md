@@ -4,7 +4,7 @@ author: "Florian Privé"
 date: "2022-09-21"
 tags: [Advanced R, Course, Data Science, Github]
 link: "https://privefl.github.io/advr38book/"
-length_weight: "2.9%"
+length_weight: "0.8%"
 cover: "https://privefl.github.io/advr38book/images/hexsticker.png"
 repo: "privefl/advr38book"
 pinned: false

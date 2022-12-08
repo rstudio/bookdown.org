@@ -1,10 +1,10 @@
 ---
-title: "An introduction to using RUV-III-NB: Removing unwanted variation in single cell RNA-seq data"
+title: "An introduction to using RUV-III-NB: Removing unwanted variation in single cell data"
 author: "Alysha M De Livera and Agus Salim"
-date: "2022-07-06T05:35:29Z"
+date: "2022-12-06T19:29:14Z"
 tags: [Sequencing, Models]
 link: "https://bookdown.org/a2delivera/scRNAseq/"
-length_weight: "11.8%"
+length_weight: "3%"
 pinned: false
 ---
 

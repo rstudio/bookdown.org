@@ -3,7 +3,7 @@ title: "Analytics with KNIME and R"
 author: "Frank Acito"
 date: "2021-10-09T16:56:01Z"
 link: "https://bookdown.org/acitofrank/TextbookDraft/"
-length_weight: "27.5%"
+length_weight: "7.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Yuleng Zeng"
 date: "2018-08-28T20:53:23Z"
 tags: [Course]
 link: "https://bookdown.org/Yuleng/introrlatex/"
-length_weight: "8.5%"
+length_weight: "2.5%"
 repo: "rstudio/yuleng"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Your name"
 date: "2021-06-10T11:42:56Z"
 tags: [Package]
 link: "https://bookdown.org/dennisab_grobe/doc-template/"
-length_weight: "10%"
+length_weight: "2.9%"
 pinned: false
 ---
 

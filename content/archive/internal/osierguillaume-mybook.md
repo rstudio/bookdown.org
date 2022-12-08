@@ -4,7 +4,7 @@ author: "Guillaume Osier"
 date: "2021-11-07T19:12:30Z"
 tags: [Course, Statistics]
 link: "https://bookdown.org/osierguillaume/mybook/"
-length_weight: "18.3%"
+length_weight: "5.3%"
 pinned: false
 ---
 

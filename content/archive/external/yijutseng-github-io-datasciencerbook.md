@@ -4,7 +4,7 @@ author: "曾意儒 Yi-Ju Tseng"
 date: "2020-07-20"
 tags: [Shiny, Github]
 link: "https://yijutseng.github.io/DataScienceRBook/"
-length_weight: "17.8%"
+length_weight: "5.1%"
 repo: "yijutseng/DataAnalyticsWithRBook"
 pinned: false
 ---

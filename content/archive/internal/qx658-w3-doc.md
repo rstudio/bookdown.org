@@ -4,7 +4,7 @@ author: "Qi Xu, Jeanne Kowalski-Muegge"
 date: "2022-10-07T16:41:26Z"
 tags: [Package, Shiny, Sequencing]
 link: "https://bookdown.org/qx658/w3_doc/"
-length_weight: "6.5%"
+length_weight: "1.9%"
 pinned: false
 ---
 

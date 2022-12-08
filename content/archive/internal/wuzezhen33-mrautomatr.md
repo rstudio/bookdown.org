@@ -4,7 +4,7 @@ author: "Michael Wu"
 date: "2021-07-09T14:57:21Z"
 tags: [Package]
 link: "https://bookdown.org/wuzezhen33/mrautomatr/"
-length_weight: "8.3%"
+length_weight: "2.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

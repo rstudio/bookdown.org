@@ -4,7 +4,7 @@ author: "Mohammad Rosidi"
 date: "2020-01-25T08:13:52Z"
 tags: [Tutorial]
 link: "https://bookdown.org/moh_rosidi2610/Rcmdr-book/"
-length_weight: "19.9%"
+length_weight: "5.7%"
 cover: "https://bookdown.org/moh_rosidi2610/Rcmdr-book/images/cover.png"
 repo: "mohrosidi/Rcmdr-book"
 pinned: false

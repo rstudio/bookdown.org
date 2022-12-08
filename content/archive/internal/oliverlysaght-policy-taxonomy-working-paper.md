@@ -4,7 +4,7 @@ author: "CE-Hub Working Paper"
 date: "2022-11-17T15:46:18Z"
 tags: [Guide, Github]
 link: "https://bookdown.org/oliverlysaght/policy_taxonomy_working_paper/"
-length_weight: "8.6%"
+length_weight: "2.5%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Pyradise"
 date: "2018-05-14T08:16:53Z"
 tags: [Python]
 link: "https://bookdown.org/tonykuoyj/hello-py/"
-length_weight: "11.3%"
+length_weight: "3.3%"
 pinned: false
 ---
 

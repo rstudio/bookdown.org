@@ -4,7 +4,7 @@ author: "Hao Sun"
 date: "2022-08-25T04:05:32Z"
 tags: [Shiny, Package]
 link: "https://bookdown.org/eugenesun95/shinynotebook/"
-length_weight: "4.8%"
+length_weight: "1.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

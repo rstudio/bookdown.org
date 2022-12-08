@@ -4,7 +4,7 @@ author: "Sergio Berdiales"
 date: "2019-05-16T18:20:40Z"
 tags: [Data Science]
 link: "https://bookdown.org/sergioberdiales/calidad_aire_gijon/"
-length_weight: "13.3%"
+length_weight: "3.8%"
 pinned: false
 ---
 

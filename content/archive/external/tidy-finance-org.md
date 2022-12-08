@@ -4,7 +4,7 @@ author: "Christoph Scheuch (wikifolio Financial Technologies) and Stefan Voigt (
 date: "2022-10-04"
 tags: [Tidy, Textbook]
 link: "https://tidy-finance.org/"
-length_weight: "18.6%"
+length_weight: "5.4%"
 cover: "https://www.tidy-finance.org/cover_homepage.jpg"
 repo: "voigtstefan/tidy_finance"
 pinned: false

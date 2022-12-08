@@ -4,7 +4,7 @@ author: "victor_morales"
 date: "2022-06-15T12:45:16Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/victor_morales/SpatialEconometrics/"
-length_weight: "29.2%"
+length_weight: "8.4%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Clayton Engelby"
 date: "2020-12-09T05:28:09Z"
 tags: [Machine Learning, Market, Models]
 link: "https://bookdown.org/engelbyclayton/eco_397_weapons_of_math_destruction_review/"
-length_weight: "8.7%"
+length_weight: "2.5%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Mercedes Vázquez Furelos, María Eugenia Mera Rivas, Jorge Herrera de 
 date: "2022-09-27T18:39:22Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/GRUPO0_22_23/"
-length_weight: "8.8%"
+length_weight: "2.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

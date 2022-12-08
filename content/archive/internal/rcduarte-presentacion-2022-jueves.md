@@ -4,7 +4,7 @@ author: "Roberto C. Duarte"
 date: "2022-05-26T13:19:45Z"
 tags: [Package]
 link: "https://bookdown.org/Rcduarte/presentacion_2022_jueves/"
-length_weight: "22%"
+length_weight: "6.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Jordan Eaddy"
 date: "2022-10-28T17:09:44Z"
 tags: [Package]
 link: "https://bookdown.org/baseballeaddy/tech_guide/"
-length_weight: "4.3%"
+length_weight: "1.3%"
 repo: "https://www.mlb.com/bluejays"
 pinned: false
 ---

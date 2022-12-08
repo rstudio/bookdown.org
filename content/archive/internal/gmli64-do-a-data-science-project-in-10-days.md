@@ -4,7 +4,7 @@ author: "Gangmin Li"
 date: "2021-03-07T19:59:27Z"
 tags: [Data Science, Course, HPC, Machine Learning, Data Analysis]
 link: "https://bookdown.org/gmli64/do_a_data_science_project_in_10_days/"
-length_weight: "4.9%"
+length_weight: "1.4%"
 repo: "GangminLi/Do-Data-Science-with-R"
 pinned: false
 ---

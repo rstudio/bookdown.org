@@ -4,7 +4,7 @@ author: "Gabriel Carrasco"
 date: "2020-10-28T02:01:33Z"
 tags: [Bayesian]
 link: "https://bookdown.org/gabc91/EMMERG_MAP/"
-length_weight: "17.9%"
+length_weight: "5.2%"
 pinned: false
 ---
 

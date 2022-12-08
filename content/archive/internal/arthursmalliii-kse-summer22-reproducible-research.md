@@ -4,7 +4,7 @@ author: "Arthur Small"
 date: "2022-06-09T20:56:26Z"
 tags: [Github, Course]
 link: "https://bookdown.org/arthursmalliii/kse-summer22-reproducible-research/"
-length_weight: "11%"
+length_weight: "3.2%"
 pinned: false
 ---
 
