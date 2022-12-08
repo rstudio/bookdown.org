@@ -4,7 +4,7 @@ author: "victor_morales"
 date: "2022-09-03T12:28:03Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/victor_morales/TecnicasML/"
-length_weight: "35.1%"
+length_weight: "10.1%"
 pinned: false
 ---
 

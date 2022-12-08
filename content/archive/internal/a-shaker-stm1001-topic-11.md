@@ -3,7 +3,7 @@ title: "STM1001 Topic 11: Statistical Power and Sample Size Calculation"
 author: "Amanda Shaker"
 date: "2021-10-27T06:29:25Z"
 link: "https://bookdown.org/a_shaker/STM1001_Topic_11/"
-length_weight: "5.5%"
+length_weight: "1.6%"
 pinned: false
 ---
 

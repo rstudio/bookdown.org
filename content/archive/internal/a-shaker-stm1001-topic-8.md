@@ -3,7 +3,7 @@ title: "STM1001 Topic 8: Correlation and Simple Linear Regression"
 author: "Amanda Shaker"
 date: "2022-10-14T00:07:54Z"
 link: "https://bookdown.org/a_shaker/STM1001_Topic_8/"
-length_weight: "9.3%"
+length_weight: "2.7%"
 pinned: false
 ---
 

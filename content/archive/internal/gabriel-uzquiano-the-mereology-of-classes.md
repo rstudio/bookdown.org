@@ -3,7 +3,7 @@ title: "The Mereology of Classes"
 author: "Gabriel Uzquiano"
 date: "2022-10-03T22:03:27Z"
 link: "https://bookdown.org/gabriel_uzquiano/the_mereology_of_classes/"
-length_weight: "5.8%"
+length_weight: "1.7%"
 pinned: false
 ---
 

@@ -3,7 +3,7 @@ title: "Seismic Hazard Assessment - Simandou Mine Site"
 author: "A. Verri, L. Linzer, J. Mussat and W. Harrison. SRK Consulting"
 date: "2022-04-09T14:44:24Z"
 link: "https://bookdown.org/averri/ar-m2c19/"
-length_weight: "24%"
+length_weight: "6.9%"
 cover: "https://bookdown.org/averri/ar-m2c19/static/Simandou.png"
 pinned: false
 ---

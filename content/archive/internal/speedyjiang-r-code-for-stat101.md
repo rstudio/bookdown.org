@@ -4,7 +4,7 @@ author: "speedyjiang"
 date: "2022-10-28T04:04:28Z"
 tags: [Course, Textbook, Statistics]
 link: "https://bookdown.org/speedyjiang/r_code_for_stat101/"
-length_weight: "19.4%"
+length_weight: "5.6%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "David Zhang, Regina Reynolds"
 date: "2020-10-27T14:12:07Z"
 tags: [Package, Guide]
 link: "https://bookdown.org/rytenlab/ryten_induction/"
-length_weight: "4.9%"
+length_weight: "1.4%"
 repo: "rytenlab/ryten_induction"
 pinned: false
 ---

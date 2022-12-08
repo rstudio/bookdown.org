@@ -3,7 +3,7 @@ title: "Practical 6 - Variable Selection"
 author: "Team in Room 420 - Megan Ruffle, Naphon Olley, Jennifer James, William Ryan"
 date: "2022-08-10T11:58:51Z"
 link: "https://bookdown.org/LabTeam/practical6/"
-length_weight: "6.4%"
+length_weight: "1.8%"
 pinned: false
 ---
 

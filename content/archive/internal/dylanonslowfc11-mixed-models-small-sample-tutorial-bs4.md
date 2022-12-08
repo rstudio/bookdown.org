@@ -4,7 +4,7 @@ author: "Dylan Dijk"
 date: "2022-09-15T09:06:52Z"
 tags: [Package, Tutorial, Multivariate]
 link: "https://bookdown.org/dylanonslowfc11/Mixed-Models-Small-Sample-Tutorial-bs4/"
-length_weight: "10.6%"
+length_weight: "3.1%"
 repo: "DylanDijk/Simon-Skene-Mixed-Models-Tutorial"
 pinned: false
 ---

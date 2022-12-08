@@ -4,7 +4,7 @@ author: "Vitória Piai"
 date: "2022-11-16T18:45:22Z"
 tags: [Psychology]
 link: "https://bookdown.org/v_piai_research/speaking/"
-length_weight: "17.3%"
+length_weight: "5%"
 pinned: false
 ---
 

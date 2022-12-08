@@ -1,9 +1,9 @@
 ---
 title: "Mestrado Computação Aplicada - Bigdata Analitics 2022"
 author: "Julio Cesar dos Santos Vieira"
-date: "2022-11-15T19:26:38Z"
+date: "2022-12-07T04:57:30Z"
 link: "https://bookdown.org/julio_vieira0777/Cadernos_Julio/"
-length_weight: "14.1%"
+length_weight: "4.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

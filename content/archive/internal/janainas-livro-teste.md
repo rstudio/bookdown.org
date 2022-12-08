@@ -4,7 +4,7 @@ author: "Ana Batriz dos Santos Barros, Ana Beatriz Mendes Lopes, Janaina Souza d
 date: "2021-10-14T19:01:14Z"
 tags: [Package]
 link: "https://bookdown.org/janainas/livro_teste/"
-length_weight: "8.8%"
+length_weight: "2.6%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Jonas Rafi"
 date: "2020-06-03"
 tags: [Guide, Tutorial]
 link: "https://www.jamoviguide.com/"
-length_weight: "6.3%"
+length_weight: "1.8%"
 repo: "jRafi/jamoviguide.com"
 pinned: false
 ---

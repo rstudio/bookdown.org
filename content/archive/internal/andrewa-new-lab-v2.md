@@ -4,7 +4,7 @@ author: "Andrew Apostoli and Adam Martin"
 date: "2020-09-01T14:57:19Z"
 tags: [Package]
 link: "https://bookdown.org/AndrewA/new_lab_v2/"
-length_weight: "18.7%"
+length_weight: "5.4%"
 pinned: false
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Data Analysis in Medicine and Health using R"
 author: "Kamarul Imran, Wan Nor Arifin, Tengku Muhammad Hanis Tengku Mokhtar"
-date: "2022-11-15T12:37:57Z"
-tags: [Data Analysis, Medicine, Epidemiology, R Programming, Package]
+date: "2022-12-06T12:46:28Z"
+tags: [Data Analysis, Medicine, R Programming, Python]
 link: "https://bookdown.org/drki_musa/dataanalysis/"
 length_weight: "100%"
 repo: "drkamarul/multivar_data_analysis"
 pinned: false
 ---
 
-Data Analysis in Medicine and Health using R [...] We wrote this book to help new R users who have limited programming and statistical background. The main audience for this book will be medical epidemiologists, public health researchers and analysts, and post-graduate students in public health and epidemiology. The book aims to help R users quickly make plots, explore and summarize data, and to perform regression analyses using the R programming language within the RStudio. We used Rmarkdown to write this book using the bookdown package and for that we are truly grateful to the people who ...
+Data Analysis in Medicine and Health using R [...] We wrote this book to help new R programming users with limited programming and statistical background. We understand the struggles they are going through to move from point-and-click statistical software such as SPSS or MS Excel to more code-centric software such as R and Python. From our experiences, frustration sets in early in learning this code-centric software. It often demotivates new users to the extent that they ditch them and return to using point-and-click statistical software. This book will minimise these struggles and gently ...

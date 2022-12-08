@@ -3,7 +3,7 @@ title: "Communication Theory"
 author: "Mike Nguyen"
 date: "2021-11-21T22:46:26Z"
 link: "https://bookdown.org/mike/comm_theory/"
-length_weight: "21.5%"
+length_weight: "6.2%"
 cover: "https://bookdown.org/mike/comm_theory/cover.jpg"
 repo: "mikenguyen13/comm_theory"
 pinned: false

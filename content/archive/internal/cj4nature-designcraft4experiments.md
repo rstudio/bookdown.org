@@ -3,7 +3,7 @@ title: "Designcraft for experiments"
 author: "cjlortie"
 date: "2022-11-10T17:57:07Z"
 link: "https://bookdown.org/cj4nature/designcraft4experiments/"
-length_weight: "11.4%"
+length_weight: "3.3%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Brynjólfur Gauti Jónsson"
 date: "2018-02-23T22:26:58Z"
 tags: [Numerical Analysis, Package, Course]
 link: "https://bookdown.org/bgautijonsson/numerical_analysis/"
-length_weight: "5.9%"
+length_weight: "1.7%"
 pinned: false
 ---
 

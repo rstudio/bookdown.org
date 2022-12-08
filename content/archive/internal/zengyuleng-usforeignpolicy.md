@@ -1,10 +1,10 @@
 ---
 title: "US Foreign Policy"
 author: "Yuleng Zeng"
-date: "2022-11-17T09:37:01Z"
+date: "2022-12-01T16:00:48Z"
 tags: [Seminar, Course, Education]
 link: "https://bookdown.org/zengyuleng/usforeignpolicy/"
-length_weight: "11.4%"
+length_weight: "3.3%"
 repo: "rstudio/economicstatecraft"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Christoph Molnar"
 date: "2022-11-30"
 tags: [Machine Learning, Guide, Models]
 link: "https://christophm.github.io/interpretable-ml-book/"
-length_weight: "28.5%"
+length_weight: "8.2%"
 pinned: false
 ---
 

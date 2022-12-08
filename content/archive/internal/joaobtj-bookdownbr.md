@@ -4,7 +4,7 @@ author: "João B. Tolentino Jr."
 date: "2022-11-09T21:11:06Z"
 tags: [R Markdown, Github]
 link: "https://bookdown.org/joaobtj/bookdownbr/"
-length_weight: "7.2%"
+length_weight: "2.1%"
 cover: "https://curso-bookdownbr.tolentino.pro.br/image/cover.jpg"
 pinned: false
 ---

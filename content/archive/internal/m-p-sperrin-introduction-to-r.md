@@ -4,7 +4,7 @@ author: "Statistics Team"
 date: "2022-07-01T10:47:14Z"
 tags: [Data Science, Course]
 link: "https://bookdown.org/m_p_sperrin/introduction_to_r/"
-length_weight: "16.1%"
+length_weight: "4.6%"
 pinned: false
 ---
 

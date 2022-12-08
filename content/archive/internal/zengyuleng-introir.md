@@ -1,10 +1,10 @@
 ---
 title: "Introduction to International Relations"
 author: "Yuleng Zeng"
-date: "2022-11-17T09:28:44Z"
+date: "2022-12-01T13:00:12Z"
 tags: [Seminar, Course, Education]
 link: "https://bookdown.org/zengyuleng/introir/"
-length_weight: "11.2%"
+length_weight: "3.3%"
 repo: "rstudio/introir"
 pinned: false
 ---

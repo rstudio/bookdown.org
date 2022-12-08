@@ -1,9 +1,9 @@
 ---
 title: "2022年度:データサイエンス　講義概要"
 author: "酒井　優行"
-date: "2022-11-19T03:59:37Z"
+date: "2022-12-02T12:26:50Z"
 link: "https://bookdown.org/masayukeeeee/jiyu-dslec-2022-abstract/"
-length_weight: "4%"
+length_weight: "1.2%"
 pinned: false
 ---
 

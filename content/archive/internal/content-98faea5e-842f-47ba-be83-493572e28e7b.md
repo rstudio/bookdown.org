@@ -4,7 +4,7 @@ author: "Johanna Orellana Alvear - johanna.orellana@ucuenca.edu.ec"
 date: "2018-07-13T04:16:41Z"
 tags: [HPC]
 link: "https://bookdown.org/content/98faea5e-842f-47ba-be83-493572e28e7b/"
-length_weight: "15%"
+length_weight: "4.3%"
 pinned: false
 ---
 

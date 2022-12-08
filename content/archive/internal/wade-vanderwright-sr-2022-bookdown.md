@@ -4,7 +4,7 @@ author: "Wade VanderWright"
 date: "2022-09-30T07:14:06Z"
 tags: [Package, Models]
 link: "https://bookdown.org/wade_vanderwright/SR_2022_bookdown/"
-length_weight: "32.3%"
+length_weight: "9.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

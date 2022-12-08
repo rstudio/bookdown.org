@@ -3,7 +3,7 @@ title: "Political Compass in the Random World"
 author: "Tejendra Pratap Singh"
 date: "2019-09-24T16:16:34Z"
 link: "https://bookdown.org/singh_pratap_tejendra/polcompass/"
-length_weight: "3.5%"
+length_weight: "1%"
 pinned: false
 ---
 

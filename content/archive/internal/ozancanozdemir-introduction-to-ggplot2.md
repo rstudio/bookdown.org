@@ -4,7 +4,7 @@ author: "Ozancan Ozdemir"
 date: "2022-09-24T09:29:19Z"
 tags: [ggplot2, Tutorial, Visualization, Data Analysis, R Programming, Package, Statistical Computing]
 link: "https://bookdown.org/ozancanozdemir/introduction-to-ggplot2/"
-length_weight: "9.1%"
+length_weight: "2.6%"
 pinned: false
 ---
 

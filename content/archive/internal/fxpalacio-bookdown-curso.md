@@ -3,7 +3,7 @@ title: "Modelos lineales y aditivos en ecología"
 author: "Facundo X. Palacio"
 date: "2022-05-05T02:18:58Z"
 link: "https://bookdown.org/fxpalacio/bookdown_curso/"
-length_weight: "24.2%"
+length_weight: "7%"
 repo: "facuxpalacio/Curso_modelos_lineales_y_aditivos_en_ecologia_2022/bookdown_curso"
 pinned: false
 ---

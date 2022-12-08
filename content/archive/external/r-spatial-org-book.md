@@ -4,7 +4,7 @@ author: "Edzer Pebesma, Roger Bivand"
 date: ""
 tags: [Spatial Data, Data Science]
 link: "https://r-spatial.org/book/"
-length_weight: "27.6%"
+length_weight: "8%"
 pinned: false
 ---
 

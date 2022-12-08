@@ -4,7 +4,7 @@ author: "Arredondo Sánchez Andrea Elizabeth, Vargas Mendoza Ana Luisa"
 date: "2019-04-02T12:56:09Z"
 tags: [Shiny, R Markdown]
 link: "https://bookdown.org/ana_vm/_book/"
-length_weight: "7.1%"
+length_weight: "2.1%"
 pinned: false
 ---
 

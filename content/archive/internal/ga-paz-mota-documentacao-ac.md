@@ -3,7 +3,7 @@ title: "Documentação da AC: Um guia para transformação, formatação e model
 author: "Academia Científica"
 date: "2022-08-09T16:26:27Z"
 link: "https://bookdown.org/ga_paz_mota/Documentacao_AC/"
-length_weight: "5.8%"
+length_weight: "1.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

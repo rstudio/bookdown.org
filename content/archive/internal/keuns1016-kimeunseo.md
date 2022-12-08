@@ -4,7 +4,7 @@ author: "kimeunseo"
 date: "2021-09-25T11:24:31Z"
 tags: [Package, Course, Data Science]
 link: "https://bookdown.org/keuns1016/kimeunseo/"
-length_weight: "6.3%"
+length_weight: "1.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

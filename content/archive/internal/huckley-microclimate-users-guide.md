@@ -4,7 +4,7 @@ author: "Yutaro Sakairi, Abigail Meyer, and Lauren Buckley; The TrEnCh Project, 
 date: "2021-07-13T04:07:25Z"
 tags: [Guide]
 link: "https://bookdown.org/huckley/microclimate_users_guide/"
-length_weight: "11.3%"
+length_weight: "3.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

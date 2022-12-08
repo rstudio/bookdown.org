@@ -1,10 +1,10 @@
 ---
 title: "PS 811 Website"
 author: "Blake Reynolds"
-date: "2022-11-15T19:20:04Z"
+date: "2022-12-05T09:55:29Z"
 tags: [Course, Social Science]
 link: "https://bookdown.org/blake_reynolds87/ps811_web/"
-length_weight: "3.2%"
+length_weight: "0.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

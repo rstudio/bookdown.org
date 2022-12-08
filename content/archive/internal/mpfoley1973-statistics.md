@@ -4,7 +4,7 @@ author: "Michael Foley"
 date: "2022-11-13T12:00:42Z"
 tags: [Tutorial, Machine Learning, Text Mining, Survival Analysis]
 link: "https://bookdown.org/mpfoley1973/statistics/"
-length_weight: "31.1%"
+length_weight: "9%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "by J Rafael Verudzco Torres and Mark Wong"
 date: "2022-10-05T13:19:56Z"
 tags: [Social Science, Course, Package, Github]
 link: "https://bookdown.org/jovet255/lab-workbook/"
-length_weight: "23.6%"
+length_weight: "6.8%"
 cover: "https://bookdown.org/jovet255/lab-workbook/images/cover.PNG"
 repo: "rstudio/bookdown-demo"
 pinned: false

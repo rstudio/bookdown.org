@@ -4,7 +4,7 @@ author: "Jingyi Guan and Thu Dang"
 date: "2022-11-26T03:25:12Z"
 tags: [Simulation]
 link: "https://bookdown.org/jguan/Simulation/"
-length_weight: "6.1%"
+length_weight: "1.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Susu Zhang"
 date: "2022-11-15T03:53:02Z"
 tags: [R Programming, Package]
 link: "https://bookdown.org/sz_psyc490/r4psychometics/"
-length_weight: "26%"
+length_weight: "7.5%"
 pinned: false
 ---
 

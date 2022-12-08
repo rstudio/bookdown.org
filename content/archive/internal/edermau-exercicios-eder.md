@@ -4,7 +4,7 @@ author: "Eder Mauricio Barbosa"
 date: "2022-11-12T13:29:08Z"
 tags: [Package]
 link: "https://bookdown.org/edermau/Exercicios_Eder/"
-length_weight: "7.5%"
+length_weight: "2.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

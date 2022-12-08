@@ -4,7 +4,7 @@ author: "Jordan T. Bates"
 date: "2017-06-20T18:10:10Z"
 tags: [Course, R Markdown]
 link: "https://bookdown.org/jtbates/AML100_R/"
-length_weight: "3.4%"
+length_weight: "1%"
 repo: "jtbates/AML100_R"
 pinned: false
 ---

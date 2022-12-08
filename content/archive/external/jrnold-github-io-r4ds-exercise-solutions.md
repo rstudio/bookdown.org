@@ -4,7 +4,7 @@ author: "Jeffrey B. Arnold"
 date: "2020-07-19"
 tags: [Data Science, Github]
 link: "https://jrnold.github.io/r4ds-exercise-solutions/"
-length_weight: "23.2%"
+length_weight: "6.7%"
 repo: "jrnold/r4ds-exercise-solutions"
 pinned: false
 ---

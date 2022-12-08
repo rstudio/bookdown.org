@@ -3,7 +3,7 @@ title: "Documentação da Academia Científica: Um guia para transformação, mo
 author: "Academia Científica"
 date: "2022-11-04T22:57:22Z"
 link: "https://bookdown.org/ga_paz_mota/DocumentacaoAC/"
-length_weight: "28.6%"
+length_weight: "8.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

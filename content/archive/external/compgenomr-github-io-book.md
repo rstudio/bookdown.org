@@ -4,7 +4,7 @@ author: "Altuna Akalin"
 date: "2020-09-30"
 tags: [Guide, Data Analysis, Course, Biology, Medicine]
 link: "https://compgenomr.github.io/book/"
-length_weight: "29.1%"
+length_weight: "8.4%"
 cover: "https://compgenomr.github.io/book/images/cover.jpg"
 repo: "compgenomr/book"
 pinned: false

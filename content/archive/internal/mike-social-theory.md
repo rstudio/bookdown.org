@@ -4,7 +4,7 @@ author: "Mike Nguyen"
 date: "2022-09-28T01:03:24Z"
 tags: [Social Science]
 link: "https://bookdown.org/mike/social-theory/"
-length_weight: "9.3%"
+length_weight: "2.7%"
 cover: "https://bookdown.org/mike/social-theory/images/cover.jpg"
 repo: "mikenguyen13/social-theory"
 pinned: false

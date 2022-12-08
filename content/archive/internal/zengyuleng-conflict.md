@@ -4,7 +4,7 @@ author: "Yuleng Zeng"
 date: "2022-06-29T12:52:41Z"
 tags: [Seminar, Course, Education]
 link: "https://bookdown.org/zengyuleng/conflict/"
-length_weight: "13%"
+length_weight: "3.7%"
 repo: "rstudio/conflict"
 pinned: false
 ---

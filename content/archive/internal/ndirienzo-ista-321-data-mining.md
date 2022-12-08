@@ -4,7 +4,7 @@ author: "Nicholas DiRienzo"
 date: "2022-06-17T02:54:54Z"
 tags: [Course, Visualization, Statistics, Machine Learning]
 link: "https://bookdown.org/ndirienzo/ista_321_data_mining/"
-length_weight: "4.3%"
+length_weight: "1.3%"
 pinned: false
 ---
 
