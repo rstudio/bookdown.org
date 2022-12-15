@@ -1,9 +1,9 @@
 ---
-title: "Policy Taxonomy"
+title: "Policy Taxonomy for CE transformation"
 author: "CE-Hub Working Paper"
-date: "2022-12-07T06:39:25Z"
+date: "2022-12-13T23:24:27Z"
 link: "https://bookdown.org/oliverlysaght/taxonomy-v22/"
-length_weight: "6.1%"
+length_weight: "6%"
 pinned: false
 ---
 

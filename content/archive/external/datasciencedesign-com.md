@@ -1,10 +1,10 @@
 ---
 title: "Designing and Building Data Science Solutions"
 author: "Jonathan Leslie, Neri Van Otten"
-date: "2020-11-01"
+date: "2022-12-14"
 tags: [Data Science, Machine Learning, Guide]
 link: "https://datasciencedesign.com/"
-length_weight: "0%"
+length_weight: "4%"
 repo: "nerivo/data-science-design"
 pinned: false
 ---

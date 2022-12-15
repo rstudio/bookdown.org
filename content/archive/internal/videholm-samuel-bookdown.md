@@ -1,10 +1,10 @@
 ---
 title: "Pediatrik - en studieguide för ST-läkare"
 author: "Editor: Samuel Videholm"
-date: "2022-11-23T19:53:16Z"
+date: "2022-12-14T14:57:17Z"
 tags: [Guide]
 link: "https://bookdown.org/videholm_samuel/bookdown/"
-length_weight: "8.6%"
+length_weight: "8.8%"
 pinned: false
 ---
 

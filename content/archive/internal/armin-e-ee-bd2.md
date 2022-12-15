@@ -1,7 +1,7 @@
 ---
 title: "Entscheidungsergonomie & Behavioural Design"
 author: "Prof. Dr. Armin Eichinger"
-date: "2022-10-30T07:42:33Z"
+date: "2022-12-12T10:16:26Z"
 link: "https://bookdown.org/Armin_E/ee-bd2/"
 length_weight: "9.4%"
 repo: "rstudio/bookdown-demo"

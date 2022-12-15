@@ -1,9 +1,9 @@
 ---
 title: "Caderno de exercícos Mestrado de computação aplicada"
 author: "Anderson dos Santos"
-date: "2022-12-06T22:20:45Z"
+date: "2022-12-14T00:21:11Z"
 link: "https://bookdown.org/adsantos/caderno-bd/"
-length_weight: "2.5%"
+length_weight: "7.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
