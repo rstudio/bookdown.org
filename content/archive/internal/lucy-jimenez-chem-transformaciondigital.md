@@ -1,7 +1,7 @@
 ---
 title: "_main.knit"
 author: "lucy_jimenez_chem"
-date: "2022-11-30T20:19:40Z"
+date: "2022-12-14T13:33:32Z"
 tags: [Package]
 link: "https://bookdown.org/lucy_jimenez_chem/transformaciondigital/"
 length_weight: "100%"

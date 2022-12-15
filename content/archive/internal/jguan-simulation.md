@@ -1,7 +1,7 @@
 ---
 title: "Using simulation to compare sensitivity of PLIS procedure and conventional p-value procedure"
 author: "Jingyi Guan and Thu Dang"
-date: "2022-11-26T03:25:12Z"
+date: "2022-12-12T02:16:55Z"
 tags: [Simulation]
 link: "https://bookdown.org/jguan/Simulation/"
 length_weight: "1.8%"

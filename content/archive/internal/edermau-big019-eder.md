@@ -1,9 +1,9 @@
 ---
 title: "Disciplina - BiG Data & Analytics"
 author: "Eder M Barbosa - Matricula 42990 - Turma T04"
-date: "2022-12-05T23:35:51Z"
+date: "2022-12-13T23:46:08Z"
 link: "https://bookdown.org/edermau/BIG019_Eder/"
-length_weight: "6.2%"
+length_weight: "100%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
