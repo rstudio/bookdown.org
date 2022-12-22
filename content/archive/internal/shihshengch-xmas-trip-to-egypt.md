@@ -1,10 +1,10 @@
 ---
 title: "圣诞埃及游：行前准备"
 author: "shihshengch"
-date: "2022-12-13T15:26:03Z"
+date: "2022-12-21T16:30:59Z"
 tags: [笔记]
 link: "https://bookdown.org/shihshengch/xmas_trip_to_egypt/"
-length_weight: "1%"
+length_weight: "3.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

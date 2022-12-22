@@ -4,7 +4,7 @@ author: "Gerhard Krennrich"
 date: "2020-07-18T12:02:05Z"
 tags: [Course, Statistics]
 link: "https://bookdown.org/gerhard_krennrich/doe_and_optimization/"
-length_weight: "1.2%"
+length_weight: "4.2%"
 pinned: false
 ---
 

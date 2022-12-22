@@ -4,7 +4,7 @@ author: "Søren O’Neill"
 date: "2017-11-01T15:07:59Z"
 tags: [Guide]
 link: "https://bookdown.org/sorenspam50/guide/"
-length_weight: "4.2%"
+length_weight: "14.7%"
 pinned: false
 ---
 

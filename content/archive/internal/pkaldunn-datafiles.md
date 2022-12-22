@@ -4,7 +4,7 @@ author: "Peter K. Dunn and Margaret Marshman"
 date: "2022-05-03T04:25:07Z"
 tags: [Statistics, Education]
 link: "https://bookdown.org/pkaldunn/DataFiles/"
-length_weight: "2.6%"
+length_weight: "8.9%"
 pinned: false
 ---
 

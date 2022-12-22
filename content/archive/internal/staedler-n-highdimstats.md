@@ -4,7 +4,7 @@ author: "Nicolas Städler"
 date: "2022-10-28T08:03:17Z"
 tags: [Course, Github, Statistics]
 link: "https://bookdown.org/staedler_n/highdimstats/"
-length_weight: "5.2%"
+length_weight: "18.1%"
 cover: "https://bookdown.org/staedler_n/highdimstats/logo2.jpg"
 repo: "staedlern/highdim_stats"
 pinned: false

@@ -3,7 +3,7 @@ title: "Elegant Bookdown Template"
 author: "黄湘云 & 叶 飞"
 date: "2021-05-09T14:56:06Z"
 link: "https://bookdown.org/xiangyun/elegantbookdown/"
-length_weight: "1.7%"
+length_weight: "6%"
 repo: "XiangyunHuang/ElegantBookdown"
 pinned: false
 ---

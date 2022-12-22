@@ -3,7 +3,7 @@ title: "WK3 Homework"
 author: "Heo Soyoung"
 date: "2021-09-20T17:36:54Z"
 link: "https://bookdown.org/x2015susanh/week3/"
-length_weight: "1.3%"
+length_weight: "4.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

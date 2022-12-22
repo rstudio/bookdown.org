@@ -4,7 +4,7 @@ author: "Michael Clark"
 date: "2020-10-12"
 tags: [Data Science, Visualization, Python, Github]
 link: "https://m-clark.github.io/data-processing-and-visualization/"
-length_weight: "6.5%"
+length_weight: "22.5%"
 cover: "https://m-clark.github.io/data-processing-and-visualization/img/nineteeneightyR.png"
 repo: "m-clark/data-processing-and-visualization"
 pinned: false

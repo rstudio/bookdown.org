@@ -4,7 +4,7 @@ author: "Benjamin Meyer, Kenai Watershed Forum (ben@kenaiwatershed.org)"
 date: "2022-11-11T22:54:26Z"
 tags: [Package]
 link: "https://bookdown.org/kwfwqx/tu_awc_expansion/"
-length_weight: "3.1%"
+length_weight: "10.7%"
 repo: "https://bookdown.org/kwfwqx/tu_awc_expansion"
 pinned: false
 ---

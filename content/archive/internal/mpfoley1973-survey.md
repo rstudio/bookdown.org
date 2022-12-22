@@ -4,7 +4,7 @@ author: "Michael Foley"
 date: "2022-11-14T10:18:04Z"
 tags: [Course, Guide, Package]
 link: "https://bookdown.org/mpfoley1973/survey/"
-length_weight: "2.7%"
+length_weight: "9.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

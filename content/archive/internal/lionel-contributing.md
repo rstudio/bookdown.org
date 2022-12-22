@@ -4,7 +4,7 @@ author: "Lionel Henry"
 date: "2021-03-18T11:41:03Z"
 tags: [Guide]
 link: "https://bookdown.org/lionel/contributing/"
-length_weight: "2.6%"
+length_weight: "8.9%"
 repo: "lionel-/contributing"
 pinned: false
 ---

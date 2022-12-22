@@ -3,7 +3,7 @@ title: "Wrangling-Genomics"
 author: "Guri Giaever"
 date: "2022-11-30T08:46:04Z"
 link: "https://bookdown.org/ggiaever/wrangling-genomics/"
-length_weight: "2.1%"
+length_weight: "7.3%"
 repo: "gurinina/wrangling-genomics"
 pinned: false
 ---

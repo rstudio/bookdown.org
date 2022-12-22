@@ -4,7 +4,7 @@ author: "Jeff Wesner, Ph.D., University of South Dakota, Department of Biology, 
 date: "2022-10-05T13:45:32Z"
 tags: [Biology]
 link: "https://bookdown.org/jeffwesner/Inquiry_Textbook/"
-length_weight: "7.2%"
+length_weight: "24.8%"
 pinned: false
 ---
 

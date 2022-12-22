@@ -4,7 +4,7 @@ author: "Phil Hahn & Leo Ohyama"
 date: "2022-11-05T22:57:29Z"
 tags: [Statistics]
 link: "https://bookdown.org/leoohyama12/stats_in_r/"
-length_weight: "7%"
+length_weight: "24.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

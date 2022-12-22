@@ -4,7 +4,7 @@ author: "Alma A. Bezares Calderón"
 date: "2022-02-15T21:26:06Z"
 tags: [Guide]
 link: "https://bookdown.org/abezarescalderon/guide-research/"
-length_weight: "3.6%"
+length_weight: "12.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

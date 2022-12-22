@@ -4,7 +4,7 @@ author: "Sergio Berdiales"
 date: "2019-05-30T20:53:25Z"
 tags: [Data Science, Github]
 link: "https://bookdown.org/sergioberdiales/preguntas_entrevistas_data_science/"
-length_weight: "1.6%"
+length_weight: "5.5%"
 pinned: false
 ---
 

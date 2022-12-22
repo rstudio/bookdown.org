@@ -4,7 +4,7 @@ author: "Ilán F. Carretero Juchnowicz"
 date: "2021-05-27T16:05:54Z"
 tags: [Advanced R, Machine Learning, Statistics, Data Science, Course]
 link: "https://bookdown.org/f100441618/bookdown-regresion/"
-length_weight: "2.7%"
+length_weight: "9.5%"
 pinned: false
 ---
 

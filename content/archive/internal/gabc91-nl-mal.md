@@ -4,7 +4,7 @@ author: "Gabriel Carrasco-Escobar"
 date: "2020-05-27T06:58:32Z"
 tags: [Epidemiology]
 link: "https://bookdown.org/gabc91/NL_MAL/"
-length_weight: "2.4%"
+length_weight: "8.2%"
 pinned: false
 ---
 

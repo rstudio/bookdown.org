@@ -4,7 +4,7 @@ author: "Roberto C. Duarte"
 date: "2022-05-02T03:37:17Z"
 tags: [Package]
 link: "https://bookdown.org/Rcduarte/curso_r_2022/"
-length_weight: "6.4%"
+length_weight: "22%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

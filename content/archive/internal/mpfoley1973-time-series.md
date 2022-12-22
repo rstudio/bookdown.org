@@ -4,7 +4,7 @@ author: "Michael Foley"
 date: "2021-11-06T17:58:35Z"
 tags: [Forecasting, Models]
 link: "https://bookdown.org/mpfoley1973/time-series/"
-length_weight: "5.7%"
+length_weight: "19.8%"
 pinned: false
 ---
 

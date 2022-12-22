@@ -4,7 +4,7 @@ author: "Alex Hallam"
 date: "2017-11-07T00:57:38Z"
 tags: [Simulation, James-Stein Estimator, Tidyverse, Statistics]
 link: "https://bookdown.org/content/7248dd1e-d3cd-4e84-a7e2-5b6fefef10f1/"
-length_weight: "3%"
+length_weight: "10.3%"
 repo: "alexhallam/js_td"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Statistika dan Sains Data untuk Bisnis"
 author: "Aep Hidayatuloh"
 date: "2022-07-01T14:52:13Z"
 link: "https://bookdown.org/aepstk/analisisdatabisnis/"
-length_weight: "3.3%"
+length_weight: "11.3%"
 cover: "https://bookdown.org/aepstk/analisisdatabisnis/img/ssdb.png"
 pinned: false
 ---

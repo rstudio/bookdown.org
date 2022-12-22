@@ -4,7 +4,7 @@ author: "Beckett Stephens"
 date: "2018-02-19T15:09:43Z"
 tags: [Video Game]
 link: "https://bookdown.org/nwstephens/the-final-war/"
-length_weight: "1.7%"
+length_weight: "5.8%"
 cover: "https://bookdown.org/nwstephens/the-final-war/img/final-war.jpg"
 repo: "nwstephens/the-final-war"
 pinned: false

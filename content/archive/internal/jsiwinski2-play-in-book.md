@@ -4,7 +4,7 @@ author: "Joe Siwinski"
 date: "2021-02-22T22:42:52Z"
 tags: [Conference, Github]
 link: "https://bookdown.org/jsiwinski2/play-in-book/"
-length_weight: "1.4%"
+length_weight: "4.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

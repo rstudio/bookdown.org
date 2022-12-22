@@ -4,7 +4,7 @@ author: "Chris Brunsdon and Lex Comber"
 date: "2022-09-08T13:04:26Z"
 tags: [Package]
 link: "https://bookdown.org/lexcomber/brunsdoncomber2e/"
-length_weight: "1%"
+length_weight: "3.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

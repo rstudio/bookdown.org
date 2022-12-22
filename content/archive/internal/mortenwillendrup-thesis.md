@@ -4,7 +4,7 @@ author: "Morten Søby Willendrup"
 date: "2022-02-11T13:20:42Z"
 tags: [Machine Learning, Package]
 link: "https://bookdown.org/MortenWillendrup/thesis/"
-length_weight: "6.5%"
+length_weight: "22.4%"
 pinned: false
 ---
 

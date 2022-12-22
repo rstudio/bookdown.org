@@ -4,7 +4,7 @@ author: "John Kim"
 date: "2022-11-13T18:49:41Z"
 tags: [Tidy, Guide, Tidyverse, Data Analysis, Course]
 link: "https://bookdown.org/johnkim49er/tidying_up_POL345/"
-length_weight: "3%"
+length_weight: "10.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

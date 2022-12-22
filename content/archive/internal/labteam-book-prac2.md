@@ -3,7 +3,7 @@ title: "Practical 2 - Understanding correlation and further exploring relationsh
 author: "Team in Room 420 - Megan Ruffle, Naphon Olley, Jennifer James, William Ryan"
 date: "2022-08-10T13:32:52Z"
 link: "https://bookdown.org/LabTeam/_book-prac2/"
-length_weight: "2.3%"
+length_weight: "7.9%"
 pinned: false
 ---
 

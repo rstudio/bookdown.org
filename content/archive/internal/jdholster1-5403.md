@@ -4,7 +4,7 @@ author: "jdholster1"
 date: "2022-11-06T04:34:04Z"
 tags: [Course]
 link: "https://bookdown.org/jdholster1/5403/"
-length_weight: "7.5%"
+length_weight: "25.8%"
 pinned: false
 ---
 

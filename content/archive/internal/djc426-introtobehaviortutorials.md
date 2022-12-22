@@ -4,7 +4,7 @@ author: "Dena J. Clink"
 date: "2020-07-28T18:26:52Z"
 tags: [Tutorial]
 link: "https://bookdown.org/djc426/IntroToBehaviorTutorials/"
-length_weight: "4.8%"
+length_weight: "16.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

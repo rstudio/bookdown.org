@@ -4,7 +4,7 @@ author: "Maria Gallegos, Cal State University East Bay"
 date: "2022-09-13T20:45:56Z"
 tags: [Education, Course]
 link: "https://bookdown.org/maria_gallegos/where-are-genes/"
-length_weight: "7.6%"
+length_weight: "26.4%"
 pinned: false
 ---
 

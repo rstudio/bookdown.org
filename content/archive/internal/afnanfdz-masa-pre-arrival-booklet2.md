@@ -4,7 +4,7 @@ author: "By the Student Outreach Committee of MaSA UIUC"
 date: "2022-10-22T14:40:18Z"
 tags: [Guide]
 link: "https://bookdown.org/afnanfdz/masa-pre-arrival-booklet2/"
-length_weight: "2.2%"
+length_weight: "7.5%"
 pinned: false
 ---
 

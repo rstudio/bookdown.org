@@ -4,7 +4,7 @@ author: "John Doe"
 date: "2022-02-18T20:20:13Z"
 tags: [Package]
 link: "https://bookdown.org/janainas/Teste-git-1644078142643/"
-length_weight: "1.6%"
+length_weight: "5.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

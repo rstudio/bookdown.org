@@ -4,7 +4,7 @@ author: "Kevin Ross"
 date: "2022-08-20T17:51:05Z"
 tags: [Statistics, Business Analytics]
 link: "https://bookdown.org/kevin_davisross/gsb518-handouts-2022/"
-length_weight: "7.9%"
+length_weight: "27.3%"
 pinned: false
 ---
 

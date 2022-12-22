@@ -4,7 +4,7 @@ author: "Alfredo Hernandez Sanchez, PhD"
 date: "2022-11-07T13:31:07Z"
 tags: [Visualization, Course]
 link: "https://bookdown.org/alhdzsz/data_viz_ir/"
-length_weight: "1.1%"
+length_weight: "4%"
 cover: "https://bookdown.org/alhdzsz/data_viz_ir/images/cover.jpg"
 pinned: false
 ---
