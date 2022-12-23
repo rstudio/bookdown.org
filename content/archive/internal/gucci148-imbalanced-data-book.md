@@ -4,7 +4,7 @@ author: "Nana Boateng"
 date: "2021-12-14T20:05:22Z"
 tags: [Machine Learning, Textbook, Package, Github]
 link: "https://bookdown.org/gucci148/imbalanced_data_book/"
-length_weight: "1.6%"
+length_weight: "5.4%"
 repo: "Imbalanced_Data"
 pinned: false
 ---

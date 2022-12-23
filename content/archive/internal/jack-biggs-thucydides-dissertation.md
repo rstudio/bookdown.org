@@ -4,7 +4,7 @@ author: "J.W.Biggs"
 date: "2018-06-02T13:41:51Z"
 tags: [Package]
 link: "https://bookdown.org/Jack_Biggs/Thucydides_Dissertation/"
-length_weight: "4.9%"
+length_weight: "16.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

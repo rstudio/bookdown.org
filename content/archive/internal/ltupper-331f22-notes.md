@@ -4,7 +4,7 @@ author: "Laurie Tupper"
 date: "2022-11-18T18:12:04Z"
 tags: [Course]
 link: "https://bookdown.org/ltupper/331f22_notes/"
-length_weight: "9.5%"
+length_weight: "33%"
 pinned: false
 ---
 

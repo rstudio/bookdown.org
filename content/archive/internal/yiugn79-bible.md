@@ -4,7 +4,7 @@ author: "이우근"
 date: "2022-01-23T13:53:54Z"
 tags: [Package]
 link: "https://bookdown.org/yiugn79/bible/"
-length_weight: "5.4%"
+length_weight: "18.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Yi Shang"
 date: "2022-09-01T03:34:51Z"
 tags: [Course, Education, Python]
 link: "https://bookdown.org/yshang/book/"
-length_weight: "2.1%"
+length_weight: "7.4%"
 pinned: false
 ---
 

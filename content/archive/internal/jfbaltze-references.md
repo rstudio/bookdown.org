@@ -4,7 +4,7 @@ author: "Jennifer Baltzegar"
 date: "2022-06-09T23:33:15Z"
 tags: [Conference]
 link: "https://bookdown.org/jfbaltze/References/"
-length_weight: "1.1%"
+length_weight: "3.8%"
 pinned: false
 ---
 

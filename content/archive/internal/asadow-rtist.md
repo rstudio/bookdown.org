@@ -4,7 +4,7 @@ author: "Adam Sadowski"
 date: "2022-10-26T21:39:23Z"
 tags: [Guide]
 link: "https://bookdown.org/asadow/rtist/"
-length_weight: "1.5%"
+length_weight: "5.3%"
 cover: "https://bookdown.org/asadow/rtist/images/0-preface/cover_bob-ross.jpg"
 repo: "asadow/how-to-be-an-Rtist"
 pinned: false

@@ -4,7 +4,7 @@ author: "Nicolas Gaussel"
 date: "2022-09-29T17:01:46Z"
 tags: [Market]
 link: "https://bookdown.org/nicolas_gaussel1/lectureNotes/"
-length_weight: "5.2%"
+length_weight: "17.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

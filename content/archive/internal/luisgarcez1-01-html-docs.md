@@ -3,7 +3,7 @@ title: "PDS Documentation Hub"
 author: "luisgarcez1"
 date: "2022-06-24T12:22:28Z"
 link: "https://bookdown.org/luisgarcez1/01_HTML_docs/"
-length_weight: "4.9%"
+length_weight: "16.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

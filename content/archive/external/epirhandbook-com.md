@@ -1,7 +1,7 @@
 ---
 title: "The Epidemiologist R Handbook"
 author: "the handbook team"
-date: "2022-11-27"
+date: "2022-12-13"
 tags: [Epidemiology, Tutorial, Course]
 link: "https://epirhandbook.com/"
 length_weight: "0%"

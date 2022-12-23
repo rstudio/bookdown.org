@@ -4,7 +4,7 @@ author: "Sergio Berdiales"
 date: "2020-02-10T18:22:26Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/sergioberdiales/edp_sun_power_prediction/"
-length_weight: "1.8%"
+length_weight: "6.2%"
 pinned: false
 ---
 

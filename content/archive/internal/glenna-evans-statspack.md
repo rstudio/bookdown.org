@@ -4,7 +4,7 @@ author: "Glenna Nightingale and Michael Allerhand"
 date: "2022-12-06T09:58:33Z"
 tags: [Statistics, Epidemiology, Ecology, Social Science]
 link: "https://bookdown.org/glenna_evans/statspack/"
-length_weight: "3.2%"
+length_weight: "11.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

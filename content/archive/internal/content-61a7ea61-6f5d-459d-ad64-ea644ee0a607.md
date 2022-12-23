@@ -4,7 +4,7 @@ author: "Cheng-Chung Li"
 date: "2017-07-04T12:05:33Z"
 tags: [Package, 臺灣, Github]
 link: "https://bookdown.org/content/61a7ea61-6f5d-459d-ad64-ea644ee0a607/"
-length_weight: "0.9%"
+length_weight: "3.1%"
 repo: "askia318/RPackagesBook"
 pinned: false
 ---

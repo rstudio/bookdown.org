@@ -3,7 +3,7 @@ title: "Statistical Rethinking"
 author: "Brynjólfur Gauti Jónsson"
 date: "2018-12-18T22:41:49Z"
 link: "https://bookdown.org/bgautijonsson/statistical_rethinking_solutions/"
-length_weight: "2%"
+length_weight: "7.1%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Vahid Shahrezaei"
 date: "2021-03-24T15:14:40Z"
 tags: [Multivariate, Course]
 link: "https://bookdown.org/vshahrez/lecture-notes/"
-length_weight: "7.2%"
+length_weight: "24.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

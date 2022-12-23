@@ -4,7 +4,7 @@ author: "Marina Wiebe"
 date: "2019-04-27T18:33:58Z"
 tags: [Guide]
 link: "https://bookdown.org/marinawiebe/TankGuide/"
-length_weight: "1.8%"
+length_weight: "6.2%"
 pinned: false
 ---
 

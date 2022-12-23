@@ -4,7 +4,7 @@ author: "Lex Comber"
 date: "2022-12-05T09:15:11Z"
 tags: [Spatial Data]
 link: "https://bookdown.org/lexcomber/GEOG3195/"
-length_weight: "3.5%"
+length_weight: "12.1%"
 pinned: false
 ---
 

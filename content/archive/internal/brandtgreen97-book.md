@@ -4,7 +4,7 @@ author: "Brandt Green"
 date: "2022-10-23T18:05:52Z"
 tags: [R Markdown]
 link: "https://bookdown.org/brandtgreen97/Book/"
-length_weight: "1.8%"
+length_weight: "6.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

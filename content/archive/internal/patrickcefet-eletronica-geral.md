@@ -3,7 +3,7 @@ title: "Eletrônica Geral"
 author: "Patrick Mendes dos Santos"
 date: "2022-10-26T15:35:23Z"
 link: "https://bookdown.org/patrickcefet/eletronica_geral/"
-length_weight: "9.8%"
+length_weight: "34%"
 pinned: false
 ---
 

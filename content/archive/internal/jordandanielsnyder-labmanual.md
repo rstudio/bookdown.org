@@ -4,7 +4,7 @@ author: "Jordan D. Snyder, Psy.D."
 date: "2022-09-23T15:20:49Z"
 tags: [Guide]
 link: "https://bookdown.org/jordandanielsnyder/LabManual/"
-length_weight: "4%"
+length_weight: "13.8%"
 repo: "https://github.com/jordandsnyder/labmanual"
 pinned: false
 ---

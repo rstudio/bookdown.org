@@ -4,7 +4,7 @@ author: "Martin Monkman"
 date: "2022-12-10T15:54:50Z"
 tags: [Course, Python]
 link: "https://bookdown.org/martin_monkman/DataAnalyticsCodingFundamentals/"
-length_weight: "10.3%"
+length_weight: "100%"
 cover: "https://bookdown.org/martin_monkman/DataAnalyticsCodingFundamentals/BIDA302_hex_400_sq.png"
 repo: "MonkmanMH/UVic_BIDA302"
 pinned: false

@@ -3,7 +3,7 @@ title: "Interactions et modification d’effet   en Epidémiologie"
 author: "CERPOP, INSERM, EQUITY Team"
 date: "2022-11-22T15:39:00Z"
 link: "https://bookdown.org/ln_colineaux/Interaction_book/"
-length_weight: "5%"
+length_weight: "17.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

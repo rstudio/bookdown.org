@@ -4,7 +4,7 @@ author: "Michael Clark m-clark.github.io"
 date: ""
 tags: [Generalized Additive Model, Models, Package, Github]
 link: "https://m-clark.github.io/generalized-additive-models/"
-length_weight: "3.8%"
+length_weight: "13.3%"
 cover: "https://m-clark.github.io/generalized-additive-models/img/nineteeneightyR.png"
 repo: "m-clark/generalized-additive-models"
 pinned: false

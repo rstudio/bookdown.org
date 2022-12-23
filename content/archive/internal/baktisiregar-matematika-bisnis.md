@@ -3,7 +3,7 @@ title: "Matematika Bisnis"
 author: "Bakti Siregar, S.Si., M.Sc"
 date: "2020-09-14T04:22:12Z"
 link: "https://bookdown.org/BaktiSiregar/matematika-bisnis/"
-length_weight: "3.1%"
+length_weight: "10.8%"
 repo: "Bakti-Siregar/Matematika-Bisnis"
 pinned: false
 ---

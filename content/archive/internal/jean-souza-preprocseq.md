@@ -4,7 +4,7 @@ author: "Jean S. S. Resende and Mauro A. A. Castro"
 date: "2022-10-13T14:25:57Z"
 tags: [Github]
 link: "https://bookdown.org/jean_souza/PreProcSEQ/"
-length_weight: "4.6%"
+length_weight: "15.9%"
 repo: "resendejss/Vignette_PreProcSEQ"
 pinned: false
 ---

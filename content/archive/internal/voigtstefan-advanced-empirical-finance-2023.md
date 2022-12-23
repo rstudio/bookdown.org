@@ -4,7 +4,7 @@ author: "Stefan Voigt, University of Copenhagen and Danish Finance Institute"
 date: "2022-11-28T15:54:09Z"
 tags: [Data Science, Course, Tidy]
 link: "https://bookdown.org/voigtstefan/advanced_empirical_finance_2023/"
-length_weight: "2%"
+length_weight: "6.8%"
 pinned: false
 ---
 

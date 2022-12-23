@@ -3,7 +3,7 @@ title: "Untitled"
 author: "Slezák Martin"
 date: "2019-11-09T17:45:28Z"
 link: "https://bookdown.org/slezakmartin0/bookdown-minimal-master/"
-length_weight: "1%"
+length_weight: "3.5%"
 pinned: false
 ---
 

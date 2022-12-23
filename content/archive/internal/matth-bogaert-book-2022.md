@@ -3,7 +3,7 @@ title: "Predictive Analytics: The Code Book"
 author: "Prof Dr Matthias Bogaert"
 date: "2022-02-07T09:31:30Z"
 link: "https://bookdown.org/matth_bogaert/Book_2022/"
-length_weight: "2.8%"
+length_weight: "9.9%"
 pinned: false
 ---
 

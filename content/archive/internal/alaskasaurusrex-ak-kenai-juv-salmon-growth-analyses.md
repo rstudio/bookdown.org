@@ -4,7 +4,7 @@ author: "Benjamin Meyer"
 date: "2022-05-29T23:31:15Z"
 tags: [Package]
 link: "https://bookdown.org/alaskasaurusrex_ak/kenai_juv_salmon_growth_analyses/"
-length_weight: "5.6%"
+length_weight: "19.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

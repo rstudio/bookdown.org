@@ -3,7 +3,7 @@ title: "OPIEKA OKOŁOOPERACYJNA"
 author: "Pod redakcją prof. Wojciecha Szczeklika"
 date: "2022-08-01T23:17:55Z"
 link: "https://bookdown.org/jfronczekmd/periop/"
-length_weight: "4.2%"
+length_weight: "14.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

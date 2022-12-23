@@ -4,7 +4,7 @@ author: "Yogi Gohel"
 date: "2022-08-30T18:16:54Z"
 tags: [Package, Course, Textbook]
 link: "https://bookdown.org/yogigohel/interactive_microeconomics/"
-length_weight: "2.3%"
+length_weight: "7.8%"
 pinned: false
 ---
 

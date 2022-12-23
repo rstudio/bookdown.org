@@ -3,7 +3,7 @@ title: "Proyecto Final: Suicidios en México y EU"
 author: "Chávez Mañón Tania Nayeli, Mendoza Suárez Brenda Grisel, Vargas Mendoza Ana Luisa"
 date: "2019-06-03T15:28:36Z"
 link: "https://bookdown.org/ana_vm/proyecto_final_dc/"
-length_weight: "5.7%"
+length_weight: "19.7%"
 pinned: false
 ---
 

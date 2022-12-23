@@ -4,7 +4,7 @@ author: "Sunbok Lee"
 date: "2021-11-08T10:00:01Z"
 tags: [Course, Data Science, Social Science, Package]
 link: "https://bookdown.org/sunboklee/ewha_r/"
-length_weight: "8.6%"
+length_weight: "29.8%"
 pinned: false
 ---
 

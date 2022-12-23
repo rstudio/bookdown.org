@@ -4,7 +4,7 @@ author: "Ramzi W. Nahhas"
 date: "2022-11-04T15:51:28Z"
 tags: [R Programming, Course, Tutorial]
 link: "https://bookdown.org/rwnahhas/IntroToR/"
-length_weight: "8.6%"
+length_weight: "29.9%"
 pinned: false
 ---
 

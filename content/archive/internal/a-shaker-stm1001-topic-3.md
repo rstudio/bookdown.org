@@ -3,7 +3,7 @@ title: "STM1001 Topic 3: Probability and Distributions"
 author: "Amanda Shaker"
 date: "2022-07-29T03:57:37Z"
 link: "https://bookdown.org/a_shaker/STM1001_Topic_3/"
-length_weight: "3.1%"
+length_weight: "10.9%"
 pinned: false
 ---
 

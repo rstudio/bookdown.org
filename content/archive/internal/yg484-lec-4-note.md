@@ -3,7 +3,7 @@ title: "Lecture 4 Note"
 author: "Yiming Gong"
 date: "2021-07-21T04:39:58Z"
 link: "https://bookdown.org/yg484/lec_4_note/"
-length_weight: "1.7%"
+length_weight: "6%"
 pinned: false
 ---
 

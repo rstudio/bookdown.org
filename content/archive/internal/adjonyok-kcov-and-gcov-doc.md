@@ -4,7 +4,7 @@ author: "Olivier Adjonyo"
 date: "2022-07-06T22:38:58Z"
 tags: [Package]
 link: "https://bookdown.org/adjonyok/Kcov_and_gcov_doc/"
-length_weight: "1.1%"
+length_weight: "3.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

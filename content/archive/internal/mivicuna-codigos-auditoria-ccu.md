@@ -3,7 +3,7 @@ title: " Códigos Auditoría CCU"
 author: "M. Ignacia Vicuña - Cristian Vásquez"
 date: "2021-12-01T21:57:33Z"
 link: "https://bookdown.org/mivicuna/codigos_auditoria_ccu/"
-length_weight: "2.6%"
+length_weight: "9%"
 repo: "mivicuna/Consultoria-CCU"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Financial Engineering and TensorFlow"
 author: "Joocheol Kim"
 date: "2021-03-26T01:36:17Z"
 link: "https://bookdown.org/joocheol/three/"
-length_weight: "5.4%"
+length_weight: "18.6%"
 pinned: false
 ---
 

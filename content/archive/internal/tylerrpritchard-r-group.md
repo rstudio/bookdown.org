@@ -4,7 +4,7 @@ author: "Tyler R. Pritchard"
 date: "2022-11-25T23:49:45Z"
 tags: [Psychology]
 link: "https://bookdown.org/tylerrpritchard/r_group/"
-length_weight: "2.5%"
+length_weight: "8.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "KU Leuven Marketing department"
 date: "2022-02-25T15:38:48Z"
 tags: [Market, Tutorial]
 link: "https://bookdown.org/lien_lamey/R_tutorial/"
-length_weight: "8.8%"
+length_weight: "30.4%"
 pinned: false
 ---
 

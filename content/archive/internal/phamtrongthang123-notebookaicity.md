@@ -3,7 +3,7 @@ title: "A notebook AICity Challenge"
 author: "Trong-Thang Pham"
 date: "2020-04-11T10:29:18Z"
 link: "https://bookdown.org/phamtrongthang123/notebookAICITY/"
-length_weight: "0.9%"
+length_weight: "3.1%"
 pinned: false
 ---
 

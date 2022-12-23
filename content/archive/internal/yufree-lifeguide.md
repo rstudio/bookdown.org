@@ -3,7 +3,7 @@ title: "自然生活的数学原理"
 author: "于淼"
 date: "2022-07-09T14:46:44Z"
 link: "https://bookdown.org/yufree/lifeguide/"
-length_weight: "8.9%"
+length_weight: "30.8%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Acx Dep. EC"
 date: "2020-08-26T04:39:00Z"
 tags: [数据分析]
 link: "https://bookdown.org/hellosunny2016/bookdown/"
-length_weight: "2.4%"
+length_weight: "8.3%"
 repo: "xyangwu"
 pinned: false
 ---

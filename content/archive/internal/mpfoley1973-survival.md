@@ -4,7 +4,7 @@ author: "Michael Foley"
 date: "2022-10-30T11:33:48Z"
 tags: [Survival Analysis]
 link: "https://bookdown.org/mpfoley1973/survival/"
-length_weight: "7.4%"
+length_weight: "25.7%"
 repo: "handbooks/survival"
 pinned: false
 ---

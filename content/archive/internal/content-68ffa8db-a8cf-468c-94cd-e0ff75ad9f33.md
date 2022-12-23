@@ -3,7 +3,7 @@ title: "Resampling method"
 author: "Armando Teixeira-Pinto"
 date: "2022-08-01T05:07:08Z"
 link: "https://bookdown.org/content/68ffa8db-a8cf-468c-94cd-e0ff75ad9f33/"
-length_weight: "2.8%"
+length_weight: "9.8%"
 pinned: false
 ---
 

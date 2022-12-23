@@ -4,7 +4,7 @@ author: "Zhenning ‘Jimmy’ Xu, Ph.D."
 date: "2022-08-22T19:20:38Z"
 tags: [Market, Course]
 link: "https://bookdown.org/utjimmyx/marketing_research/"
-length_weight: "5.4%"
+length_weight: "18.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

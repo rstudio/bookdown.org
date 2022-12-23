@@ -3,7 +3,7 @@ title: "Pharmacy Primer for T-SQL Database Interrogation"
 author: "Charles T. Makowski, PharmD"
 date: "2021-05-23T01:50:43Z"
 link: "https://bookdown.org/ctmakowski/pharmacy_primer_for_t-sql_database_interrogation/"
-length_weight: "5.2%"
+length_weight: "18.2%"
 pinned: false
 ---
 

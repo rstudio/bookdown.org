@@ -4,7 +4,7 @@ author: "Hao Sun"
 date: "2022-08-01T02:37:08Z"
 tags: [Package, Shiny]
 link: "https://bookdown.org/eugenesun95/designbook/"
-length_weight: "1.8%"
+length_weight: "6.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

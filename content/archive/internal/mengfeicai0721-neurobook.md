@@ -3,7 +3,7 @@ title: "Mengfei NeuroBook"
 author: "Mengfei Cai"
 date: "2022-08-22T10:49:16Z"
 link: "https://bookdown.org/mengfeicai0721/NeuroBook/"
-length_weight: "4.1%"
+length_weight: "14%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

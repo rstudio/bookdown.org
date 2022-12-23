@@ -4,7 +4,7 @@ author: "Pleuni Pennings and Kevin Magnaye"
 date: "2022-09-15T16:49:43Z"
 tags: [Course, Data Science]
 link: "https://bookdown.org/kmbm92/Applied-Biostats/"
-length_weight: "9.8%"
+length_weight: "34%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Corey Pembleton"
 date: "2020-07-07T11:49:26Z"
 tags: [Guide]
 link: "https://bookdown.org/pembletonc/SurveyDesignBook/"
-length_weight: "1.1%"
+length_weight: "3.7%"
 repo: "pembletonc/surveydesignbook"
 pinned: false
 ---

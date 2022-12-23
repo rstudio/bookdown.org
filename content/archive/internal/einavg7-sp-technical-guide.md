@@ -4,7 +4,7 @@ author: "Einav Grinberg"
 date: "2022-03-11T13:10:43Z"
 tags: [Guide, Ecology]
 link: "https://bookdown.org/einavg7/sp_technical_guide/"
-length_weight: "4.4%"
+length_weight: "15.3%"
 repo: "Einavg7/Solar-Potential-Technical-Guide"
 pinned: false
 ---

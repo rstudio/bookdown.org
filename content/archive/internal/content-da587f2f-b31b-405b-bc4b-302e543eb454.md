@@ -4,7 +4,7 @@ author: "David Studholme"
 date: "2022-11-02T14:23:50Z"
 tags: [Course, Package]
 link: "https://bookdown.org/content/da587f2f-b31b-405b-bc4b-302e543eb454/"
-length_weight: "3.5%"
+length_weight: "12.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

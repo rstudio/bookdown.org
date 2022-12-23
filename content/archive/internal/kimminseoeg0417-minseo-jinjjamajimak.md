@@ -4,7 +4,7 @@ author: "minseo"
 date: "2021-09-26T01:07:07Z"
 tags: [Package]
 link: "https://bookdown.org/kimminseoeg0417/minseo_jinjjamajimak/"
-length_weight: "1.2%"
+length_weight: "4.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

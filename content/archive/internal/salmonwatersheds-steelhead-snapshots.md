@@ -3,7 +3,7 @@ title: "Steelhead Conservation Unit Snapshots"
 author: "Clare Atkinson & Eric Hertz"
 date: "2022-10-05T16:30:51Z"
 link: "https://bookdown.org/salmonwatersheds/steelhead-snapshots/"
-length_weight: "4%"
+length_weight: "13.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
