@@ -4,7 +4,7 @@ author: "Fernández-Casal, R. y Cotos-Yáñez, T.R."
 date: "2018-10-28"
 tags: [Github]
 link: "https://rubenfcasal.github.io/bookdown_intro/"
-length_weight: "7.1%"
+length_weight: "2.4%"
 repo: "rubenfcasal/bookdown_intro"
 pinned: false
 ---

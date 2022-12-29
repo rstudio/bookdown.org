@@ -4,7 +4,7 @@ author: "Bruna Wundervald"
 date: "2022-08-02T16:19:40Z"
 tags: [Models, Simulation]
 link: "https://bookdown.org/brunadaviesw/hebart-book/"
-length_weight: "10.4%"
+length_weight: "3.5%"
 pinned: false
 ---
 

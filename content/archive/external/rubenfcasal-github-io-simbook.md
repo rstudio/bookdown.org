@@ -4,7 +4,7 @@ author: "Rubén Fernández Casal (ruben.fcasal@udc.es), Ricardo Cao (rcao@udc.es
 date: "2022-09-05"
 tags: [Github]
 link: "https://rubenfcasal.github.io/simbook/"
-length_weight: "19.8%"
+length_weight: "6.7%"
 repo: "rubenfcasal/simbook"
 pinned: false
 ---

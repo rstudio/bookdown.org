@@ -4,7 +4,7 @@ author: "Zuguang Gu"
 date: ""
 tags: [Package]
 link: "https://jokergoo.github.io/ComplexHeatmap-reference/book/"
-length_weight: "2.5%"
+length_weight: "0.8%"
 cover: "https://jokergoo.github.io/ComplexHeatmap-reference/book/complexheatmap-cover.jpg"
 repo: "jokergoo/ComplexHeatmap"
 pinned: false

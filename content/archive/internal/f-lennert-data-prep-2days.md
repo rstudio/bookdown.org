@@ -4,7 +4,7 @@ author: "Felix Lennert"
 date: "2022-11-23T12:05:57Z"
 tags: [Social Science]
 link: "https://bookdown.org/f_lennert/data-prep_2days/"
-length_weight: "24.2%"
+length_weight: "8.2%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Tyler R. Pritchard"
 date: "2022-12-18T18:30:38Z"
 tags: [Course, Data Analysis, Psychology, Advanced R]
 link: "https://bookdown.org/tylerrpritchard/psyc-3950-companion/"
-length_weight: "12.5%"
+length_weight: "4.2%"
 pinned: false
 ---
 

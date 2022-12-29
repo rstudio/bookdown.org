@@ -4,7 +4,7 @@ author: "Claus O. Wilke"
 date: ""
 tags: [Visualization, Guide]
 link: "https://clauswilke.com/dataviz/"
-length_weight: "23.4%"
+length_weight: "7.9%"
 cover: "https://clauswilke.com/dataviz/cover.png"
 repo: "clauswilke/dataviz"
 pinned: true

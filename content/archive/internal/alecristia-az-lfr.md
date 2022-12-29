@@ -3,7 +3,7 @@ title: "Long-form recordings: From A to Z"
 author: "alecristia"
 date: "2022-06-22T16:20:00Z"
 link: "https://bookdown.org/alecristia/az-lfr/"
-length_weight: "24.9%"
+length_weight: "8.4%"
 pinned: false
 ---
 

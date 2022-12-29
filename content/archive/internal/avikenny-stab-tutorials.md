@@ -4,7 +4,7 @@ author: "UW STAB Working Group"
 date: "2021-03-22T00:51:07Z"
 tags: [Tutorial]
 link: "https://bookdown.org/avikenny/STAB-Tutorials/"
-length_weight: "3.5%"
+length_weight: "1.2%"
 repo: "Avi-Kenny/STAB-Tutorials"
 pinned: false
 ---

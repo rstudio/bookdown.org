@@ -3,7 +3,7 @@ title: "Clustered Data"
 author: "Michael Clark m-clark.github.io"
 date: "2018-09-16"
 link: "https://m-clark.github.io/clustered-data/"
-length_weight: "8.4%"
+length_weight: "2.8%"
 repo: "m-clark/clustered-data"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "William Guardado"
 date: "2020-10-16T23:35:45Z"
 tags: [Package, Education]
 link: "https://bookdown.org/william_jesus_guardado/book/"
-length_weight: "11.3%"
+length_weight: "3.8%"
 pinned: false
 ---
 

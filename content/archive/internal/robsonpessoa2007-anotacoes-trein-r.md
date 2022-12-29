@@ -3,7 +3,7 @@ title: "Anotações do treinamento R"
 author: "Robson Wilson Silva Pessoa"
 date: "2021-08-02T14:42:04Z"
 link: "https://bookdown.org/robsonpessoa2007/anotacoes_trein_r/"
-length_weight: "7.7%"
+length_weight: "2.6%"
 pinned: false
 ---
 

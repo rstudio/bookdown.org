@@ -4,7 +4,7 @@ author: "Miao YU"
 date: "2022-07-09T18:31:29Z"
 tags: [Metabolomics, Data Analysis, Github]
 link: "https://bookdown.org/yufree/Metabolomics/"
-length_weight: "20.5%"
+length_weight: "6.9%"
 cover: "https://bookdown.org/yufree/Metabolomics/images/cover.png"
 repo: "yufree/metaworkflow"
 pinned: false

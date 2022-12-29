@@ -4,7 +4,7 @@ author: "E.Major Taiwan"
 date: "2020-06-15T12:29:34Z"
 tags: [Github]
 link: "https://bookdown.org/tpemartin/uiux/"
-length_weight: "3.7%"
+length_weight: "1.2%"
 pinned: false
 ---
 

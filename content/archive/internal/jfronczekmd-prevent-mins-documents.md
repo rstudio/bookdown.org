@@ -3,7 +3,7 @@ title: "PREVENT-MINS PROTOCOL"
 author: "Ośrodek Intensywnej Terapii i Medycyny Okołozabiegowej Collegium Medicum"
 date: "2022-08-02T08:38:55Z"
 link: "https://bookdown.org/jfronczekmd/prevent_mins_documents/"
-length_weight: "22.2%"
+length_weight: "7.5%"
 pinned: false
 ---
 

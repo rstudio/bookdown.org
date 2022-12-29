@@ -4,7 +4,7 @@ author: "Andrew J. Rominger"
 date: "2022-08-01T19:27:49Z"
 tags: [Ecology]
 link: "https://bookdown.org/ajrominger/ecoEvoTheoryCourse/"
-length_weight: "5.1%"
+length_weight: "1.7%"
 pinned: false
 ---
 

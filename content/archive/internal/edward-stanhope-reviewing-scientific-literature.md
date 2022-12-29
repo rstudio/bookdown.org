@@ -4,7 +4,7 @@ author: "Edward Stanhope"
 date: "2022-11-23T10:16:50Z"
 tags: [Seminar]
 link: "https://bookdown.org/edward_stanhope/reviewing_scientific_literature/"
-length_weight: "11.5%"
+length_weight: "3.9%"
 pinned: false
 ---
 

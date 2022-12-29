@@ -4,7 +4,7 @@ author: "Paul A. Jenkins & Richard Everitt"
 date: "2022-06-30T23:12:39Z"
 tags: [Statistics]
 link: "https://bookdown.org/richard_g_everitt/notes/"
-length_weight: "31.7%"
+length_weight: "10.7%"
 pinned: false
 ---
 

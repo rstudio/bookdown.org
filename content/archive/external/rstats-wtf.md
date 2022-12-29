@@ -3,7 +3,7 @@ title: "What They Forgot to Teach You About R"
 author: "Jennifer Bryan, Jim Hester"
 date: ""
 link: "https://rstats.wtf/"
-length_weight: "8.4%"
+length_weight: "2.8%"
 repo: "rstats-wtf/what-they-forgot"
 pinned: false
 ---

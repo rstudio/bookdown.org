@@ -4,7 +4,7 @@ author: "Roger D. Peng"
 date: "2020-04-02T20:26:13Z"
 tags: [Course, Statistics]
 link: "https://bookdown.org/rdpeng/timeseriesbook/"
-length_weight: "23.8%"
+length_weight: "8%"
 repo: "rdpeng/timeseriesbook"
 pinned: false
 ---

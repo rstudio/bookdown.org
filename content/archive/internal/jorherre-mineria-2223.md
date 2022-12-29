@@ -4,7 +4,7 @@ author: "John Doe"
 date: "2022-11-20T18:18:17Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/MINERIA_2223/"
-length_weight: "33.6%"
+length_weight: "11.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

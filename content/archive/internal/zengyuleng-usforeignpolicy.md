@@ -4,7 +4,7 @@ author: "Yuleng Zeng"
 date: "2022-12-15T12:17:43Z"
 tags: [Seminar, Course, Education]
 link: "https://bookdown.org/zengyuleng/usforeignpolicy/"
-length_weight: "11.7%"
+length_weight: "3.9%"
 repo: "rstudio/economicstatecraft"
 pinned: false
 ---

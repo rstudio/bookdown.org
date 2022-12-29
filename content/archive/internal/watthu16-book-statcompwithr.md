@@ -4,7 +4,7 @@ author: "Watthu"
 date: "2022-11-28T05:50:57Z"
 tags: [笔记, Package]
 link: "https://bookdown.org/watthu16/_Book_StatCompWithR/"
-length_weight: "25.2%"
+length_weight: "8.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

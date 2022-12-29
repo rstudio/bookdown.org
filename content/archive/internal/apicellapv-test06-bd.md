@@ -4,7 +4,7 @@ author: "Pete Apicella"
 date: "2022-06-22T17:14:16Z"
 tags: [Guide]
 link: "https://bookdown.org/apicellapv/test06-BD/"
-length_weight: "17.4%"
+length_weight: "5.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Math Down"
 date: "2020-01-08T05:38:55Z"
 tags: [Package]
 link: "https://bookdown.org/bingweiliu11/math-competition/"
-length_weight: "3.1%"
+length_weight: "1%"
 pinned: false
 ---
 

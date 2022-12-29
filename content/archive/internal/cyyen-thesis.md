@@ -4,7 +4,7 @@ author: "Chiayi Yen"
 date: "2018-06-17T22:47:04Z"
 tags: [Visualization, Market]
 link: "https://bookdown.org/cyyen/thesis/"
-length_weight: "6.5%"
+length_weight: "2.2%"
 pinned: false
 ---
 

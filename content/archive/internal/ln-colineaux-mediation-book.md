@@ -3,7 +3,7 @@ title: "Médiation   A very Quickstart"
 author: "CERPOP, INSERM, EQUITY Team"
 date: "2022-10-04T14:28:14Z"
 link: "https://bookdown.org/ln_colineaux/mediation_book/"
-length_weight: "19.7%"
+length_weight: "6.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

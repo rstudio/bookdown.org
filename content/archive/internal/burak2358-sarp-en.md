@@ -4,7 +4,7 @@ author: "Burak AYDIN, James ALGINA, Walter LEITE, Hakan ATILGAN"
 date: "2018-02-27T14:23:31Z"
 tags: [R Markdown]
 link: "https://bookdown.org/burak2358/SARP-EN/"
-length_weight: "29.3%"
+length_weight: "9.9%"
 cover: "https://bookdown.org/burak2358/SARP-EN/images/coverpicture.png"
 repo: "burakaydin/SARP-EN"
 pinned: false

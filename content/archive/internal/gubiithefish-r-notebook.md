@@ -4,7 +4,7 @@ author: "gubiithefish"
 date: "2020-09-14T13:02:20Z"
 tags: [Package, Github, R Markdown]
 link: "https://bookdown.org/gubiithefish/R-Notebook/"
-length_weight: "7.1%"
+length_weight: "2.4%"
 repo: "rstudio/bookdown"
 pinned: false
 ---

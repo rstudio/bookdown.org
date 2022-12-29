@@ -4,7 +4,7 @@ author: "Jerry Bean, College of Social Work, The Ohio State University"
 date: "2021-10-13T14:24:20Z"
 tags: [Package, Data Analysis, R Markdown]
 link: "https://bookdown.org/bean_jerry/bookdown_r_for_social_workers/"
-length_weight: "20.5%"
+length_weight: "6.9%"
 pinned: false
 ---
 

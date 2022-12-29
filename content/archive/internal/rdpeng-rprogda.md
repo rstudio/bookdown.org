@@ -4,7 +4,7 @@ author: "Roger D. Peng, Sean Kross, and Brooke Anderson"
 date: "2020-12-20T22:10:04Z"
 tags: [Software Development, Data Science, Package, Visualization]
 link: "https://bookdown.org/rdpeng/RProgDA/"
-length_weight: "21.2%"
+length_weight: "7.2%"
 cover: "https://bookdown.org/rdpeng/RProgDA/cover-image_sm.png"
 repo: "rdpeng/RProgDA"
 pinned: false

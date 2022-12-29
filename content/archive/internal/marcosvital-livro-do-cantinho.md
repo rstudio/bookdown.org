@@ -3,7 +3,7 @@ title: "R aplicado à Biologia: uma introdução descomplicada e divertida!"
 author: "Marcos Vital, do Laboratório de Ecologia Quantitativa da UFAL"
 date: "2017-01-07T12:14:35Z"
 link: "https://bookdown.org/marcosvital/Livro-do-Cantinho/"
-length_weight: "4.2%"
+length_weight: "1.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

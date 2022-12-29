@@ -4,7 +4,7 @@ author: "Michael Hewlett"
 date: "2020-10-31T10:42:16Z"
 tags: [Textbook]
 link: "https://bookdown.org/mda_hewlett/intro-to-web-analytics/"
-length_weight: "8.4%"
+length_weight: "2.8%"
 pinned: false
 ---
 

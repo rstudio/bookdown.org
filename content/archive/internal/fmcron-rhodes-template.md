@@ -4,7 +4,7 @@ author: "Fábio M. Corrêa **Email: f.correa@ru.ac.za"
 date: "2021-02-17T08:50:57Z"
 tags: [R Markdown]
 link: "https://bookdown.org/fmcron/Rhodes-template/"
-length_weight: "7.5%"
+length_weight: "2.5%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Коллектив авторов: Максимова С.Г., Ноян�
 date: "2022-08-12T06:43:48Z"
 tags: [Package]
 link: "https://bookdown.org/dariaomelchenko2110/Migrants/"
-length_weight: "3.5%"
+length_weight: "1.2%"
 cover: "https://funart.pro/uploads/posts/2021-04/1617326446_29-p-oboi-krasoti-altaya-29.jpg"
 repo: "rstudio/bookdown-demo"
 pinned: false

@@ -4,7 +4,7 @@ author: "Dena J. Clink"
 date: "2020-08-27T17:16:08Z"
 tags: [Package, Tutorial, Ecology, Github]
 link: "https://bookdown.org/djc426/behaviouR-R-package-tutorials/"
-length_weight: "23.8%"
+length_weight: "8.1%"
 repo: "DenaJGibbon/behaviouRtutorials"
 pinned: false
 ---

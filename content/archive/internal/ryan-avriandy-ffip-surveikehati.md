@@ -3,7 +3,7 @@ title: "Draft Panduan Survei Keanekaragaman Hayati"
 author: "Biodive FFI`s IP"
 date: "2022-10-05T09:18:23Z"
 link: "https://bookdown.org/ryan_avriandy/ffip_surveikehati/"
-length_weight: "20.1%"
+length_weight: "6.8%"
 pinned: false
 ---
 

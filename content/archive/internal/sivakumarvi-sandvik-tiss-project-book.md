@@ -4,7 +4,7 @@ author: "Dr. Josephine Anthony"
 date: "2022-11-15T17:17:50Z"
 tags: [Education]
 link: "https://bookdown.org/sivakumarvi/sandvik-tiss_project_book/"
-length_weight: "5.9%"
+length_weight: "2%"
 pinned: false
 ---
 

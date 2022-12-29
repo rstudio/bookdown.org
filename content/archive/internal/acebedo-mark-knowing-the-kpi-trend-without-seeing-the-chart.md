@@ -4,7 +4,7 @@ author: "Ace Mark Acebedo"
 date: "2019-11-23T09:43:31Z"
 tags: [Package, Guide]
 link: "https://bookdown.org/acebedo_mark/knowing_the_kpi_trend_without_seeing_the_chart/"
-length_weight: "4%"
+length_weight: "1.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

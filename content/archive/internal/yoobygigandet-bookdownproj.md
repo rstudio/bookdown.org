@@ -4,7 +4,7 @@ author: "Manon Verjus and Yooby Gigandet"
 date: "2022-06-08T17:39:16Z"
 tags: [Course]
 link: "https://bookdown.org/yoobygigandet/bookdownproj/"
-length_weight: "8.2%"
+length_weight: "2.8%"
 pinned: false
 ---
 

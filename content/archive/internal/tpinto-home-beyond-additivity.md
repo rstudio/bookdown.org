@@ -4,7 +4,7 @@ author: "Armando Teixeira-Pinto & Jaroslaw Harezlak"
 date: "2022-10-10T11:06:02Z"
 tags: [Machine Learning, Statistics, Package]
 link: "https://bookdown.org/tpinto_home/Beyond-Additivity/"
-length_weight: "5.8%"
+length_weight: "2%"
 pinned: false
 ---
 

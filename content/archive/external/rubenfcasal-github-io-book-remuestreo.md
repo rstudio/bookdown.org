@@ -4,7 +4,7 @@ author: "Ricardo Cao Abad (rcao@udc.es) y Rubén Fernández Casal (rfcasal@udc.e
 date: "2022-09-05"
 tags: [Github]
 link: "https://rubenfcasal.github.io/book_remuestreo/"
-length_weight: "19.2%"
+length_weight: "6.5%"
 repo: "rubenfcasal/book_remuestreo"
 pinned: false
 ---

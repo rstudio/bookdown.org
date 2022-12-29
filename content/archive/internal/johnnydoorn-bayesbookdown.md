@@ -4,7 +4,7 @@ author: "Johnny van Doorn"
 date: "2022-12-14T17:08:49Z"
 tags: [Bayesian, Models]
 link: "https://bookdown.org/johnnydoorn/bayesbookdown/"
-length_weight: "19%"
+length_weight: "6.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

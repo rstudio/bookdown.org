@@ -3,7 +3,7 @@ title: "_main.knit"
 author: "genproresearch"
 date: "2022-11-10T08:57:28Z"
 link: "https://bookdown.org/genproresearch/catalog/"
-length_weight: "26%"
+length_weight: "8.8%"
 pinned: false
 ---
 

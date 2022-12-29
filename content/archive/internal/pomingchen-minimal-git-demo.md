@@ -4,7 +4,7 @@ author: "PoMingChen"
 date: "2019-02-28T03:59:38Z"
 tags: [Github]
 link: "https://bookdown.org/PoMingChen/Minimal-Git-demo/"
-length_weight: "7.8%"
+length_weight: "2.6%"
 pinned: false
 ---
 

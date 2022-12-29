@@ -4,7 +4,7 @@ author: "speedyjiang"
 date: "2022-10-21T01:22:22Z"
 tags: [Tutorial, Course, Textbook, Statistics]
 link: "https://bookdown.org/speedyjiang/stat101tutorial/"
-length_weight: "6.4%"
+length_weight: "2.1%"
 pinned: false
 ---
 

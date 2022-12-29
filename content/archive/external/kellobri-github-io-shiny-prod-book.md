@@ -4,7 +4,7 @@ author: "kellobri.github.io"
 date: "2019-01-15"
 tags: [Shiny]
 link: "https://kellobri.github.io/shiny-prod-book/"
-length_weight: "7.8%"
+length_weight: "2.6%"
 pinned: false
 ---
 

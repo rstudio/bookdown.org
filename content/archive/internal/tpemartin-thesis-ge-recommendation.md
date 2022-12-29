@@ -4,7 +4,7 @@ author: "蔡國梁"
 date: "2018-06-01T08:29:40Z"
 tags: [Github]
 link: "https://bookdown.org/tpemartin/thesis_GE_recommendation/"
-length_weight: "6.3%"
+length_weight: "2.1%"
 pinned: false
 ---
 

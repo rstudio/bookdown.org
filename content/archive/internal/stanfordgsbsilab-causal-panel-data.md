@@ -4,7 +4,7 @@ author: "Golub Capital Social Impact Lab"
 date: "2022-12-21T00:33:56Z"
 tags: [Tutorial, Machine Learning]
 link: "https://bookdown.org/stanfordgsbsilab/causal_panel_data/"
-length_weight: "13.3%"
+length_weight: "4.5%"
 repo: "gsbDBI/public_tutorials"
 pinned: false
 ---

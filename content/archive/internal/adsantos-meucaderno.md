@@ -3,7 +3,7 @@ title: "Caderno BD"
 author: "Anderson dos Santos"
 date: "2022-10-12T19:25:07Z"
 link: "https://bookdown.org/adsantos/MeuCaderno/"
-length_weight: "6%"
+length_weight: "2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

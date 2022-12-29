@@ -4,7 +4,7 @@ author: "Sakol Suethanapornkul"
 date: "2022-03-28T13:53:38Z"
 tags: [Package, Tidyverse]
 link: "https://bookdown.org/sakol_suethanapornkul/statisticalthinking/"
-length_weight: "12.9%"
+length_weight: "4.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

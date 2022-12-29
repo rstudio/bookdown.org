@@ -3,7 +3,7 @@ title: "Estatística Descritiva"
 author: "Rosineide da Paz"
 date: "2020-11-29T17:03:45Z"
 link: "https://bookdown.org/rfdapaz/3_tabfreq/"
-length_weight: "8%"
+length_weight: "2.7%"
 pinned: false
 ---
 
