@@ -4,7 +4,7 @@ author: "Asser Koskinen"
 date: "2022-08-04T08:38:15Z"
 tags: [Guide, Machine Learning]
 link: "https://bookdown.org/cda/rguide/"
-length_weight: "3.6%"
+length_weight: "1.2%"
 cover: "https://bookdown.org/cda/rguide/images/logo.jpg"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Chia-Ching Wu"
 date: "2022-09-10T13:21:59Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/ccwupsy/data-analysis/"
-length_weight: "10.5%"
+length_weight: "3.6%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Emil Hvitfeldt"
 date: ""
 tags: [Tidy, Models, Translation, Package, Github]
 link: "https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/"
-length_weight: "13.2%"
+length_weight: "4.5%"
 pinned: false
 ---
 

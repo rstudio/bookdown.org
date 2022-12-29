@@ -4,7 +4,7 @@ author: "content"
 date: "2021-03-29T18:55:47Z"
 tags: [Statistics]
 link: "https://bookdown.org/content/1c8fedce-597c-462d-bfdd-e1a0f2c8596d/"
-length_weight: "13.5%"
+length_weight: "4.5%"
 pinned: false
 ---
 

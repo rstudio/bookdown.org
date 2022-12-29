@@ -3,7 +3,7 @@ title: "Trabajo final de estadística aplicada a la mercadotécnia"
 author: "Hernández Castelán Jorge Valente"
 date: "2021-01-06T23:54:56Z"
 link: "https://bookdown.org/eljorgehdz/proyecto_final/"
-length_weight: "3.8%"
+length_weight: "1.3%"
 pinned: false
 ---
 

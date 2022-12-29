@@ -4,7 +4,7 @@ author: "Michael Clark"
 date: "2019-03-25"
 tags: [Machine Learning, Package, Python]
 link: "https://m-clark.github.io/introduction-to-machine-learning/"
-length_weight: "12.7%"
+length_weight: "4.3%"
 cover: "https://m-clark.github.io/introduction-to-machine-learning/img/nineteeneightyR.png"
 repo: "m-clark/introduction-to-machine-learning"
 pinned: false

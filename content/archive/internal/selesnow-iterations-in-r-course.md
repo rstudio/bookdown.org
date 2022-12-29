@@ -3,7 +3,7 @@ title: "Курс ‘Циклы и функционалы в языке R’"
 author: "Алексей Селезнёв"
 date: "2022-08-26T16:51:12Z"
 link: "https://bookdown.org/selesnow/iterations_in_r_course/"
-length_weight: "15.4%"
+length_weight: "5.2%"
 cover: "https://bookdown.org/selesnow/iterations_in_r_course/img/cover.png"
 repo: "selesnow/iterations_in_r"
 pinned: false

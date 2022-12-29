@@ -4,7 +4,7 @@ author: "Terrill Paterson"
 date: "2021-06-09T16:05:30Z"
 tags: [Course]
 link: "https://bookdown.org/terrillpaterson/MSSE-book/"
-length_weight: "3.9%"
+length_weight: "1.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Zhijun Wang"
 date: "2022-11-11T11:41:33Z"
 tags: [Data Science, Medicine, Data Analysis, Visualization]
 link: "https://bookdown.org/zhijun0916/r-cookbook-in-food-science/"
-length_weight: "3.4%"
+length_weight: "1.2%"
 repo: "ZhijunWang1991/R cookbook in food science"
 pinned: false
 ---

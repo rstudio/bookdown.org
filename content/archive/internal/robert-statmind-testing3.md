@@ -4,7 +4,7 @@ author: "Robert Goedegebuure"
 date: "2021-01-18T20:00:11Z"
 tags: [Market, Package]
 link: "https://bookdown.org/robert_statmind/testing3/"
-length_weight: "14.3%"
+length_weight: "4.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Team in Room 420 - Megan Ruffle, Naphon Olley, Jennifer James, William 
 date: "2022-08-04T16:31:00Z"
 tags: [Models, Package]
 link: "https://bookdown.org/william_ryan99/_book-done/"
-length_weight: "8.7%"
+length_weight: "2.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

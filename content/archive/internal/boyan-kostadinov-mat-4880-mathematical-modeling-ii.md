@@ -3,7 +3,7 @@ title: "MAT 4880 Mathematical Modeling II"
 author: "Boyan Kostadinov, City Tech"
 date: "2021-03-13T23:11:51Z"
 link: "https://bookdown.org/boyan_kostadinov/mat_4880_mathematical_modeling_ii/"
-length_weight: "4.3%"
+length_weight: "1.5%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Valerie Hase, LMU Munich"
 date: "2022-12-13T06:46:18Z"
 tags: [Seminar, Tutorial, Course]
 link: "https://bookdown.org/content/759d32f5-0f3a-4e44-b515-a0a8cfaba221/"
-length_weight: "18.8%"
+length_weight: "6.4%"
 pinned: false
 ---
 

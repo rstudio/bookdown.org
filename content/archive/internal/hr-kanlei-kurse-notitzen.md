@@ -3,7 +3,7 @@ title: "Kurse Notitzen"
 author: "Kan Lei"
 date: "2021-11-06T15:55:57Z"
 link: "https://bookdown.org/hr_kanlei/Kurse_Notitzen/"
-length_weight: "16.4%"
+length_weight: "5.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

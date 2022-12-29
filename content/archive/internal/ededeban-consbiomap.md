@@ -4,7 +4,7 @@ author: "Emilie Dedeban"
 date: "2022-04-11T13:45:57Z"
 tags: [Package]
 link: "https://bookdown.org/ededeban/ConsBioMap/"
-length_weight: "7%"
+length_weight: "2.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

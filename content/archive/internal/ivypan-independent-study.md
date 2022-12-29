@@ -4,7 +4,7 @@ author: "潘薇"
 date: "2022-09-21T16:53:36Z"
 tags: [Package]
 link: "https://bookdown.org/ivypan/independent-study/"
-length_weight: "22%"
+length_weight: "7.4%"
 cover: "https://bookdown.org/ivypan/independent-study/files/cover.png"
 pinned: false
 ---

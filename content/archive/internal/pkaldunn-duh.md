@@ -3,7 +3,7 @@ title: "Dad-joke University of Humour (DUH)"
 author: "Pastor Panda (Vice Chancellor)"
 date: "2020-09-04T21:42:32Z"
 link: "https://bookdown.org/pkaldunn/DUH/"
-length_weight: "8.6%"
+length_weight: "2.9%"
 cover: "https://bookdown.org/pkaldunn/DUH/Images/DUH.PNG"
 repo: "rstudio/bookdown-demo"
 pinned: false

@@ -3,7 +3,7 @@ title: "Componente G - ENEL"
 author: "Oscar Duarte & Luis Gallego"
 date: "2022-08-16T21:08:43Z"
 link: "https://bookdown.org/lgallegov1/componente_g_enel/"
-length_weight: "14.8%"
+length_weight: "5%"
 pinned: false
 ---
 

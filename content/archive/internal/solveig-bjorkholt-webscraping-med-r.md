@@ -3,7 +3,7 @@ title: "Webscraping med R"
 author: "Solveig Bjørkholt"
 date: "2020-07-01T13:38:28Z"
 link: "https://bookdown.org/solveig_bjorkholt/webscraping_med_r/"
-length_weight: "11.1%"
+length_weight: "3.8%"
 pinned: false
 ---
 

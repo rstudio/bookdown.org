@@ -4,7 +4,7 @@ author: "Michael Branion-Calles"
 date: "2021-06-01T18:03:32Z"
 tags: [Course, Geographic, Tutorial, Textbook, Data Science, Package, Tidyverse]
 link: "https://bookdown.org/michael_bcalles/gis-crash-course-in-r/"
-length_weight: "23.5%"
+length_weight: "8%"
 pinned: false
 ---
 

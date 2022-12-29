@@ -4,7 +4,7 @@ author: "Mau-Ting Lin"
 date: "2017-11-06T23:51:07Z"
 tags: [Visualization, Macroeconomics]
 link: "https://bookdown.org/tpemartin/data_visualization/"
-length_weight: "5.5%"
+length_weight: "1.9%"
 repo: "tpemartin/Macroeconomics"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Hiroaki Yutani"
 date: "2019-02-10T22:47:15Z"
 tags: [Package]
 link: "https://bookdown.org/yutannihilation/practical-r-package-development-ja/"
-length_weight: "8.1%"
+length_weight: "2.7%"
 pinned: false
 ---
 

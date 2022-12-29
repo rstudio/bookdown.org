@@ -4,7 +4,7 @@ author: "Dr. Zachary Pilot"
 date: "2022-09-11T23:24:40Z"
 tags: [Package]
 link: "https://bookdown.org/pinksosteel/book_try/"
-length_weight: "9.8%"
+length_weight: "3.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

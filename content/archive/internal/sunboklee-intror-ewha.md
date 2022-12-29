@@ -4,7 +4,7 @@ author: "Sunbok Lee (Ewha Womans University, 2021-2)"
 date: "2021-09-03T06:33:26Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/sunboklee/intror_ewha/"
-length_weight: "5.6%"
+length_weight: "1.9%"
 pinned: false
 ---
 

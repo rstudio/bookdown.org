@@ -3,7 +3,7 @@ title: "PsyBSC 2 Statistik"
 author: "TS"
 date: "2020-10-25T14:26:24Z"
 link: "https://bookdown.org/itsyaboy/name/"
-length_weight: "27.8%"
+length_weight: "9.4%"
 pinned: false
 ---
 

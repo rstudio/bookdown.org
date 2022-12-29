@@ -4,7 +4,7 @@ author: "Marius Mather (with tweaks by Rachel Visontay and Siobhan O’Dean)"
 date: "2022-09-01T04:43:26Z"
 tags: [Course]
 link: "https://bookdown.org/rvisontay/Rad/"
-length_weight: "13.7%"
+length_weight: "4.6%"
 pinned: false
 ---
 

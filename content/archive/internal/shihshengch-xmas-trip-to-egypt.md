@@ -4,7 +4,7 @@ author: "shihshengch"
 date: "2022-12-21T16:30:59Z"
 tags: [笔记]
 link: "https://bookdown.org/shihshengch/xmas_trip_to_egypt/"
-length_weight: "3.6%"
+length_weight: "1.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "Ben Prytherch"
 date: "2022-04-25T11:49:52Z"
 tags: [Data Analysis, Textbook]
 link: "https://bookdown.org/csu_statistics/dsci_335_spring_2022/"
-length_weight: "26.8%"
+length_weight: "9.1%"
 pinned: false
 ---
 

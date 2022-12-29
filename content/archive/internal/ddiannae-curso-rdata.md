@@ -4,7 +4,7 @@ author: "Diana García Cortés"
 date: "2022-08-20T06:53:26Z"
 tags: [Tidyverse, Data Science]
 link: "https://bookdown.org/ddiannae/curso-rdata/"
-length_weight: "17.3%"
+length_weight: "5.8%"
 repo: "ddiannae/curso-rdata"
 pinned: false
 ---

@@ -3,7 +3,7 @@ title: "Statistik (online-noter)"
 author: "Mads Stenbo Nielsen"
 date: "2022-11-04T13:15:30Z"
 link: "https://bookdown.org/madsstenbonielsen/ha_statistik_v3/"
-length_weight: "17.2%"
+length_weight: "5.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

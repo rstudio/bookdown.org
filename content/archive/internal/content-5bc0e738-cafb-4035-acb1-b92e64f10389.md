@@ -1,10 +1,10 @@
 ---
 title: "IsoriX: Isoscape Computation and Inference of Spatial Origins using R"
 author: "The IsoriX core Team"
-date: "2022-09-26T09:35:39Z"
+date: "2022-12-23T17:08:33Z"
 tags: [Package]
 link: "https://bookdown.org/content/5bc0e738-cafb-4035-acb1-b92e64f10389/"
-length_weight: "18.7%"
+length_weight: "2.1%"
 repo: "courtiol/IsoriX"
 pinned: false
 ---

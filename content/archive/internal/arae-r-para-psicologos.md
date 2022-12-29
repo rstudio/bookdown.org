@@ -4,7 +4,7 @@ author: "Cainã, Martins, Jaloto e Dinardi"
 date: "2022-08-25T15:08:58Z"
 tags: [Package, Github]
 link: "https://bookdown.org/arae/r-para-psicologos/"
-length_weight: "12.2%"
+length_weight: "4.1%"
 repo: "AraeCaina/R_para_iniciantes"
 pinned: false
 ---

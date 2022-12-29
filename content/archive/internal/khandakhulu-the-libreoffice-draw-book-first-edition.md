@@ -3,7 +3,7 @@ title: "The LibreOffice Draw Book"
 author: "Sonwabo Seedwell Adlai, Jordan (PhD)"
 date: "2022-09-15T19:22:00Z"
 link: "https://bookdown.org/Khandakhulu/the_libreoffice_draw_book_-_first_edition/"
-length_weight: "8.3%"
+length_weight: "2.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

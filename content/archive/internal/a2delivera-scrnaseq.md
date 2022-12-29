@@ -4,7 +4,7 @@ author: "Alysha M De Livera and Agus Salim"
 date: "2022-12-06T19:29:14Z"
 tags: [Sequencing, Models]
 link: "https://bookdown.org/a2delivera/scRNAseq/"
-length_weight: "10.3%"
+length_weight: "3.5%"
 pinned: false
 ---
 

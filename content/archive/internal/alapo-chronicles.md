@@ -4,7 +4,7 @@ author: "Jessica Mann"
 date: "2021-04-01T14:31:31Z"
 tags: [Package]
 link: "https://bookdown.org/alapo/chronicles/"
-length_weight: "6%"
+length_weight: "2%"
 repo: "alapo/jessbook"
 pinned: false
 ---

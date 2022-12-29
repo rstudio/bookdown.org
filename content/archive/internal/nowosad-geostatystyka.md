@@ -4,7 +4,7 @@ author: "Jakub Nowosad"
 date: "2022-11-23T08:26:54Z"
 tags: [Statistics]
 link: "https://bookdown.org/nowosad/geostatystyka/"
-length_weight: "28.3%"
+length_weight: "9.6%"
 repo: "nowosad/geostat_book"
 pinned: false
 ---

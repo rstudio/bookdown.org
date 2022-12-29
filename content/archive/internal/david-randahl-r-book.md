@@ -4,7 +4,7 @@ author: "David Randahl"
 date: "2022-11-13T14:38:38Z"
 tags: [Course]
 link: "https://bookdown.org/david_randahl/r_book/"
-length_weight: "21.6%"
+length_weight: "7.3%"
 pinned: false
 ---
 

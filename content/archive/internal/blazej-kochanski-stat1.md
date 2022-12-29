@@ -4,7 +4,7 @@ author: "Błażej Kochański"
 date: "2022-10-25T07:50:41Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/blazej_kochanski/stat1/"
-length_weight: "8.1%"
+length_weight: "2.8%"
 repo: "bkochanski/Statistics1"
 pinned: false
 ---

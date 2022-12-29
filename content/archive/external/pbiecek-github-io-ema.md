@@ -4,7 +4,7 @@ author: "Przemyslaw Biecek and Tomasz Burzykowski"
 date: "2020-12-12"
 tags: [Machine Learning, Models]
 link: "https://pbiecek.github.io/ema/"
-length_weight: "23.3%"
+length_weight: "7.9%"
 cover: "https://pbiecek.github.io/ema/figure/front4.png"
 repo: "pbiecek/ema"
 pinned: false

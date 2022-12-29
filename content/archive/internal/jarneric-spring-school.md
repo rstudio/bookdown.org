@@ -4,7 +4,7 @@ author: "Josip Arnerić & Anita Čeh Časni ©jarneric@net.efzg.hr, aceh@net.efz
 date: "2021-05-25T20:45:04Z"
 tags: [Statistics, Course, Forecasting]
 link: "https://bookdown.org/jarneric/spring_school/"
-length_weight: "17.1%"
+length_weight: "5.8%"
 pinned: false
 ---
 

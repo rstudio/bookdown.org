@@ -4,7 +4,7 @@ author: "黄湘云"
 date: "2022-04-09T08:17:02Z"
 tags: [数据科学]
 link: "https://bookdown.org/xiangyun/sdsr/"
-length_weight: "9.6%"
+length_weight: "3.2%"
 pinned: false
 ---
 

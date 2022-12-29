@@ -4,7 +4,7 @@ author: "liubao"
 date: "2022-07-01T10:37:07Z"
 tags: [Package]
 link: "https://bookdown.org/roycufe/echarts4r_translation/"
-length_weight: "10.9%"
+length_weight: "3.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

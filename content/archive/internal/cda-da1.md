@@ -4,7 +4,7 @@ author: "© Asser Koskinen, Johan Båge and Håkan Lyckeborg"
 date: "2022-09-06T19:18:34Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/cda/da1/"
-length_weight: "11.1%"
+length_weight: "3.8%"
 cover: "https://bookdown.org/cda/da1/images/logo.jpg"
 pinned: false
 ---

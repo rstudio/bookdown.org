@@ -4,7 +4,7 @@ author: "Ganesh Viswanathan and Roma Dutta"
 date: "2019-12-09T18:08:41Z"
 tags: [Github, Shiny, Tidy]
 link: "https://bookdown.org/rdutta4/bookdown-grandslam/"
-length_weight: "5.8%"
+length_weight: "2%"
 repo: "rstudio/bookdown-grandslam"
 pinned: false
 ---

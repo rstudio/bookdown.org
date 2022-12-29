@@ -4,7 +4,7 @@ author: "Gaston Sanchez"
 date: ""
 tags: [String]
 link: "https://www.gastonsanchez.com/r4strings/"
-length_weight: "9.6%"
+length_weight: "3.3%"
 cover: "https://www.gastonsanchez.com/r4strings/images/cover-image.png"
 repo: "gastonstat/r4strings"
 pinned: false

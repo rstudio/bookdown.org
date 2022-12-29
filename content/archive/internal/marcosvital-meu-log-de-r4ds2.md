@@ -4,7 +4,7 @@ author: "Marcos V. C. Vital - LEQ-UFAL"
 date: "2018-05-01T23:29:25Z"
 tags: [Data Science, ggplot2]
 link: "https://bookdown.org/marcosvital/meu_log_de_r4ds2/"
-length_weight: "8.2%"
+length_weight: "2.8%"
 pinned: false
 ---
 

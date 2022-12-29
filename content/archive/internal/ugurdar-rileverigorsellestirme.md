@@ -3,7 +3,7 @@ title: "RileVeriGörselleştirme"
 author: "Uğur Dar"
 date: "2022-12-20T17:59:04Z"
 link: "https://bookdown.org/ugurdar/rileverigorsellestirme/"
-length_weight: "9.7%"
+length_weight: "3.3%"
 repo: "ugurdar"
 pinned: false
 ---
