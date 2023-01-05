@@ -1,8 +1,8 @@
 ---
 title: "quantitative_synthesis_tools.knit"
 author: "cjlortie"
-date: "2021-09-28T21:33:37Z"
-link: "https://bookdown.org/chris/quantitative_synthesis_tools/"
+date: "2023-01-04T20:21:52Z"
+link: "https://bookdown.org/cj4nature/quantitative_synthesis_tools/"
 length_weight: "3.4%"
 pinned: false
 ---

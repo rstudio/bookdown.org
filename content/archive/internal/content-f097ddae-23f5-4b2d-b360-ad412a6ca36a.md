@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning: Unsupervised and Supervised Learning"
 author: "Marc Scott"
-date: "2022-12-28T16:43:17Z"
+date: "2023-01-04T19:32:24Z"
 tags: [Machine Learning, Package]
 link: "https://bookdown.org/content/f097ddae-23f5-4b2d-b360-ad412a6ca36a/"
-length_weight: "4.4%"
+length_weight: "4%"
 cover: "https://bookdown.org/content/f097ddae-23f5-4b2d-b360-ad412a6ca36a/ML_cover.png"
 repo: "rstudio/bookdown-demo"
 pinned: false
