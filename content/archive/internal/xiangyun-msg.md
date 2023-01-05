@@ -1,7 +1,7 @@
 ---
 title: "现代统计图形"
 author: "赵鹏, 谢益辉, 黄湘云"
-date: "2022-10-25T04:20:06Z"
+date: "2023-01-03T02:59:27Z"
 link: "https://bookdown.org/xiangyun/msg/"
 length_weight: "100%"
 repo: "XiangyunHuang/msg"

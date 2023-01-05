@@ -1,10 +1,10 @@
 ---
 title: "The theory of distributions"
 author: "Peter K. Dunn"
-date: "2022-12-16T02:41:16Z"
+date: "2023-01-04T07:29:02Z"
 tags: [Statistics]
 link: "https://bookdown.org/pkaldunn/DistTheory/"
-length_weight: "11.9%"
+length_weight: "100%"
 repo: "PeterKDunn/DistTheory"
 pinned: false
 ---

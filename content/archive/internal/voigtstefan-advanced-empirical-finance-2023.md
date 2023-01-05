@@ -1,12 +1,11 @@
 ---
 title: "Exercises for Advanced Empirical Finance: Topics and Data Science"
 author: "Stefan Voigt, University of Copenhagen and Danish Finance Institute"
-date: "2022-11-28T15:54:09Z"
-tags: [Data Science, Course, Tidy]
+date: "2023-01-04T18:09:16Z"
+tags: [Data Science, Course]
 link: "https://bookdown.org/voigtstefan/advanced_empirical_finance_2023/"
-length_weight: "2.3%"
+length_weight: "3.5%"
 pinned: false
 ---
 
-This is a collection of exercises as well as solutions that should be solved by students of the course Advanced Empirical Finance: Topics and Data Science. [...] This set of exercises is written for the students of the lecture “Advanced Empirical Finance: Topics and Data Science”.
-The exercise sets partially subsume work I created with my colleagues Christoph Scheuch and Patrick Weiss for the book Tidy Finance with R. You are very welcome to give us feedback on every aspect of the book such that we can improve the codes, explanations and general structure. Please contact me or my colleagues ...
+This is a collection of exercises as well as solutions that should be solved by students of the course Advanced Empirical Finance: Topics and Data Science. [...] In the course “Advanced Empirical Finance” we repeatedly ask: (How) can state-of-the-art methods improve financial decision-making? While the lecture covers all relevant theoretical aspects and is based on very recent academic papers, you should spend most of your effort on this course on actually doing empirical work! Get your computer ready to work on real problems for financial applications and discuss your code with your peers to  ...
