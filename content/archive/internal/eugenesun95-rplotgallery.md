@@ -1,10 +1,10 @@
 ---
 title: "R Table & Plot Gallery"
 author: "Hao Sun"
-date: "2022-12-28T16:21:06Z"
+date: "2023-01-09T20:42:25Z"
 tags: [Package, ggplot2]
 link: "https://bookdown.org/eugenesun95/Rplotgallery/"
-length_weight: "2.6%"
+length_weight: "3.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Tutorial"
 author: "Golub Capital Social Impact Lab"
-date: "2023-01-05T00:34:19Z"
+date: "2023-01-12T01:36:15Z"
 tags: [Tutorial, Machine Learning]
 link: "https://bookdown.org/stanfordgsbsilab/causal_panel_data/"
-length_weight: "4.5%"
+length_weight: "4.7%"
 repo: "gsbDBI/public_tutorials"
 pinned: false
 ---

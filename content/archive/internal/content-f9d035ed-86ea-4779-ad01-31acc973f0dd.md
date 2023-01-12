@@ -1,7 +1,7 @@
 ---
 title: "STM1001 Topic 6: t-tests for two-sample hypothesis testing"
 author: "Amanda Shaker"
-date: "2022-07-02T04:11:58Z"
+date: "2023-01-11T02:29:16Z"
 link: "https://bookdown.org/content/f9d035ed-86ea-4779-ad01-31acc973f0dd/"
 length_weight: "3.3%"
 pinned: false
