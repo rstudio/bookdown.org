@@ -1,9 +1,9 @@
 ---
 title: "交换代数与代数几何"
 author: "稻年"
-date: "2023-01-03T10:57:18Z"
+date: "2023-01-11T22:27:04Z"
 link: "https://bookdown.org/minhua/ca-ag/"
-length_weight: "3.1%"
+length_weight: "5%"
 repo: "XiangyunHuang/ElegantBookdown"
 pinned: false
 ---
@@ -13,4 +13,4 @@ pinned: false
 \Spec k[x_1,\ldots, x_n]&\cong\bb{A}^n \\
 (x_1-a_1, \ldots, x_n-a_n) &\mapsto (a_1,\ldots, a_n)
 \end{align*}\]
-即极大理想 \(\mapsto\) 点, 闭集 \(V(\fk{p}) \mapsto\) 闭集 \(Z(\fk{p}).\) 为方便起见, 当我们用表达式 \(\Spec A\) 时, 默认 ...
+即极大理想打到点, 闭集 \(V(\fk{p})\) 打到闭集 \(Z(\fk{p}).\) 为方便起见, 当我们用表达式 \(\Spec A\) 时, 默认 \(A=\Spec ...
