@@ -1,10 +1,10 @@
 ---
 title: "Cross-Platform Journalism: News use, content, and effects"
 author: "Valerie Hase, LMU Munich"
-date: "2022-12-13T06:46:18Z"
+date: "2023-01-16T19:53:36Z"
 tags: [Seminar, Tutorial, Course]
 link: "https://bookdown.org/content/759d32f5-0f3a-4e44-b515-a0a8cfaba221/"
-length_weight: "6.4%"
+length_weight: "6.6%"
 pinned: false
 ---
 
