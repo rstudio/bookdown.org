@@ -1,7 +1,7 @@
 ---
 title: "HTTP testing in R"
 author: "Scott Chamberlain, Maëlle Salmon"
-date: "2022-11-22"
+date: "2023-01-17"
 tags: [Package, Unit Test]
 link: "https://books.ropensci.org/http-testing/"
 length_weight: "0%"

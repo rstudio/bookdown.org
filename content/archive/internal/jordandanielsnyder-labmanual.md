@@ -1,7 +1,7 @@
 ---
 title: "Lab Manual for the Global Community Wellness Lab"
 author: "Jordan D. Snyder, Psy.D."
-date: "2022-09-23T15:20:49Z"
+date: "2023-01-12T20:02:03Z"
 tags: [Guide]
 link: "https://bookdown.org/jordandanielsnyder/LabManual/"
 length_weight: "4.7%"

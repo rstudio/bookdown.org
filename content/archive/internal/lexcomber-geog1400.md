@@ -1,11 +1,11 @@
 ---
-title: "GEOG1400 Digital Geographies - RStudio Practicals"
+title: "GEOG5917 Big Data & Consumer Analytics - RStudio Practicals"
 author: "Lex Comber"
-date: "2023-01-10T14:20:40Z"
-tags: [Spatial Data]
+date: "2023-01-17T17:29:46Z"
+tags: [Geographic, Data Science, Spatial Data]
 link: "https://bookdown.org/lexcomber/GEOG1400/"
-length_weight: "3.6%"
+length_weight: "1.8%"
 pinned: false
 ---
 
-This contains materials to support the University of Leeds GEOG1400 module, delivered by Lex Comber [...] This is an on-line book written to support the practicals for the GEOG1400 Digital Geographies module, delivered by Lex Comber of the School of Geography, from the University of Leeds. It is based on An Introduction to Spatial Analysis and Mapping by Brunsdon and Comber (2018) (link here) which provides a foundation for spatial data handling, GIS-related operations and spatial analysis in R. The chapters in this book contain an individual Practical with a discrete set of activities, with ...
+This contains materials to support the University of Leeds GEOG5917 module, delivered by Lex Comber [...] This is an on-line book written to support the practicals for the GEOG5917 Big Data and Consumer Analytics module, delivered by Lex Comber of the School of Geography, from the University of Leeds. A real book was written based on the materials developed for this module: Geographical Data Science and Spatial Data Analysis: An Introduction in R (Comber and Brunsdon 2021 - link here) and the module also draws from An Introduction to Spatial Analysis and Mapping in R (Brunsdon and Comber 2018  ...
