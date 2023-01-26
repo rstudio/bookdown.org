@@ -1,7 +1,7 @@
 ---
 title: "Design and Analysis of Experiments and Observational Studies using R"
 author: "Nathan Taback"
-date: "2022-05-02"
+date: "2023-01-19"
 tags: [Course, Statistics]
 link: "https://designexptr.org/"
 length_weight: "6.6%"

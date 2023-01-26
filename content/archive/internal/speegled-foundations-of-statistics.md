@@ -4,7 +4,7 @@ author: "Darrin Speegle"
 date: "2018-06-10T14:05:05Z"
 tags: [Statistics, R Programming]
 link: "https://bookdown.org/speegled/foundations-of-statistics/"
-length_weight: "100%"
+length_weight: "12%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

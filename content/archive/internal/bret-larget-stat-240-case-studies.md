@@ -1,7 +1,7 @@
 ---
 title: "Statistics 240 Course Notes"
 author: "Bret Larget"
-date: "2022-09-09T15:46:00Z"
+date: "2023-01-25T21:57:41Z"
 tags: [Statistics, Course, Tidyverse, Package, Data Science]
 link: "https://bookdown.org/bret_larget/stat-240-case-studies/"
 length_weight: "10.7%"

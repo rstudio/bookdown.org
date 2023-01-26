@@ -1,10 +1,10 @@
 ---
 title: "Advanced Statistics I 2021 Edition"
 author: ""
-date: "2023-01-18T04:51:34Z"
+date: "2023-01-26T04:13:11Z"
 tags: [Statistics, Textbook, Psychology]
 link: "https://bookdown.org/danbarch/psy_207_advanced_stats_I/"
-length_weight: "4.7%"
+length_weight: "100%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
