@@ -79,7 +79,7 @@ https://m-clark.github.io/sem/
 https://m-clark.github.io/text-analysis-with-R/
 https://manual.nssurge.com/book/understanding-surge/cn/
 https://manual.nssurge.com/book/understanding-surge/en/
-https://mixomicsteam.github.io/Bookdown/
+https://mixomicsteam.github.io/mixOmics-Vignette/
 https://myrbookfr.netlify.com/
 https://myrbooksp.netlify.com/
 https://nacnudus.github.io/spreadsheet-munging-strategies/
