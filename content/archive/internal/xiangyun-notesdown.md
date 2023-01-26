@@ -1,7 +1,7 @@
 ---
 title: "R 语言学习笔记"
 author: "黄湘云"
-date: "2022-10-21T04:26:23Z"
+date: "2023-01-26T05:42:02Z"
 tags: [笔记]
 link: "https://bookdown.org/xiangyun/notesdown/"
 length_weight: "100%"
@@ -9,4 +9,4 @@ repo: "XiangyunHuang/notesdown"
 pinned: false
 ---
 
-A book created with bookdown. [...] Book in early development. Planned release in 202X. 本书采用 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 许可，请君自重，别没事儿拿去传个什么新浪爱问、百度文库以及 XX 经济论坛，项目中代码使用 MIT 协议 开源 书籍在 R version 4.2.0 (2022-04-22) 下编译，Pandoc 版本 2.16.2，最新一次编译发生在 2022-10-21 ...
+A book created with bookdown. [...] Book in early development. Planned release in 202X. The phrase “does not work” is not very helpful, it can mean quite a few things including: There are probably others. Running your code I think the answer is the last one. — Greg Snow 1 R 社区提供了丰富的帮助资源，可以在 R 官网搜集的高频问题 https://cran.r-project.org/faqs.html 中查找，也可在线搜索 https://cran.r-project.org/search.html 或 https://rseek.org/ ，更多获取帮助方式见 ...
