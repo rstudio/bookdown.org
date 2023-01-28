@@ -1,7 +1,7 @@
 ---
 title: "Stat 343 Notes: Spring 2023"
 author: "Laurie Tupper"
-date: "2023-01-24T15:33:01Z"
+date: "2023-01-27T20:25:47Z"
 tags: [Course]
 link: "https://bookdown.org/ltupper/343s23_notes/"
 length_weight: "5.5%"
