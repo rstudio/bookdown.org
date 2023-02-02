@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning Part II"
 author: "Dr. Hailiang Du"
-date: "2023-01-22T19:06:59Z"
+date: "2023-02-01T05:15:30Z"
 tags: [Machine Learning, Course, Models]
 link: "https://bookdown.org/hailiangdu/Lecture_notes/"
-length_weight: "5.2%"
+length_weight: "6.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
