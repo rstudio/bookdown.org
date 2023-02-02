@@ -1,7 +1,7 @@
 ---
 title: "Noter til HD Business Intelligence"
 author: "Udarbejdet af Mads Stenbo Nielsen"
-date: "2023-01-28T07:12:08Z"
+date: "2023-01-31T10:27:09Z"
 tags: [Statistics]
 link: "https://bookdown.org/madsstenbonielsen/hd_business_intelligence_f23/"
 length_weight: "1.1%"

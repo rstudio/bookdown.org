@@ -1,10 +1,10 @@
 ---
 title: "Notas para Matemáticas II, UCM Somosaguas"
 author: "Jorge Herrera de la Cruz"
-date: "2022-05-11T19:06:14Z"
+date: "2023-02-01T10:55:42Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/Matematicas2_UCM/"
-length_weight: "11.1%"
+length_weight: "11%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

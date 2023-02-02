@@ -1,7 +1,7 @@
 ---
 title: "Geographic Data Science with R: Visualizing and Analyzing Environmental Change"
 author: "Michael C. Wimberly"
-date: "2023-01-28T14:19:06Z"
+date: "2023-01-29T00:36:05Z"
 tags: [Geographic, Data Science, Spatial Data]
 link: "https://bookdown.org/mcwimberly/gdswr-book/"
 length_weight: "100%"
