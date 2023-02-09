@@ -1,10 +1,10 @@
 ---
 title: "Learn Mathematics and Computer Science with Isabelle"
 author: "Aleksadner Mendoza"
-date: "2023-01-15T15:56:57Z"
+date: "2023-02-08T21:39:33Z"
 tags: [Course]
 link: "https://bookdown.org/aleksander_mendoza_drosik/learn-isabelle/"
-length_weight: "7.2%"
+length_weight: "8.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

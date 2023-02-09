@@ -1,7 +1,7 @@
 ---
 title: "The R Researcher’s companion v. 0.01"
 author: "David Randahl"
-date: "2022-11-13T14:38:38Z"
+date: "2023-02-08T10:34:33Z"
 tags: [Course]
 link: "https://bookdown.org/david_randahl/r_book/"
 length_weight: "7.3%"
