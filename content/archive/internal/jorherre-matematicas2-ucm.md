@@ -1,14 +1,11 @@
 ---
 title: "Notas para Matemáticas II, UCM Somosaguas"
 author: "Jorge Herrera de la Cruz"
-date: "2023-02-01T10:55:42Z"
-tags: [Package]
+date: "2023-02-08T10:46:49Z"
 link: "https://bookdown.org/jorherre/Matematicas2_UCM/"
 length_weight: "11%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-<p>This is a minimal example of using the bookdown package to write a book.
-The HTML output format for this example is bookdown::gitbook,
-set in the _output.yml file.</p> [...] Este libro está escrito en Markdown. Si encuentras alguna errata o tienes algún comentario, escríbeme a jorherre@ucm.es Each bookdown chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter must start with a first-level heading: # A good chapter, and can contain one (and only one) first-level heading. Use second-level and higher headings within chapters like: ## A short section or ...
+Este material ha sido creado para la asignatura de Matemáticas II, UCM, Económicas. [...] Este libro está escrito en Markdown. Si encuentras alguna errata o tienes algún comentario, escríbeme a ...

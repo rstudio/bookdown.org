@@ -1,9 +1,9 @@
 ---
 title: "STAT415 Handouts"
 author: "Kevin Ross"
-date: "2023-02-02T02:01:03Z"
+date: "2023-02-05T23:31:40Z"
 link: "https://bookdown.org/kevin_davisross/stat415-handouts/"
-length_weight: "8.2%"
+length_weight: "9%"
 pinned: false
 ---
 
