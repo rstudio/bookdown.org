@@ -1,10 +1,10 @@
 ---
-title: "PSY-401017 R Workshop"
-author: "Dr Jim Grange"
-date: "2023-02-14T12:50:47Z"
+title: "A Minimal Book Example"
+author: "John Doe"
+date: "2023-02-09T11:01:12Z"
 tags: [Package]
-link: "https://bookdown.org/JimGrange/workshop/"
-length_weight: "5.5%"
+link: "https://bookdown.org/r_samei/test/"
+length_weight: "1.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "A Brief Introduction to Bayesian Inference"
 author: "Johnny van Doorn"
-date: "2023-01-24T10:29:04Z"
+date: "2023-02-14T12:56:40Z"
 tags: [Bayesian, Models]
 link: "https://bookdown.org/johnnydoorn/bayesbookdown/"
 length_weight: "6.4%"
