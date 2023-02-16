@@ -1,11 +1,11 @@
 ---
 title: "Índice de Condición Integral"
 author: "Guillermo Correa-Londoño"
-date: "2023-02-06T04:52:50Z"
+date: "2023-02-15T13:29:15Z"
 link: "https://bookdown.org/gcorrea/ICI/"
-length_weight: "7.7%"
+length_weight: "7.8%"
 cover: "https://bookdown.org/gcorrea/ICI/images/cover.png"
 pinned: false
 ---
 
-PREFACIO | Índice de Condición Integral [...] La valoración de una característica sobre un individuo suele ser un asunto relativamente trivial, siempre que la variable en cuestión esté claramente definida y que se cuente con el instrumento adecuado para su registro. No obstante, a menudo nos enfrentamos con situaciones que nos llevan bastante lejos de este apacible escenario: se cuenta con múltiples variables que no están claramente definidas ni en su escala, ni en la valoración que debe hacerse de cada uno de sus niveles o categorías, queriendo integrar tales valoraciones en un índice ...
+PREFACIO | Índice de Condición Integral [...] Las valoraciones integrales a partir de múltiples variables involucran aspectos cuya conceptualización y manejo pueden ser complejos. ¿Cómo deben valorarse las categorías de las variables?, ¿cómo ponderar las variables para generar constructos intermedios que den lugar a un índice integral?, ¿cómo manejar escenarios en los que se consideren constructos de diferentes jerarquías?, ¿cómo escalar los índices obtenidos? Este libro aborda estas y otras cuestiones, tanto desde lo conceptual como desde lo operacional, presentando una metodología en la que  ...

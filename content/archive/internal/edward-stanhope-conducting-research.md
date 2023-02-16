@@ -1,10 +1,10 @@
 ---
 title: "Conducting Research Seminar Workbook"
 author: "Edward Stanhope"
-date: "2023-01-30T22:13:06Z"
+date: "2023-02-13T17:59:58Z"
 tags: [Seminar]
 link: "https://bookdown.org/edward_stanhope/conducting_research/"
-length_weight: "2.4%"
+length_weight: "2.5%"
 pinned: false
 ---
 
