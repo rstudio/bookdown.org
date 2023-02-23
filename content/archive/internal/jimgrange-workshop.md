@@ -1,10 +1,10 @@
 ---
 title: "PSY-401017 R Workshop"
 author: "Dr Jim Grange"
-date: "2023-02-14T12:50:47Z"
+date: "2023-02-22T06:00:52Z"
 tags: [Package]
 link: "https://bookdown.org/JimGrange/workshop/"
-length_weight: "5.5%"
+length_weight: "6.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

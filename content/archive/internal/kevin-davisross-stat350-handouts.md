@@ -1,9 +1,9 @@
 ---
 title: "STAT 350 Handouts"
 author: "Kevin Ross"
-date: "2023-02-10T22:43:29Z"
+date: "2023-02-18T01:35:31Z"
 link: "https://bookdown.org/kevin_davisross/stat350-handouts/"
-length_weight: "8.8%"
+length_weight: "9.4%"
 pinned: false
 ---
 
