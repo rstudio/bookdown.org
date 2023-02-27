@@ -1,8 +1,8 @@
 ---
-title: "Noter til HD Business Intelligence"
+title: "Business Analytics: Metoder og anvendelser"
 author: "Udarbejdet af Mads Stenbo Nielsen"
-date: "2023-01-31T10:27:09Z"
-tags: [Statistics]
+date: "2023-02-21T05:53:59Z"
+tags: [Business Analytics, Statistics]
 link: "https://bookdown.org/madsstenbonielsen/hd_business_intelligence_f23/"
 length_weight: "1.1%"
 cover: "https://bookdown.org/madsstenbonielsen/hd_business_intelligence_f23/images/chalkboard.png"

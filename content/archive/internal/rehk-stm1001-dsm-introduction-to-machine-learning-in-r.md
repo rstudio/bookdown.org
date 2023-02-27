@@ -1,10 +1,10 @@
 ---
 title: "STM1001: Introduction to Machine Learning in R"
 author: ""
-date: "2022-11-25T00:57:04Z"
+date: "2023-02-21T07:03:12Z"
 tags: [Machine Learning, Data Science, Statistics]
 link: "https://bookdown.org/rehk/stm1001_dsm_introduction_to_machine_learning_in_r/"
-length_weight: "2%"
+length_weight: "2.4%"
 pinned: false
 ---
 
