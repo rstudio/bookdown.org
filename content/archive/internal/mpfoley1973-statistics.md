@@ -1,7 +1,7 @@
 ---
 title: "Statistical Inference"
 author: "Michael Foley"
-date: "2023-02-20T12:59:49Z"
+date: "2023-03-01T09:26:16Z"
 tags: [Tutorial, Text Mining]
 link: "https://bookdown.org/mpfoley1973/statistics/"
 length_weight: "10.6%"
