@@ -1,12 +1,12 @@
 ---
 title: "Teachvatory"
 author: "Gonzalo Jara"
-date: "2023-02-08T01:41:18Z"
+date: "2023-02-23T23:20:14Z"
 tags: [Visualization, Course, Package]
 link: "https://bookdown.org/gonzalojarasaba/teachvatory/"
-length_weight: "1.9%"
+length_weight: "2.6%"
 cover: "https://bookdown.org/gonzalojarasaba/teachvatory/cover.png"
-repo: "rstudio/bookdown-demo"
+repo: "ggjara/teachvatory-docs"
 pinned: false
 ---
 

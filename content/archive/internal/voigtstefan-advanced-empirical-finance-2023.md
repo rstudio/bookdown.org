@@ -1,7 +1,7 @@
 ---
 title: "Exercises for Advanced Empirical Finance: Topics and Data Science"
 author: "Stefan Voigt, University of Copenhagen and Danish Finance Institute"
-date: "2023-02-20T10:50:32Z"
+date: "2023-03-01T12:42:55Z"
 tags: [Data Science, Course]
 link: "https://bookdown.org/voigtstefan/advanced_empirical_finance_2023/"
 length_weight: "3.5%"
