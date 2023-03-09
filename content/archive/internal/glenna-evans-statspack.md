@@ -1,10 +1,10 @@
 ---
 title: "Introductory statistics skills pack"
 author: "Glenna Nightingale and Michael Allerhand"
-date: "2022-12-06T09:58:33Z"
+date: "2023-03-03T13:30:58Z"
 tags: [Statistics, Epidemiology, Ecology, Social Science]
 link: "https://bookdown.org/glenna_evans/statspack/"
-length_weight: "3.8%"
+length_weight: "3.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

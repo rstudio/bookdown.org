@@ -1,10 +1,10 @@
 ---
 title: "Survey Design and Analysis"
 author: "Michael Foley"
-date: "2023-02-16T12:38:46Z"
+date: "2023-03-05T12:26:34Z"
 tags: [Course, Guide, Package]
 link: "https://bookdown.org/mpfoley1973/survey/"
-length_weight: "6.9%"
+length_weight: "7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
