@@ -1,7 +1,7 @@
 ---
 title: "CCC Sea Kayak Course 2023 Handout"
 author: "Rich Bown, Beth Wensley"
-date: "2023-01-21T17:24:24Z"
+date: "2023-03-08T20:39:44Z"
 tags: [Course]
 link: "https://bookdown.org/rbown250/ccc_sk_notes/"
 length_weight: "5.5%"

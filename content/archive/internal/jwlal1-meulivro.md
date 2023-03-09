@@ -1,10 +1,10 @@
 ---
 title: "Cônicas e Superfícies Quádricas"
 author: ""
-date: "2023-03-02T03:48:26Z"
+date: "2023-03-03T17:44:33Z"
 tags: [Package]
 link: "https://bookdown.org/jwlal1/meulivro/"
-length_weight: "1.2%"
+length_weight: "1.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
