@@ -1,10 +1,10 @@
 ---
 title: "Statistics and Probability for Economics and Finance - 2022/23"
 author: "Michela Cameletti"
-date: "2023-02-28T21:43:35Z"
+date: "2023-03-12T20:44:20Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/michela_cameletti/spef2223rlabs/"
-length_weight: "3%"
+length_weight: "4.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

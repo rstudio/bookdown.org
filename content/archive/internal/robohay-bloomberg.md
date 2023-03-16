@@ -1,7 +1,7 @@
 ---
 title: "Bloomberg"
 author: "Rob Hayward"
-date: "2023-02-05T08:26:47Z"
+date: "2023-03-11T09:46:38Z"
 tags: [Github]
 link: "https://bookdown.org/robohay/bloomberg/"
 length_weight: "2.3%"

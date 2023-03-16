@@ -1,10 +1,10 @@
 ---
 title: "Macroeconomics"
 author: "Rob Hayward"
-date: "2020-08-06T14:22:10Z"
+date: "2023-03-12T08:29:54Z"
 tags: [Macroeconomics, Textbook]
-link: "https://bookdown.org/robohay/economicsnotes/"
-length_weight: "8.8%"
+link: "https://bookdown.org/robohay/macroeconomics/"
+length_weight: "8.9%"
 repo: "robhayward/macroeconomics"
 pinned: false
 ---
