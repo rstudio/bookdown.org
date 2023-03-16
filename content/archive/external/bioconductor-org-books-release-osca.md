@@ -4,7 +4,6 @@ author: "release"
 date: ""
 link: "https://bioconductor.org/books/release/OSCA/"
 length_weight: "2.3%"
-cover: "https://github.com/Bioconductor/BiocStickers/raw/master/Bioconductor/Bioconductor-serial.gif"
 repo: "OSCA-source/OSCA"
 pinned: false
 ---

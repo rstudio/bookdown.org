@@ -1,7 +1,7 @@
 ---
 title: "Statistical Thinking: A Simulation Approach to Modeling Uncertainty (UM Spring 2023 edition)"
 author: ""
-date: "2023-03-01T18:40:19Z"
+date: "2023-03-13T16:24:22Z"
 tags: [Simulation]
 link: "https://bookdown.org/frederick_peck/statistical_thinking_um_spring_2023_ed/"
 length_weight: "9.4%"

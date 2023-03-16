@@ -1,10 +1,10 @@
 ---
 title: "Regression Modelling for Biostatistics 1"
 author: "Schlub T, Heritier S, Teixeira-Pinto A"
-date: "2023-03-04T00:00:38Z"
+date: "2023-03-14T10:50:19Z"
 tags: [Statistics]
 link: "https://bookdown.org/tpinto_home/regression_modelling_for_biostatistics_1/"
-length_weight: "4.9%"
+length_weight: "5.7%"
 pinned: false
 ---
 
