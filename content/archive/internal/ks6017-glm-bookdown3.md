@@ -1,10 +1,10 @@
 ---
 title: "Generalized Linear Mixture Model"
 author: "Marc Scott"
-date: "2023-03-04T04:10:58Z"
-tags: [Package, Machine Learning]
+date: "2023-03-22T23:22:37Z"
+tags: [Package, Course, Models, Data Analysis]
 link: "https://bookdown.org/ks6017/GLM_bookdown3/"
-length_weight: "4.7%"
+length_weight: "7.1%"
 cover: "https://bookdown.org/ks6017/GLM_bookdown3/GLM_cover.png"
 repo: "rstudio/bookdown-demo"
 pinned: false
@@ -12,4 +12,4 @@ pinned: false
 
 <p>This is a minimal example of using the bookdown package to write a book.
 set in the _output.yml file.
-The HTML output format for this example is bookdown::gitbook,</p> [...] Supervised and unsupervised machine learning, also known as classification and clustering, are important statistical techniques commonly applied in many social and behavioral science research problems. Both seek to understand social phenomena through the identification of naturally occurring homogeneous groupings within a population. Supervised learning techniques are used to sort new observations into pre- existing or  ...
+The HTML output format for this example is bookdown::gitbook,</p> [...] This is a course in advanced statistical techniques that covers generalized linear models and extensions that are commonly used in health and policy research. Assuming a strong foundation in the general linear model (linear regression and ANOVA) and exposure to the linear mixed model (a.k.a. multilevel models), this course focuses on data analysis that utilizes models for categorical, discrete or limited outcomes, some  ...
