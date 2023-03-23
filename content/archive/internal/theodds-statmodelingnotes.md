@@ -1,10 +1,10 @@
 ---
 title: "Statistical Modeling II: SDS383D"
 author: "Antonio R. Linero"
-date: "2023-02-26T19:54:08Z"
+date: "2023-03-22T21:54:20Z"
 tags: [Models, Nonparametric Estimation, Course]
 link: "https://bookdown.org/theodds/StatModelingNotes/"
-length_weight: "7.6%"
+length_weight: "8.9%"
 pinned: false
 ---
 

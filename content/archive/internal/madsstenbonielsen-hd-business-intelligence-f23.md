@@ -1,10 +1,10 @@
 ---
 title: "Business Analytics: Metoder og anvendelser"
 author: "Udarbejdet af Mads Stenbo Nielsen"
-date: "2023-03-16T05:48:21Z"
+date: "2023-03-16T09:03:34Z"
 tags: [Business Analytics, Statistics]
 link: "https://bookdown.org/madsstenbonielsen/hd_business_intelligence_f23/"
-length_weight: "1.9%"
+length_weight: "1.8%"
 cover: "https://bookdown.org/madsstenbonielsen/hd_business_intelligence_f23/images/chalkboard.png"
 repo: "rstudio/bookdown-demo"
 pinned: false
