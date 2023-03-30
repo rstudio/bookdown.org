@@ -1,7 +1,7 @@
 ---
 title: "Introductory Statistics for Economics"
 author: "Brian Krauth"
-date: "2023-03-11T00:36:14Z"
+date: "2023-03-28T22:15:59Z"
 tags: [Statistics, Textbook, Course]
 link: "https://bookdown.org/bkrauth/IS4E/"
 length_weight: "100%"
