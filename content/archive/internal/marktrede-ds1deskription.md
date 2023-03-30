@@ -1,7 +1,7 @@
 ---
 title: "Data Science 1: Deskription"
 author: "Mark Trede"
-date: "2023-03-08T09:06:20Z"
+date: "2023-03-25T14:51:14Z"
 tags: [Data Science]
 link: "https://bookdown.org/marktrede/DS1Deskription/"
 length_weight: "100%"

@@ -1,7 +1,7 @@
 ---
 title: "Replication of The Cointegrated VAR Model"
 author: "Markus Mößler"
-date: "2023-03-13T20:03:42Z"
+date: "2023-03-23T12:18:30Z"
 link: "https://bookdown.org/markus_moessler/The-Cointegrated-VAR-Model-1672087419318/"
 length_weight: "1.8%"
 repo: "mmoessler/juselius-2006"
