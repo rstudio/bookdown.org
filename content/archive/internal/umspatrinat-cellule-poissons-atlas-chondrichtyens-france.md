@@ -1,7 +1,7 @@
 ---
 title: "Atlas des chondrichtyens de France métropolitaine"
 author: "P. Stephan, C. Bousquet, S. Elliott, E. Durieux, M. Lapinski, C. Laliche, M.-C. Santoni, M. Bouet, S. Mayot, T. Barreau, A. Bisch, C. Paillon, N. Coulon, P. Labourgade, A. Carpentier et A. Acou"
-date: "2023-03-28T11:51:40Z"
+date: "2023-04-05T07:32:05Z"
 link: "https://bookdown.org/umspatrinat_cellule_poissons/Atlas_chondrichtyens_France/"
 length_weight: "100%"
 pinned: false

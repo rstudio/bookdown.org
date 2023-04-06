@@ -1,10 +1,10 @@
 ---
 title: "Woodspring"
 author: "Adam Cameron"
-date: "2023-03-29T10:40:02Z"
+date: "2023-04-05T10:44:02Z"
 tags: [Network]
 link: "https://bookdown.org/adamcameron987/woodspring/"
-length_weight: "1.1%"
+length_weight: "1.2%"
 pinned: false
 ---
 

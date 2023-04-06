@@ -1,10 +1,10 @@
 ---
 title: "PSYC 3950 Course Companion"
 author: "Tyler R. Pritchard"
-date: "2023-03-18T13:42:11Z"
+date: "2023-03-30T16:53:35Z"
 tags: [Course, Data Analysis, Psychology, Advanced R]
 link: "https://bookdown.org/tylerrpritchard/psyc-3950-companion/"
-length_weight: "11.9%"
+length_weight: "100%"
 pinned: false
 ---
 
