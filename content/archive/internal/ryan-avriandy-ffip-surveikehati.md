@@ -1,7 +1,7 @@
 ---
 title: "Draft Panduan Survei Keanekaragaman Hayati"
 author: "Fauna & Flora International`s Indonesia Programme"
-date: "2023-03-26T20:50:40Z"
+date: "2023-04-04T04:40:06Z"
 link: "https://bookdown.org/ryan_avriandy/ffip_surveikehati/"
 length_weight: "8.1%"
 pinned: false

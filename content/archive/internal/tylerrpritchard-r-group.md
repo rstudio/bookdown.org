@@ -1,7 +1,7 @@
 ---
 title: "R Interest Group"
 author: "Tyler R. Pritchard"
-date: "2023-03-23T17:05:41Z"
+date: "2023-03-30T16:46:16Z"
 tags: [Psychology]
 link: "https://bookdown.org/tylerrpritchard/r_group/"
 length_weight: "3.7%"
