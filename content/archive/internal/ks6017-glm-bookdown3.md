@@ -1,7 +1,7 @@
 ---
 title: "Generalized Linear Mixture Model"
 author: "Ying Lu and Marc Scott"
-date: "2023-04-04T02:27:25Z"
+date: "2023-04-06T19:26:48Z"
 tags: [Package, Course, Models, Data Analysis]
 link: "https://bookdown.org/ks6017/GLM_bookdown3/"
 length_weight: "11.1%"

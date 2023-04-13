@@ -1,10 +1,10 @@
 ---
-title: "Everyday-R"
+title: "Everyday-R: Practical R for Data Science"
 author: "by Brian Jungmin Park"
-date: "2023-03-22T19:26:25Z"
-tags: [Package, R Markdown, Data Science, Machine Learning, Visualization, Shiny]
+date: "2023-04-07T16:37:27Z"
+tags: [Data Science, Package, R Markdown, Machine Learning, Visualization, Shiny]
 link: "https://bookdown.org/brianjmpark/everydayR/"
-length_weight: "7.5%"
+length_weight: "7.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
