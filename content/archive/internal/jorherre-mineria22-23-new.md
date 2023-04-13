@@ -1,9 +1,9 @@
 ---
 title: "Fundamentos de Minería de Datos y Big Data (I) y (II)"
 author: "Pablo Arés, Jorge Herrera"
-date: "2023-03-20T20:18:34Z"
+date: "2023-04-07T05:36:54Z"
 link: "https://bookdown.org/jorherre/Mineria22_23_new/"
-length_weight: "11.4%"
+length_weight: "10.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

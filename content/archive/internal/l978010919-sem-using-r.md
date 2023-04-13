@@ -1,9 +1,9 @@
 ---
 title: "结构方程模型的R实现(草稿)"
 author: "Plumber Dong"
-date: "2023-04-05T16:47:57Z"
+date: "2023-04-11T15:47:36Z"
 link: "https://bookdown.org/l978010919/sem_using_R/"
-length_weight: "3.4%"
+length_weight: "5.1%"
 repo: "plumberDong/SEM_code"
 pinned: false
 ---
