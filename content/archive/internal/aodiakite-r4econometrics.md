@@ -1,7 +1,7 @@
 ---
 title: "R pour l’économétrie"
 author: "Abdoul Oudouss Diakite"
-date: "2022-05-08T21:43:43Z"
+date: "2023-04-17T00:37:18Z"
 tags: [Package]
 link: "https://bookdown.org/AODiakite/r4econometrics/"
 length_weight: "4.6%"

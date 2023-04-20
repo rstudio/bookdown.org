@@ -1,9 +1,9 @@
 ---
 title: "Recopilación de Ejercicios de Farmacocinética"
 author: "Edsaúl Emilio Pérez Guerrero"
-date: "2023-03-29T05:03:06Z"
+date: "2023-04-19T04:48:40Z"
 link: "https://bookdown.org/edsaul_perez/Ejercicios-Farmacocinetica/"
-length_weight: "5.4%"
+length_weight: "5.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

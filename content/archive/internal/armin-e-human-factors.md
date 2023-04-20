@@ -1,7 +1,7 @@
 ---
 title: "Human Factors"
 author: "Prof. Dr. Armin Eichinger"
-date: "2023-04-11T09:20:53Z"
+date: "2023-04-18T06:22:16Z"
 link: "https://bookdown.org/Armin_E/human-factors/"
 length_weight: "6.3%"
 repo: "rstudio/bookdown-demo"

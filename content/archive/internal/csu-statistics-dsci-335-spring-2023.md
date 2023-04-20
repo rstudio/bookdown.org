@@ -1,10 +1,10 @@
 ---
 title: "DSCI 335: Inferential Reasoning in Data Analysis"
 author: "Ben Prytherch"
-date: "2023-04-12T08:30:39Z"
+date: "2023-04-17T12:24:10Z"
 tags: [Data Analysis, Textbook]
 link: "https://bookdown.org/csu_statistics/dsci_335_spring_2023/"
-length_weight: "9.6%"
+length_weight: "9.8%"
 pinned: false
 ---
 
