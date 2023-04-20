@@ -1,7 +1,7 @@
 ---
 title: "Cooking After Retirement"
 author: "Bruce Cochrane"
-date: "2023-04-07T20:06:11Z"
+date: "2023-04-15T18:53:51Z"
 link: "https://bookdown.org/cochrabj/cookbook/"
 length_weight: "8.1%"
 pinned: false

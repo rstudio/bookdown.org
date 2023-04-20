@@ -1,10 +1,10 @@
 ---
 title: "STA 253 Notes (Murray State)"
 author: "Christopher Mecklin"
-date: "2023-04-07T20:10:25Z"
+date: "2023-04-19T15:43:29Z"
 tags: [Textbook, Statistics]
-link: "https://bookdown.org/cmecklin/STA_253_Spring_2023/"
-length_weight: "8.3%"
+link: "https://bookdown.org/content/ed53b8c9-d934-48aa-8ffc-754bab95e782/"
+length_weight: "8.8%"
 pinned: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "PSY-401017 R Workshop"
 author: "Dr Jim Grange"
-date: "2023-03-15T10:56:53Z"
+date: "2023-04-17T11:47:40Z"
 tags: [Package]
 link: "https://bookdown.org/JimGrange/workshop/"
 length_weight: "7.3%"

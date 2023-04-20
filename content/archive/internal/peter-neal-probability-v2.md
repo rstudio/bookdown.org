@@ -1,9 +1,9 @@
 ---
 title: "Probability Taster Session"
 author: "Prof Peter Neal"
-date: "2023-02-13T11:41:07Z"
-link: "https://bookdown.org/peter_neal/probability/"
-length_weight: "0%"
+date: "2023-04-19T08:25:15Z"
+link: "https://bookdown.org/peter_neal/probability_v2/"
+length_weight: "2.6%"
 pinned: false
 ---
 
