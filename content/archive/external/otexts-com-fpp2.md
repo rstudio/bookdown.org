@@ -1,5 +1,5 @@
 ---
-title: "Forecasting: Principles and Practice (2nd ed)"
+title: "Forecasting: Principles and Practice (2nd ed)"
 author: "otexts.com"
 date: ""
 tags: [Forecasting, Package, Textbook]

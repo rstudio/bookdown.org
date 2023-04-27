@@ -1,10 +1,10 @@
 ---
 title: "AI and ML for Social Scientists - Artificial intelligence and Machine Learning for Social Scientists"
 author: "paul"
-date: "2023-04-19T12:42:12Z"
+date: "2023-04-26T13:17:44Z"
 tags: [Machine Learning, Seminar]
 link: "https://bookdown.org/paul/ai_ml_for_social_scientists/"
-length_weight: "11.8%"
+length_weight: "100%"
 pinned: false
 ---
 
