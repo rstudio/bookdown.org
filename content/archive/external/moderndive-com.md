@@ -1,7 +1,7 @@
 ---
 title: "Statistical Inference via Data Science"
 author: "Chester Ismay and Albert Y. Kim"
-date: "2022-12-24"
+date: "2023-04-20"
 tags: [Data Science, Textbook, Tidyverse, Github]
 link: "https://moderndive.com/"
 length_weight: "9.8%"
@@ -10,4 +10,4 @@ repo: "moderndive/ModernDive_book"
 pinned: true
 ---
 
-An open-source and fully-reproducible electronic textbook for teaching statistical inference using tidyverse data science tools. [...] This is the website for Statistical Inference via Data Science: A ModernDive into R and the Tidyverse! Visit the GitHub repository for this site and find the book on Amazon. You can also purchase it at CRC Press using promo code ADC22 for a discounted price. This work by Chester Ismay and Albert Y. Kim is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ...
+An open-source and fully-reproducible electronic textbook for teaching statistical inference using tidyverse data science tools. [...] This is the website for Statistical Inference via Data Science: A ModernDive into R and the Tidyverse! Visit the GitHub repository for this site and find the book on Amazon. You can also purchase it at CRC Press. This work by Chester Ismay and Albert Y. Kim is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ...

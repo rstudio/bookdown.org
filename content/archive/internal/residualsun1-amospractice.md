@@ -1,8 +1,8 @@
 ---
 title: "官方媒体话语下的民族主义形成机制——基于Amos的实证分析"
 author: "黄国政、黄婉岚、肖奕、李晓琳、林彦捷、朱雨彤"
-date: "2023-04-15T07:39:46Z"
-link: "https://bookdown.org/content/98abdc9d-3a06-44aa-829f-12840a32dfbd/"
+date: "2023-04-15T13:55:32Z"
+link: "https://bookdown.org/residualsun1/Amospractice/"
 length_weight: "3.7%"
 pinned: false
 ---
