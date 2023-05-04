@@ -1,10 +1,10 @@
 ---
-title: "🎃 EPA (JW Tsai) -"
+title: "🎃 JW Tsai + - my academic blog"
 author: "jwtsai"
-date: "2023-04-26T21:48:11Z"
+date: "2023-05-01T23:36:12Z"
 tags: [Education]
 link: "https://bookdown.org/jwtsai/epa/"
-length_weight: "2.6%"
+length_weight: "2.4%"
 pinned: false
 ---
 
