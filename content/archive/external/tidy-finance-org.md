@@ -4,7 +4,7 @@ author: ""
 date: ""
 tags: [Tidy]
 link: "https://tidy-finance.org/"
-length_weight: "7.5%"
+length_weight: "7.7%"
 pinned: false
 ---
 
