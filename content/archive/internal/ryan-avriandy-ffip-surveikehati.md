@@ -1,10 +1,11 @@
 ---
-title: "Draft Panduan Survei Keanekaragaman Hayati"
+title: "Draft Panduan Survei Kehati"
 author: "Fauna & Flora International`s Indonesia Programme"
-date: "2023-04-04T04:40:06Z"
+date: "2023-05-10T05:27:08Z"
 link: "https://bookdown.org/ryan_avriandy/ffip_surveikehati/"
-length_weight: "8.1%"
+length_weight: "8.4%"
+cover: "https://bookdown.org/ryan_avriandy/ffip_surveikehati/./cover.png"
 pinned: false
 ---
 
-Draft panduan survei kehati [...] Apa dan untuk siapa panduan ini? Panduan ini ditujukan untuk siapa saja yang tertarik melakukan survei keanekaragaman hayati (kehati), terutama bagi praktisi di dalam Fauna & Flora International - Indonesia Programme (FFI’s IP). Panduan ini disusun agar pemantauan kehati dapat dilakukan dengan standar minimum yang sama, akurat, dan dapat digunakan untuk pengambilan keputusan ilmiah. Panduan ini adalah ringkasan umum untuk melakukan pemantauan pada empat taksa berikut: Avifauna, Herpetofauna, Mamalia, dan Vegetasi yang terdapat dalam bioma terestrial. Panduan ...
+Panduan praktis mengenai survei keanekaragaman hayati [...] Fauna & Flora International`s Indonesia Programme Panduan ini ditujukan untuk siapa saja yang tertarik melakukan survei keanekaragaman hayati (kehati), terutama bagi praktisi di dalam Fauna & Flora International`s Indonesia Programme (FFI’s IP). Panduan ini disusun agar pemantauan kehati dapat dilakukan dengan standar minimum yang sama, akurat, dan dapat digunakan untuk pengambilan keputusan ilmiah. Panduan ini adalah ringkasan umum untuk melakukan pemantauan pada empat taksa berikut: Avifauna, Herpetofauna, Mamalia, dan Vegetasi ...

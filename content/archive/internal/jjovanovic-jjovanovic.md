@@ -1,10 +1,10 @@
 ---
 title: "Fundamentals of Collecting and Analyzing Baseball Data"
-author: "Jackie Jovanovic, advised by Dr. Ryne VanKrevelen"
-date: "2023-05-03T00:28:33Z"
+author: "jjovanovic"
+date: "2023-05-09T00:06:20Z"
 tags: [Package, Guide]
 link: "https://bookdown.org/jjovanovic/jjovanovic/"
-length_weight: "6.3%"
+length_weight: "6.5%"
 pinned: false
 ---
 
