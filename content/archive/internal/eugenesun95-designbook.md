@@ -1,10 +1,10 @@
 ---
 title: "Design Notebook"
 author: "Hao Sun"
-date: "2022-08-01T02:37:08Z"
+date: "2023-05-14T02:09:21Z"
 tags: [Package, Shiny]
 link: "https://bookdown.org/eugenesun95/designbook/"
-length_weight: "2.1%"
+length_weight: "2.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning-based Causal Inference Tutorial"
 author: "Golub Capital Social Impact Lab"
-date: "2023-04-17T18:59:01Z"
+date: "2023-05-11T23:52:48Z"
 tags: [Machine Learning, Tutorial]
 link: "https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/"
 length_weight: "11.5%"
