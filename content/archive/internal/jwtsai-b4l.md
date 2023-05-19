@@ -1,10 +1,10 @@
 ---
-title: "🎃 JW Tsai + - my academic blog"
+title: "🎃 JW Tsai’s Spellbook - Blogging for Learning"
 author: "jwtsai"
-date: "2023-05-01T23:36:12Z"
+date: "2023-05-17T03:57:29Z"
 tags: [Education]
-link: "https://bookdown.org/jwtsai/epa/"
-length_weight: "2.4%"
+link: "https://bookdown.org/jwtsai/b4l/"
+length_weight: "5%"
 pinned: false
 ---
 

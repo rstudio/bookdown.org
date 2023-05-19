@@ -1,7 +1,7 @@
 ---
 title: "Advanced Statistical Modelling"
 author: "Dr. S. Jackson"
-date: "2023-04-03T16:10:54Z"
+date: "2023-05-15T09:51:32Z"
 tags: [Course, Machine Learning, Data Science]
 link: "https://bookdown.org/ssjackson300/ASM_Lecture_Notes/"
 length_weight: "100%"
