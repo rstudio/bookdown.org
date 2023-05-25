@@ -1,9 +1,9 @@
 ---
 title: "Applied Stochastic Processes"
 author: "Kevin Ross"
-date: "2023-05-12T20:22:27Z"
+date: "2023-05-22T18:43:56Z"
 link: "https://bookdown.org/kevin_davisross/applied-stochastic-processes/"
-length_weight: "8.3%"
+length_weight: "8.7%"
 pinned: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Draft Panduan Survei Kehati"
 author: "Fauna & Flora International`s Indonesia Programme"
-date: "2023-05-10T05:27:08Z"
+date: "2023-05-23T07:22:51Z"
 link: "https://bookdown.org/ryan_avriandy/ffip_surveikehati/"
 length_weight: "8.4%"
 cover: "https://bookdown.org/ryan_avriandy/ffip_surveikehati/./cover.png"
