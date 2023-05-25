@@ -1,10 +1,10 @@
 ---
 title: "Multiple Membership Models: A tutorial"
 author: "Laura Lambert"
-date: "2023-05-11T14:39:53Z"
+date: "2023-05-24T18:40:45Z"
 tags: [Models, Tutorial, Course, Package]
 link: "https://bookdown.org/laura_lambert_99/Multiple-Membership-Models/"
-length_weight: "5.7%"
+length_weight: "5.8%"
 pinned: false
 ---
 

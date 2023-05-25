@@ -1,9 +1,9 @@
 ---
 title: "化险为夷——与复杂性和波动性共舞的艺术"
 author: "广予"
-date: "2023-05-14T14:12:55Z"
+date: "2023-05-20T23:11:11Z"
 link: "https://bookdown.org/xs286/insurmeditations/"
-length_weight: "3.3%"
+length_weight: "3.2%"
 pinned: false
 ---
 

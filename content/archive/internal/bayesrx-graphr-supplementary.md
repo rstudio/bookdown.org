@@ -1,7 +1,7 @@
 ---
 title: "Supplementary Materials for Probabilistic Graphical Modeling under Heterogeneity"
 author: "Liying Chen^{1,5}, Satwik Acharyya^{1,5}, Chunyu Luo^{2,3}, Yang Ni^4 and Veerabhadran Baladandayuthapani^{1,6}"
-date: "2023-05-09T00:52:37Z"
+date: "2023-05-23T18:18:51Z"
 tags: [Network, Models]
 link: "https://bookdown.org/bayesrx/graphr_supplementary/"
 length_weight: "5.2%"

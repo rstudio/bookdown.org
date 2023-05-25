@@ -1,7 +1,7 @@
 ---
 title: "Language and sensorimotor simulation in conceptual processing: Multilevel analysis and statistical power"
 author: "Pablo César de Juan Bernabéu"
-date: "2023-05-03T12:51:36Z"
+date: "2023-05-22T09:19:33Z"
 tags: [Simulation]
 link: "https://bookdown.org/pablobernabeu/language-sensorimotor-conceptual-processing-statistical-power/"
 length_weight: "100%"
