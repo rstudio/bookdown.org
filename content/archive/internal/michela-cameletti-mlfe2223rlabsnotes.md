@@ -1,10 +1,10 @@
 ---
 title: "MLFE R labs (2023 ed.)"
 author: "Prof. Michela Cameletti & Tutor Rasoul Samei"
-date: "2023-05-11T21:37:54Z"
+date: "2023-05-29T21:35:47Z"
 tags: [Course, Machine Learning, Data Science, R Programming, Tidyverse, Package]
 link: "https://bookdown.org/michela_cameletti/mlfe2223rlabsnotes/"
-length_weight: "7.6%"
+length_weight: "9.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
