@@ -1,10 +1,10 @@
 ---
 title: "Workshop: Interactive Data Analysis with Shiny"
 author: "Paul C. Bauer & Jonas Lieth"
-date: "2023-05-16T09:46:56Z"
+date: "2023-06-05T09:06:57Z"
 tags: [Data Analysis, Shiny, Github]
 link: "https://bookdown.org/paul/shiny_workshop/"
-length_weight: "1.9%"
+length_weight: "3.3%"
 pinned: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Spatially Varying Coefficient (SVC) modelling with GGP-GAMs"
 author: "Lex Comber"
-date: "2023-05-31T14:21:54Z"
+date: "2023-06-02T10:53:32Z"
 tags: [Models, Data Science, Machine Learning]
 link: "https://bookdown.org/lexcomber/ggp-gam/"
-length_weight: "1.4%"
+length_weight: "3.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

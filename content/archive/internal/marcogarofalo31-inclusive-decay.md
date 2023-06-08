@@ -1,9 +1,9 @@
 ---
 title: "Meson_masses_clover"
 author: "Marco Garofalo"
-date: "2023-05-11T17:28:53Z"
+date: "2023-06-01T15:56:24Z"
 link: "https://bookdown.org/marcogarofalo31/inclusive_decay/"
-length_weight: "1.1%"
+length_weight: "1.3%"
 pinned: false
 ---
 
