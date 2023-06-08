@@ -1,10 +1,10 @@
 ---
 title: "Cônicas e Superfícies Quádricas"
 author: "jwlal1"
-date: "2023-05-25T20:57:25Z"
+date: "2023-06-07T02:47:01Z"
 tags: [Package]
-link: "https://bookdown.org/jwlal1/conicasequadricas/"
-length_weight: "2.1%"
+link: "https://bookdown.org/jwlal1/conicasesupquadricas/"
+length_weight: "3.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
