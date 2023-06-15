@@ -35,6 +35,8 @@ git_restore("content/archive/internal/jkylearmstrong-fundamentals-of-data-wrangl
 git_restore("content/archive/internal/daniel-flores-agreda-prob1-gsem-unige.md")
 # git_restore("content/archive/internal/hhwagner1-landgencourse-book.md")
 git_restore("content/archive/internal/shemanefer-esna2.md")
+git_restore("content/archive/internal/baba-yoshihiko-doing-meta-analysis-in-r.md")
+git_restore("content/archive/internal/tpinto-home-regularisation.md")
 
 gert::git_add("content/archive/internal")
 gert::git_commit("Restore some files")

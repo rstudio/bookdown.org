@@ -1,14 +1,14 @@
 ---
 title: "Cônicas e Superfícies Quádricas"
 author: "jwlal1"
-date: "2023-06-07T02:47:01Z"
+date: "2023-06-11T22:45:18Z"
 tags: [Package]
 link: "https://bookdown.org/jwlal1/conicasesupquadricas/"
-length_weight: "3.7%"
+length_weight: "4.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
 <p>This is a minimal example of using the bookdown package to write a book.
 The HTML output format for this example is bookdown::gitbook,
-set in the _output.yml file.</p> [...] This is a sample book written in Markdown. You can use anything that Pandoc’s Markdown supports; for example, a math equation \(a^2 + b^2 = ...
+set in the _output.yml file.</p> [...] As cônicas e as superfícies quádricas têm uma longa história e são objetos matemáticos de grande importância. Elas desempenham um papel fundamental em diversas áreas da ciência, como física, engenharia, arquitetura e computação gráfica. Além disso, esses conceitos são essenciais para o estudo da geometria e do cálculo. Neste material, iremos explorar as propriedades fundamentais das cônicas, incluindo elipses, parábolas  ...

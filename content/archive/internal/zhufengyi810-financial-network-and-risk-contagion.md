@@ -1,10 +1,10 @@
 ---
 title: "Financial Network and Risk Contagion"
 author: "Fengyi Zhu"
-date: "2023-06-08T05:40:33Z"
+date: "2023-06-13T04:43:38Z"
 tags: [Network]
 link: "https://bookdown.org/zhufengyi810/financial_network_and_risk_contagion/"
-length_weight: "3.7%"
+length_weight: "4.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

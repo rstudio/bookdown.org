@@ -1,7 +1,7 @@
 ---
 title: "R 语言数据分析实战"
 author: "统计之都团队"
-date: "2023-05-29T05:42:45Z"
+date: "2023-06-13T11:37:08Z"
 tags: [数据分析, 统计之都, R Markdown]
 link: "https://bookdown.org/xiangyun/data-analysis-in-action/"
 length_weight: "100%"

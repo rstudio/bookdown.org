@@ -1,10 +1,10 @@
 ---
 title: "CRT and Belief in God"
 author: "Authors: A group of cool researchers"
-date: "2023-04-24T03:51:47Z"
+date: "2023-06-13T22:40:30Z"
 tags: [Guide]
 link: "https://bookdown.org/omidreza_ghasemi21/4-Analysis/"
-length_weight: "2.7%"
+length_weight: "2.6%"
 pinned: false
 ---
 

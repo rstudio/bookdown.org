@@ -1,7 +1,7 @@
 ---
 title: "Woodspring Locality"
 author: "Adam Cameron"
-date: "2023-06-01T15:39:53Z"
+date: "2023-06-09T09:26:10Z"
 tags: [Network]
 link: "https://bookdown.org/adamcameron987/woodspring/"
 length_weight: "1.9%"

@@ -1,10 +1,10 @@
 ---
 title: "JA Data Science Cookbook"
 author: "Shannon Carter & David McClendon"
-date: "2022-01-12T15:26:21Z"
+date: "2023-06-08T19:18:29Z"
 tags: [Data Science]
 link: "https://bookdown.org/shannon/ja_ds_cookbook2/"
-length_weight: "3.9%"
+length_weight: "1.4%"
 pinned: false
 ---
 

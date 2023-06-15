@@ -9,5 +9,4 @@ cover: "https://jazznbass.github.io/scan-Book/./cover.png"
 pinned: false
 ---
 
-Jürgen Wilbert Version 23.06 (build 13) Hello everyone! I am glad that you have found your way to this book as it tells me that you are starting to use the scan package. While scan is quite thoroughly developed, this book is at an earlier stage (about 42% done). I am constantly working on it and expanding it. At the moment there is no release version of this book. Only this draft, which most likely contains many errors.
-If you have any suggestions on how to improve the book, or want to report bugs, comments, feedback, etc., go to the gitHub repository of this book and contribute here ...
+Jürgen Wilbert Version 23.06 (build 19) Hello everyone! I am delighted to see that you have discovered this book, as it indicates that you are starting to explore the scan package. While scan has undergone extensive development, this book is still a work in progress (approximately 42% complete). I am continuously working on expanding its content. Currently, there is no official release version available; only this draft, which may contain errors. If you have any suggestions for improving the book, wish to report bugs, or provide comments, feedback, and more, please visit the GitHub repository  ...
