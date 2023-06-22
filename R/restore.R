@@ -37,6 +37,7 @@ git_restore("content/archive/internal/daniel-flores-agreda-prob1-gsem-unige.md")
 git_restore("content/archive/internal/shemanefer-esna2.md")
 git_restore("content/archive/internal/baba-yoshihiko-doing-meta-analysis-in-r.md")
 git_restore("content/archive/internal/tpinto-home-regularisation.md")
+git_restore("content/archive/internal/daniel-dauber-io-r4np-book.md")
 
 gert::git_add("content/archive/internal")
 gert::git_commit("Restore some files")
