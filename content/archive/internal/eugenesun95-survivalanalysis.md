@@ -1,10 +1,10 @@
 ---
 title: "Notes for Survival Analysis"
 author: "Hao Sun"
-date: "2023-01-06T01:25:17Z"
+date: "2023-06-20T00:52:49Z"
 tags: [Survival Analysis, Package]
 link: "https://bookdown.org/eugenesun95/SurvivalAnalysis/"
-length_weight: "1.2%"
+length_weight: "1.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

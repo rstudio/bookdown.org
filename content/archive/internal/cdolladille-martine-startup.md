@@ -1,9 +1,9 @@
 ---
 title: "Martine et la Start-Up"
 author: "Martine Dolladille, Illustration : Agnès Kiefer"
-date: "2023-06-13T12:52:43Z"
+date: "2023-06-19T08:41:12Z"
 link: "https://bookdown.org/cdolladille/martine_startup/"
-length_weight: "2.2%"
+length_weight: "2.8%"
 pinned: false
 ---
 

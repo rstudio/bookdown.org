@@ -1,7 +1,7 @@
 ---
 title: "The openair book"
 author: "David C Carslaw, Jack Davison"
-date: "2023-06-06T14:05:08Z"
+date: "2023-06-16T10:05:05Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/david_carslaw/openair/"
 length_weight: "100%"
