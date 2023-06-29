@@ -1,10 +1,10 @@
 ---
 title: "Course script for SICSS Paris"
 author: "Julien Boelaert, Felix Lennert, Étienne Ollion"
-date: "2023-06-21T16:02:24Z"
+date: "2023-06-26T16:13:24Z"
 tags: [Course, Social Science]
 link: "https://bookdown.org/f_lennert/sicss-bookdown/"
-length_weight: "9.2%"
+length_weight: "100%"
 pinned: false
 ---
 

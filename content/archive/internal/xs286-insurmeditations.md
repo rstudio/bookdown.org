@@ -1,9 +1,9 @@
 ---
-title: "化险为夷——与复杂性和波动性共舞的艺术"
+title: "柔化刚发——复杂时代下隐秘的保险机会"
 author: "广予"
-date: "2023-06-13T00:26:56Z"
+date: "2023-06-24T11:07:36Z"
 link: "https://bookdown.org/xs286/insurmeditations/"
-length_weight: "3.7%"
+length_weight: "3.8%"
 pinned: false
 ---
 
