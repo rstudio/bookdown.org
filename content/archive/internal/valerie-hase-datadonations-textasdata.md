@@ -1,10 +1,10 @@
 ---
 title: "Data Donations - Tutorial Automated Content Analysis"
 author: "Valerie Hase, LMU Munich"
-date: "2023-06-19T16:19:34Z"
+date: "2023-06-26T18:58:40Z"
 tags: [Tutorial, Seminar]
 link: "https://bookdown.org/valerie_hase/DataDonations-TextasData/"
-length_weight: "6.3%"
+length_weight: "5.8%"
 pinned: false
 ---
 
