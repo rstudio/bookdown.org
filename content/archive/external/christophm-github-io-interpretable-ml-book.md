@@ -1,7 +1,7 @@
 ---
 title: "Interpretable Machine Learning"
 author: "Christoph Molnar"
-date: "2023-03-02"
+date: "2023-07-02"
 tags: [Machine Learning, Guide, Models]
 link: "https://christophm.github.io/interpretable-ml-book/"
 length_weight: "9.6%"

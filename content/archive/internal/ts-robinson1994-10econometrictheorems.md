@@ -1,10 +1,10 @@
 ---
 title: "10 Fundamental Theorems for Econometrics"
 author: "Thomas S. Robinson  ("
-date: "2022-07-24T13:23:01Z"
+date: "2023-07-05T13:21:25Z"
 tags: [Econometrics, Statistics]
-link: "https://bookdown.org/ts_robinson1994/10_fundamental_theorems_for_econometrics/"
-length_weight: "7.4%"
+link: "https://bookdown.org/ts_robinson1994/10EconometricTheorems/"
+length_weight: "7.5%"
 repo: "tsrobinson/10EconometricTheorems"
 pinned: false
 ---
