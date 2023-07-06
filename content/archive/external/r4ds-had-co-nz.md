@@ -4,7 +4,7 @@ author: "Hadley Wickham and Garrett Grolemund"
 date: ""
 tags: [Data Science]
 link: "https://r4ds.had.co.nz/"
-length_weight: "8.5%"
+length_weight: "8.6%"
 cover: "https://r4ds.had.co.nz/cover.png"
 pinned: true
 ---

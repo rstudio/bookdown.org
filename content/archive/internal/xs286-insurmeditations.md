@@ -1,9 +1,9 @@
 ---
 title: "柔化刚发——复杂时代下隐秘的保险机会"
 author: "广予"
-date: "2023-06-24T11:07:36Z"
+date: "2023-07-04T22:18:36Z"
 link: "https://bookdown.org/xs286/insurmeditations/"
-length_weight: "3.8%"
+length_weight: "4%"
 pinned: false
 ---
 
