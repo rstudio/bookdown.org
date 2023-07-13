@@ -4,7 +4,7 @@ author: "María Teresa Ortiz, Felipe González"
 date: ""
 tags: [Github]
 link: "https://est-mult.netlify.com/"
-length_weight: "0%"
+length_weight: "8.6%"
 repo: "tereom/est-multivariada"
 pinned: false
 ---

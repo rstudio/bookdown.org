@@ -1,7 +1,7 @@
 ---
 title: "lefko3: a gentle introduction"
 author: "Richard P. Shefferson"
-date: "2023-05-09T06:00:44Z"
+date: "2023-07-10T05:04:35Z"
 tags: [Models, Package, Simulation]
 link: "https://bookdown.org/cdorm/lefko3gentle/"
 length_weight: "100%"
