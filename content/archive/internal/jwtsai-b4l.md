@@ -1,10 +1,10 @@
 ---
 title: "🎃 JW Tsai’s Spellbook - Blogging for Learning"
 author: "jwtsai"
-date: "2023-06-14T08:30:32Z"
+date: "2023-07-16T16:12:57Z"
 tags: [Education]
 link: "https://bookdown.org/jwtsai/b4l/"
-length_weight: "5%"
+length_weight: "5.3%"
 pinned: false
 ---
 
