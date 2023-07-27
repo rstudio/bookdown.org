@@ -1,7 +1,7 @@
 ---
 title: "R Guide"
 author: "Asser Koskinen"
-date: "2022-08-04T08:38:15Z"
+date: "2023-07-26T18:13:50Z"
 tags: [Guide, Machine Learning]
 link: "https://bookdown.org/cda/rguide/"
 length_weight: "1.2%"

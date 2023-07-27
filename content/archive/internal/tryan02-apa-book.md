@@ -1,9 +1,9 @@
 ---
 title: "Active Political Analysis"
 author: "David Cottrell, Lucy Martin, and Timothy J. Ryan"
-date: "2023-06-23T18:36:33Z"
+date: "2023-07-24T20:06:32Z"
 link: "https://bookdown.org/tryan02/APA_Book/"
-length_weight: "1.3%"
+length_weight: "1.9%"
 repo: "TJRyan02/APA_Book"
 pinned: false
 ---

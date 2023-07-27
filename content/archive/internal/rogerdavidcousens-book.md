@@ -1,7 +1,7 @@
 ---
 title: "Effective Ecology"
 author: "rogerdavidcousens"
-date: "2023-06-11T19:59:00Z"
+date: "2023-07-21T14:01:25Z"
 tags: [Ecology]
 link: "https://bookdown.org/rogerdavidcousens/_book/"
 length_weight: "100%"

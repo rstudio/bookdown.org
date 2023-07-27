@@ -1,7 +1,7 @@
 ---
 title: "STAT 331"
 author: "Ben Prytherch"
-date: "2023-07-19T09:38:11Z"
+date: "2023-07-25T19:44:32Z"
 tags: [Statistics, Course, Statistical Methods, Data Analysis]
 link: "https://bookdown.org/csu_statistics/stat_331_book/"
 length_weight: "9.3%"
