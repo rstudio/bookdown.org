@@ -101,7 +101,6 @@ https://rkabacoff.github.io/datavis/
 https://rmd4sci.njtierney.com/
 https://ropensci.github.io/dev_guide/
 https://rpsystats.com/
-https://rs-aspr.netlify.com/
 https://rstats.wtf/
 https://rstats4ag.org/
 https://rubenfcasal.github.io/aprendizaje_estadistico/
