@@ -1,7 +1,7 @@
 ---
 title: "Spatial transcriptomics data analysis: theory and practice"
 author: "Eleftherios Zormpas, Dr Simon J. Cockell"
-date: "2023-07-19T15:24:38Z"
+date: "2023-07-20T12:18:15Z"
 tags: [Data Analysis, Guide, Tutorial, Conference, Sequencing]
 link: "https://bookdown.org/sjcockell/ismb-tutorial-2023/"
 length_weight: "7%"

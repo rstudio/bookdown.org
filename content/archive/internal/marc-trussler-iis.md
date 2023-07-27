@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Inferential Statistics"
 author: "Dr. Marc Trussler"
-date: "2023-06-14T14:22:21Z"
+date: "2023-07-25T20:00:25Z"
 tags: [Statistics, Data Science]
 link: "https://bookdown.org/marc_trussler/IIS/"
-length_weight: "100%"
+length_weight: "4.4%"
 pinned: false
 ---
 
