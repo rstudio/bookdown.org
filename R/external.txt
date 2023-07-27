@@ -130,6 +130,7 @@ https://ulyngs.github.io/cog-design-space-ict-self-control/
 https://vcris.dhr.virginia.gov/vcris/help/
 https://wangcc.me/LSHTMlearningnote/
 https://www.bigbookofr.com/
+https://www.cdyf.me/
 https://www.econometrics-with-r.org/
 https://www.gastonsanchez.com/r4strings/
 https://www.jamoviguide.com/
@@ -139,4 +140,3 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://www.cdyf.me/
