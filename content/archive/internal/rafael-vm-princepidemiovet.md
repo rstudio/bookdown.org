@@ -1,8 +1,8 @@
 ---
 title: "Princípios de Epidemiologia Veterinária"
 author: "Prof. Dr. M.Sc. M.V. Rafael Veríssimo Monteiro"
-date: "2023-04-08T13:07:17Z"
-link: "https://bookdown.org/tupi_carioca/princ_epidem_vet/"
+date: "2023-08-02T18:36:53Z"
+link: "https://bookdown.org/rafael_vm/princepidemiovet/"
 length_weight: "100%"
 repo: "rafael-vm/PrincEpidemioVet"
 pinned: false

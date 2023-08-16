@@ -1,7 +1,7 @@
 ---
 title: "Everyday-R: Practical R for Data Science"
 author: "by Brian Jungmin Park"
-date: "2023-07-20T21:06:20Z"
+date: "2023-08-08T21:31:02Z"
 tags: [Data Science, Package, Github, R Markdown]
 link: "https://bookdown.org/brianjmpark/everydayR/"
 length_weight: "7.6%"

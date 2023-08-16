@@ -1,10 +1,10 @@
 ---
 title: "R Tools for Market Research"
 author: "Alessio Rossi"
-date: "2023-05-11T12:03:21Z"
+date: "2023-08-09T09:55:20Z"
 tags: [Market, Guide]
 link: "https://bookdown.org/rossialessio095/R_Market_Research/"
-length_weight: "4.8%"
+length_weight: "5.7%"
 pinned: false
 ---
 
