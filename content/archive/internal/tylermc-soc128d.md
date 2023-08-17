@@ -1,7 +1,7 @@
 ---
 title: "Analytics for a Changing Climate: Introduction to Social Data Science"
 author: "Stanford Summer Course 2023 | Instructor: Tyer McDaniel, Sociology, tylermc@stanford.edu"
-date: "2023-08-09T23:26:09Z"
+date: "2023-08-15T23:33:07Z"
 tags: [Data Science, Course, Social Science]
 link: "https://bookdown.org/tylermc/soc128d/"
 length_weight: "100%"

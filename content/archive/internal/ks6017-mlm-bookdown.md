@@ -1,10 +1,10 @@
 ---
 title: "Multi-level Modeling: Nested and Longitudinal data"
 author: "Marc Scott"
-date: "2023-08-03T12:25:36Z"
+date: "2023-08-10T12:11:53Z"
 tags: [Package, Course, Models, Education]
 link: "https://bookdown.org/ks6017/MLM_bookdown/"
-length_weight: "10.9%"
+length_weight: "11.2%"
 cover: "https://bookdown.org/ks6017/MLM_bookdown/MLM_cover.png"
 repo: "rstudio/bookdown-demo"
 pinned: false

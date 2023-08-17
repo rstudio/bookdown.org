@@ -1,10 +1,10 @@
 ---
 title: "Regression Modelling for Biostatistics 1"
 author: "Schlub T, Heritier S, Teixeira-Pinto A"
-date: "2023-07-20T02:50:15Z"
+date: "2023-08-14T05:51:12Z"
 tags: [Statistics]
 link: "https://bookdown.org/stephane_heritier/RM1TEST/"
-length_weight: "5.6%"
+length_weight: "100%"
 pinned: false
 ---
 
