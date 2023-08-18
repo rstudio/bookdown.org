@@ -1,14 +1,12 @@
 ---
-title: "A Minimal Book Example"
-author: "John Doe"
-date: "2023-08-09T21:58:55Z"
-tags: [Package]
+title: "R Exploratory Data Analysis"
+author: "Nathan Garrett"
+date: "2023-08-15T18:19:05Z"
+tags: [Exploratory Data Analysis]
 link: "https://bookdown.org/profgarrett/course_r_eda/"
-length_weight: "1.8%"
-repo: "rstudio/bookdown-demo"
+length_weight: "2.6%"
 pinned: false
 ---
 
-<p>This is a minimal example of using the bookdown package to write a book.
-The HTML output format for this example is bookdown::gitbook,
-set in the _output.yml file.</p> [...] This is a sample book written in Markdown. You can use anything that Pandoc’s Markdown supports; for example, a math equation \(a^2 + b^2 = c^2\). Each bookdown chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter must start with a first-level heading: # A good chapter, and can contain one (and only one) first-level heading. Use second-level and higher headings within chapters ...
+R Exploratory Data Analysis [...] This site is for the ACCT 426 and BUDA 451 classes in Fall 2023.
+It has been created by Nathan Garrett (nathan.garrett@mail.wvu.edu) ...
