@@ -1,9 +1,9 @@
 ---
 title: "Myocarditis Redcap wiki"
 author: "Charles Dolladille"
-date: "2022-11-25T15:44:00Z"
+date: "2023-08-18T07:20:11Z"
 link: "https://bookdown.org/cdolladille/myocarditis_redcap_wiki/"
-length_weight: "3.8%"
+length_weight: "3.9%"
 pinned: false
 ---
 
