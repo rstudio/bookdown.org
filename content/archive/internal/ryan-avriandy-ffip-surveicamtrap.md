@@ -1,9 +1,9 @@
 ---
 title: "Draft Panduan Penggunaan Kamera Intai"
 author: "Fauna & Flora International`s Indonesia Programme"
-date: "2023-08-08T06:11:56Z"
+date: "2023-08-22T10:06:58Z"
 link: "https://bookdown.org/ryan_avriandy/ffip_surveicamtrap/"
-length_weight: "6.7%"
+length_weight: "6.8%"
 cover: "https://bookdown.org/ryan_avriandy/ffip_surveicamtrap/./cover.png"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "R Exploratory Data Analysis"
 author: "Nathan Garrett"
-date: "2023-08-15T18:19:05Z"
+date: "2023-08-21T18:03:01Z"
 tags: [Exploratory Data Analysis]
 link: "https://bookdown.org/profgarrett/course_r_eda/"
-length_weight: "2.6%"
+length_weight: "2.3%"
 pinned: false
 ---
 

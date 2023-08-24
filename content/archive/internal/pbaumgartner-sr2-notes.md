@@ -1,7 +1,7 @@
 ---
 title: "Statistical Rethinking (2nd ed. 2023)"
 author: "Peter Baumgartner"
-date: "2023-08-11T21:35:46Z"
+date: "2023-08-21T22:19:06Z"
 tags: [Tidyverse, Bayesian, Statistics]
 link: "https://bookdown.org/pbaumgartner/sr2-notes/"
 length_weight: "100%"
