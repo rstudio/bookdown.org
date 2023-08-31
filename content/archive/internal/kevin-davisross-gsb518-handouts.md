@@ -1,10 +1,10 @@
 ---
 title: "GSB 518 Handouts"
 author: "Kevin Ross"
-date: "2023-08-23T03:58:56Z"
+date: "2023-08-27T04:30:01Z"
 tags: [Statistics, Business Analytics, Package]
 link: "https://bookdown.org/kevin_davisross/gsb518-handouts/"
-length_weight: "7.2%"
+length_weight: "8.8%"
 pinned: false
 ---
 

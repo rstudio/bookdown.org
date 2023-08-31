@@ -1,10 +1,10 @@
 ---
 title: "STA 125 Notes (Statistical Reasoning)"
 author: "Christopher Mecklin"
-date: "2023-07-13T16:54:54Z"
+date: "2023-08-30T12:41:49Z"
 tags: [Textbook, Course, Statistics]
 link: "https://bookdown.org/cmecklin/sta125notes/"
-length_weight: "9.7%"
+length_weight: "2.3%"
 pinned: false
 ---
 
