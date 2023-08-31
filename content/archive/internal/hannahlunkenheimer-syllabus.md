@@ -1,10 +1,10 @@
 ---
 title: "Syllabi"
 author: "Hannah Lunkenheimer"
-date: "2023-08-11T03:19:22Z"
+date: "2023-08-29T19:42:25Z"
 tags: [Package, Course]
-link: "https://bookdown.org/hannahlunkenheimer/syllabi/"
-length_weight: "3%"
+link: "https://bookdown.org/hannahlunkenheimer/syllabus/"
+length_weight: "0%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
