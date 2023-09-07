@@ -1,7 +1,7 @@
 ---
 title: "Data Wrangling and Visualization Guide"
 author: "Max Ricciardelli"
-date: "2023-08-25T19:18:41Z"
+date: "2023-09-03T21:11:05Z"
 tags: [Visualization, Guide, Statistics, R Markdown]
 link: "https://bookdown.org/max_ricciardelli/wrangling_modules/"
 length_weight: "7.8%"
