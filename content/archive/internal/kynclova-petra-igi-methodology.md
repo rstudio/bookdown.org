@@ -1,10 +1,10 @@
 ---
 title: "Inclusive Growth Index - Methodology"
 author: "Nour Barnat, Diana Camerini, Petra Kynclova, Cloe Schaub"
-date: "2023-08-30T21:53:39Z"
+date: "2023-09-06T18:45:26Z"
 tags: [Guide, GPU]
 link: "https://bookdown.org/kynclova_petra/IGI_methodology/"
-length_weight: "4.3%"
+length_weight: "4.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

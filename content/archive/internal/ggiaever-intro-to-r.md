@@ -1,11 +1,10 @@
 ---
 title: "intro-to-R"
 author: "ggiaever"
-date: "2023-08-16T00:19:21Z"
+date: "2023-09-04T18:51:21Z"
 tags: [Course, Exploratory Data Analysis]
 link: "https://bookdown.org/ggiaever/intro-to-R/"
-length_weight: "9.4%"
-cover: "https://bookdown.org/ggiaever/intro-to-R/koos10.png"
+length_weight: "8.7%"
 repo: "gurinina/genomics/intro-to-R"
 pinned: false
 ---

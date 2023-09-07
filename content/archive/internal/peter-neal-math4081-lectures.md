@@ -1,9 +1,9 @@
 ---
 title: "Foundations of Statistics"
 author: "Prof Peter Neal and Dr Daniel Cavey"
-date: "2022-09-14T13:00:32Z"
+date: "2023-08-31T08:38:16Z"
 tags: [Statistics, Course, Data Analysis, Package]
-link: "https://bookdown.org/peter_neal/math4081_notes/"
+link: "https://bookdown.org/peter_neal/math4081-lectures/"
 length_weight: "100%"
 pinned: false
 ---
