@@ -40,6 +40,10 @@ git_restore("content/archive/internal/tpinto-home-regularisation.md")
 git_restore("content/archive/internal/daniel-dauber-io-r4np-book.md")
 git_restore("content/archive/internal/paul-shiny-workshop.md")
 git_restore("content/archive/internal/sbtseiji-jamovi-complete-guide.md")
+git_restore("content/archive/internal/andrew-grant-regularisation.md")
+git_restore("content/archive/internal/kevin-davisross-gsb518-handouts-2022.md") # quarto book
+git_restore("content/archive/internal/maria-gallegos-where-are-genes-2023.md")
+git_restore("content/archive/internal/martin-shepperd-moderndatabook.md")
 
 gert::git_add("content/archive/internal")
 gert::git_commit("Restore some files")

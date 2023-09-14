@@ -1,7 +1,7 @@
 ---
 title: "intro-to-R"
 author: "ggiaever"
-date: "2023-09-04T18:51:21Z"
+date: "2023-09-13T09:55:49Z"
 tags: [Course, Exploratory Data Analysis]
 link: "https://bookdown.org/ggiaever/intro-to-R/"
 length_weight: "8.7%"

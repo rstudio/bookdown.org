@@ -1,10 +1,10 @@
 ---
-title: "제조 전문가의 AI 솔루션 개발 : 10일 완성"
+title: "제조 전문가의 AI 솔루션 개발 : 5일 완성"
 author: "이창선"
-date: "2023-09-06T03:40:47Z"
+date: "2023-09-12T21:27:34Z"
 tags: [Package]
 link: "https://bookdown.org/smartai4ir/dui_ai_solution/"
-length_weight: "1.6%"
+length_weight: "2.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

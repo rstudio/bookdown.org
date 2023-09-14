@@ -1,9 +1,9 @@
 ---
 title: "ACT2060 - Applications probabilistes des risques actuariels"
 author: "Jean-Philippe Boucher"
-date: "2023-09-04T23:16:42Z"
+date: "2023-09-08T20:22:49Z"
 link: "https://bookdown.org/boucherjphilippe/ACT2060/"
-length_weight: "4.2%"
+length_weight: "5.7%"
 cover: "https://bookdown.org/boucherjphilippe/ACT2060/images/CoverACT2060.png"
 pinned: false
 ---
