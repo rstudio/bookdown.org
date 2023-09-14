@@ -1,7 +1,7 @@
 ---
 title: "Distribution Theory"
 author: "Peter K. Dunn"
-date: "2023-09-06T09:07:26Z"
+date: "2023-09-14T02:29:58Z"
 tags: [Statistics, Simulation]
 link: "https://bookdown.org/pkaldunn/DistTheory/"
 length_weight: "100%"

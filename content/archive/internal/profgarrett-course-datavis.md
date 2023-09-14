@@ -1,7 +1,7 @@
 ---
 title: "Course on Data Visualization"
 author: "Nathan Garrett"
-date: "2023-09-05T19:53:55Z"
+date: "2023-09-11T14:10:17Z"
 tags: [Course, Visualization]
 link: "https://bookdown.org/profgarrett/course_datavis/"
 length_weight: "2.6%"

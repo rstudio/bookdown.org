@@ -1,10 +1,9 @@
 ---
 title: "Análises de Dados com R"
 author: "Ricardo Lehtonen R. de Souza"
-date: "2023-08-12T01:38:43Z"
+date: "2023-09-10T16:46:42Z"
 link: "https://bookdown.org/ricardo_lehtonen/anlise_de_dados_com_r/"
-length_weight: "9.5%"
-cover: "https://github.com/r-lehtonen/livro/blob/main/capa.png"
+length_weight: "9.4%"
 repo: "https://github.com/r-lehtonen/livro"
 pinned: false
 ---
