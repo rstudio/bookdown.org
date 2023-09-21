@@ -1,7 +1,7 @@
 ---
 title: "381M Course Bookdown"
 author: "Josephine Lukito"
-date: "2023-08-23T12:03:06Z"
+date: "2023-09-20T06:36:39Z"
 tags: [Course, Textbook, Data Science, Statistics, Visualization, Network, Machine Learning]
 link: "https://bookdown.org/josephine_lukito/j381m_tutorial/"
 length_weight: "100%"
