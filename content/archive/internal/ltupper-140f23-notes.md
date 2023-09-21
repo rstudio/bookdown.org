@@ -1,9 +1,9 @@
 ---
 title: "Stat 140 Notes: Fall 2023"
 author: "Laurie Tupper"
-date: "2023-09-12T12:05:08Z"
+date: "2023-09-20T11:46:14Z"
 link: "https://bookdown.org/ltupper/140f23_notes/"
-length_weight: "6.5%"
+length_weight: "6.6%"
 pinned: false
 ---
 
