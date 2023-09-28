@@ -1,10 +1,10 @@
 ---
 title: "CS5209: Collective Problem Solving"
 author: "Kevin Fo"
-date: "2023-09-16T16:39:50Z"
+date: "2023-09-25T16:05:57Z"
 tags: [Package, Course]
 link: "https://bookdown.org/jcog196013/CS5209_Notes/"
-length_weight: "2.8%"
+length_weight: "2.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Esercizi per il corso di Statistica di Base"
 author: "Brunero Liseo, Sapienza Università di Roma"
-date: "2022-10-17T10:51:42Z"
+date: "2023-09-22T07:49:17Z"
 link: "https://bookdown.org/brunero_liseo/EserciziOnline_StatisticaDiBase/"
 length_weight: "100%"
 pinned: false

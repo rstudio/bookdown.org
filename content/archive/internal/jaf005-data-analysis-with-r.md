@@ -1,7 +1,7 @@
 ---
 title: "Data Analysis with R"
 author: "Joseph Fox"
-date: "2023-09-14T17:16:07Z"
+date: "2023-09-21T17:21:07Z"
 tags: [Data Analysis]
 link: "https://bookdown.org/jaf005/Data-Analysis-with-R/"
 length_weight: "100%"

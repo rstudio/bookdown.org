@@ -1,10 +1,10 @@
 ---
 title: "Bayesian Statistics the Fun Way"
 author: "Peter Baumgartner"
-date: "2023-09-16T15:27:14Z"
+date: "2023-09-27T23:30:10Z"
 tags: [Bayesian, Statistics]
 link: "https://bookdown.org/pbaumgartner/bayesian-fun/"
-length_weight: "7.1%"
+length_weight: "8.9%"
 pinned: false
 ---
 
