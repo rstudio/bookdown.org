@@ -1,11 +1,11 @@
 ---
 title: "R for Applied Economics: A Beginner’s Guide"
-author: "Matthew Brown"
-date: "2023-09-19T05:48:57Z"
+author: "Matthew Brown (website)"
+date: "2023-09-27T21:30:42Z"
 tags: [Guide, Course]
 link: "https://bookdown.org/mbrown35/bookdown-Rguide/"
-length_weight: "6.1%"
+length_weight: "6.7%"
 pinned: false
 ---
 
-R for Applied Economics: A Beginner’s Guide [...] Welcome to the guide! This is a work in progress. One-pargaraph motivation here. I anticipate that the guide will be useful for two audiences. The narrow audience is students in Prof. Hunt Allcott’s Empirical Environmental Economics (E3) course at Stanford.1 This website is a companion text for that course. E3 involves several data-based problem sets as well as a final project. We want students to be able to take E3 without any prior background in programming. One goal of this guide is to ensure that this is possible: it is supposed to cover ...
+R for Applied Economics: A Beginner’s Guide [...] Welcome to the R guide! This is a work in progress. I’ll continue to update it as the quarter goes along, and I appreciate your feedback about how I can make it most helpful. Please email me (mbrown35@stanford.edu) if you have comments or suggestions about this guide, or you can always mention it when you see me in class or in office hours. I anticipate that the guide will be useful for two audiences. The narrow audience is students in Prof. Hunt Allcott’s Empirical Environmental Economics (E3) course at Stanford.1 This website is a companion ...
