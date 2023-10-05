@@ -19,7 +19,7 @@ files[res]
 
 # restore some file
 gert::git_branch_checkout("main")
-gert::git_pull("upstream", refspec = "main")
+gert::git_pull("upstream", refspec = "main", rebase = TRUE)
 gert::git_branch_checkout("updates/gha-auto")
 
 git_restore <- function(file) {
