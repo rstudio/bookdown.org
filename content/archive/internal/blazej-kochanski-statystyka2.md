@@ -1,11 +1,11 @@
 ---
-title: "Statystyka 2 - skrypt"
+title: "Statystyka 2. Skrypt"
 author: "Błażej Kochański"
-date: "2023-07-24T10:04:45Z"
+date: "2023-10-02T16:45:07Z"
 link: "https://bookdown.org/blazej_kochanski/statystyka2/"
-length_weight: "7.7%"
+length_weight: "8.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
 
-Statystyka 2 - skrypt [...] Ten skrypt został przygotowany na zajęcia Statystyka matematyczna prowadzone przez Błażeja Kochańskiego na Politechnice Gdańskiej. Został o stworzony za pomocą pakietu bookdown będącego częścią środowiska statystycznego R. Warunki zaliczenia i inne kwestie organizacyjne zostaną omówione na pierwszych zajęciach oraz zamieszczone na stronie kursu w serwisie ...
+Statystyka 2. Skrypt [...] Ten skrypt został przygotowany na zajęcia Statystyka matematyczna prowadzone przez Błażeja Kochańskiego na Politechnice Gdańskiej. Został o stworzony za pomocą pakietu bookdown będącego częścią środowiska statystycznego R. Warunki zaliczenia i inne kwestie organizacyjne zostaną omówione na pierwszych zajęciach oraz zamieszczone na stronie kursu w serwisie ...
