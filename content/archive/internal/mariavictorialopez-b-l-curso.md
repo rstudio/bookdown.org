@@ -1,7 +1,7 @@
 ---
 title: "Introducción a los Indicadores Limnológicos y su Análisis Estadístico en R"
 author: ""
-date: "2023-09-27T00:58:41Z"
+date: "2023-09-28T16:06:38Z"
 tags: [Package]
 link: "https://bookdown.org/mariavictorialopez/B_L_CURSO/"
 length_weight: "3%"

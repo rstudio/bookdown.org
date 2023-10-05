@@ -4,7 +4,7 @@ author: ""
 date: ""
 tags: [Tidy, Econometrics]
 link: "https://tidy-finance.org/"
-length_weight: "10%"
+length_weight: "10.6%"
 pinned: false
 ---
 

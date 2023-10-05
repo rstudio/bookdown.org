@@ -1,10 +1,10 @@
 ---
 title: "R Programming for Psychometrics"
 author: "Susu Zhang"
-date: "2023-09-25T16:51:42Z"
+date: "2023-10-04T18:24:37Z"
 tags: [R Programming, Package]
 link: "https://bookdown.org/sz_psyc490/r4psychometics/"
-length_weight: "8.8%"
+length_weight: "8.9%"
 pinned: false
 ---
 

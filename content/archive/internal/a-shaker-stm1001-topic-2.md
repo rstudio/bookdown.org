@@ -1,7 +1,7 @@
 ---
 title: "STM1001 Topic 2 - Descriptive Statistics"
 author: "Amanda Shaker"
-date: "2023-09-04T12:14:55Z"
+date: "2023-10-04T22:06:02Z"
 tags: [Statistics]
 link: "https://bookdown.org/a_shaker/STM1001_Topic_2/"
 length_weight: "3%"
