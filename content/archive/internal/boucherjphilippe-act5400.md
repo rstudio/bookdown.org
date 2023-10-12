@@ -1,7 +1,7 @@
 ---
 title: "Crédibilité: théorie et applications avec R"
 author: "Jean-Philippe Boucher"
-date: "2023-09-05T10:45:09Z"
+date: "2023-10-10T18:22:29Z"
 link: "https://bookdown.org/boucherjphilippe/ACT5400/"
 length_weight: "10.1%"
 cover: "https://bookdown.org/boucherjphilippe/ACT5400/images/CoverACT5400.png"

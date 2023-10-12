@@ -1,10 +1,10 @@
 ---
 title: "Mit Emma durch den Daten-Dschungel"
 author: "Daniel Schumann & Oliver Böhm-Kasper"
-date: "2023-10-04T14:25:19Z"
+date: "2023-10-05T17:42:50Z"
 link: "https://bookdown.org/boehm_kasper/Tutorial_Mit_Emma_durch_den_Datenschungel/"
-length_weight: "5%"
-repo: "rstudio/bookdown-demo"
+length_weight: "4.7%"
+repo: "https://gitlab.ub.uni-bielefeld.de/oliver.boehm-kasper/r-tutorial-mit-emma-durch-den-datendschungel/"
 pinned: false
 ---
 
