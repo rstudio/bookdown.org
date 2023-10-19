@@ -1,10 +1,10 @@
 ---
 title: "R for Applied Economics: A Beginner’s Guide"
 author: "Matthew Brown (website)"
-date: "2023-10-08T16:26:07Z"
+date: "2023-10-15T23:38:57Z"
 tags: [Guide, Course]
 link: "https://bookdown.org/mbrown35/bookdown-Rguide/"
-length_weight: "6.7%"
+length_weight: "6.8%"
 pinned: false
 ---
 
