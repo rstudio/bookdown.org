@@ -1,9 +1,9 @@
 ---
 title: "You Can Learn R"
-author: "Sarah Manski"
-date: "2023-04-03T13:31:48Z"
+author: "Sam Manski"
+date: "2023-10-17T15:33:48Z"
 link: "https://bookdown.org/manskisa/You_Can_Learn_R/"
-length_weight: "2.4%"
+length_weight: "1.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "GEOG3915 GeoComputation and Spatial Analysis practicals"
 author: "Lex Comber"
-date: "2023-10-11T15:35:22Z"
+date: "2023-10-18T14:08:18Z"
 tags: [Spatial Data]
 link: "https://bookdown.org/lexcomber/GEOG3195/"
-length_weight: "4.7%"
+length_weight: "4%"
 pinned: false
 ---
 
