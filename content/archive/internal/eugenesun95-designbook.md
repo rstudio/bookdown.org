@@ -1,7 +1,7 @@
 ---
 title: "Design Notebook"
 author: "Hao Sun"
-date: "2023-06-26T01:52:16Z"
+date: "2023-10-08T00:09:39Z"
 tags: [Package, Shiny]
 link: "https://bookdown.org/eugenesun95/designbook/"
 length_weight: "2.8%"
