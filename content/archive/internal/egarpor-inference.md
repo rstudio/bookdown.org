@@ -1,7 +1,7 @@
 ---
 title: "A First Course on Statistical Inference"
 author: "Isabel Molina Peralta and Eduardo García-Portugués"
-date: "2023-10-18T14:42:11Z"
+date: "2023-10-25T22:33:02Z"
 tags: [Course, Statistics, Data Science]
 link: "https://bookdown.org/egarpor/inference/"
 length_weight: "100%"
