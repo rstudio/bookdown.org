@@ -1,7 +1,7 @@
 ---
 title: "Introducción a la ciencia de datos con R."
 author: "Gastón Becerra y Juan Pablo López Alurralde"
-date: "2023-05-25T23:30:49Z"
+date: "2023-10-21T17:51:37Z"
 tags: [Seminar]
 link: "https://bookdown.org/gaston_becerra/curso-intro-r/"
 length_weight: "8.6%"

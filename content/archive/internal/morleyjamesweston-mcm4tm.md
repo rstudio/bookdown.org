@@ -1,9 +1,9 @@
 ---
 title: "MCM4TM"
 author: "Morley J Weston"
-date: "2023-10-10T08:37:56Z"
+date: "2023-10-23T21:23:33Z"
 link: "https://bookdown.org/morleyjamesweston/MCM4TM/"
-length_weight: "3.1%"
+length_weight: "5.1%"
 pinned: false
 ---
 
