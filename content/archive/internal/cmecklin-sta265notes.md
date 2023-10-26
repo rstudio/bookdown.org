@@ -1,10 +1,10 @@
 ---
 title: "STA 265 Notes (Methods of Statistics and Data Science)"
 author: "Christopher Mecklin"
-date: "2023-09-05T18:11:28Z"
+date: "2023-10-25T19:45:50Z"
 tags: [Statistics, Data Science, Textbook]
 link: "https://bookdown.org/cmecklin/sta265notes/"
-length_weight: "3.4%"
+length_weight: "3.2%"
 pinned: false
 ---
 

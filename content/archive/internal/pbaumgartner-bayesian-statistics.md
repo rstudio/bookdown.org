@@ -1,7 +1,7 @@
 ---
 title: "Personal Notes: A Student’s Guide to Bayesian Statistics"
 author: "Peter Baumgartner"
-date: "2023-09-06T18:35:34Z"
+date: "2023-10-25T16:25:15Z"
 tags: [Guide, Bayesian, Statistics]
 link: "https://bookdown.org/pbaumgartner/bayesian-statistics/"
 length_weight: "4.9%"
