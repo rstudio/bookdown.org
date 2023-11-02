@@ -4,7 +4,7 @@ author: ""
 date: ""
 tags: [Tidy, Python, Econometrics]
 link: "https://tidy-finance.org/"
-length_weight: "10.6%"
+length_weight: "10.9%"
 cover: "https://www.tidy-finance.org/images/cover.png"
 pinned: false
 ---

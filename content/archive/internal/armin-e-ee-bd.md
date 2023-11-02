@@ -1,7 +1,7 @@
 ---
 title: "Entscheidungsergonomie"
 author: "Prof. Dr. Armin Eichinger"
-date: "2023-10-05T12:11:52Z"
+date: "2023-10-26T14:40:22Z"
 link: "https://bookdown.org/Armin_E/ee-bd/"
 length_weight: "10.9%"
 repo: "rstudio/bookdown-demo"
