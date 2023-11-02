@@ -1,7 +1,7 @@
 ---
 title: "Personal Notes: Statistical Rethinking (2nd ed)"
 author: "Peter Baumgartner"
-date: "2023-10-25T22:37:35Z"
+date: "2023-11-01T22:58:21Z"
 tags: [Tidyverse, Bayesian, Statistics]
 link: "https://bookdown.org/pbaumgartner/sr2-notes/"
 length_weight: "100%"
