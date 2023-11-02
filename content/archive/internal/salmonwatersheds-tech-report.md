@@ -1,9 +1,9 @@
 ---
 title: "Methods for Assessing Status and Trends in Pacific Salmon Conservation Units and their Freshwater Habitats"
 author: "Pacific Salmon Foundation"
-date: "2023-07-19T17:26:26Z"
+date: "2023-11-01T05:46:38Z"
 link: "https://bookdown.org/salmonwatersheds/tech-report/"
-length_weight: "10.7%"
+length_weight: "10.8%"
 pinned: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "高效文献计量工具推介"
 author: "Austin Lee"
-date: "2023-10-26T02:36:06Z"
+date: "2023-11-01T12:04:55Z"
 tags: [Github]
 link: "https://bookdown.org/austinlee/urbanplaygroundbibliometric/"
 length_weight: "1.7%"

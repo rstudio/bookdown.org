@@ -1,9 +1,9 @@
 ---
 title: "2023年度:データサイエンス　課題"
 author: "酒井　優行"
-date: "2023-10-20T13:54:33Z"
+date: "2023-10-27T13:43:38Z"
 link: "https://bookdown.org/masayukeeeee/jiyu-dslec-2023-workassignments/"
-length_weight: "1.3%"
+length_weight: "1.6%"
 pinned: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "INFO 532: Advanced GIS"
 author: "Emily Peterson & Alex Edwards"
-date: "2023-10-22T21:23:59Z"
+date: "2023-10-30T13:45:06Z"
 tags: [Geographic, Spatial Data, Course]
 link: "https://bookdown.org/epeterson_2010/docs/"
-length_weight: "6.8%"
+length_weight: "6.1%"
 repo: "Enpeterson/INFO532"
 pinned: false
 ---

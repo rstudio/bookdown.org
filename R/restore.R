@@ -44,6 +44,10 @@ git_restore("content/archive/internal/andrew-grant-regularisation.md")
 git_restore("content/archive/internal/kevin-davisross-gsb518-handouts-2022.md") # quarto book
 git_restore("content/archive/internal/maria-gallegos-where-are-genes-2023.md")
 git_restore("content/archive/internal/martin-shepperd-moderndatabook.md")
+git_restore("content/archive/internal/mathiasharrer-doing-meta-analysis-in-r.md")
+git_restore("content/archive/internal/marktrede-ds2inferenz.md")
+git_restore("content/archive/internal/kim-intro-to-r.md")
+
 
 gert::git_add("content/archive/internal")
 gert::git_commit("Restore some files")

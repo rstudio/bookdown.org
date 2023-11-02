@@ -1,7 +1,7 @@
 ---
 title: "Economics 395: Forecasting"
 author: "Jaya Jha"
-date: "2023-10-10T19:12:21Z"
+date: "2023-10-26T23:36:31Z"
 tags: [Forecasting, Course, Textbook, Visualization]
 link: "https://bookdown.org/max_ricciardelli/forecasting_book/"
 length_weight: "100%"
