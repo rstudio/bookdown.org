@@ -1,7 +1,7 @@
 ---
 title: "Geostatystyka w R"
 author: "Jakub Nowosad"
-date: "2023-10-03T18:19:52Z"
+date: "2023-11-08T13:25:45Z"
 tags: [Statistics]
 link: "https://bookdown.org/nowosad/geostatystyka/"
 length_weight: "9.6%"

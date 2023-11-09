@@ -1,7 +1,7 @@
 ---
 title: "2023年度:データサイエンス　第１回"
 author: "酒井　優行"
-date: "2023-10-27T12:49:53Z"
+date: "2023-11-03T04:56:45Z"
 link: "https://bookdown.org/masayukeeeee/jiyu-dslec-2023-01/"
 length_weight: "6.7%"
 pinned: false
