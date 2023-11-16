@@ -51,7 +51,6 @@ https://gedevan-aleksizde.github.io/Japan.R2019/
 https://gedevan-aleksizde.github.io/rmarkdown-cookbook/
 https://gorgens.github.io/compR-experimental/
 https://gwmatthews.github.io/ethics/
-https://howiuser.com/
 https://info201.github.io/
 https://iqss.github.io/prefresher/
 https://jamoviguiden.se/
