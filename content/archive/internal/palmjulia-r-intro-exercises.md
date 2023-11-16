@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R: Exercises"
 author: "Jena University Hospital, Institute of Medical Statistics, Computer and Data Sciences, Julia Palm (julia.palm@med.uni-jena.de)"
-date: "2022-10-24T11:54:05Z"
+date: "2023-11-14T10:56:21Z"
 tags: [Course, Seminar]
 link: "https://bookdown.org/palmjulia/r_intro_exercises/"
 length_weight: "2.1%"
