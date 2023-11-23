@@ -1,7 +1,7 @@
 ---
 title: "Systematic Reviewing Scientific Literature Seminar Workbook"
 author: "Edward Stanhope"
-date: "2023-11-13T10:48:01Z"
+date: "2023-11-18T20:54:27Z"
 tags: [Seminar, String]
 link: "https://bookdown.org/edward_stanhope/systematic_reviewing_scientific_literature/"
 length_weight: "4.4%"
