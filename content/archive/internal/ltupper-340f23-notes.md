@@ -1,7 +1,7 @@
 ---
 title: "Stat 340 Notes: Fall 2023"
 author: "Laurie Tupper"
-date: "2023-11-11T17:48:11Z"
+date: "2023-11-29T12:33:24Z"
 tags: [Course]
 link: "https://bookdown.org/ltupper/340f23_notes/"
 length_weight: "100%"

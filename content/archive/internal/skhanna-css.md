@@ -1,10 +1,10 @@
 ---
 title: "Computational Social Science Notes"
 author: "Saurabh Khanna"
-date: "2023-09-19T17:55:19Z"
+date: "2023-11-28T14:30:18Z"
 tags: [Social Science, Package]
 link: "https://bookdown.org/skhanna/css/"
-length_weight: "7.1%"
+length_weight: "8.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
