@@ -1,7 +1,7 @@
 ---
 title: "Data Visualization with R Programming"
 author: "สมศักดิ์ จันทร์เอม"
-date: "2023-11-13T07:33:41Z"
+date: "2023-11-24T03:09:02Z"
 tags: [Visualization, R Programming, Statistics, Econometrics, Machine Learning]
 link: "https://bookdown.org/somsak_c/data_visualization_with_r_programming/"
 length_weight: "100%"

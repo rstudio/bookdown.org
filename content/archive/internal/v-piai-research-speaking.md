@@ -1,10 +1,11 @@
 ---
 title: "Speaking: The free book (chapter)"
 author: "Vitória Piai"
-date: "2022-11-16T18:45:22Z"
+date: "2023-11-28T14:57:09Z"
 tags: [Psychology]
 link: "https://bookdown.org/v_piai_research/speaking/"
-length_weight: "5.8%"
+length_weight: "6.2%"
+repo: "vitpia/speaking"
 pinned: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Modele rynku kapitałowego"
 author: "Błażej Kochański"
-date: "2023-10-13T16:06:58Z"
+date: "2023-11-24T14:45:19Z"
 link: "https://bookdown.org/blazej_kochanski/modele/"
-length_weight: "6.1%"
+length_weight: "1.4%"
 repo: "bkochanski/modele"
 pinned: false
 ---
