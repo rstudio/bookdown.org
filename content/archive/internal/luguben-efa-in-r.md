@@ -1,7 +1,7 @@
 ---
 title: "Exploratory Factor Analysis in R"
 author: ""
-date: "2023-11-06T02:02:23Z"
+date: "2023-11-30T13:37:09Z"
 tags: [Course, Multivariate]
 link: "https://bookdown.org/luguben/EFA_in_R/"
 length_weight: "5.4%"

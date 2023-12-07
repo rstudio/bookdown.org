@@ -1,7 +1,7 @@
 ---
 title: "APUNTES R - PLE MELANY MONTERO"
 author: "Melany Montero"
-date: "2023-09-29T17:10:46Z"
+date: "2023-12-01T15:38:56Z"
 link: "https://bookdown.org/melany_montero/apuntes_r_-_ple_melany_montero/"
 length_weight: "3.4%"
 pinned: false

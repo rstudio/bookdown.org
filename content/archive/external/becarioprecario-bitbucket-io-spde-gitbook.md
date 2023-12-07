@@ -3,7 +3,7 @@ title: "Advanced Spatial Modeling with Stochastic Partial Differential Equations
 author: "Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue"
 date: "2021-07-28"
 link: "https://becarioprecario.bitbucket.io/spde-gitbook/"
-length_weight: "0%"
+length_weight: "100%"
 cover: "https://becarioprecario.bitbucket.io/spde-gitbook/graphics/book_cover.jpg"
 pinned: false
 ---
