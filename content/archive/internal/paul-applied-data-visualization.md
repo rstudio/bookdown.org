@@ -1,10 +1,10 @@
 ---
 title: "Workshop: Applied Data Visualization"
 author: "Paul C. Bauer"
-date: "2023-11-30T00:02:54Z"
+date: "2023-11-30T23:26:40Z"
 tags: [Visualization]
 link: "https://bookdown.org/paul/applied-data-visualization/"
-length_weight: "11.3%"
+length_weight: "11.6%"
 pinned: false
 ---
 
