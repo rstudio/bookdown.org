@@ -1,10 +1,10 @@
 ---
-title: "Quarto"
+title: "Hao Sun"
 author: "eugenesun95"
-date: "2023-12-06T03:04:45Z"
+date: "2023-12-13T16:54:11Z"
 tags: [Python, Guide, Statistics, Visualization]
 link: "https://bookdown.org/eugenesun95/mywebsite/"
-length_weight: "100%"
+length_weight: "9.8%"
 pinned: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Digital Information Flow via Computational Methods"
 author: "Valerie Hase, LMU Munich"
-date: "2023-12-01T07:39:53Z"
+date: "2023-12-08T12:58:38Z"
 tags: [Seminar, Tutorial, Course]
 link: "https://bookdown.org/valerie_hase/CSS_Flow/"
 length_weight: "7%"
