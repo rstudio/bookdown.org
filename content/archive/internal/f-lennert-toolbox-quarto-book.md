@@ -1,10 +1,10 @@
 ---
 title: "Toolbox Computational Social Science"
 author: "Felix Lennert"
-date: "2023-12-13T21:29:21Z"
+date: "2023-12-18T10:57:38Z"
 tags: [Social Science, Course, Text Mining]
 link: "https://bookdown.org/f_lennert/toolbox-quarto-book/"
-length_weight: "9.7%"
+length_weight: "10.9%"
 pinned: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "ԱՆԱԼՈԳԱՅԻՆ ԻՆՏԵԳՐԱԼ ՍԽԵՄԱՆԵՐԻ ՆԱԽԱԳԾՈՒՄ։"
 author: "Հեղինակներ՝ Մարիամ Հակոբյան, Նարինե Գալստյան, Երանուհի Զուլալյան, Արմեն Համբարյան, Վարդան Անատոմյան։ Ղեկավարներ՝ Մերի Մարգարյան, Արթուր Բայբուրդյան։"
-date: "2023-12-12T22:27:39Z"
+date: "2023-12-18T17:24:18Z"
 link: "https://bookdown.org/vardananatomyan1992/mos/"
-length_weight: "3.9%"
+length_weight: "3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
