@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Miracle"
 author: "Gökmen Altay"
-date: "2023-12-20T20:20:52Z"
+date: "2023-12-28T04:08:00Z"
 tags: [R Programming]
 link: "https://bookdown.org/gokmenaltay19/Quran19/"
 length_weight: "100%"

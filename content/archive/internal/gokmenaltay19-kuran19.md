@@ -1,7 +1,7 @@
 ---
 title: "6348 Ayette 19 Sistemi"
 author: "Gökmen Altay"
-date: "2023-12-21T05:42:39Z"
+date: "2023-12-26T03:29:50Z"
 link: "https://bookdown.org/gokmenaltay19/Kuran19/"
 length_weight: "100%"
 pinned: false
