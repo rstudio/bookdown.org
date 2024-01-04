@@ -1,7 +1,7 @@
 ---
 title: "Statistical Methods for Environmental Mixtures"
 author: "Andrea Bellavia"
-date: "2021-12-07T15:20:58Z"
+date: "2023-12-29T19:29:22Z"
 tags: [Statistical Methods, Course, Models]
 link: "https://bookdown.org/andreabellavia/mixtures/"
 length_weight: "7.8%"
