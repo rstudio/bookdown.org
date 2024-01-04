@@ -1,10 +1,10 @@
 ---
 title: "Hao Sun"
 author: "eugenesun95"
-date: "2023-12-17T20:52:19Z"
+date: "2024-01-03T14:49:30Z"
 tags: [Python, Statistics]
 link: "https://bookdown.org/eugenesun95/mywebsite/"
-length_weight: "9.2%"
+length_weight: "10.9%"
 pinned: false
 ---
 
