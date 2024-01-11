@@ -1,9 +1,9 @@
 ---
 title: "ԱՆԱԼՈԳԱՅԻՆ ԻՆՏԵԳՐԱԼ ՍԽԵՄԱՆԵՐԻ ՆԱԽԱԳԾՈՒՄ։"
 author: "Հեղինակներ՝ Արմեն Համբարյան, Վարդան Անատոմյան։"
-date: "2023-12-30T19:46:19Z"
+date: "2024-01-04T21:16:22Z"
 link: "https://bookdown.org/vardananatomyan1992/mos/"
-length_weight: "3%"
+length_weight: "5.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
