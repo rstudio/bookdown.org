@@ -1,7 +1,7 @@
 ---
 title: "myCMIE 2.0"
 author: "Qi Xu, Jeanne Kowalski"
-date: "2023-12-08T15:44:06Z"
+date: "2024-01-04T15:50:31Z"
 tags: [Visualization]
 link: "https://bookdown.org/kowalskilab/w3_doc/"
 length_weight: "4.4%"

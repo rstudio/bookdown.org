@@ -1,7 +1,7 @@
 ---
 title: "Insights and Analyses: A Course Companion"
 author: "Tyler R. Pritchard"
-date: "2024-01-01T20:24:13Z"
+date: "2024-01-04T13:03:20Z"
 tags: [Course, Data Analysis, Psychology, Advanced R]
 link: "https://bookdown.org/tylerrpritchard/psyc-3950-companion/"
 length_weight: "100%"
