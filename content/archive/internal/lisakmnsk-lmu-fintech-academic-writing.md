@@ -1,10 +1,10 @@
 ---
 title: "Guide on Academic Writing"
 author: "Prof. Dr. Ryan Riordan & Teaching Assistants"
-date: "2023-12-29T18:09:50Z"
+date: "2024-01-15T07:58:33Z"
 tags: [Guide, Course, Data Science, Seminar]
 link: "https://bookdown.org/lisakmnsk/lmu_fintech_academic_writing/"
-length_weight: "3%"
+length_weight: "3.3%"
 pinned: false
 ---
 
