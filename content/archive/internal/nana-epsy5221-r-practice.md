@@ -1,8 +1,8 @@
 ---
 title: "[EPSY5221] Introduction to R"
 author: "Nana Kim"
-date: "2022-09-12T04:54:12Z"
-link: "https://bookdown.org/nana/intror_f22/"
+date: "2024-01-25T03:48:51Z"
+link: "https://bookdown.org/nana/epsy5221_r_practice/"
 length_weight: "3.3%"
 pinned: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Skript Antriebsregelungstechnik"
 author: "Martin Pischtschan"
-date: "2024-01-07T00:07:32Z"
+date: "2024-01-22T13:18:51Z"
 link: "https://bookdown.org/martin_pischtschan/skript_atrt1/"
 length_weight: "12%"
 repo: "https://bookdown.org/martin_pischtschan/skript_atrt1"
