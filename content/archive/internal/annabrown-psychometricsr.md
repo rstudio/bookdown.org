@@ -1,7 +1,7 @@
 ---
 title: "Psychometrics in Exercises using R and RStudio"
 author: "Anna Brown"
-date: "2024-01-18T16:55:52Z"
+date: "2024-01-26T14:19:09Z"
 tags: [Textbook, Data Analysis, Guide]
 link: "https://bookdown.org/annabrown/psychometricsR/"
 length_weight: "100%"
