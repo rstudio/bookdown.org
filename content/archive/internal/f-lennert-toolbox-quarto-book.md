@@ -4,7 +4,7 @@ author: "Felix Lennert"
 date: "2024-01-07T17:52:12Z"
 tags: [Social Science, Course, Text Mining]
 link: "https://bookdown.org/f_lennert/toolbox-quarto-book/"
-length_weight: "100%"
+length_weight: "12.2%"
 pinned: false
 ---
 

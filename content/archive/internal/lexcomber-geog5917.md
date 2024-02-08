@@ -1,10 +1,10 @@
 ---
 title: "GEOG5917 Big Data & Consumer Analytics - RStudio Practicals"
 author: "Lex Comber"
-date: "2023-11-16T16:29:33Z"
+date: "2024-02-05T14:09:38Z"
 tags: [Geographic, Data Science, Spatial Data]
 link: "https://bookdown.org/lexcomber/GEOG5917/"
-length_weight: "4%"
+length_weight: "4.5%"
 pinned: false
 ---
 

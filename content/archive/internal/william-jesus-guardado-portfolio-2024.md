@@ -1,7 +1,7 @@
 ---
 title: "William’s Portfolio"
 author: "William Guardado"
-date: "2024-01-05T05:35:02Z"
+date: "2024-02-06T22:31:09Z"
 tags: [Package]
 link: "https://bookdown.org/william_jesus_guardado/portfolio_2024/"
 length_weight: "2.9%"

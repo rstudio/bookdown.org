@@ -1,7 +1,7 @@
 ---
 title: "rOpenSci Packages: Development, Maintenance, and Peer Review"
 author: "rOpenSci software review editorial team (current and alumni): Brooke Anderson, Scott Chamberlain, Laura DeCicco, Julia Gustavsen, Jeff Hollister, Anna Krystalli, Mauro Lepore, Lincoln Mullen, Mark Padgham, Karthik Ram, Emily Riederer, Noam Ross, Maëlle Salmon, Adam Sparks, Melina Vidoni"
-date: "2024-01-31"
+date: "2024-02-07"
 tags: [Package, Guide, Github]
 link: "https://ropensci.github.io/dev_guide/"
 length_weight: "0%"
