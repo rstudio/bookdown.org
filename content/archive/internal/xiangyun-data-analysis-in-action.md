@@ -1,7 +1,7 @@
 ---
 title: "R 语言数据分析实战"
 author: "黄湘云"
-date: "2024-01-30T14:06:01Z"
+date: "2024-02-05T06:02:06Z"
 tags: [数据分析, R Markdown]
 link: "https://bookdown.org/xiangyun/data-analysis-in-action/"
 length_weight: "100%"
