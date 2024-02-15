@@ -1,10 +1,10 @@
 ---
 title: "Stat 344TM Notes: Spring 2024"
 author: "Laurie Tupper"
-date: "2024-01-26T21:11:04Z"
+date: "2024-02-13T16:37:34Z"
 tags: [Course]
 link: "https://bookdown.org/ltupper/344TMs24_notes/"
-length_weight: "6%"
+length_weight: "6.1%"
 pinned: false
 ---
 

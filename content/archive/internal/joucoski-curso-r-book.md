@@ -1,9 +1,9 @@
 ---
 title: "Curso de Estatística com R Project"
 author: "Emerson Joucoski"
-date: "2024-01-30T12:30:00Z"
+date: "2024-02-14T19:47:06Z"
 link: "https://bookdown.org/joucoski/curso_R_book/"
-length_weight: "3.6%"
+length_weight: "4.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
