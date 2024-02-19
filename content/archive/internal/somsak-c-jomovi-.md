@@ -1,9 +1,9 @@
 ---
 title: "Draft of Jamovi Manual Thai version"
 author: "สมศักดิ์ จันทร์เอม"
-date: "2024-02-03T12:13:28Z"
+date: "2024-02-14T15:08:18Z"
 link: "https://bookdown.org/somsak_c/_jomovi_/"
-length_weight: "5.8%"
+length_weight: "7.7%"
 cover: "https://bookdown.org/somsak_c/_jomovi_/cover.png"
 pinned: false
 ---

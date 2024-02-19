@@ -1,9 +1,9 @@
 ---
-title: "Puertas de entrada: lecturas para introducirse a la Filosofía y la Literatura"
+title: "Puertas de entrada: lecturas para introducirse a la Filosofía y la Literatura "
 author: "Alberto Bernat"
-date: "2024-01-16T16:48:51Z"
+date: "2024-02-14T00:00:42Z"
 link: "https://bookdown.org/albertobernat/puertas-de-entrada/"
-length_weight: "2.6%"
+length_weight: "7.2%"
 pinned: false
 ---
 
