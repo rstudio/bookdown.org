@@ -1,7 +1,7 @@
 ---
 title: "A Bayesian Introduction to Fish Population Analysis"
 author: "Joseph E. Hightower"
-date: "2024-02-13T17:22:05Z"
+date: "2024-02-17T20:40:30Z"
 tags: [Bayesian, Statistics, Models]
 link: "https://bookdown.org/Joseph_Hightower/bayesianfish/"
 length_weight: "10.6%"
