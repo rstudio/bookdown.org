@@ -1,7 +1,7 @@
 ---
 title: "Cooking After Retirement. 2nd. Edition"
 author: "Bruce Cochrane"
-date: "2024-02-21T16:13:20Z"
+date: "2024-02-25T15:49:26Z"
 link: "https://bookdown.org/cochrabj/cookbook2e/"
 length_weight: "8.8%"
 repo: "bjcochrane/CookBook2"

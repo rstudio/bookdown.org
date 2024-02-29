@@ -4,7 +4,7 @@ author: "Valerie Hase, IKMZ, University of Zurich"
 date: "2021-12-21T09:06:56Z"
 tags: [Seminar, Tutorial, Course]
 link: "https://bookdown.org/valerie_hase/TextasData_HS2021/"
-length_weight: "100%"
+length_weight: "12.2%"
 pinned: false
 ---
 

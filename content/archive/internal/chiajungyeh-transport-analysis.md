@@ -1,10 +1,10 @@
 ---
 title: "運輸資料分析角落：初學者園地"
 author: "Chia-Jung (Robert) Yeh 葉家榮 PhD: Insitute of Transport and Logistics Studies, USYD M.S.: Department of Transportation and Logistics Management, NYCU"
-date: "2024-02-18T11:51:33Z"
+date: "2024-02-29T03:38:04Z"
 tags: [ggplot2]
 link: "https://bookdown.org/chiajungyeh/Transport-Analysis/"
-length_weight: "4.5%"
+length_weight: "5.6%"
 repo: "ChiaJung-Yeh/Transport-Analysis"
 pinned: false
 ---
