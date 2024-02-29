@@ -1,7 +1,7 @@
 ---
 title: "Advanced Statistical Modelling III (second term)"
 author: "Dr. Cuong Nguyen"
-date: "2024-02-20T14:07:47Z"
+date: "2024-02-28T16:21:31Z"
 tags: [Course, Statistics]
 link: "https://bookdown.org/cnguyen/ASM_term2_lecture_notes/"
 length_weight: "8.8%"
