@@ -1,7 +1,7 @@
 ---
 title: "R语言在心理学研究中的应用: 从原始数据到可重复的论文手稿"
 author: "胡传鹏"
-date: "2024-02-22T10:29:40Z"
+date: "2024-03-05T08:33:37Z"
 tags: [数据分析]
 link: "https://bookdown.org/hcp4715/R4PsyBook/"
 length_weight: "9.6%"
