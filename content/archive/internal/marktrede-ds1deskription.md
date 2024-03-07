@@ -1,20 +1,11 @@
 ---
-title: "Data Science 1: Deskription"
+title: "Data Science 1"
 author: "Mark Trede"
-date: "2023-06-15T16:48:29Z"
+date: "2024-03-06T14:18:22Z"
 tags: [Data Science]
-link: "https://bookdown.org/marktrede/DS1Deskription/"
-length_weight: "12.1%"
-cover: "https://bookdown.org/marktrede/DS1Deskription/images/AdobeStock_262173764b.jpeg"
-repo: "rstudio/bookdown-demo"
+link: "https://bookdown.org/marktrede/ds1deskription/"
+length_weight: "11.9%"
 pinned: false
 ---
 
-<p>Dieses Lehrbuch ist die Grundlage für das Modul “Data Science 1”
-des BWL- und VWL-Bachelorstudiums an der Universität Münster.</p> [...] Wirtschaftswissenschaften sind empirische Wissenschaften. Es geht
-immer um die reale Welt. Damit wir etwas über die reale Welt lernen können,
-brauchen wir Daten. In dem Modul Data Science 1 lernen Sie, wie man mit
-Daten arbeitet. Die Kenntnisse aus diesem Modul werden für Sie
-sowohl im Laufe Ihres Studiums als auch darüber hinaus wertvoll sein.
-Das gilt nicht nur für Tätigkeiten in der Wissenschaft, sondern
-auch in der Praxis. Natürlich ist Data Science ohne den ...
+Mark Trede Wirtschaftswissenschaften sind empirische Wissenschaften. Es geht immer um die reale Welt. Damit wir etwas über die reale Welt lernen können, brauchen wir Daten. Im Modul Data Science 1 lernen Sie, wie man mit Daten arbeitet. Die Kenntnisse aus diesem Modul werden für Sie sowohl im Laufe Ihres Studiums als auch darüber hinaus wertvoll sein. Das gilt nicht nur für Tätigkeiten in der Wissenschaft, sondern auch in der Praxis. Natürlich ist Data Science ohne den Einsatz von Computern nicht möglich. Sie werden in diesem Modul lernen, wie man mit Hilfe von Computersoftware die Daten ...
