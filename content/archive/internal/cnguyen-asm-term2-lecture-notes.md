@@ -1,7 +1,7 @@
 ---
 title: "Advanced Statistical Modelling III (second term)"
 author: "Department of Mathematical Sciences at Durham University"
-date: "2024-03-06T10:17:10Z"
+date: "2024-03-11T12:43:52Z"
 tags: [Course, Statistics]
 link: "https://bookdown.org/cnguyen/ASM_term2_lecture_notes/"
 length_weight: "8.8%"
