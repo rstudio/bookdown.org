@@ -1,10 +1,10 @@
 ---
 title: "Applied Spatio-temporal Statistics"
 author: "Trevor Hefley"
-date: "2024-03-05T13:57:40Z"
+date: "2024-03-18T21:19:24Z"
 tags: [Statistics, Course, Geographic, Exploratory Data Analysis, Visualization]
 link: "https://bookdown.org/hefleyt2/stat764_spring2024/"
-length_weight: "5.5%"
+length_weight: "5.6%"
 pinned: false
 ---
 

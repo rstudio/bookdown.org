@@ -1,7 +1,7 @@
 ---
 title: "Supplementary Materials for Probabilistic Modeling Framework for Genomic Networks Incorporating Sample Heterogeneity"
 author: "Liying Chen^{1,4}, Satwik Acharyya^{1,4}, Chunyu Luo^{2}, Yang Ni^3 and Veerabhadran Baladandayuthapani^{1,5}"
-date: "2024-03-13T23:18:34Z"
+date: "2024-03-14T14:09:02Z"
 tags: [Network]
 link: "https://bookdown.org/bayesrx/graphr_supplementary/"
 length_weight: "5.3%"
