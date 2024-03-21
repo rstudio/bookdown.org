@@ -1,7 +1,7 @@
 ---
 title: "Inferential Reasoning in Data Analysis"
 author: "Ben Prytherch"
-date: "2024-02-23T17:38:55Z"
+date: "2024-03-19T23:46:03Z"
 tags: [Data Analysis, Market, Education]
 link: "https://bookdown.org/csu_statistics/inferential_reasoning_in_data_analysis/"
 length_weight: "10.7%"
