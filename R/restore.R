@@ -49,6 +49,7 @@ git_restore("content/archive/internal/mathiasharrer-doing-meta-analysis-in-r.md"
 git_restore("content/archive/internal/marktrede-ds2inferenz.md")
 git_restore("content/archive/internal/kim-intro-to-r.md")
 git_restore("content/archive/internal/smartai4ir-dui-ai-solution.md")
+git_restore("content/archive/internal/sengokucolaingoo-cbook.md")
 
 
 gert::git_add("content/archive/internal")
