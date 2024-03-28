@@ -4,7 +4,7 @@ author: "Yun Dai"
 date: "2023-05-27T03:40:39Z"
 tags: [Tutorial]
 link: "https://bookdown.org/yundai09/rbootcamp/"
-length_weight: "100%"
+length_weight: "12.4%"
 pinned: false
 ---
 
