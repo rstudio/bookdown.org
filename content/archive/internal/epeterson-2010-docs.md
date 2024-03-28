@@ -1,7 +1,7 @@
 ---
 title: "DATA 532: Advanced GIS"
 author: "Emily Peterson & Alex Edwards"
-date: "2024-03-17T14:33:42Z"
+date: "2024-03-22T17:48:50Z"
 tags: [Geographic, Spatial Data, Course]
 link: "https://bookdown.org/epeterson_2010/docs/"
 length_weight: "8.2%"

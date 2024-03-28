@@ -1,10 +1,10 @@
 ---
 title: "STAT 521B: Topics in Multivariate Analysis"
 author: "Alexander Sharp"
-date: "2024-03-19T19:17:51Z"
+date: "2024-03-26T19:20:52Z"
 tags: [Multivariate, Course, Data Analysis, Textbook]
 link: "https://bookdown.org/d1barturbo/fda_course_notes_clean/"
-length_weight: "8.1%"
+length_weight: "8.6%"
 pinned: false
 ---
 

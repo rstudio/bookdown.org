@@ -1,7 +1,7 @@
 ---
 title: "Métrologie - Exploitation des résultats d’essais"
 author: "Teodor TIPLICA"
-date: "2023-05-05T12:48:53Z"
+date: "2024-03-23T09:19:14Z"
 tags: [Package]
 link: "https://bookdown.org/teodor_tiplica/book_metrology/"
 length_weight: "6.7%"

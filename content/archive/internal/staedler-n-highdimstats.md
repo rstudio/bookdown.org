@@ -1,7 +1,7 @@
 ---
 title: " Prediction and Feature Assessment"
 author: "Nicolas Städler"
-date: "2024-03-12T09:15:43Z"
+date: "2024-03-25T15:44:44Z"
 tags: [Course, Github, Statistics]
 link: "https://bookdown.org/staedler_n/highdimstats/"
 length_weight: "6.2%"
