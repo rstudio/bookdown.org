@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Latent Interaction using ModSEM"
 author: "Kjell S Slupphaug"
-date: "2024-03-11T20:23:28Z"
+date: "2024-04-01T20:27:57Z"
 tags: [Package, Github]
 link: "https://bookdown.org/slupphaugkjell/quartomodsem/"
 length_weight: "6%"

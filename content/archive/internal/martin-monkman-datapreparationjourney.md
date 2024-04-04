@@ -4,7 +4,7 @@ author: "Martin Monkman"
 date: "2024-02-26T05:47:45Z"
 tags: [Tidy, Data Science, Visualization, Textbook]
 link: "https://bookdown.org/martin_monkman/DataPreparationJourney/"
-length_weight: "100%"
+length_weight: "12.4%"
 repo: "MonkmanMH/data_preparation_with_r"
 pinned: false
 ---

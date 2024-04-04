@@ -50,6 +50,7 @@ git_restore("content/archive/internal/marktrede-ds2inferenz.md")
 git_restore("content/archive/internal/kim-intro-to-r.md")
 git_restore("content/archive/internal/smartai4ir-dui-ai-solution.md")
 git_restore("content/archive/internal/sengokucolaingoo-cbook.md")
+git_restore("content/archive/internal/hefleyt2-stat764fall2020.md")
 
 
 gert::git_add("content/archive/internal")
