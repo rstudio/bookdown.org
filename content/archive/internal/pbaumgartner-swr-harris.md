@@ -1,7 +1,7 @@
 ---
 title: "Notes on Statistics with R (SwR)"
 author: "Peter Baumgartner"
-date: "2024-03-27T21:29:59Z"
+date: "2024-04-03T23:03:18Z"
 tags: [Statistics, Textbook]
 link: "https://bookdown.org/pbaumgartner/swr-harris/"
 length_weight: "100%"
