@@ -133,7 +133,7 @@ https://www.cdyf.me/
 https://www.econometrics-with-r.org/
 https://www.gastonsanchez.com/r4strings/
 https://www.jamoviguide.com/
-https://www.t4rstats.com/
+https://t4rstats.netlify.app/
 https://www.tmwr.org/
 https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
