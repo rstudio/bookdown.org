@@ -114,6 +114,7 @@ https://sparkfromr.com/
 https://stats-devguide.ropensci.org/
 https://statsthinking21.org/
 https://steverxd.github.io/Stat_tests/
+https://t4rstats.netlify.app/
 https://thefaylab.github.io/lab-manual/
 https://therinspark.com/
 https://thesis.earo.me/
@@ -133,7 +134,6 @@ https://www.cdyf.me/
 https://www.econometrics-with-r.org/
 https://www.gastonsanchez.com/r4strings/
 https://www.jamoviguide.com/
-https://t4rstats.netlify.app/
 https://www.tmwr.org/
 https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
