@@ -1,9 +1,9 @@
 ---
 title: "Statistik I"
 author: "Benno Hildebrandt, Steffen Köhler, RUHR-UNIVERSITÄT BOCHUM Fakultät für Wirtschaftswissenschaft Lehrstuhl für Statistik/Ökonometrie"
-date: "2023-04-04T09:18:03Z"
-link: "https://bookdown.org/content/09b3c4df-a68c-499f-8abe-e7850eaeb1c3/"
-length_weight: "9.1%"
+date: "2024-04-09T13:07:06Z"
+link: "https://bookdown.org/benno_hildebrandt/Statistik_I/"
+length_weight: "9.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

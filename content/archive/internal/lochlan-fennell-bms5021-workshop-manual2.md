@@ -1,10 +1,10 @@
 ---
 title: "BMS5021 - Introductory Bioinformatics Manual"
 author: "Dr Lochlan Fennell"
-date: "2024-03-25T17:13:08Z"
+date: "2024-04-09T01:07:46Z"
 tags: [Package, Course, Biology, Statistics]
-link: "https://bookdown.org/lochlan_fennell/bms5021_workshop_manual/"
-length_weight: "3.5%"
+link: "https://bookdown.org/lochlan_fennell/bms5021_workshop_manual2/"
+length_weight: "4.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

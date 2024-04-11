@@ -1,10 +1,10 @@
 ---
 title: "A More Principled Adventure in Topic Models"
 author: "Sarah Urbut"
-date: "2024-04-01T17:02:30Z"
+date: "2024-04-10T00:42:44Z"
 tags: [Models, Package]
 link: "https://bookdown.org/sarahmurbut/dynamic_ehr/"
-length_weight: "5.4%"
+length_weight: "5.5%"
 pinned: false
 ---
 

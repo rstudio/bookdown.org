@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Applied Experimental Design and Statistical Analysis with R"
 author: "Karin Vorwerk, Ph.D. "
-date: "2024-01-17T22:01:48Z"
+date: "2024-04-08T14:33:39Z"
 tags: [Course, Statistics, Guide, Visualization]
 link: "https://bookdown.org/kvorwerk/complete/"
 length_weight: "9.5%"
