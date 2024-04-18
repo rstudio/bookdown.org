@@ -1,7 +1,7 @@
 ---
 title: "医学研究中的生存数据建模"
 author: "Wang Zhen"
-date: "2024-04-11T00:59:00Z"
+date: "2024-04-11T23:57:30Z"
 tags: [Package]
 link: "https://bookdown.org/wangzhen/survival/"
 length_weight: "100%"
