@@ -57,14 +57,20 @@ gert::git_commit("Restore some files")
 
 # Remove content that are identified as wrongful
 
-# CRC press unauthorized translation
-fs::file_delete("content/archive/internal/wangzhen-jmr.md")
-fs::file_delete("content/archive/internal/wangzhen-survival.md")
-fs::file_delete("content/archive/internal/wangzhen-glmm.md")
-fs::file_delete("content/archive/internal/wangzhen-amd.md")
+delete_if_exists <- function(file) {
+  if (!file.exists(file)) return()
+  fs::file_delete(file)
+}
 
-gert::git_add("content/archive/internal")
-gert::git_commit("Remove content that is not following rules")
+# CRC press unauthorized translation
+delete_if_exists("content/archive/internal/wangzhen-jmr.md")
+delete_if_exists("content/archive/internal/wangzhen-survival.md")
+delete_if_exists("content/archive/internal/wangzhen-glmm.md")
+delete_if_exists("content/archive/internal/wangzhen-amd.md")
+delete_if_exists("content/archive/internal/wangzhen-glm.md")
+
+added <- gert::git_add("content/archive/internal")
+if (any(added$staged)) gert::git_commit("Remove content that is not following rules")
 
 gert::git_pull(rebase = TRUE)
 gert::git_push()
