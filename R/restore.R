@@ -52,8 +52,19 @@ git_restore("content/archive/internal/smartai4ir-dui-ai-solution.md")
 git_restore("content/archive/internal/sengokucolaingoo-cbook.md")
 git_restore("content/archive/internal/hefleyt2-stat764fall2020.md")
 
-
 gert::git_add("content/archive/internal")
 gert::git_commit("Restore some files")
+
+# Remove content that are identified as wrongful
+
+# CRC press unauthorized translation
+fs::file_delete("content/archive/internal/wangzhen-jmr.md")
+fs::file_delete("content/archive/internal/wangzhen-survival.md")
+fs::file_delete("content/archive/internal/wangzhen-glmm.md")
+fs::file_delete("content/archive/internal/wangzhen-amd.md")
+
+gert::git_add("content/archive/internal")
+gert::git_commit("Remove content that is not following rules")
+
 gert::git_pull(rebase = TRUE)
 gert::git_push()
