@@ -1,10 +1,10 @@
 ---
 title: "Fundamentos para la Minería de Datos y Big Data I,II"
 author: "Jorge Herrera de la Cruz"
-date: "2024-03-18T05:52:52Z"
+date: "2024-04-22T05:32:43Z"
 tags: [Package]
 link: "https://bookdown.org/jorherre/mineria_fin/"
-length_weight: "11.2%"
+length_weight: "11.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

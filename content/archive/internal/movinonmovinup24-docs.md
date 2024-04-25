@@ -1,7 +1,7 @@
 ---
 title: "DATA532"
 author: "Alex Edwards and Emily Peterson"
-date: "2024-04-17T17:59:47Z"
+date: "2024-04-23T17:10:53Z"
 tags: [Spatial Data, Course]
 link: "https://bookdown.org/movinonmovinup24/docs/"
 length_weight: "7.9%"

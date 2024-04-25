@@ -1,7 +1,7 @@
 ---
 title: "Data Science for All"
 author: "Kristopher Pruitt"
-date: "2024-02-25T18:32:19Z"
+date: "2024-04-19T18:37:07Z"
 tags: [Data Science, Textbook, R Programming]
 link: "https://bookdown.org/kristopher_pruitt/DS-for-All/"
 length_weight: "100%"

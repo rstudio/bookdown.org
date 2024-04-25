@@ -1,10 +1,10 @@
 ---
 title: "Exploratory Data Analysis and Visualization"
 author: "Luis Alvarez"
-date: "2024-03-30T08:57:59Z"
+date: "2024-04-18T14:00:49Z"
 tags: [Exploratory Data Analysis, Visualization, Data Science, Translation, Course]
 link: "https://bookdown.org/lalvarez_mat/EDAV/"
-length_weight: "3.1%"
+length_weight: "3.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
