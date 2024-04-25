@@ -1,7 +1,7 @@
 ---
 title: "Workshop: Applied Machine Learning - Workshop: Applied Machine Learning (with R)"
 author: "Dr. Paul C. Bauer"
-date: "2024-03-26T15:39:32Z"
+date: "2024-04-19T08:55:57Z"
 tags: [Machine Learning, Github]
 link: "https://bookdown.org/paulcbauer/applied_machine_learning/"
 length_weight: "100%"

@@ -1,10 +1,10 @@
 ---
 title: "ԱՆԱԼՈԳԱՅԻՆ ԻՆՏԵԳՐԱԼ ՍԽԵՄԱՆԵՐԻ ՆԱԽԱԳԾՈՒՄ։"
 author: "Հեղինակներ՝ Արմեն Համբարյան, Վարդան Անատոմյան։"
-date: "2024-03-19T13:33:18Z"
+date: "2024-04-21T22:28:06Z"
 tags: [Github]
 link: "https://bookdown.org/vardananatomyan1992/analog_design/"
-length_weight: "6.6%"
+length_weight: "3.6%"
 repo: "Varlusin/analog_design.git"
 pinned: false
 ---

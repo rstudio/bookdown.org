@@ -1,10 +1,10 @@
 ---
-title: "03-data-visualization"
+title: "R数据分析入门"
 author: "Lingxiao HE"
-date: "2024-04-15T03:45:28Z"
-tags: [Visualization, Textbook, Data Analysis, Package, Tidyverse]
+date: "2024-04-21T12:51:15Z"
+tags: [数据分析, Textbook, Data Analysis, Package, Tidyverse]
 link: "https://bookdown.org/lhe/a-quick-start-on-data-analysis-in-r/"
-length_weight: "5.6%"
+length_weight: "6.4%"
 pinned: false
 ---
 
