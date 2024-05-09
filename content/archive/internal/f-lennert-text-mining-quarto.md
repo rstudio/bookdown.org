@@ -1,10 +1,10 @@
 ---
 title: "Text Mining for Social Sciences (Summer 2024)"
 author: "Felix Lennert"
-date: "2024-04-15T15:15:56Z"
+date: "2024-05-03T02:47:06Z"
 tags: [Text Mining, Social Science, Course]
 link: "https://bookdown.org/f_lennert/text-mining-quarto/"
-length_weight: "8.6%"
+length_weight: "9.5%"
 pinned: false
 ---
 

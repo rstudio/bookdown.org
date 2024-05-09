@@ -1,7 +1,7 @@
 ---
 title: "Proposed Psychometrics OER: Authoring Platform Features"
 author: "Catrina Notari, John Kulas"
-date: "2024-04-02T16:23:50Z"
+date: "2024-05-06T19:43:44Z"
 tags: [Statistics]
 link: "https://bookdown.org/jtkulas/bookexample/"
 length_weight: "1.7%"

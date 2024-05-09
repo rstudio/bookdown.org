@@ -1,7 +1,7 @@
 ---
 title: "Conducting Rigorous Research Seminar Workbook"
 author: "Edward Stanhope"
-date: "2024-02-07T09:40:57Z"
+date: "2024-05-03T10:21:51Z"
 tags: [Seminar, Guide]
 link: "https://bookdown.org/edward_stanhope/conducting_rigorous_research/"
 length_weight: "3.5%"

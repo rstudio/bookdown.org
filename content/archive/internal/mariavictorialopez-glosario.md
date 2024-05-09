@@ -1,10 +1,10 @@
 ---
 title: "ABC en R"
 author: ""
-date: "2024-04-17T19:16:45Z"
+date: "2024-05-06T17:11:34Z"
 tags: [Package]
 link: "https://bookdown.org/mariavictorialopez/Glosario/"
-length_weight: "3.9%"
+length_weight: "4.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

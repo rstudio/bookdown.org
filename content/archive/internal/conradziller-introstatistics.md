@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Statistics and Data Analysis – A Case-Based Approach"
 author: "Conrad Ziller, University of Duisburg-Essen"
-date: "2024-04-12T09:26:52Z"
+date: "2024-05-07T08:54:44Z"
 tags: [Statistics, Data Analysis, Social Science]
 link: "https://bookdown.org/conradziller/introstatistics/"
-length_weight: "7.2%"
+length_weight: "3.3%"
 pinned: false
 ---
 
