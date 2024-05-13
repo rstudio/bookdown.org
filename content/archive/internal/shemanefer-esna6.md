@@ -1,10 +1,10 @@
 ---
 title: "The Temple of Esna. An Evolving Translation: Esna VI"
 author: "David Klotz"
-date: "2024-05-03T02:37:43Z"
+date: "2024-05-11T13:48:28Z"
 tags: [Translation]
 link: "https://bookdown.org/shemanefer/Esna6/"
-length_weight: "7.4%"
+length_weight: "7.8%"
 cover: "https://bookdown.org/shemanefer/Esna6/images/cover_pic.png"
 pinned: false
 ---
