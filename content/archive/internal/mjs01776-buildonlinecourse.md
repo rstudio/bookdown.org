@@ -1,10 +1,10 @@
 ---
 title: "Handbook for Building and Teaching Online Courses"
 author: "Martin Schedlbauer Khoury College of Computer Sciences Northeastern University Boston (USA)"
-date: "2020-06-20T12:54:39Z"
+date: "2024-05-11T06:27:22Z"
 tags: [Course, Tutorial]
 link: "https://bookdown.org/mjs01776/BuildOnlineCourse/"
-length_weight: "5.5%"
+length_weight: "5.7%"
 pinned: false
 ---
 

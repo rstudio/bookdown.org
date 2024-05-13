@@ -1,7 +1,7 @@
 ---
 title: "Applied Data Visualization"
 author: "Paul C. Bauer"
-date: "2024-05-08T11:58:03Z"
+date: "2024-05-13T09:13:59Z"
 tags: [Visualization, Seminar]
 link: "https://bookdown.org/paulcbauer/applied-data-visualization/"
 length_weight: "11.2%"

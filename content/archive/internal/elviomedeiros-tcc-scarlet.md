@@ -1,9 +1,9 @@
 ---
 title: "Scarlet-TCC"
 author: "Prof. Elvio S. F. Medeiros, Laboratório de Ecologia, Universidade Estadual da Paraíba, Campus V, João Pessoa, PB"
-date: "2024-04-23T11:54:29Z"
+date: "2024-05-09T15:01:16Z"
 link: "https://bookdown.org/elviomedeiros/TCC-Scarlet/"
-length_weight: "4.3%"
+length_weight: "5.1%"
 repo: "rstudio/R_ZooRebio"
 pinned: false
 ---

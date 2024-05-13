@@ -1,10 +1,10 @@
 ---
 title: "R Bootcamp"
 author: "Yun Dai"
-date: "2024-05-06T13:05:36Z"
+date: "2024-05-12T14:48:56Z"
 tags: [Tutorial, R Programming]
 link: "https://bookdown.org/yundai09/rbootcamp/"
-length_weight: "6.8%"
+length_weight: "9.1%"
 pinned: false
 ---
 
