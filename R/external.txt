@@ -64,7 +64,7 @@ https://kazutan.github.io/ggplot2-gyakubiki-book/
 https://kellobri.github.io/shiny-prod-book/
 https://koalaverse.github.io/machine-learning-in-R/
 https://langcog.github.io/wordbank-book/
-https://learningstatisticswithr-bookdown.netlify.com/
+https://learningstatisticswithr.com/book/
 https://lgatto.github.io/IntroMachineLearningWithR/
 https://lmlcr.gagolewski.com/
 https://m-clark.github.io/bayesian-basics/

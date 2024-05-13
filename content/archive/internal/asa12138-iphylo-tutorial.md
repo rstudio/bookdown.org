@@ -1,10 +1,10 @@
 ---
 title: "iPhylo Tutorial"
 author: "Chen Peng and Yueer Li"
-date: "2024-02-22T03:34:02Z"
+date: "2024-04-28T03:05:26Z"
 tags: [Tutorial]
 link: "https://bookdown.org/Asa12138/iphylo_tutorial/"
-length_weight: "5%"
+length_weight: "5.1%"
 pinned: false
 ---
 

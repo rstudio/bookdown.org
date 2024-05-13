@@ -1,11 +1,11 @@
 ---
 title: "Fundamentos de Ecologia Numérica"
 author: "Prof. Elvio S. F. Medeiros, Laboratório de Ecologia, Universidade Estadual da Paraíba, Campus V, João Pessoa, PB"
-date: "2024-04-18T17:49:04Z"
+date: "2024-05-07T19:02:01Z"
 link: "https://bookdown.org/elviomedeiros/fundamentos_de_ecologia_numerica/"
-length_weight: "100%"
+length_weight: "11.4%"
 repo: "rstudio/fundamentos_de_ecologia_numerica"
 pinned: false
 ---
 
-… [...] Este é um site experimental da disciplina de graduação de Ecologia Numérica do Curso de Ciências Biológicas da Universidade Estadual da Paraíba. O site experimental da disciplina de Ecologia Numérica da UEPB é uma plataforma criada com o objetivo de apresentar exemplos didáticos aos alunos, explorando diferentes conceitos e técnicas utilizadas na análise de dados em Ecologia. É importante destacar que os exemplos apresentados no site podem conter imprecisões ou códigos demasiado extensos (aparentemente desnecessários para um ecólogo e programador de R mais experiente), mas isso é ...
+…. The output format for this example is bookdown::gitbook. [...] Este é um site experimental da disciplina de graduação de Ecologia Numérica do Curso de Ciências Biológicas da Universidade Estadual da Paraíba. O site experimental da disciplina de Ecologia Numérica da UEPB é uma plataforma criada com o objetivo de apresentar exemplos didáticos aos alunos, explorando diferentes conceitos e técnicas utilizadas na análise de dados em Ecologia. É importante destacar que os exemplos apresentados no site podem conter imprecisões ou códigos demasiado extensos (aparentemente desnecessários para um ...
