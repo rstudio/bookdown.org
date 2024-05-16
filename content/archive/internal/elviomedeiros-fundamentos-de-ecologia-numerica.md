@@ -1,7 +1,7 @@
 ---
 title: "Fundamentos de Ecologia Numérica"
 author: "Prof. Elvio S. F. Medeiros, Laboratório de Ecologia, Universidade Estadual da Paraíba, Campus V, João Pessoa, PB"
-date: "2024-05-10T14:47:56Z"
+date: "2024-05-13T12:15:58Z"
 link: "https://bookdown.org/elviomedeiros/fundamentos_de_ecologia_numerica/"
 length_weight: "100%"
 repo: "rstudio/fundamentos_de_ecologia_numerica"

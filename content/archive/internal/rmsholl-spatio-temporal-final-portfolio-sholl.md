@@ -1,9 +1,9 @@
 ---
 title: "Spatio-Temporal Statistics - Final Portfolio"
 author: "Robert Sholl"
-date: "2024-05-09T06:08:25Z"
+date: "2024-05-13T22:14:47Z"
 tags: [Statistics, Models]
-link: "https://bookdown.org/rmsholl/spatio-temporal_statistics_-_final_portfolio/"
+link: "https://bookdown.org/rmsholl/spatio-temporal_final_portfolio_-_sholl/"
 length_weight: "0%"
 pinned: false
 ---
