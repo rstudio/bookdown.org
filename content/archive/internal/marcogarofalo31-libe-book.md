@@ -1,9 +1,9 @@
 ---
 title: "LIBE gm2"
 author: "Marco Garofalo"
-date: "2024-05-07T17:56:44Z"
+date: "2024-05-14T15:25:08Z"
 link: "https://bookdown.org/marcogarofalo31/libe_book/"
-length_weight: "1.1%"
+length_weight: "1.5%"
 pinned: false
 ---
 
