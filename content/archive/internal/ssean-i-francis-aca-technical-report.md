@@ -1,10 +1,10 @@
 ---
 title: "AUSTRALIAN CANCER ATLAS 2.0 – Technical report"
 author: "the Australian Cancer Atlas team"
-date: "2024-05-15T04:25:19Z"
+date: "2024-05-22T06:27:25Z"
 tags: [Bayesian, Models]
 link: "https://bookdown.org/ssean_i_francis/ACA_Technical_Report/"
-length_weight: "10.1%"
+length_weight: "10.2%"
 pinned: false
 ---
 

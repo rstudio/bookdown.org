@@ -4,7 +4,7 @@ author: "Rafael A. Irizarry"
 date: ""
 tags: [Data Science, Data Analysis, Machine Learning, R Programming, Visualization, ggplot2, Unix, Github, R Markdown]
 link: "https://rafalab.github.io/dsbook/"
-length_weight: "12.4%"
+length_weight: "100%"
 cover: "https://images.routledge.com/common/jackets/amazon/978036735/9780367357986.jpg"
 pinned: true
 ---

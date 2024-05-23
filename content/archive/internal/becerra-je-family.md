@@ -1,10 +1,10 @@
 ---
 title: "Contrasting Two Family Models"
 author: "José Becerra"
-date: "2023-09-22T19:11:19Z"
+date: "2024-05-22T10:05:11Z"
 tags: [Models]
 link: "https://bookdown.org/becerra_je/Family/"
-length_weight: "3.1%"
+length_weight: "3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
