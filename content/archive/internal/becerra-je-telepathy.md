@@ -1,7 +1,7 @@
 ---
 title: "Spiritual Telepathy: the Science of Impression"
 author: "Jose Becerra"
-date: "2023-09-27T13:29:37Z"
+date: "2024-05-22T10:54:22Z"
 tags: [Guide]
 link: "https://bookdown.org/becerra_je/Telepathy/"
 length_weight: "5.2%"

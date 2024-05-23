@@ -1,9 +1,9 @@
 ---
 title: "The Psychocentric Revelation"
 author: "José Becerra"
-date: "2023-09-25T03:27:33Z"
+date: "2024-05-22T10:32:32Z"
 link: "https://bookdown.org/becerra_je/Psycocentric-Revelation/"
-length_weight: "4.5%"
+length_weight: "4.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

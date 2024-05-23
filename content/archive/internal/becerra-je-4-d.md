@@ -1,7 +1,7 @@
 ---
 title: "Four Dimensional Consciousness"
 author: "José Becerra"
-date: "2024-05-15T21:07:13Z"
+date: "2024-05-22T10:26:43Z"
 link: "https://bookdown.org/becerra_je/4-D/"
 length_weight: "3.7%"
 repo: "rstudio/bookdown-demo"
