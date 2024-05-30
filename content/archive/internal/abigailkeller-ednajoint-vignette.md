@@ -1,7 +1,7 @@
 ---
 title: "eDNAjoint"
 author: "abigailkeller"
-date: "2024-05-16T02:32:54Z"
+date: "2024-05-27T22:46:23Z"
 tags: [Package]
 link: "https://bookdown.org/abigailkeller/eDNAjoint_vignette/"
 length_weight: "4.1%"

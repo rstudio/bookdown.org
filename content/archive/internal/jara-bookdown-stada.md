@@ -1,7 +1,7 @@
 ---
 title: "UE STADA"
 author: "Jaroslava Kankova"
-date: "2024-05-14T13:30:35Z"
+date: "2024-05-28T13:56:40Z"
 tags: [Statistical Computing, Visualization]
 link: "https://bookdown.org/jara/bookdown-stada/"
 length_weight: "2.4%"
