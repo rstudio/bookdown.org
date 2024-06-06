@@ -1,7 +1,7 @@
 ---
 title: "Modelling Space and Time with GAMS: spatially and temporally varying coefficient models"
 author: "Lex Comber"
-date: "2024-05-14T10:55:28Z"
+date: "2024-06-03T09:27:14Z"
 tags: [Models, Data Science, Machine Learning]
 link: "https://bookdown.org/lexcomber/AGILE2024/"
 length_weight: "2.9%"

@@ -1,9 +1,9 @@
 ---
 title: "Our Story"
 author: "cbl&qht"
-date: "2024-05-23T14:07:17Z"
+date: "2024-06-03T15:33:23Z"
 link: "https://bookdown.org/hetongqi0320/OurStory/"
-length_weight: "1.6%"
+length_weight: "1.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
