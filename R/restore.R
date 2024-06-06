@@ -7,8 +7,8 @@ res <- purrr::map_lgl(files, ~ grepl("R course at Ewha Womans University.", brio
 res
 files[res]
 fs::file_delete(setdiff(files[res], "content/archive/internal/sunboklee-ewha-r.md"))
-gert::git_add("content/archive/internal")
-gert::git_commit("Remove Ehwa course book")
+added <- gert::git_add("content/archive/internal")
+if (any(added$staged)) gert::git_commit("Remove Ehwa course book")
 gert::git_push()
 
 files <- fs::dir_ls("content/archive/internal/", glob = "*.md")
@@ -53,8 +53,8 @@ git_restore("content/archive/internal/sengokucolaingoo-cbook.md")
 git_restore("content/archive/internal/hefleyt2-stat764fall2020.md")
 git_restore("content/archive/internal/lisakmnsk-lmu-fintech-financial-data-science.md")
 
-gert::git_add("content/archive/internal")
-gert::git_commit("Restore some files")
+added <- gert::git_add("content/archive/internal")
+if (any(added$staged)) gert::git_commit("Restore some files")
 
 # Remove content that are identified as wrongful
 
