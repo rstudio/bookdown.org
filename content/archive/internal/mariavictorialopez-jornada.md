@@ -1,7 +1,7 @@
 ---
 title: "9° Jornadas Integradas"
 author: "Facultad de Ciencias Agrarias-Universidad Nacional de Jujuy"
-date: "2024-03-26T01:38:32Z"
+date: "2024-05-31T14:59:50Z"
 tags: [Package]
 link: "https://bookdown.org/mariavictorialopez/Jornada/"
 length_weight: "1.4%"
