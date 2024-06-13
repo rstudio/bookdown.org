@@ -1,10 +1,10 @@
 ---
 title: "R数据分析入门"
 author: "Lingxiao HE"
-date: "2024-06-06T01:16:33Z"
+date: "2024-06-07T14:58:52Z"
 tags: [数据分析, Textbook, Data Analysis]
 link: "https://bookdown.org/lhe/a-quick-start-on-data-analysis-in-r/"
-length_weight: "11.7%"
+length_weight: "11.9%"
 pinned: false
 ---
 

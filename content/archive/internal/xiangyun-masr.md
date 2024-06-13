@@ -1,7 +1,7 @@
 ---
 title: "现代应用统计"
 author: "黄湘云"
-date: "2024-06-05T23:53:59Z"
+date: "2024-06-12T23:58:05Z"
 link: "https://bookdown.org/xiangyun/masr/"
 length_weight: "100%"
 pinned: false
