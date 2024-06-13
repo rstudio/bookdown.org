@@ -1,10 +1,10 @@
 ---
 title: "Documentary of Statistics Using R"
 author: "Novia Permatasari"
-date: "2024-05-12T10:12:09Z"
+date: "2024-06-09T11:20:51Z"
 tags: [Statistics]
 link: "https://bookdown.org/via_rstatistics/documentary_of_statistics_using_r/"
-length_weight: "3.6%"
+length_weight: "4.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
