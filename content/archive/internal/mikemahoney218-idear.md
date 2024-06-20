@@ -4,7 +4,7 @@ author: "Michael Mahoney"
 date: "2019-07-16T01:52:20Z"
 tags: [Course, Data Analysis, Github]
 link: "https://bookdown.org/mikemahoney218/IDEAR/"
-length_weight: "12.4%"
+length_weight: "100%"
 repo: "MikeMahoney218/Intro_to_R_Reader"
 pinned: false
 ---

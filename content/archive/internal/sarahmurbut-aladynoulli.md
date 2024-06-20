@@ -1,10 +1,10 @@
 ---
 title: "AladynOulli"
 author: "tigerstatdoc"
-date: "2024-06-12T14:52:06Z"
+date: "2024-06-18T22:56:59Z"
 tags: [Package]
-link: "https://bookdown.org/sarahmurbut/bernoulli_disease/"
-length_weight: "0%"
+link: "https://bookdown.org/sarahmurbut/aladynoulli/"
+length_weight: "4.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

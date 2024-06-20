@@ -4,7 +4,7 @@ author: "Chester Ismay and Albert Y. Kim"
 date: "2024-05-24"
 tags: [Data Science, Textbook, Tidyverse, Github]
 link: "https://moderndive.com/"
-length_weight: "9.9%"
+length_weight: "0%"
 cover: "https://moderndive.com/images/logos/book_cover.png"
 repo: "moderndive/ModernDive_book"
 pinned: true

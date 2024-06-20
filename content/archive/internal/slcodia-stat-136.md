@@ -1,10 +1,10 @@
 ---
 title: "STAT 136: Introduction to Regression Analysis"
 author: "Siegfred Roi L. Codia"
-date: "2024-06-09T17:37:44Z"
+date: "2024-06-20T03:12:15Z"
 tags: [Course]
 link: "https://bookdown.org/slcodia/Stat_136/"
-length_weight: "6.6%"
+length_weight: "9.4%"
 pinned: false
 ---
 
