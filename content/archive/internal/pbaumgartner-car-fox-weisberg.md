@@ -1,10 +1,10 @@
 ---
 title: "An R Companion to Applied Regression"
 author: "Peter Baumgartner"
-date: "2024-06-09T16:24:15Z"
+date: "2024-06-15T21:00:07Z"
 tags: [Textbook]
 link: "https://bookdown.org/pbaumgartner/car-fox-weisberg/"
-length_weight: "9.7%"
+length_weight: "9.9%"
 pinned: false
 ---
 
