@@ -1,9 +1,9 @@
 ---
 title: "gm2_book"
 author: "MG"
-date: "2024-06-14T16:23:07Z"
+date: "2024-06-26T15:25:56Z"
 link: "https://bookdown.org/marcogarofalo31/gm2_book/"
-length_weight: "2.1%"
+length_weight: "2.2%"
 pinned: false
 ---
 
