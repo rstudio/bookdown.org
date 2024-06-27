@@ -1,11 +1,11 @@
 ---
 title: "Introduction to Regression Methods for Public Health Using R"
 author: "Ramzi W. Nahhas"
-date: "2024-06-17T13:57:09Z"
-tags: [Statistics, Course]
+date: "2024-06-21T21:19:30Z"
+tags: [Statistics]
 link: "https://bookdown.org/rwnahhas/RMPH/"
 length_weight: "100%"
 pinned: false
 ---
 
-An introduction to regression methods using R with examples from public health datasets and accessible to students without a background in mathematical statistics. [...] This is a DRAFT but is still undergoing final revisions. The goal is publication as a printed version (through CRC Press) with the online version remaining freely available. Status If you have any comments or suggestions, feel free to contact me at ramzi.nahhas@wright.edu. Thank you! This text is suitable as a second biostatistics course for Master of Public Health students or public health professionals. Almost all public ...
+An introduction to regression methods using R with examples from public health datasets and accessible to students without a background in mathematical statistics. [...] This text will soon be in press, published by CRC ...

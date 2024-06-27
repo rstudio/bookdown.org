@@ -1,7 +1,7 @@
 ---
 title: "现代统计图形（第二版）"
 author: "黄湘云"
-date: "2024-06-07T05:13:15Z"
+date: "2024-06-21T08:12:42Z"
 tags: [ggplot2, R Markdown]
 link: "https://bookdown.org/xiangyun/msg2nd/"
 length_weight: "10.3%"
