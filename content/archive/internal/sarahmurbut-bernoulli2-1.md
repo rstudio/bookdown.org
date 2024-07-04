@@ -1,10 +1,10 @@
 ---
-title: "01-topics"
+title: "AladynOulli"
 author: "tigerstatdoc"
-date: "2024-07-04T02:26:40Z"
+date: "2024-06-15T18:43:58Z"
 tags: [Package]
-link: "https://bookdown.org/sarahmurbut/aladynoulli/"
-length_weight: "4.7%"
+link: "https://bookdown.org/sarahmurbut/bernoulli2-1/"
+length_weight: "4.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
