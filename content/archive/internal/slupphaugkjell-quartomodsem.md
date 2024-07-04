@@ -1,10 +1,10 @@
 ---
 title: "An Introduction to Interaction Effects in SEMs using modsem"
 author: "Kjell S Slupphaug"
-date: "2024-06-19T21:32:05Z"
+date: "2024-06-30T08:33:48Z"
 tags: [Package, Github]
 link: "https://bookdown.org/slupphaugkjell/quartomodsem/"
-length_weight: "3.3%"
+length_weight: "6.7%"
 pinned: false
 ---
 
