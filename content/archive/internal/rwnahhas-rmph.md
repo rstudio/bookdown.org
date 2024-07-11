@@ -1,10 +1,11 @@
 ---
 title: "Introduction to Regression Methods Using R"
 author: "Ramzi W. Nahhas"
-date: "2024-07-03T20:10:30Z"
+date: "2024-07-08T15:27:14Z"
 tags: [Statistics]
 link: "https://bookdown.org/rwnahhas/RMPH/"
 length_weight: "100%"
+cover: "https://bookdown.org/rwnahhas/RMPH/Images/cover.jpg"
 pinned: false
 ---
 
