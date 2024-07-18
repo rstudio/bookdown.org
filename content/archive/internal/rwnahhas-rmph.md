@@ -1,7 +1,7 @@
 ---
-title: "Introduction to Regression Methods Using R"
+title: "Introduction to Regression Methods for Public Health Using R"
 author: "Ramzi W. Nahhas"
-date: "2024-07-08T15:27:14Z"
+date: "2024-07-15T14:03:50Z"
 tags: [Statistics]
 link: "https://bookdown.org/rwnahhas/RMPH/"
 length_weight: "100%"
