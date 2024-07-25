@@ -4,7 +4,7 @@ author: "Current editors: Paul C. Bauer, Camille Landesvatter, Lion Behrens Auth
 date: ""
 tags: [Github]
 link: "https://paulcbauer.github.io/apis_for_social_scientists_a_review/"
-length_weight: "0%"
+length_weight: "6.6%"
 pinned: false
 ---
 

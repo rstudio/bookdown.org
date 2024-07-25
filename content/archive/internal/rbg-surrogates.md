@@ -1,7 +1,7 @@
 ---
 title: "Surrogates"
 author: "Robert B. Gramacy"
-date: "2023-10-17T11:42:43Z"
+date: "2024-07-22T10:16:10Z"
 tags: [Textbook, Machine Learning, Statistics, Simulation, Models, Statistical Methods]
 link: "https://bookdown.org/rbg/surrogates/"
 length_weight: "100%"

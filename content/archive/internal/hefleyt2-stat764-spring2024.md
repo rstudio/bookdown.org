@@ -1,11 +1,11 @@
 ---
-title: "Applied Spatio-temporal Statistics"
+title: "Regression and Analysis of Variance"
 author: "Trevor Hefley"
-date: "2024-04-29T20:16:11Z"
-tags: [Statistics, Course, Geographic, Exploratory Data Analysis, Visualization]
+date: "2024-07-24T14:09:45Z"
+tags: [Course, Models, Machine Learning, Bayesian]
 link: "https://bookdown.org/hefleyt2/stat764_spring2024/"
-length_weight: "6.6%"
+length_weight: "9%"
 pinned: false
 ---
 
-Course notes for Applied Spatio-temporal Statistics (STAT 764) at Kansas State University for the spring 2024 semester [...] This document contains the course notes for Applied Spatio-temporal Statistics at Kansas State University (STAT 764). During the semester we will cover construction and analysis of spatial, time series, and spatio-temporal data sets. Topics include data generation using geographic information systems, exploratory data analysis and visualization, and descriptive and dynamic spatio-temporal statistical ...
+Course notes for Regression and Analysis of Variance (STAT 705) at Kansas State University for Summer 2024 [...] This document contains the course notes for Regression and Analysis of Variance at Kansas State University (STAT 705). During the semester we will cover the basics such as regression and ANOVA modeling, parameter estimation, model checking, inference, and prediction. We may also cover modern topics such as regularization, random effects, generalized linear models, machine learning approaches, and Bayesian regression and ...
