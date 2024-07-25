@@ -85,6 +85,7 @@ https://nacnudus.github.io/spreadsheet-munging-strategies/
 https://neonira.github.io/offensiveProgrammingBook_v1.2.2/
 https://orchid00.github.io/actions_sandbox/
 https://paleolimbot.github.io/physical-geology/
+https://paulcbauer.github.io/apis_for_social_scientists_a_review/
 https://pbiecek.github.io/ema/
 https://physikbuch.schule/
 https://plotly-book.cpsievert.me/
@@ -139,4 +140,3 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://paulcbauer.github.io/apis_for_social_scientists_a_review/

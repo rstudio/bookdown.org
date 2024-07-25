@@ -1,10 +1,10 @@
 ---
 title: "Bayesian Modeling for Agricultural Data"
 author: "Trevor Hefley, Josefina Lacasa, Francisco Palmero"
-date: "2024-07-17T21:02:19Z"
+date: "2024-07-21T15:42:46Z"
 tags: [Bayesian, Conference]
 link: "https://bookdown.org/hefleyt2/ISPA_Bayes/"
-length_weight: "2.8%"
+length_weight: "3%"
 pinned: false
 ---
 
