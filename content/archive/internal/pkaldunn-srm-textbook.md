@@ -1,8 +1,8 @@
 ---
 title: "Scientific Research and Methodology"
 author: "Peter K. Dunn"
-date: "2024-07-18T06:59:57Z"
-tags: [Textbook]
+date: "2024-08-08T04:54:00Z"
+tags: [Statistics, Textbook]
 link: "https://bookdown.org/pkaldunn/SRM-Textbook/"
 length_weight: "100%"
 cover: "https://bookdown.org/pkaldunn/SRM-Textbook/OtherImages/coversmall.png"
@@ -10,6 +10,6 @@ repo: "PeterKDunn/SRM-Textbook"
 pinned: false
 ---
 
-An introduction to quantitative research in science, engineering and health (including research design, hypothesis testing and confidence intervals in common situations) [...] This book introduces quantitative research in the scientific and health disciplines.
-The whole research process is introduced, from asking a research question to analysis and reporting of the data.
-The main focus, however, is the analysis of data and understanding the underlying concepts. To support this textbook, the following are also available (and freely available online): Almost every dataset used in this book is a real dataset and ...
+An introduction to quantitative research in science, engineering and health (including research design, hypothesis testing and confidence intervals in common situations) [...] This book introduces quantitative research in the scientific and health disciplines, with an emphasis on introductory statistics.
+Unlike many introductory statistics textbooks, this textbook gives context to the statistics by first covering the basics of the research design process; it connects the research question with the means to answer that question.
+I believe this is crucial to understanding the need and purpose of using ...
