@@ -1,10 +1,10 @@
 ---
 title: "Auxiliary Material- Mathematics for Computer and Information Sciences"
 author: "KTU- CSE & Allied BoS"
-date: "2024-07-24T18:58:32Z"
+date: "2024-07-27T07:02:44Z"
 tags: [Education]
 link: "https://bookdown.org/siju_swamy/cse_academics/"
-length_weight: "11.9%"
+length_weight: "12.4%"
 repo: "KTU_academics/manual"
 pinned: false
 ---

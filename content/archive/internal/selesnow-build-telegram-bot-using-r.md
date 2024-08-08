@@ -1,9 +1,9 @@
 ---
 title: "Разработка telegram ботов на языке R"
 author: "Алексей Селезнёв"
-date: "2023-02-08T15:51:42Z"
+date: "2024-08-01T13:25:06Z"
 link: "https://bookdown.org/selesnow/build_telegram_bot_using_r/"
-length_weight: "10.7%"
+length_weight: "12.2%"
 cover: "https://bookdown.org/selesnow/build_telegram_bot_using_r/cover.png"
 pinned: false
 ---

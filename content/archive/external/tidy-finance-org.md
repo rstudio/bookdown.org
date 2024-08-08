@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Tidy Finance"
+title: "Tidy Finance – Tidy Finance"
 author: ""
 date: ""
 tags: [Tidy, Python]
