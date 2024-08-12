@@ -1,7 +1,7 @@
 ---
 title: "Fundamental statistical concepts and techniques in the biological and environmental sciences: With jamovi"
 author: "A. Bradley Duthie"
-date: "2024-07-25T02:24:52Z"
+date: "2024-08-06T18:05:42Z"
 tags: [Statistics, Textbook, Data Analysis]
 link: "https://bookdown.org/brad_duthie/Statistical-concepts-and-techniques-with-jamovi-1720789903589/"
 length_weight: "100%"
