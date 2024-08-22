@@ -1,7 +1,7 @@
 ---
 title: "Python"
 author: "Asser Koskinen"
-date: "2024-06-13T15:31:51Z"
+date: "2024-08-16T18:01:22Z"
 tags: [Python, Machine Learning, Guide]
 link: "https://bookdown.org/cda/python/"
 length_weight: "1.7%"
