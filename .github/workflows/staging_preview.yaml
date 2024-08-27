@@ -13,6 +13,7 @@ on:
       - main
     paths: 
       - R/staging.txt
+  workflow_dispatch:
   
 name: Update staging infos
 jobs:
