@@ -1,7 +1,7 @@
 ---
 title: "r4ds-ggplot2"
 author: "ggiaever"
-date: "2023-12-14T01:42:24Z"
+date: "2024-08-24T15:54:39Z"
 tags: [ggplot2, Data Science]
 link: "https://bookdown.org/ggiaever/r4ds-ggplot2/"
 length_weight: "5.2%"

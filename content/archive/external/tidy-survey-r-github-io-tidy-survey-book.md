@@ -4,7 +4,7 @@ author: "Stephanie A. Zimmer, Rebecca J. Powell, and Isabella C. Velásquez"
 date: "2024-08-24"
 tags: [Data Analysis, Tidy]
 link: "https://tidy-survey-r.github.io/tidy-survey-book/"
-length_weight: "0%"
+length_weight: "9.5%"
 cover: "https://tidy-survey-r.github.io/tidy-survey-book/images/BookCover_Final.jpg"
 repo: "tidy-survey-r/tidy-survey-book"
 pinned: false
