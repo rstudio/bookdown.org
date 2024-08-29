@@ -1,10 +1,10 @@
 ---
 title: "Spiritual Teachings in the History of Humanity"
 author: "José Becerra"
-date: "2024-05-22T10:23:31Z"
+date: "2024-08-26T08:21:49Z"
 tags: [Guide]
 link: "https://bookdown.org/becerra_je/Teachings/"
-length_weight: "4.7%"
+length_weight: "4.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "STAT 225 – Introduction to Statistics – Fall 2024"
 author: "Robert Sholl"
-date: "2024-08-20T17:56:39Z"
+date: "2024-08-28T14:41:59Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/rmsholl/introduction_to_statistics_-_stat_225_-_fall_2024/"
-length_weight: "1.9%"
+length_weight: "3.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
