@@ -1,7 +1,7 @@
 ---
 title: "Econometrics for Business Analytics"
 author: "Jose Fernandez"
-date: "2024-02-14T01:11:18Z"
+date: "2024-09-11T20:54:56Z"
 tags: [Econometrics, Business Analytics, Package, Textbook]
 link: "https://bookdown.org/cuborican/RE_STAT/"
 length_weight: "100%"

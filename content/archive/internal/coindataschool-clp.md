@@ -1,10 +1,10 @@
 ---
 title: "Concentrated Liquidity Provision"
 author: "Coin Data School ("
-date: "2024-09-03T08:58:04Z"
+date: "2024-09-10T06:24:15Z"
 tags: [Education, Market]
 link: "https://bookdown.org/coindataschool/clp/"
-length_weight: "3.7%"
+length_weight: "4.1%"
 pinned: false
 ---
 

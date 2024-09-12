@@ -1,13 +1,12 @@
 ---
-title: "Aprendizaje Estadístico"
+title: "Métodos predictivos de aprendizaje estadístico"
 author: "Rubén Fernández Casal (ruben.fcasal@udc.es), Julián Costa Bouzas (julian.costa@udc.es), Manuel Oviedo de la Fuente (manuel.oviedo@udc.es)"
 date: ""
-tags: [Github]
 link: "https://rubenfcasal.github.io/aprendizaje_estadistico/"
-length_weight: "7.7%"
-repo: "rubenfcasal/aprendizaje_estadistico"
+length_weight: "8.2%"
+repo: "rubenfcasal/book_mpae"
 pinned: false
 ---
 
-Apuntes de la asignatura de Aprendizaje Estadístico del Máster en Técnicas Estadísticas. [...] Este libro contiene los apuntes de la asignatura de Aprendizaje Estadístico del Máster en Técnicas Estadísticas. Este libro ha sido escrito en R-Markdown empleando el paquete bookdown y está disponible en el repositorio Github: rubenfcasal/aprendizaje_estadistico.
-Se puede acceder a la versión en línea a través del siguiente enlace: https://rubenfcasal.github.io/aprendizaje_estadistico. donde puede descargarse en formato pdf. Para ejecutar los ejemplos mostrados en el libro sería necesario tener ...
+Métodos predictivos de aprendizaje estadístico con R. [...] Bienvenido a la versión online del libro “Métodos predictivos de aprendizaje estadístico” editado por el Servicio de Publicaciones de la UDC. Puede adquirir una copia impresa a través de su librería habitual1.
+Este libro también está disponible en acceso abierto, de forma gratuita, en formato pdf. NOTA: El libro aún está en la última etapa del proceso de publicación. Confiamos en que estará disponible próximamente. Para citar el libro o esta web en publicaciones puede emplear: o en formato BibTeX: Esta página web está bajo una ...
