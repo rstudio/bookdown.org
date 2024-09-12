@@ -1,10 +1,10 @@
 ---
 title: "A Guide to the Zeiss LSM 980 with Airyscan 2"
 author: "Tumor Cartography Core Staff"
-date: "2024-09-03T20:26:53Z"
+date: "2024-09-10T20:11:02Z"
 tags: [Guide]
 link: "https://bookdown.org/cole_nawrocki/book/"
-length_weight: "4.3%"
+length_weight: "4.9%"
 pinned: false
 ---
 
