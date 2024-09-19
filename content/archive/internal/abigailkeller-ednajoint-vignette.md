@@ -1,10 +1,10 @@
 ---
 title: "eDNAjoint: an R package for interpreting paired or semi-paired environmental DNA and traditional survey data in a Bayesian framework"
 author: "abigailkeller"
-date: "2024-09-06T02:25:18Z"
+date: "2024-09-16T18:42:09Z"
 tags: [Package, Bayesian]
 link: "https://bookdown.org/abigailkeller/eDNAjoint_vignette/"
-length_weight: "5.5%"
+length_weight: "5.7%"
 repo: "abigailkeller/eDNAjoint"
 pinned: false
 ---

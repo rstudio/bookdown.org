@@ -1,9 +1,9 @@
 ---
 title: "Metaphysics"
 author: "Jose Becerra"
-date: "2024-09-04T12:12:16Z"
+date: "2024-09-15T12:35:00Z"
 link: "https://bookdown.org/becerra_je/Metaphysics/"
-length_weight: "4.9%"
+length_weight: "5.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

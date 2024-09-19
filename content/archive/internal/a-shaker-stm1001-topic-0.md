@@ -1,7 +1,7 @@
 ---
 title: "STM1001: Maths and Notation Summary"
 author: "Amanda Shaker and Rupert Kuveke"
-date: "2024-09-07T08:22:23Z"
+date: "2024-09-16T01:24:37Z"
 link: "https://bookdown.org/a_shaker/STM1001_Topic_0/"
 length_weight: "5.1%"
 pinned: false

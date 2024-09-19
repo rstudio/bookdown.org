@@ -1,7 +1,7 @@
 ---
 title: "Applied Omics Science for Drug Discovery and Development"
 author: "ggiaever"
-date: "2024-09-12T01:29:11Z"
+date: "2024-09-17T16:20:23Z"
 tags: [Course]
 link: "https://bookdown.org/ggiaever/2024_IntroR_and_RStudio/"
 length_weight: "1.4%"
