@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Statistics"
 author: "Dr. Lauren Perry"
-date: "2024-09-10T20:12:07Z"
+date: "2024-09-18T21:10:20Z"
 tags: [Statistics, Course]
 link: "https://bookdown.org/lgpperry/introstats/"
 length_weight: "9.4%"
