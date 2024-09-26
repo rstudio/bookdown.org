@@ -1,7 +1,7 @@
 ---
 title: "Data Analysis and Visualization for Communication Science"
 author: "morleyjamesweston"
-date: "2024-09-18T14:59:52Z"
+date: "2024-09-25T10:08:49Z"
 tags: [Data Analysis, Visualization, Course, Github]
 link: "https://bookdown.org/morleyjamesweston/data_visualization_for_comm_sci/"
 length_weight: "5%"
