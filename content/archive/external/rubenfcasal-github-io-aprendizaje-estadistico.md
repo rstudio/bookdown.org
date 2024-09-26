@@ -4,7 +4,7 @@ author: "Rubén Fernández Casal (ruben.fcasal@udc.es), Julián Costa Bouzas (ju
 date: ""
 link: "https://rubenfcasal.github.io/aprendizaje_estadistico/"
 length_weight: "8.2%"
-repo: "rubenfcasal/book_mpae"
+repo: "rubenfcasal/aprendizaje_estadistico"
 pinned: false
 ---
 
