@@ -1,7 +1,7 @@
 ---
 title: "Pengantar Statistik untuk Sains Data"
 author: "dsciencelabs"
-date: "2024-09-23T08:55:05Z"
+date: "2024-09-27T12:29:11Z"
 link: "https://bookdown.org/dsciencelabs/statistika_dasar/"
 length_weight: "4.6%"
 cover: "https://bookdown.org/dsciencelabs/statistika_dasar/images/Cover_Basic_Statistics.png"

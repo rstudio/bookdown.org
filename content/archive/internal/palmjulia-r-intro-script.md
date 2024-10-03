@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R"
 author: "Jena University Hospital, Institute of Medical Statistics, Computer and Data Sciences, Julia Palm (julia.palm@med.uni-jena.de)"
-date: "2024-09-10T06:35:18Z"
+date: "2024-10-02T11:42:26Z"
 tags: [Course, Statistics, Data Science]
 link: "https://bookdown.org/palmjulia/r_intro_script/"
 length_weight: "7.2%"
