@@ -52,6 +52,7 @@ git_restore("content/archive/internal/smartai4ir-dui-ai-solution.md")
 git_restore("content/archive/internal/sengokucolaingoo-cbook.md")
 git_restore("content/archive/internal/hefleyt2-stat764fall2020.md")
 git_restore("content/archive/internal/lisakmnsk-lmu-fintech-financial-data-science.md")
+git_restore("content/archive/internal/ggiaever-r4ds-ggplot2.md")
 
 added <- gert::git_add("content/archive/internal")
 if (any(added$staged)) gert::git_commit("Restore some files")
