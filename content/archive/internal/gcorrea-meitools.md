@@ -1,7 +1,7 @@
 ---
 title: "MEITools"
 author: "Guillermo Correa-Londoño"
-date: "2024-09-25T00:56:30Z"
+date: "2024-10-03T04:39:16Z"
 link: "https://bookdown.org/gcorrea/MEITools/"
 length_weight: "2.5%"
 cover: "https://bookdown.org/gcorrea/MEITools/images/cover.png"

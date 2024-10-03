@@ -1,7 +1,7 @@
 ---
 title: "CS5702 Modern Data Book"
 author: "Martin Shepperd"
-date: "2024-09-20T08:44:42Z"
+date: "2024-09-26T16:00:56Z"
 tags: [Course, Data Science, Package]
 link: "https://bookdown.org/martin_shepperd/ModernDataBook/"
 length_weight: "8.7%"

@@ -1,7 +1,7 @@
 ---
 title: "bookdown: Authoring Books and Technical Documents with R Markdown"
 author: "Yihui Xie"
-date: "2024-07-24T16:20:31Z"
+date: "2024-10-02T22:13:37Z"
 tags: [R Markdown, Guide, Shiny]
 link: "https://bookdown.org/yihui/bookdown/"
 length_weight: "8.9%"

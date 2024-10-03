@@ -1,7 +1,7 @@
 ---
 title: "Clinical Biostatistics"
 author: "Leonhard Held, Charlotte Micheloud"
-date: "2024-09-20T08:47:37Z"
+date: "2024-10-02T14:25:59Z"
 tags: [Statistics, Medicine, Data Science, Statistical Methods]
 link: "https://bookdown.org/charlotte_micheloud93/Clinical_Biostatistics/"
 length_weight: "100%"
