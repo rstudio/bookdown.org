@@ -1,9 +1,9 @@
 ---
 title: "Handout for Cognitive Diagnosis Modeling"
 author: "Mehdi Rajeb (This CDM handout is originally developed by Dr. Wenchao Ma, and later adopted by Mehdi Rajeb)"
-date: "2024-09-28T02:01:23Z"
+date: "2024-10-09T22:10:55Z"
 link: "https://bookdown.org/mehdirajeb/CDM/"
-length_weight: "8%"
+length_weight: "2.3%"
 pinned: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Aljabar Linear"
 author: "Bakti Siregar, M.Sc.,CDS"
-date: "2024-10-02T15:44:06Z"
+date: "2024-10-08T08:34:05Z"
 link: "https://bookdown.org/dsciencelabs/alin/"
-length_weight: "4.9%"
+length_weight: "5%"
 pinned: false
 ---
 
