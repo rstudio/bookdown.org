@@ -1,7 +1,7 @@
 ---
 title: "Applied Biostats 2024: UMN Applied Biostats 2024"
 author: "ybrandvain"
-date: "2024-10-02T16:06:15Z"
+date: "2024-10-08T13:55:30Z"
 tags: [Course, Statistics, Models]
 link: "https://bookdown.org/ybrandvain/Applied_Biostats_2024/"
 length_weight: "0%"
