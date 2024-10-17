@@ -1,7 +1,7 @@
 ---
 title: "Linear Algebra 2024 Notes"
 author: "Rachael Carey"
-date: "2024-09-15T08:22:39Z"
+date: "2024-10-16T10:22:20Z"
 tags: [Course, Education]
 link: "https://bookdown.org/rachaelmcarey/lanotes/"
 length_weight: "0%"

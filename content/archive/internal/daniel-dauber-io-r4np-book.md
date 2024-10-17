@@ -1,8 +1,8 @@
 ---
 title: "R for Non-Programmers: A Guide for Social Scientists"
 author: "Daniel Dauber"
-date: "2023-03-29T08:52:18Z"
-tags: [Guide, R Programming, Social Science]
+date: "2024-10-10T23:00:48Z"
+tags: [Guide, Social Science, R Programming, Data Analysis]
 link: "https://bookdown.org/daniel_dauber_io/r4np_book/"
 length_weight: "100%"
 cover: "https://bookdown.org/daniel_dauber_io/r4np_book/images/cover_art_icons/cover_art_book.png"
@@ -10,4 +10,4 @@ repo: "ddauber/r4np_book"
 pinned: false
 ---
 
-This book is a springboard into the world of R without having to become a full-fledged programmer or possess abundant knowledge in other programming languages. This book guides you through the most common challenges in empirical research in the Social Sciences and offers practical and efficient solutions. Each chapter is dedicated to a common task we have to achieve to answer our research questions. In addition, it provides plenty of exercises and in-depth case studies based on actual data.
+Are you interested in learning R, but intimidated by programming and statistical analysis? ‘R for Non-Programmers: A Guide for Social Scientists’ is the perfect resource for you. This book provides practical and efficient solutions to common challenges in empirical research in the Social Sciences, without assuming any prior knowledge or skills in programming or statistical analysis. Each chapter is dedicated to a specific task required to answer research questions and includes exercises and case studies based on real data. Whether you are a novice or experienced analyst, this book is a comprehensive entry to R programming that will help enhance your data analysis skills.

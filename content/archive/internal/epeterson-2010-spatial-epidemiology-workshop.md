@@ -1,10 +1,10 @@
 ---
 title: "Spatial Epidemiology Workshop"
 author: "Emily Peterson emily.nancy.peterson@emory.edu"
-date: "2024-10-10T03:38:15Z"
+date: "2024-10-11T16:09:49Z"
 tags: [Epidemiology, Geographic, Spatial Data]
 link: "https://bookdown.org/epeterson_2010/spatial_epidemiology_workshop/"
-length_weight: "9.2%"
+length_weight: "7.3%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Ryan A. Estrellado, Emily A. Freer, Joshua M. Rosenberg, and Isabella C
 date: ""
 tags: [Data Science, Education]
 link: "https://datascienceineducation.com/"
-length_weight: "8.8%"
+length_weight: "0%"
 cover: "https://datascienceineducation.com/dsieur-cover-routledge.jpg"
 repo: "data-edu/data-science-in-education"
 pinned: false
