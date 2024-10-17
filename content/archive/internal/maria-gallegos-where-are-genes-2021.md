@@ -1,10 +1,10 @@
 ---
 title: "Fantastic Genes and Where to Find Them"
 author: "Maria Gallegos, Cal State University East Bay"
-date: "2024-10-10T00:06:25Z"
+date: "2024-10-13T00:51:38Z"
 tags: [Education, Course]
 link: "https://bookdown.org/maria_gallegos/where-are-genes-2021/"
-length_weight: "8.1%"
+length_weight: "8%"
 pinned: false
 ---
 

@@ -4,7 +4,7 @@ author: "Yufei Zhong"
 date: "2021-06-23T10:26:56Z"
 tags: [数据分析, 笔记]
 link: "https://bookdown.org/zhongyufei/Data-Handling-in-R/"
-length_weight: "100%"
+length_weight: "12.4%"
 pinned: false
 ---
 
