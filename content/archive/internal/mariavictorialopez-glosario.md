@@ -1,7 +1,7 @@
 ---
 title: "ABC en R"
 author: ""
-date: "2024-10-15T13:20:34Z"
+date: "2024-10-21T12:07:03Z"
 tags: [Package]
 link: "https://bookdown.org/mariavictorialopez/Glosario/"
 length_weight: "6.9%"

@@ -1,7 +1,7 @@
 ---
 title: "R语言：从基础到进阶"
 author: "李喻骏"
-date: "2024-10-14T04:05:37Z"
+date: "2024-10-20T13:57:06Z"
 link: "https://bookdown.org/pheebie2008/RBA/"
 length_weight: "12.2%"
 pinned: false
