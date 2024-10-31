@@ -1,9 +1,9 @@
 ---
 title: "Acerca del sitio – Regresion"
 author: "Edsaúl Emilio Pérez Guerrero"
-date: "2024-10-17T18:31:11Z"
+date: "2024-10-24T15:40:11Z"
 link: "https://bookdown.org/edsaul_perez/regresion/"
-length_weight: "2.5%"
+length_weight: "6.2%"
 pinned: false
 ---
 

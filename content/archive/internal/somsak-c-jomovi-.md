@@ -1,7 +1,7 @@
 ---
 title: "Draft of Jamovi Manual Thai version"
 author: "สมศักดิ์ จันทร์เอม"
-date: "2024-06-18T03:08:15Z"
+date: "2024-10-28T02:33:00Z"
 tags: [Econometrics]
 link: "https://bookdown.org/somsak_c/_jomovi_/"
 length_weight: "8.5%"

@@ -1,7 +1,7 @@
 ---
 title: "Índice de Condición Integral"
 author: "Guillermo Correa-Londoño"
-date: "2024-09-23T00:14:51Z"
+date: "2024-10-27T23:15:17Z"
 link: "https://bookdown.org/gcorrea/ICI/"
 length_weight: "7.8%"
 cover: "https://bookdown.org/gcorrea/ICI/images/cover.png"
