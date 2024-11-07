@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Environmental Data Science"
 author: "Jerry Davis, SFSU Institute for Geographic Information Science"
-date: "2024-10-31T04:17:24Z"
+date: "2024-11-07T01:43:01Z"
 tags: [Data Science, Data Analysis, Spatial Data, Exploratory Data Analysis, Tidyverse, Package]
 link: "https://bookdown.org/igisc/EnvDataSci/"
 length_weight: "100%"

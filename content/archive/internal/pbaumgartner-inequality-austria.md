@@ -1,10 +1,10 @@
 ---
 title: "Inequality in Austria"
 author: "Peter Baumgartner"
-date: "2024-09-01T19:27:15Z"
+date: "2024-11-06T20:55:08Z"
 tags: [Textbook]
 link: "https://bookdown.org/pbaumgartner/inequality-austria/"
-length_weight: "7%"
+length_weight: "8%"
 pinned: false
 ---
 
