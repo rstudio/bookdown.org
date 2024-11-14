@@ -71,9 +71,12 @@ jobs:
           
       - name: Commit changes to main branch to trigger a rebuild
         if: ${{ github.event_name == 'push' }}
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          gh auth setup-git
           git commit -m 'unstage new book and rebuild'
           git push
           
