@@ -1,7 +1,7 @@
 ---
 title: "Exploring Complex Survey Data Analysis Using R"
 author: "Stephanie A. Zimmer, Rebecca J. Powell, and Isabella C. Velásquez"
-date: "2024-10-20"
+date: "2024-11-11"
 tags: [Data Analysis, Tidy]
 link: "https://tidy-survey-r.github.io/tidy-survey-book/"
 length_weight: "9.5%"
