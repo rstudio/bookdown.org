@@ -4,7 +4,7 @@ author: "Marco Garofalo"
 date: "2022-11-28T15:07:32Z"
 tags: [Package]
 link: "https://bookdown.org/marcogarofalo31/gm2/"
-length_weight: "100%"
+length_weight: "12.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

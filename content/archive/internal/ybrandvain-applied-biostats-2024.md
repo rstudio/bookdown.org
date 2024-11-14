@@ -1,11 +1,11 @@
 ---
 title: "Applied Biostats 2024: UMN Applied Biostats 2024"
 author: "ybrandvain"
-date: "2024-11-07T05:13:47Z"
-tags: [Course, Statistics, Models]
+date: "2024-11-14T05:43:08Z"
+tags: [Models]
 link: "https://bookdown.org/ybrandvain/Applied_Biostats_2024/"
 length_weight: "0%"
 pinned: false
 ---
 
-Tour and table of contents A bit about this course and the history of this book. Learning in this era. Goals of this book. How to use this book. An example mini chapter introducing Explanatory and response variables and Types of categorical and continuous variables. An introduction to the goals of statistics and challenges faced while pursuing these goals. Goals of biostatistics. Sampling from populations. Models and Hypothesis Testing. Inferring cause Getting you up and running in R, with the ultimate goal of being able to load and look at data. Coding for biostats. Why use R?. Observations ...
+Tour and table of contents Chapter 00: Example Mini-chapterChapter 01: Intro to StatsChapter 02: Intro to R Chapter 03: Data in RChapter 04: Data SummariesChapter 05: Introduction to ggplotChapter 06: AssociationsChapter 07: Linear ModelsChapter 08: Data Collection and OrganizationChapter 09: Reproducible CodeChapter 10: Better FiguresChapter 11: Better Figures in RChapter 12: Peer Review Chapter 13: ProbabilityChapter 14: SamplingChapter 15: UncertaintyChapter 16: Hypothesis TestingChapter 17: Shuffling to Generate a NullChapter 18: Shuffling AssociationsChapter 19: Probability and NHST ...
