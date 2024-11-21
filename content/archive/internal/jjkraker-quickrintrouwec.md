@@ -1,7 +1,7 @@
 ---
 title: "Quick Introduction to R/RStudio - online notes"
 author: "Jessica Kraker"
-date: "2023-09-07T18:13:46Z"
+date: "2024-11-14T20:54:54Z"
 tags: [Education, Course]
 link: "https://bookdown.org/jjkraker/quickrintrouwec/"
 length_weight: "1.6%"

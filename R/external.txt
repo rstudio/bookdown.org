@@ -94,6 +94,7 @@ https://plotly-book.cpsievert.me/
 https://privefl.github.io/advr38book/
 https://psyc2016.whatanimalssee.com/
 https://psyteachr.github.io/msc-data-skills/
+https://qtalr.com/book/
 https://r-spatial.org/book/
 https://r4crim.com/
 https://rachaellappan.github.io/16S-analysis/
@@ -143,4 +144,3 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://qtalr.com/book/

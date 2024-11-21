@@ -4,7 +4,7 @@ author: "Jerid Francom"
 date: ""
 tags: [Textbook, R Programming, Data Analysis]
 link: "https://qtalr.com/book/"
-length_weight: "0%"
+length_weight: "9.4%"
 pinned: false
 ---
 
