@@ -1,7 +1,7 @@
 ---
 title: "Clinical Biostatistics"
 author: "Leonhard Held, with contributions from Charlotte Micheloud, Lisa Hofer, Stefanie von Felten, Samuel Pawel"
-date: "2024-11-06T16:13:46Z"
+date: "2024-11-20T16:13:29Z"
 tags: [Statistics, Medicine, Data Science, Statistical Methods]
 link: "https://bookdown.org/charlotte_micheloud93/Clinical_Biostatistics/"
 length_weight: "100%"
