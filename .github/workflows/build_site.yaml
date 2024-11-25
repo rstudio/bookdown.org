@@ -61,7 +61,8 @@ jobs:
 
       - name: Install hugo
         run: |
-          blogdown::install_hugo()
+          # Pinning version v0.131.0 to work without error with hugo-xmin
+          blogdown::install_hugo("v0.131.0")
         shell: Rscript {0}
         working-directory: R
 
