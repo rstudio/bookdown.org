@@ -1,9 +1,9 @@
 ---
 title: "The Mystery of Electricity"
 author: "José Becerra @ 2024 Leo Full Moon"
-date: "2024-08-27T14:17:59Z"
+date: "2024-11-26T14:33:44Z"
 link: "https://bookdown.org/becerra_je/Electricity/"
-length_weight: "5.1%"
+length_weight: "5.9%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

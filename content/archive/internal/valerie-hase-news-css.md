@@ -1,10 +1,10 @@
 ---
 title: "Studying Online News via Computational Methods"
 author: "Valerie Hase, LMU Munich"
-date: "2024-10-17T14:23:56Z"
+date: "2024-11-22T15:27:37Z"
 tags: [Seminar, Tutorial, Course]
 link: "https://bookdown.org/valerie_hase/News_CSS/"
-length_weight: "6.7%"
+length_weight: "6.8%"
 pinned: false
 ---
 

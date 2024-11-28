@@ -1,10 +1,10 @@
 ---
 title: "ST429 - Statistical Methods for Risk Management"
 author: "Dr Xiaolin Zhu"
-date: "2024-11-19T12:05:49Z"
+date: "2024-11-21T22:12:16Z"
 tags: [Statistical Methods, Seminar]
 link: "https://bookdown.org/zhuxiaolin0919/ST429-R_Sessions/"
-length_weight: "5.4%"
+length_weight: "5.3%"
 pinned: false
 ---
 
