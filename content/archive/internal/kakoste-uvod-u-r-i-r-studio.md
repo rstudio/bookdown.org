@@ -1,9 +1,9 @@
 ---
 title: "Uvod u R i R Studio"
 author: ""
-date: "2024-11-18T19:26:00Z"
+date: "2024-11-30T15:49:20Z"
 link: "https://bookdown.org/kakoste/uvod_u_r_i_r_studio/"
-length_weight: "11.3%"
+length_weight: "11.2%"
 pinned: false
 ---
 

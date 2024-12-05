@@ -1,10 +1,10 @@
 ---
 title: "A guide to using dbt with Google BigQuery"
 author: "Samuel Gachuhi Ngugi"
-date: "2024-11-17T18:02:52Z"
+date: "2024-12-01T17:11:18Z"
 tags: [Guide, Data Science, Machine Learning]
 link: "https://bookdown.org/sammigachuhi/dbt_book/"
-length_weight: "8.3%"
+length_weight: "8.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

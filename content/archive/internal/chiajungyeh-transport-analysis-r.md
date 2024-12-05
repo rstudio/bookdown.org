@@ -1,7 +1,7 @@
 ---
 title: "R 語言資料分析：交通運輸"
 author: "Chia-Jung (Robert) Yeh 葉家榮 PhD: Insitute of Transport and Logistics Studies, USYD M.S.: Department of Transportation and Logistics Management, NYCU"
-date: "2024-11-27T13:46:17Z"
+date: "2024-11-28T14:15:18Z"
 tags: [Tidy, ggplot2]
 link: "https://bookdown.org/chiajungyeh/Transport-Analysis-R/"
 length_weight: "2.7%"
