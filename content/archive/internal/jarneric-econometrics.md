@@ -1,10 +1,10 @@
 ---
 title: "Econometrics"
 author: "Josip Arnerić ©jarneric@net.efzg.hr"
-date: "2024-11-22T17:52:25Z"
+date: "2024-11-30T11:55:16Z"
 tags: [Econometrics, Course, Models]
 link: "https://bookdown.org/jarneric/econometrics/"
-length_weight: "6.9%"
+length_weight: "7.6%"
 pinned: false
 ---
 
