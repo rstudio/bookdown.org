@@ -1,4 +1,4 @@
-## This file is useful to manually restore some file during PR review of GHA auto update 
+## This file is useful to manually restore some file during PR review of GHA auto update
 ## TODO: update automatic rules to fix the issue
 
 files <- fs::dir_ls("content/archive/internal/", glob = "*.md")
@@ -53,6 +53,9 @@ git_restore("content/archive/internal/sengokucolaingoo-cbook.md")
 git_restore("content/archive/internal/hefleyt2-stat764fall2020.md")
 git_restore("content/archive/internal/lisakmnsk-lmu-fintech-financial-data-science.md")
 git_restore("content/archive/internal/ggiaever-r4ds-ggplot2.md")
+git_restore("content/archive/internal/ggiaever-2024-rna-seq-analysis.md")
+git_restore("content/archive/internal/dsciencelabs-alin-tambang.md")
+git_restore("content/archive/internal/blazej-kochanski-statystyka2.md")
 
 added <- gert::git_add("content/archive/internal")
 if (any(added$staged)) gert::git_commit("Restore some files")
