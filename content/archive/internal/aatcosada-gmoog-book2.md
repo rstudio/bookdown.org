@@ -1,7 +1,7 @@
 ---
 title: "Getting (more out of) Graphics"
 author: "Antony Unwin"
-date: "2024-10-16T10:40:33Z"
+date: "2024-12-06T15:40:33Z"
 tags: [Package, Github]
 link: "https://bookdown.org/aatcosada/GmooG-book2/"
 length_weight: "100%"

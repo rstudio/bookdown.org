@@ -1,7 +1,7 @@
 ---
 title: "Paleobiología Esencial: Guía para Estudiantes de Posgrado"
 author: "Humberto G. Ferron"
-date: "2024-11-12T11:21:31Z"
+date: "2024-12-11T21:49:41Z"
 link: "https://bookdown.org/humgrafe/Paleobiologia/"
 length_weight: "100%"
 repo: "rstudio/bookdown-demo"

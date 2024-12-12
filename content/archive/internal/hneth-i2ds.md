@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Data Science"
 author: "Hansjörg Neth"
-date: "2024-12-04T16:03:37Z"
+date: "2024-12-10T17:42:47Z"
 tags: [Data Science, Data Analysis, R Programming, Course, Statistics]
 link: "https://bookdown.org/hneth/i2ds/"
 length_weight: "100%"
