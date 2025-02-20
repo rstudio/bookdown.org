@@ -1,9 +1,9 @@
 ---
 title: "Personal Coaching"
 author: "peter_raidl"
-date: "2024-08-22T17:19:34Z"
+date: "2025-02-07T16:59:33Z"
 link: "https://bookdown.org/peter_raidl/personalcoaching_script/"
-length_weight: "10.4%"
+length_weight: "2.4%"
 cover: "https://bookdown.org/peter_raidl/personalcoaching_script/images/cover.png"
 pinned: false
 ---

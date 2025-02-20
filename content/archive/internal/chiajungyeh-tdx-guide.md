@@ -1,7 +1,7 @@
 ---
 title: "TDX 運輸資料介接指南"
 author: "Chia-Jung (Robert) Yeh 葉家榮 PhD: Insitute of Transport and Logistics Studies, USYD M.S.: Department of Transportation and Logistics Management, NYCU"
-date: "2024-07-10T07:36:21Z"
+date: "2025-02-15T06:57:08Z"
 link: "https://bookdown.org/chiajungyeh/TDX_Guide/"
 length_weight: "2.2%"
 repo: "ChiaJung-Yeh/TDX_Guide"

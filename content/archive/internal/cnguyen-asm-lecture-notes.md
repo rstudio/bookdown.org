@@ -1,10 +1,10 @@
 ---
-title: "Advanced Statistical Modelling III (second term)"
+title: "Advanced Statistical Modelling III (Epiphany term)"
 author: "Department of Mathematical Sciences at Durham University"
-date: "2024-03-14T12:25:05Z"
+date: "2025-02-16T18:39:14Z"
 tags: [Course, Statistics]
-link: "https://bookdown.org/cnguyen/ASM_term2_lecture_notes/"
-length_weight: "8.8%"
+link: "https://bookdown.org/cnguyen/ASM_Lecture_Notes/"
+length_weight: "9.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

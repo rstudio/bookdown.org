@@ -1,7 +1,7 @@
 ---
 title: "Producing and Using Data in Cognitive Science"
 author: "Daniel Nettle"
-date: "2024-12-10T10:37:24Z"
+date: "2025-01-02T09:10:57Z"
 tags: [Course, Statistics, Data Science]
 link: "https://bookdown.org/danielnettle2/bookdown/"
 length_weight: "100%"

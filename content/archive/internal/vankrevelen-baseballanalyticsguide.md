@@ -1,9 +1,9 @@
 ---
 title: "Fundamentals of Collecting and Analyzing Baseball Data"
-author: "thiestand"
-date: "2024-05-06T18:25:37Z"
+author: "vankrevelen"
+date: "2024-12-24T16:15:17Z"
 tags: [Package, Guide]
-link: "https://bookdown.org/thiestand/BaseballAnalyticsGuide/"
+link: "https://bookdown.org/vankrevelen/BaseballAnalyticsGuide/"
 length_weight: "7.4%"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Survey data in Economics and Finance"
 author: "Guillaume Osier"
-date: "2024-11-12T22:30:08Z"
+date: "2025-01-05T22:56:25Z"
 tags: [Course]
 link: "https://bookdown.org/content/78e0de27-f084-46fb-be7c-c77a199d2abf/"
-length_weight: "7.2%"
+length_weight: "7.5%"
 pinned: false
 ---
 

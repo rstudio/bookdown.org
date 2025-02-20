@@ -1,10 +1,10 @@
 ---
-title: "Detecting flowering events of pollen-producing plants with high spatial resolution imagery"
+title: "Predicting reproductive phenology of wind-pollinated trees via PlanetScope time series"
 author: "Yiluan Song"
-date: "2024-11-24T21:54:54Z"
+date: "2025-02-12T01:52:30Z"
 link: "https://bookdown.org/yiluansong/RS4flower/"
-length_weight: "2.4%"
+length_weight: "3%"
 pinned: false
 ---
 
-Detecting flowering events of pollen-producing plants with high spatial resolution imagery [...] Show session ...
+This book reproduces analyses in Song et al. (2025) “Predicting reproductive phenology of wind-pollinated trees via PlanetScope time series” in Science of Remote ...

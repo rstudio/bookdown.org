@@ -1,7 +1,7 @@
 ---
 title: "Using MetaHD: A multivariate meta-analysis model for metabolomics data"
 author: "Jayamini C. Liyanage, Luke Prendergast, Robert Staudte and Alysha De Livera"
-date: "2024-07-22T00:50:39Z"
+date: "2025-01-10T22:22:50Z"
 tags: [Multivariate, Meta-Analysis, Metabolomics, Package]
 link: "https://bookdown.org/a2delivera/MetaHD/"
 length_weight: "3.3%"

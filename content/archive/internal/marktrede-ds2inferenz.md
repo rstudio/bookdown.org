@@ -1,7 +1,7 @@
 ---
 title: "Data Science 2"
 author: "Mark Trede"
-date: "2024-11-22T14:42:09Z"
+date: "2025-01-22T10:48:58Z"
 tags: [Data Science]
 link: "https://bookdown.org/marktrede/ds2inferenz/"
 length_weight: "100%"

@@ -1,10 +1,10 @@
 ---
 title: "Volatility modelling and market risk analysis – course notes"
 author: "Błażej Kochański"
-date: "2024-11-08T06:32:56Z"
+date: "2025-01-10T06:39:02Z"
 tags: [Market, Course]
 link: "https://bookdown.org/blazej_kochanski/volatility/"
-length_weight: "3.3%"
+length_weight: "4.2%"
 repo: "bkochanski/Volatility"
 pinned: false
 ---
