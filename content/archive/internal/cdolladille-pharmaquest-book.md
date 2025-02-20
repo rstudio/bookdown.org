@@ -1,9 +1,9 @@
 ---
 title: "Grimoire Pharmaquest"
 author: "Charles Dolladille"
-date: "2024-11-14T14:54:36Z"
+date: "2025-02-10T11:30:29Z"
 link: "https://bookdown.org/cdolladille/pharmaquest_book/"
-length_weight: "3%"
+length_weight: "3.4%"
 repo: "cdolladille/pharmaquest_book"
 pinned: false
 ---

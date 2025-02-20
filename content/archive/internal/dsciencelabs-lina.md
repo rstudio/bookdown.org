@@ -1,10 +1,10 @@
 ---
 title: "Linear Algebra"
 author: "Bakti Siregar, M.Sc., CDS"
-date: "2024-12-12T03:10:22Z"
+date: "2024-12-28T14:26:00Z"
 tags: [Data Science, Machine Learning, Data Analysis]
 link: "https://bookdown.org/dsciencelabs/lina/"
-length_weight: "8.2%"
+length_weight: "9.6%"
 pinned: false
 ---
 

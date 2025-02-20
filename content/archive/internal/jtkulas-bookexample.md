@@ -1,11 +1,11 @@
 ---
-title: "Proposed Psychometrics OER: Authoring Platform Features"
-author: "Catrina Notari, John Kulas"
-date: "2024-05-06T19:43:44Z"
-tags: [Statistics]
+title: "Technical Communication for the Social, Behavioral, and Management Sciences"
+author: "John Kulas"
+date: "2025-01-11T16:32:37Z"
+tags: [Course, Data Science]
 link: "https://bookdown.org/jtkulas/bookexample/"
-length_weight: "1.7%"
+length_weight: "3.4%"
 pinned: false
 ---
 
-This document is intended to highlight features of the Quarto authoring platform, specifically focused on how this platform is uniquely appropriate for Psychometric instruction. Psychometrics is the scientific study of Psychological measurement - it has been described by some practitioners as “applied statistics” and fundamentally requires knowledgeable application of statistical concepts. This brief overview does not cover all pedagogical features, so we encourage reviewers to “point and click” around this document to discover unique elements. For example, external links and alternative ...
+This is a working outline of the curricular syllabus1 for a 15-week course on communication via literate programming principles for data science applications. Traditionally, within the social, behavioral, and management sciences, your analyses were performed within a secondary platform2 – completely independent from your primary authoring space (e.g., a typewriter, Word, PowerPoint). Literate programming principles obviate this orientation… the analyses and authoring have equal priority and take place within the same software space and your orientation is that of a storyteller. Benefits of ...

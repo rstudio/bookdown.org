@@ -1,7 +1,7 @@
 ---
 title: "Data Science in Action"
 author: "Kristopher Pruitt"
-date: "2024-08-15T15:27:55Z"
+date: "2025-02-07T20:02:03Z"
 tags: [Data Science, Textbook, R Programming]
 link: "https://bookdown.org/kristopher_pruitt/DS-for-All/"
 length_weight: "100%"

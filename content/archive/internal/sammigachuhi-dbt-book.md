@@ -1,7 +1,7 @@
 ---
 title: "dbt and BigQuery: an action oriented approach"
 author: "Samuel Gachuhi Ngugi"
-date: "2024-12-10T13:38:29Z"
+date: "2024-12-20T17:03:42Z"
 tags: [Data Science, Machine Learning]
 link: "https://bookdown.org/sammigachuhi/dbt_book/"
 length_weight: "8.2%"

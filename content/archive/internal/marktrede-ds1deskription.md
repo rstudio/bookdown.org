@@ -1,10 +1,10 @@
 ---
 title: "Data Science 1"
 author: "Mark Trede"
-date: "2024-06-17T14:50:43Z"
+date: "2025-01-28T09:20:45Z"
 tags: [Data Science]
 link: "https://bookdown.org/marktrede/ds1deskription/"
-length_weight: "12.4%"
+length_weight: "12.2%"
 pinned: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "math"
 author: "Joey Yu Hsu"
-date: "2024-07-19T04:22:43Z"
+date: "2025-01-21T04:46:06Z"
 link: "https://bookdown.org/redwing1304/math/"
 length_weight: "100%"
 repo: "https://github.com/RRWWW/math"
