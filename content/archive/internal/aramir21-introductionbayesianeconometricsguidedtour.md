@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Bayesian Data Modeling"
 author: "Andrés Ramírez-Hassan"
-date: "2025-02-18T23:45:22Z"
+date: "2025-02-22T22:35:40Z"
 tags: [Bayesian, Textbook]
 link: "https://bookdown.org/aramir21/IntroductionBayesianEconometricsGuidedTour/"
 length_weight: "100%"

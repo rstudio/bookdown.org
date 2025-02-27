@@ -1,10 +1,10 @@
 ---
 title: "Mastering Statistics with R"
 author: "SHAN-CHI WU (吳善棨)"
-date: "2025-02-13T09:15:59Z"
+date: "2025-02-21T09:02:31Z"
 tags: [Statistics, R Markdown, Package]
 link: "https://bookdown.org/Shan_Chi_Wu/MasterStat/"
-length_weight: "8%"
+length_weight: "8.1%"
 repo: "shanchiwu/MasterStat"
 pinned: false
 ---
