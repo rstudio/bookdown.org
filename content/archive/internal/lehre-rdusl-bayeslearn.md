@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Bayesian Inference and Statistical Learning"
 author: "Elisabeth Bergherr"
-date: "2025-02-19T20:54:10Z"
+date: "2025-02-26T14:44:09Z"
 tags: [Bayesian, Package, Course, Spatial Data]
 link: "https://bookdown.org/lehre_rdusl/BayesLearn/"
-length_weight: "6.1%"
+length_weight: "6.3%"
 pinned: false
 ---
 
