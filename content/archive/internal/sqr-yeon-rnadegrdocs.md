@@ -1,7 +1,7 @@
 ---
 title: "RNAdegrDocs"
 author: ""
-date: "2025-02-27T03:32:42Z"
+date: "2025-02-28T23:10:08Z"
 link: "https://bookdown.org/sqr_yeon/RNAdegrDocs/"
 length_weight: "1.7%"
 repo: "miyeonyeon/RNAdegrDocs"

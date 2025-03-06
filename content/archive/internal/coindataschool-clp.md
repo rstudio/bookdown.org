@@ -1,11 +1,16 @@
 ---
 title: "Concentrated Liquidity Provision"
 author: "Coin Data School ("
-date: "2024-10-01T06:28:45Z"
+date: "2025-03-03T06:14:00Z"
 tags: [Education, Market]
 link: "https://bookdown.org/coindataschool/clp/"
-length_weight: "2.5%"
+length_weight: "1.3%"
 pinned: false
 ---
 
-How to earn triple-digit APRs over a long run. [...] For education purpose. Not financial advice. This book describes high-yield liquidity provision (LP) strategies for concentrated liquidity pools in all market conditions. You will learn Broadly speaking, there are two designs of concentrated liquidity: continuous curves vs. discrete bins. The former group includes Uniswap V3, Orca, Ambient, and Ramses. The latter group includes Trader Joe V2, Meteora, and Maverick. This book focuses on Uniswap V3 (UniV3) because it’s the first concentrated liquidity decentralized exchange (DEX) and the ...
+A book on concentrated liquidity provision. [...] For education purpose. Not financial advice. This book describes liquidity provision (LP1) strategies for
+concentrated liquidity pools in all market conditions. You will learn Concentrated liquidity designs can broadly be categorized into two types:
+continuous liquidity curves and discrete liquidity bins. Decentralized exchanges
+(DEXes) that employ liquidity curves are more common than those using bins.
+Prominent examples of the former include Uniswap (EVM chains), Raydium (Solana),
+Orca (Solana), Cetus (Sui), and Turbos (Sui). On the other hand, ...
