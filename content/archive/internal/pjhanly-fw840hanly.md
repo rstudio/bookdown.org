@@ -1,10 +1,10 @@
 ---
 title: "FW840: Landscape Ecology"
 author: "Patrick Hanly"
-date: "2025-02-17T14:24:38Z"
+date: "2025-02-27T18:07:31Z"
 tags: [Ecology, Package, Course]
 link: "https://bookdown.org/pjhanly/fw840hanly/"
-length_weight: "8.4%"
+length_weight: "8.3%"
 repo: "pjhanly/FW840"
 pinned: false
 ---
