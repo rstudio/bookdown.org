@@ -1,10 +1,10 @@
 ---
 title: "Applied Bayesian Modeling and Prediction"
 author: "Trevor Hefley"
-date: "2025-03-04T18:54:07Z"
+date: "2025-03-11T17:18:44Z"
 tags: [Bayesian, Course, Models]
 link: "https://bookdown.org/hefleyt2/stat768spring2025/"
-length_weight: "4.9%"
+length_weight: "5.3%"
 pinned: false
 ---
 

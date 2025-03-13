@@ -1,10 +1,10 @@
 ---
 title: "PSYC614: Text and Talk (Quantitative)"
 author: "Stefan Leach"
-date: "2025-02-28T10:34:36Z"
+date: "2025-03-06T19:14:37Z"
 tags: [Course, Models]
 link: "https://bookdown.org/stefanleach/PSYC614/"
-length_weight: "4.9%"
+length_weight: "5.4%"
 pinned: false
 ---
 
