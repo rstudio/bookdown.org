@@ -1,7 +1,7 @@
 ---
 title: "Pengantar Pemrograman R dan RStudio Untuk Statistika dan Data Science"
 author: "Aep Hidayatuloh"
-date: "2025-02-16T05:39:37Z"
+date: "2025-03-10T17:18:19Z"
 tags: [Data Science]
 link: "https://bookdown.org/aepstk/intror/"
 length_weight: "8.1%"

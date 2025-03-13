@@ -1,10 +1,10 @@
 ---
 title: "Stats For You"
 author: "Frederick De Baene"
-date: "2025-02-09T23:59:11Z"
+date: "2025-03-08T15:52:19Z"
 tags: [Statistics]
 link: "https://bookdown.org/frederick_debaene/stats4u/"
-length_weight: "1.7%"
+length_weight: "3.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

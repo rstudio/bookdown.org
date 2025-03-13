@@ -4,7 +4,7 @@ author: "Hadley Wickham and Jennifer Bryan"
 date: ""
 tags: [Package]
 link: "https://r-pkgs.org/"
-length_weight: "0%"
+length_weight: "9.9%"
 cover: "https://r-pkgs.org/images/cover-2e-small.png"
 pinned: true
 ---

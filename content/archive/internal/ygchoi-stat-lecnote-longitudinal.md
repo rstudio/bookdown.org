@@ -1,10 +1,10 @@
 ---
 title: "CMC5105 - 수학교육통계분석: 회귀모형과 경시적 자료분석"
 author: "최영근"
-date: "2024-12-02T06:28:35Z"
+date: "2025-03-11T02:17:05Z"
 tags: [Models, Data Analysis]
-link: "https://bookdown.org/ygchoi_stat/lecNote_longitudinal/"
-length_weight: "10%"
+link: "https://bookdown.org/ygchoi_stat/lecnote_longitudinal/"
+length_weight: "10.6%"
 pinned: false
 ---
 
