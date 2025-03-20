@@ -27,6 +27,7 @@ https://contributor.r-project.org/rdevguide/
 https://cookdown.ellisvalentiner.com/
 https://covid19r.github.io/documentation/
 https://dataanalyticsbook.info/
+https://datascience4psych.github.io/DataScience4Psych/
 https://datasciencedesign.com/
 https://datascienceineducation.com/
 https://datasciencepractice.study/
@@ -78,6 +79,8 @@ https://m-clark.github.io/text-analysis-with-R/
 https://manual.nssurge.com/book/understanding-surge/cn/
 https://manual.nssurge.com/book/understanding-surge/en/
 https://mixomicsteam.github.io/mixOmics-Vignette/
+https://myrbookfr.netlify.app/
+https://myrbooksp.netlify.app/
 https://nacnudus.github.io/spreadsheet-munging-strategies/
 https://neonira.github.io/offensiveProgrammingBook_v1.2.2/
 https://orchid00.github.io/actions_sandbox/
@@ -138,4 +141,3 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
-https://datascience4psych.github.io/DataScience4Psych/

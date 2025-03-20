@@ -4,7 +4,7 @@ author: "S. Mason Garrison"
 date: "2025-03-15"
 tags: [Data Science, Data Analysis, Course]
 link: "https://datascience4psych.github.io/DataScience4Psych/"
-length_weight: "0%"
+length_weight: "10%"
 repo: "DataScience4Psych/DataScience4Psych"
 pinned: false
 ---
