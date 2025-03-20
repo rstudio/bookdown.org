@@ -27,6 +27,7 @@ https://contributor.r-project.org/rdevguide/
 https://cookdown.ellisvalentiner.com/
 https://covid19r.github.io/documentation/
 https://dataanalyticsbook.info/
+https://datascience4psych.github.io/DataScience4Psych/
 https://datasciencedesign.com/
 https://datascienceineducation.com/
 https://datasciencepractice.study/
@@ -120,7 +121,6 @@ https://thesis.earo.me/
 https://tidy-finance.org/
 https://tidy-survey-r.github.io/tidy-survey-book/
 https://tidyeval.tidyverse.org/
-https://tidynomicon.github.io/tidynomicon/
 https://timtrice.github.io/backtesting-strategies/
 https://tlc-uva.github.io/Interactive_Teaching_Techniques/
 https://tlverse.org/tlverse-handbook/
