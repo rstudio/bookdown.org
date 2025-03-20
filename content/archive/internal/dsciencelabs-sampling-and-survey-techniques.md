@@ -1,10 +1,10 @@
 ---
 title: "Sampling and Survey Techniques"
 author: "Bakti Siregar, M.Sc.,CDS"
-date: "2025-02-10T02:19:33Z"
+date: "2025-03-17T07:52:15Z"
 tags: [Social Science]
-link: "https://bookdown.org/dsciencelabs/modul_regresi_monte_carlo_new/"
-length_weight: "4.9%"
+link: "https://bookdown.org/dsciencelabs/sampling_and_survey_techniques/"
+length_weight: "7.3%"
 pinned: false
 ---
 

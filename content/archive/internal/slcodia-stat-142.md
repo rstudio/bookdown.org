@@ -1,10 +1,10 @@
 ---
 title: "STAT 142: Introduction to Computational Statistics"
 author: "Siegfred Codia"
-date: "2025-03-13T00:34:57Z"
+date: "2025-03-18T06:30:18Z"
 tags: [Statistics, Statistical Methods]
 link: "https://bookdown.org/slcodia/Stat_142/"
-length_weight: "9.5%"
+length_weight: "10.1%"
 pinned: false
 ---
 
