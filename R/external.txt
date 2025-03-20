@@ -120,7 +120,6 @@ https://thesis.earo.me/
 https://tidy-finance.org/
 https://tidy-survey-r.github.io/tidy-survey-book/
 https://tidyeval.tidyverse.org/
-https://tidynomicon.github.io/tidynomicon/
 https://timtrice.github.io/backtesting-strategies/
 https://tlc-uva.github.io/Interactive_Teaching_Techniques/
 https://tlverse.org/tlverse-handbook/
