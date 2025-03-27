@@ -1,7 +1,7 @@
 ---
 title: "Predicting reproductive phenology of wind-pollinated trees via PlanetScope time series"
 author: "Yiluan Song"
-date: "2025-03-16T20:15:16Z"
+date: "2025-03-25T03:08:52Z"
 link: "https://bookdown.org/yiluansong/RS4flower/"
 length_weight: "2.9%"
 pinned: false

@@ -4,7 +4,7 @@ author: "Rose Werth"
 date: "2022-03-12T16:24:01Z"
 tags: [Guide, Course]
 link: "https://bookdown.org/sarahwerth2024/RegressionLabsBook/"
-length_weight: "100%"
+length_weight: "12.6%"
 cover: "https://bookdown.org/sarahwerth2024/RegressionLabsBook/images/rw.png"
 pinned: false
 ---

@@ -4,7 +4,7 @@ author: "mixomicsteam.github.io"
 date: ""
 tags: [Package, Course]
 link: "https://mixomicsteam.github.io/mixOmics-Vignette/"
-length_weight: "4.3%"
+length_weight: "4.4%"
 cover: "https://mixomicsteam.github.io/mixOmics-Vignette/InputFigures/MixOmicsAnalysesV2.png"
 repo: "mixOmicsTeam/mixOmics"
 pinned: false
