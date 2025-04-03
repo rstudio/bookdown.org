@@ -1,10 +1,10 @@
 ---
 title: "R Programming in Biohealth Data Science"
 author: "Min Jin Ha"
-date: "2025-03-12T08:45:41Z"
+date: "2025-04-03T02:24:03Z"
 tags: [R Programming, Data Science, Course, Statistics]
 link: "https://bookdown.org/minjin_ha/Rprogramming/"
-length_weight: "3.7%"
+length_weight: "4.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
