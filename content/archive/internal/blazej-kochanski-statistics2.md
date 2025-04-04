@@ -1,10 +1,10 @@
 ---
 title: "Statistics 2. Lecture notes"
 author: "Błażej Kochański"
-date: "2025-03-22T17:54:39Z"
+date: "2025-03-30T19:13:01Z"
 tags: [Statistics, Course, Package]
 link: "https://bookdown.org/blazej_kochanski/statistics2/"
-length_weight: "2.4%"
+length_weight: "100%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

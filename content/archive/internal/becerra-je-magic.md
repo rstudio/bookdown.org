@@ -1,7 +1,7 @@
 ---
 title: "A Little Book of Magic"
 author: "Wizard JB"
-date: "2025-03-10T12:04:47Z"
+date: "2025-03-27T10:23:38Z"
 link: "https://bookdown.org/becerra_je/Magic/"
 length_weight: "4.5%"
 repo: "rstudio/bookdown-demo"
