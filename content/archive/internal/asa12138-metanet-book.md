@@ -1,10 +1,10 @@
 ---
 title: "MetaNet: Network Analysis for Omics Data"
 author: "Chen Peng"
-date: "2024-03-30T05:33:46Z"
+date: "2025-04-07T16:34:56Z"
 tags: [Network, Package, Github]
 link: "https://bookdown.org/Asa12138/metanet_book/"
-length_weight: "6.5%"
+length_weight: "6.7%"
 cover: "https://bookdown.org/Asa12138/metanet_book/cover1.png"
 pinned: false
 ---

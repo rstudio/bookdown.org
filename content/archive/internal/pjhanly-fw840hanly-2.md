@@ -1,10 +1,10 @@
 ---
 title: "FW840: Landscape Ecology Volume 2"
 author: "Patrick Hanly"
-date: "2025-03-20T14:18:15Z"
+date: "2025-04-08T15:11:48Z"
 tags: [Ecology]
 link: "https://bookdown.org/pjhanly/fw840hanly_2/"
-length_weight: "5.8%"
+length_weight: "6%"
 repo: "pjhanly/FW840_2"
 pinned: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Science of the Emotions"
 author: "José Becerra"
-date: "2024-05-22T10:46:07Z"
+date: "2025-04-06T16:37:11Z"
 link: "https://bookdown.org/becerra_je/BD-SOTE/"
 length_weight: "3.5%"
 repo: "rstudio/bookdown-demo"

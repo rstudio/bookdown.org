@@ -1,10 +1,10 @@
 ---
 title: "Lehr- und Arbeitsbuch MaWiPo"
 author: "Dr. Adriano Profeta"
-date: "2025-03-17T09:23:00Z"
+date: "2025-04-08T04:42:35Z"
 tags: [Package]
 link: "https://bookdown.org/adriano_profeta1947/web-book-mawipo/"
-length_weight: "2.4%"
+length_weight: "2.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
