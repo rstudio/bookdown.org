@@ -1,10 +1,10 @@
 ---
 title: "Dynamical Systems"
 author: "Robert Wolverton, updated by Joseph Eichholz"
-date: "2025-04-01T22:00:43Z"
+date: "2025-04-09T20:57:06Z"
 tags: [Package]
-link: "https://bookdown.org/jeichhol/TextbookODE/"
-length_weight: "6.2%"
+link: "https://bookdown.org/jeichhol/TextbookODEDevelopment/"
+length_weight: "8.1%"
 pinned: false
 ---
 

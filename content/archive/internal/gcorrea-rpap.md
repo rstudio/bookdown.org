@@ -3,7 +3,7 @@ title: "R paso a paso"
 author: "Guillermo Correa-Londoño"
 date: "2025-03-11T05:25:02Z"
 link: "https://bookdown.org/gcorrea/Rpap/"
-length_weight: "12.6%"
+length_weight: "100%"
 cover: "https://bookdown.org/gcorrea/Rpap/images/cover.png"
 pinned: false
 ---

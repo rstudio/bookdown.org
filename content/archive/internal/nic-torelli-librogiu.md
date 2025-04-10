@@ -1,10 +1,10 @@
 ---
-title: "Lehr- und Arbeitsbuch MaWiPo"
-author: "Dr. Adriano Profeta"
-date: "2025-04-08T04:42:35Z"
+title: "Analisi dei dati"
+author: "Nicola Torelli"
+date: "2025-04-09T16:47:10Z"
 tags: [Package]
-link: "https://bookdown.org/adriano_profeta1947/web-book-mawipo/"
-length_weight: "2.6%"
+link: "https://bookdown.org/nic_torelli/librogiu/"
+length_weight: "11.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
