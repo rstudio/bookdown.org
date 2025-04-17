@@ -1,10 +1,10 @@
 ---
 title: "Sampling and Survey Techniques"
 author: "Bakti Siregar, M.Sc.,CDS"
-date: "2025-03-17T07:52:15Z"
+date: "2025-04-16T08:32:03Z"
 tags: [Social Science]
 link: "https://bookdown.org/dsciencelabs/sampling_and_survey_techniques/"
-length_weight: "7.3%"
+length_weight: "7.7%"
 pinned: false
 ---
 

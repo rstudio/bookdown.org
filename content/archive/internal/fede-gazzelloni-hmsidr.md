@@ -1,7 +1,7 @@
 ---
 title: "Health Metrics and the Spread of Infectious Diseases"
 author: "Federica Gazzelloni"
-date: "2025-03-03T22:46:40Z"
+date: "2025-04-11T09:32:13Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/fede_gazzelloni/hmsidR/"
 length_weight: "100%"
