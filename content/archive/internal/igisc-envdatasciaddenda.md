@@ -1,7 +1,7 @@
 ---
 title: "Environmental Data Science Addenda"
 author: "Jerry Davis, SFSU Institute for Geographic Information Science"
-date: "2024-11-28T21:06:33Z"
+date: "2025-04-12T23:32:35Z"
 tags: [Data Science, Guide, Package]
 link: "https://bookdown.org/igisc/EnvDataSciAddenda/"
 length_weight: "8.4%"

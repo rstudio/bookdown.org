@@ -1,9 +1,9 @@
 ---
 title: "คู่มือการใช้งาน EXCEL เบื้องต้นสำหรับนักศึกษาเศรษฐศาสตร์"
 author: "อ.ดร. สมศักดิ์ จันทร์เอม"
-date: "2024-07-17T13:05:08Z"
+date: "2025-04-10T13:16:40Z"
 link: "https://bookdown.org/somsak_c/excel_for_economics_students/"
-length_weight: "5.9%"
+length_weight: "5.8%"
 cover: "https://bookdown.org/somsak_c/excel_for_economics_students/cover.png"
 pinned: false
 ---

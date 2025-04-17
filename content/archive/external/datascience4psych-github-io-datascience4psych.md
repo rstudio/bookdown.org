@@ -1,10 +1,10 @@
 ---
 title: "Data Science for Psychologists"
 author: "S. Mason Garrison"
-date: "2025-04-07"
+date: "2025-04-13"
 tags: [Data Science, Data Analysis, Course]
 link: "https://datascience4psych.github.io/DataScience4Psych/"
-length_weight: "0.3%"
+length_weight: "10.1%"
 repo: "DataScience4Psych/DataScience4Psych"
 pinned: false
 ---
