@@ -1,10 +1,10 @@
 ---
 title: "CMC5119 - 수학교육고급통계방법론: 구조방정식 (Structural Equation Models)"
 author: "최영근"
-date: "2025-03-11T05:28:39Z"
+date: "2025-04-23T08:01:07Z"
 tags: [Models]
 link: "https://bookdown.org/ygchoi_stat/lecnote_sem/"
-length_weight: "7.5%"
+length_weight: "8.4%"
 pinned: false
 ---
 

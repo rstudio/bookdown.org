@@ -1,9 +1,9 @@
 ---
 title: "Block 6 NTIS"
 author: "Joe Eichholz"
-date: "2025-04-12T23:26:50Z"
+date: "2025-04-22T19:19:30Z"
 link: "https://bookdown.org/jeichhol/Block6NTIs/"
-length_weight: "5%"
+length_weight: "5.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

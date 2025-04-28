@@ -1,10 +1,10 @@
 ---
 title: "World Happiness Report"
 author: "Peter Baumgartner"
-date: "2025-04-06T16:59:26Z"
+date: "2025-04-20T21:55:47Z"
 tags: [Textbook, Package]
-link: "https://bookdown.org/pbaumgartner/inequality-austria/"
-length_weight: "6.2%"
+link: "https://bookdown.org/pbaumgartner/world-happiness-report/"
+length_weight: "7.3%"
 pinned: false
 ---
 

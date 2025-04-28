@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Computer Programming"
 author: "คณาจารย์ประจำสาขาวิชาการจัดการเทคโนโลยีสารสนเทศ"
-date: "2025-04-06T14:03:31Z"
+date: "2025-04-21T02:46:52Z"
 tags: [R Programming]
 link: "https://bookdown.org/somsak_c/_946-141__introduction_to_computer_programming/"
-length_weight: "11.6%"
+length_weight: "100%"
 cover: "https://bookdown.org/somsak_c/_946-141__introduction_to_computer_programming/cover.png"
 pinned: false
 ---
