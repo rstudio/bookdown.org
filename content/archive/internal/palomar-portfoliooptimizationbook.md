@@ -1,7 +1,7 @@
 ---
 title: "Portfolio Optimization"
 author: "Daniel P. Palomar"
-date: "2025-03-12T07:19:25Z"
+date: "2025-05-01T01:16:05Z"
 tags: [Textbook, Guide, Models, Financial Analytics, Course]
 link: "https://bookdown.org/palomar/portfoliooptimizationbook/"
 length_weight: "100%"
