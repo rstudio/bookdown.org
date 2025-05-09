@@ -1,7 +1,7 @@
 ---
 title: "The Jay and the Bee"
 author: "José Becerra"
-date: "2025-05-01T03:04:47Z"
+date: "2025-05-08T01:37:59Z"
 link: "https://bookdown.org/becerra_je/Jasper01/"
 length_weight: "2.1%"
 repo: "rstudio/bookdown-demo"

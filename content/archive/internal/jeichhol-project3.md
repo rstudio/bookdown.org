@@ -1,7 +1,7 @@
 ---
 title: "Math 142 Project 3: Celestial Mechanics"
 author: "Joseph Eichholz"
-date: "2025-04-30T20:00:28Z"
+date: "2025-05-02T18:44:46Z"
 link: "https://bookdown.org/jeichhol/Project3/"
 length_weight: "3.6%"
 pinned: false

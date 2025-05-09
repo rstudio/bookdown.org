@@ -1,9 +1,9 @@
 ---
 title: "Mathematics for Economists: A Practical Approach with R"
 author: "อ.ดร.สมศักดิ์ จันทร์เอม, ดร.วิลาวัลย์ ศรีชัยกูล, ผศ. จงกลนี รุ่งเรือง"
-date: "2025-04-30T13:40:28Z"
+date: "2025-05-06T12:55:42Z"
 link: "https://bookdown.org/somsak_c/mathforecon/"
-length_weight: "11%"
+length_weight: "100%"
 cover: "https://bookdown.org/somsak_c/mathforecon/cover.png"
 pinned: false
 ---

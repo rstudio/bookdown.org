@@ -1,7 +1,7 @@
 ---
 title: "Analisi dei dati"
 author: "Nicola Torelli"
-date: "2025-04-11T13:56:20Z"
+date: "2025-05-05T11:47:47Z"
 tags: [Package]
 link: "https://bookdown.org/nic_torelli/librogiu/"
 length_weight: "11.6%"
