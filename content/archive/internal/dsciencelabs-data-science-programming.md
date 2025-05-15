@@ -1,10 +1,10 @@
 ---
 title: "Data Science Programming"
 author: "Bakti Siregar, M.Sc.,CDS"
-date: "2025-05-04T14:18:13Z"
+date: "2025-05-08T14:51:31Z"
 tags: [Data Science, Predictive Model]
 link: "https://bookdown.org/dsciencelabs/data_science_programming/"
-length_weight: "9.2%"
+length_weight: "9.5%"
 cover: "https://bookdown.org/dsciencelabs/data_science_programming/images/Cover.png"
 pinned: false
 ---
