@@ -1,9 +1,9 @@
 ---
 title: "Prise en main du package Bookdown"
 author: "ahmadouniass2"
-date: "2025-05-07T22:43:56Z"
+date: "2025-05-08T16:01:31Z"
 tags: [Package]
-link: "https://bookdown.org/ahmadouniass2/Prise_en_main_de_Bookdown/"
+link: "https://bookdown.org/ahmadouniass2/Bookdown_tutorial/"
 length_weight: "4.5%"
 pinned: false
 ---

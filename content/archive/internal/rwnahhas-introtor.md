@@ -1,10 +1,10 @@
 ---
 title: "An Introduction to R for Research"
 author: "Ramzi W. Nahhas"
-date: "2024-06-25T16:35:31Z"
+date: "2025-05-13T16:51:24Z"
 tags: [R Programming, Course, Tutorial]
 link: "https://bookdown.org/rwnahhas/IntroToR/"
-length_weight: "10.2%"
+length_weight: "10.4%"
 pinned: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Financial Data Science"
 author: "Prof. Dr. Ryan Riordan & Teaching Assistants"
-date: "2024-05-02T22:51:45Z"
+date: "2025-05-12T10:47:07Z"
 tags: [Data Science, Course, Python, Data Analysis]
-link: "https://bookdown.org/lisakmnsk/LMU_FINTECH_financial_data_science_ss24/"
-length_weight: "5.3%"
+link: "https://bookdown.org/lisakmnsk/lmu_fintech_financial_data_science_ss25/"
+length_weight: "1.4%"
 pinned: false
 ---
 
