@@ -1,10 +1,10 @@
 ---
 title: "Financial econometrics using R"
 author: "Josip Arnerić ©jarneric@net.efzg.hr"
-date: "2025-05-14T08:05:44Z"
+date: "2025-05-16T11:36:50Z"
 tags: [Econometrics, Course, Multivariate, Forecasting]
 link: "https://bookdown.org/jarneric/financial_econometrics/"
-length_weight: "8.2%"
+length_weight: "8.3%"
 pinned: false
 ---
 

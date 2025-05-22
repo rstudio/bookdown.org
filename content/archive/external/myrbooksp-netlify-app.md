@@ -3,7 +3,7 @@ title: "R para los científicos"
 author: "François Rebaudo"
 date: "2021-07-15"
 link: "https://myrbooksp.netlify.app/"
-length_weight: "0%"
+length_weight: "5.3%"
 cover: "https://myrbooksp.netlify.app/myFigures/cover.png"
 repo: "frareb/myRBook_SP"
 pinned: false

@@ -1,5 +1,5 @@
 ---
-title: "Big Book of R"
+title: "Welcome :)"
 author: "Oscar Baruffa"
 date: ""
 link: "https://www.bigbookofr.com/"
