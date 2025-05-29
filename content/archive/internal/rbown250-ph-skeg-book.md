@@ -1,10 +1,10 @@
 ---
 title: "P&H skeg"
 author: "Rich Bown"
-date: "2024-10-08T21:10:29Z"
+date: "2025-05-27T16:48:12Z"
 tags: [Guide]
 link: "https://bookdown.org/rbown250/ph_skeg_book/"
-length_weight: "4.8%"
+length_weight: "5%"
 cover: "https://bookdown.org/rbown250/ph_skeg_book/_images/cover.jpg"
 pinned: false
 ---
