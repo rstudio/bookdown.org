@@ -4,7 +4,7 @@ author: "Department of Mathematical Sciences at Durham University"
 date: "2025-05-01T14:48:40Z"
 tags: [Course, Statistics]
 link: "https://bookdown.org/cnguyen/ASM_Lecture_Notes/"
-length_weight: "12.6%"
+length_weight: "100%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
