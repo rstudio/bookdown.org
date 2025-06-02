@@ -1,9 +1,9 @@
 ---
 title: "Epidemiología Veterinaria"
 author: "Erick de la Cruz"
-date: "2025-05-03T05:14:28Z"
+date: "2025-05-23T15:00:54Z"
 link: "https://bookdown.org/eadlcn/epidemiologa_veterinaria/"
-length_weight: "5%"
+length_weight: "5.5%"
 pinned: false
 ---
 
