@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Power of Data Visualization with R"
 author: "fede_gazzelloni"
-date: "2024-12-02T15:41:02Z"
+date: "2025-05-30T09:31:30Z"
 tags: [Visualization, R Programming, Tidy]
 link: "https://bookdown.org/fede_gazzelloni/UPDVwR/"
 length_weight: "100%"

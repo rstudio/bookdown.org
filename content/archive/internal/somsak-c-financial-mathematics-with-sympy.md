@@ -1,10 +1,10 @@
 ---
 title: "Financial Mathematics: A Practical Approach with SymPy"
 author: "อ.ดร.สมศักดิ์ จันทร์เอม, ผศ. จงกลนี รุ่งเรือง"
-date: "2025-05-28T15:44:20Z"
+date: "2025-05-30T06:18:43Z"
 tags: [Python]
 link: "https://bookdown.org/somsak_c/financial_mathematics_with_sympy/"
-length_weight: "10.1%"
+length_weight: "10.5%"
 cover: "https://bookdown.org/somsak_c/financial_mathematics_with_sympy/cover.png"
 pinned: false
 ---
