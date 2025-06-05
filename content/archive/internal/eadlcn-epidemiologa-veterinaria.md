@@ -1,10 +1,10 @@
 ---
 title: "Epidemiología Veterinaria"
 author: "Erick de la Cruz"
-date: "2025-05-23T15:00:54Z"
+date: "2025-06-04T04:23:04Z"
 link: "https://bookdown.org/eadlcn/epidemiologa_veterinaria/"
-length_weight: "5.5%"
+length_weight: "7.9%"
 pinned: false
 ---
 
-Erick de la Cruz Este es un libro realizado en lenguaje R en formato Quarto ...
+Erick de la Cruz  ...

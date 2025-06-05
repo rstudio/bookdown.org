@@ -1,9 +1,9 @@
 ---
 title: "心理统计枕边书"
 author: "林闻正, Lin Wenzheng"
-date: "2025-05-13T07:35:09Z"
+date: "2025-06-02T08:42:01Z"
 link: "https://bookdown.org/linwz/psych_stats_unhurried/"
-length_weight: "3.9%"
+length_weight: "4.9%"
 pinned: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Matematika Teknik"
 author: "Bakti Siregar, M.Sc.,CDS"
-date: "2025-05-22T04:44:50Z"
+date: "2025-06-03T09:07:13Z"
 link: "https://bookdown.org/dsciencelabs/matematika_teknik/"
-length_weight: "7.9%"
+length_weight: "8.9%"
 pinned: false
 ---
 
