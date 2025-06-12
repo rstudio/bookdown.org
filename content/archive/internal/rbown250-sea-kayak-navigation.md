@@ -1,9 +1,9 @@
 ---
 title: "Notes on Sea Kayak Navigation and Tidal Planning"
 author: "Rich Bown"
-date: "2025-05-18T20:22:10Z"
+date: "2025-06-11T20:42:57Z"
 link: "https://bookdown.org/rbown250/sea_kayak_navigation/"
-length_weight: "9.8%"
+length_weight: "10.4%"
 pinned: false
 ---
 
