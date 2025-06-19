@@ -1,9 +1,9 @@
 ---
 title: "Pelatihan Analisis Data"
 author: "Bakti Siregar, M.Sc.,CDS."
-date: "2025-06-11T01:00:21Z"
+date: "2025-06-16T22:05:25Z"
 link: "https://bookdown.org/dsciencelabs/data_science_programming/"
-length_weight: "5.5%"
+length_weight: "5.6%"
 pinned: false
 ---
 

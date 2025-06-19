@@ -1,9 +1,9 @@
 ---
 title: "Machine Learning for Biostatistics"
 author: "Jaroslaw Harezlak & Armando Teixeira-Pinto"
-date: "2024-07-11T02:59:21Z"
+date: "2022-08-01T05:30:05Z"
 tags: [Machine Learning, Statistics, Package]
-link: "https://bookdown.org/andrew_grant/Beyond-Linearity/"
+link: "https://bookdown.org/tpinto_home/Beyond-Linearity/"
 length_weight: "3.9%"
 pinned: false
 ---
