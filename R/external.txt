@@ -141,3 +141,4 @@ https://yijutseng.github.io/DataScienceRBook/
 https://ykunisato.github.io/jpa2020-tws-002/
 https://yukiyanai.github.io/econometrics2/
 https://yulab-smu.top/treedata-book/
+https://bookdown.org/rafael_vm/epi_vet_livro/
