@@ -1,9 +1,9 @@
 ---
-title: "Designing Chick-fil-A Drive-through"
+title: "Chick-fil-A Drive-through"
 author: "Yuting Yuan"
-date: "2024-09-03T23:17:18Z"
+date: "2025-06-20T06:34:57Z"
 link: "https://bookdown.org/yutingyuan/ChickfilA/"
-length_weight: "5.1%"
+length_weight: "5.2%"
 pinned: false
 ---
 
