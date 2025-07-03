@@ -1,9 +1,9 @@
 ---
 title: "The Bailey Seven Ray Types"
 author: "Jose Becerra"
-date: "2024-05-22T10:50:25Z"
+date: "2025-06-27T14:19:03Z"
 link: "https://bookdown.org/becerra_je/7-Rays/"
-length_weight: "7.5%"
+length_weight: "7.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

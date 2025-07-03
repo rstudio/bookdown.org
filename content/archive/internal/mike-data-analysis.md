@@ -1,7 +1,7 @@
 ---
 title: "A Guide on Data Analysis"
 author: "Mike Nguyen"
-date: "2025-06-05T22:52:42Z"
+date: "2025-06-27T21:09:30Z"
 tags: [Guide, Data Analysis, Data Science, Statistics, Machine Learning, Econometrics, Market]
 link: "https://bookdown.org/mike/data_analysis/"
 length_weight: "100%"
