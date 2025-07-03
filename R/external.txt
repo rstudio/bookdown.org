@@ -129,7 +129,6 @@ https://tlc-uva.github.io/Interactive_Teaching_Techniques/
 https://tlverse.org/tlverse-handbook/
 https://twinetbook.john-coene.com/
 https://ubc-dsci.github.io/introduction-to-datascience/
-https://ulyngs.github.io/cog-design-space-ict-self-control/
 https://vcris.dhr.virginia.gov/vcris/help/
 https://wangcc.me/LSHTMlearningnote/
 https://www.bigbookofr.com/
