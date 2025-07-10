@@ -1,9 +1,9 @@
 ---
 title: "Lineare Algebra"
 author: "Mark Trede"
-date: "2025-04-16T11:30:15Z"
+date: "2025-07-03T17:16:08Z"
 link: "https://bookdown.org/marktrede/linalg/"
-length_weight: "8.7%"
+length_weight: "8.8%"
 pinned: false
 ---
 
