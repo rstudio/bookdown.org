@@ -1,10 +1,10 @@
 ---
 title: "Healing: Making Sound From Within"
 author: "Jose Becerra"
-date: "2024-05-22T10:57:30Z"
+date: "2025-07-09T16:05:44Z"
 tags: [Guide, Psychology, Advanced R]
 link: "https://bookdown.org/becerra_je/Esoteric-Healing/"
-length_weight: "5.2%"
+length_weight: "7.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

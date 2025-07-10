@@ -1,7 +1,7 @@
 ---
 title: "Econometría Espacial"
 author: "victor_morales"
-date: "2025-04-16T09:31:48Z"
+date: "2025-07-05T22:20:16Z"
 tags: [Machine Learning, Python]
 link: "https://bookdown.org/victor_morales/SpatialEconometrics/"
 length_weight: "10.2%"
