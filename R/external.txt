@@ -25,7 +25,6 @@ https://claut.gitlab.io/man_ccia/
 https://coleridge-initiative.github.io/big-data-and-social-science/
 https://compgenomr.github.io/book/
 https://contributor.r-project.org/rdevguide/
-https://cookdown.ellisvalentiner.com/
 https://covid19r.github.io/documentation/
 https://dataanalyticsbook.info/
 https://datascience4psych.github.io/DataScience4Psych/

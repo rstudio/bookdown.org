@@ -1,9 +1,9 @@
 ---
 title: "Towards A New Science Of Healing"
 author: "Jose Becerra"
-date: "2025-07-10T03:45:56Z"
+date: "2025-07-15T12:08:24Z"
 link: "https://bookdown.org/becerra_je/TCM/"
-length_weight: "9.9%"
+length_weight: "11.5%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

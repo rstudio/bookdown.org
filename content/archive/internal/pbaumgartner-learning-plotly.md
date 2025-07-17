@@ -1,10 +1,10 @@
 ---
 title: "Learning Plotly"
 author: "Peter Baumgartner"
-date: "2025-05-13T10:41:22Z"
+date: "2025-07-13T21:09:21Z"
 tags: [Textbook]
 link: "https://bookdown.org/pbaumgartner/learning-plotly/"
-length_weight: "10%"
+length_weight: "10.1%"
 pinned: false
 ---
 

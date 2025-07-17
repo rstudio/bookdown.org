@@ -1,7 +1,7 @@
 ---
 title: "index"
 author: "rpuziol_oliveira"
-date: "2025-07-09T23:26:37Z"
+date: "2025-07-15T13:08:28Z"
 link: "https://bookdown.org/rpuziol_oliveira/simulacao-estatistica/"
 length_weight: "100%"
 pinned: false

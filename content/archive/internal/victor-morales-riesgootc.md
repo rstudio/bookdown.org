@@ -1,9 +1,9 @@
 ---
 title: "Modelos Cuantitativos para la Gestión del Riesgo Operativo, Tecnológico y de Ciberseguridad en R"
 author: "victor_morales"
-date: "2025-07-10T02:16:36Z"
+date: "2025-07-10T14:26:04Z"
 link: "https://bookdown.org/victor_morales/RiesgoOTC/"
-length_weight: "6.8%"
+length_weight: "6.9%"
 pinned: false
 ---
 
