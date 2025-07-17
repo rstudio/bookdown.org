@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Foundations"
 author: "Edited by Celeste Pilegard"
-date: "2024-07-26T06:41:43Z"
+date: "2025-07-11T21:43:35Z"
 tags: [Textbook, Psychology]
 link: "https://bookdown.org/pilegard/cogfoundations/"
 length_weight: "100%"
