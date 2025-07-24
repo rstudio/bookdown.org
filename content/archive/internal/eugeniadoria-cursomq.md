@@ -1,9 +1,9 @@
 ---
 title: "Introdução ao R"
 author: "eugeniadoria"
-date: "2024-07-19T20:01:15Z"
+date: "2025-07-17T19:46:41Z"
 link: "https://bookdown.org/eugeniadoria/CursoMQ/"
-length_weight: "11.9%"
+length_weight: "12%"
 pinned: false
 ---
 

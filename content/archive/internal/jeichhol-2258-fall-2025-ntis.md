@@ -1,10 +1,10 @@
 ---
 title: "Block 1"
 author: "Joseph Eichholz"
-date: "2025-07-14T18:05:35Z"
+date: "2025-07-17T20:40:45Z"
 tags: [Package, Course]
 link: "https://bookdown.org/jeichhol/2258_Fall_2025_NTIs/"
-length_weight: "8.2%"
+length_weight: "8.3%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

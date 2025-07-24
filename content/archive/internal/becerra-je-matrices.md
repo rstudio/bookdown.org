@@ -1,7 +1,7 @@
 ---
 title: "Mathematical Matrices"
 author: "José Becerra"
-date: "2024-11-21T10:20:21Z"
+date: "2025-07-19T09:32:23Z"
 link: "https://bookdown.org/becerra_je/Matrices/"
 length_weight: "7.5%"
 repo: "rstudio/bookdown-demo"
