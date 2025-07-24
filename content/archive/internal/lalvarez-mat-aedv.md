@@ -1,9 +1,9 @@
 ---
 title: "Análisis Exploratorio de Datos y Visualización"
 author: "Luis Alvarez"
-date: "2025-07-16T10:42:25Z"
+date: "2025-07-19T10:26:12Z"
 link: "https://bookdown.org/lalvarez_mat/AEDV/"
-length_weight: "2.9%"
+length_weight: "6.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
