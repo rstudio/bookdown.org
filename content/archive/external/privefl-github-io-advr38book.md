@@ -1,10 +1,10 @@
 ---
 title: "Advanced R Course"
 author: "Florian Privé"
-date: "2023-08-22"
+date: "2025-08-19"
 tags: [Advanced R, Course, Data Science, Github]
 link: "https://privefl.github.io/advr38book/"
-length_weight: "1.3%"
+length_weight: "3.4%"
 cover: "https://privefl.github.io/advr38book/images/hexsticker.png"
 repo: "privefl/advr38book"
 pinned: false

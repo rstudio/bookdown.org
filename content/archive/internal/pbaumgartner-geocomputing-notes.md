@@ -1,10 +1,10 @@
 ---
 title: "Geocomputing Notes"
 author: "Peter Baumgartner"
-date: "2025-05-30T15:37:14Z"
+date: "2025-08-11T16:57:11Z"
 tags: [Textbook]
 link: "https://bookdown.org/pbaumgartner/geocomputing-notes/"
-length_weight: "10.3%"
+length_weight: "10.4%"
 pinned: false
 ---
 
