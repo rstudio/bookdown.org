@@ -1,8 +1,8 @@
 ---
 title: "index"
 author: "rpuziol_oliveira"
-date: "2025-07-15T13:08:28Z"
-link: "https://bookdown.org/rpuziol_oliveira/simulacao-estatistica/"
+date: "2025-08-19T02:28:12Z"
+link: "https://bookdown.org/rpuziol_oliveira/processos-estocasticos/"
 length_weight: "100%"
 pinned: false
 ---

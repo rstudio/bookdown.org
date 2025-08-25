@@ -1,7 +1,7 @@
 ---
 title: "Regression Modelling for Biostatistics 1"
 author: "Schlub T, Heritier S, Teixeira-Pinto A, Ryan E.G., Wolfe, R."
-date: "2025-07-21T01:51:13Z"
+date: "2025-08-04T08:01:46Z"
 tags: [Statistics, Models]
 link: "https://bookdown.org/liz_ryan/rm1/"
 length_weight: "100%"

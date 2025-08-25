@@ -1,7 +1,7 @@
 ---
 title: "Geographic Datascience with R"
 author: "Peter Baumgartner"
-date: "2025-05-11T09:31:30Z"
+date: "2025-08-15T07:50:20Z"
 tags: [Geographic, Data Science]
 link: "https://bookdown.org/pbaumgartner/gdswr-notes-new/"
 length_weight: "9.5%"

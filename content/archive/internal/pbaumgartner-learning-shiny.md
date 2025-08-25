@@ -1,7 +1,7 @@
 ---
 title: "Learning Shiny"
 author: "Peter Baumgartner"
-date: "2025-07-22T16:31:52Z"
+date: "2025-08-16T16:10:38Z"
 tags: [Shiny, Textbook]
 link: "https://bookdown.org/pbaumgartner/learning-shiny/"
 length_weight: "100%"
