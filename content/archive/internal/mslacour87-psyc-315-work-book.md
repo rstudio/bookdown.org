@@ -1,10 +1,10 @@
 ---
 title: "PSYC 315 Workbook"
 author: "Mark LaCour, Cameron Rosen"
-date: "2025-07-31T18:30:56Z"
+date: "2025-08-22T15:59:08Z"
 tags: [Package, Guide]
 link: "https://bookdown.org/mslacour87/psyc_315_work_book/"
-length_weight: "2.8%"
+length_weight: "5.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
