@@ -1,7 +1,7 @@
 ---
 title: "Block 1"
 author: "Joseph Eichholz"
-date: "2025-08-18T19:47:24Z"
+date: "2025-08-26T16:47:26Z"
 tags: [Package, Course]
 link: "https://bookdown.org/jeichhol/2258_Fall_2025_NTIs/"
 length_weight: "8.3%"

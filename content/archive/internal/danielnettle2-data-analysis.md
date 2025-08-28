@@ -1,7 +1,7 @@
 ---
 title: "From Questions to Knowledge: Data Analysis for Psychology and Behavioural Science using R"
 author: "Daniel Nettle"
-date: "2025-08-05T11:12:35Z"
+date: "2025-08-27T06:22:26Z"
 tags: [Data Analysis, Psychology, R Programming, Models, Mixed Models, Meta-Analysis]
 link: "https://bookdown.org/danielnettle2/data_analysis/"
 length_weight: "100%"
