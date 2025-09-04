@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R and Basic Data Analysis"
 author: "federicagazzelloni"
-date: "2024-10-10T15:08:53Z"
+date: "2025-08-31T22:10:43Z"
 tags: [Data Analysis, Course, R Programming, Statistics]
 link: "https://bookdown.org/federicagazzelloni/ACTEX_october2024/"
 length_weight: "5.5%"
