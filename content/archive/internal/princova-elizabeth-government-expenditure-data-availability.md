@@ -1,9 +1,9 @@
 ---
 title: "Government expenditure data availability"
 author: "Elizabeth Princová"
-date: "2025-08-29T08:46:39Z"
+date: "2025-09-09T14:21:47Z"
 link: "https://bookdown.org/princova_elizabeth/Government_expenditure_data_availability/"
-length_weight: "3%"
+length_weight: "2.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

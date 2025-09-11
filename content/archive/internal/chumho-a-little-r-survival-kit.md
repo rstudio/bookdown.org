@@ -1,10 +1,10 @@
 ---
 title: "A Little R Survival Kit: Essential Data Analysis using R"
 author: "Eric S. Ho"
-date: "2025-09-03T12:49:41Z"
+date: "2025-09-10T15:04:43Z"
 tags: [Data Analysis, Statistics, Textbook]
 link: "https://bookdown.org/chumho/a_little_r_survival_kit/"
-length_weight: "6.5%"
+length_weight: "6.6%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Quantitative Methoden"
 author: "Andreas Mändle"
-date: "2024-11-30T14:20:25Z"
+date: "2025-09-09T23:35:27Z"
 link: "https://bookdown.org/andemwue/quantitative-methoden/"
 length_weight: "9.5%"
 pinned: false

@@ -1,7 +1,7 @@
 ---
 title: "Hydrologie Générale"
 author: "Ludovic Oudin"
-date: "2025-08-22T15:58:31Z"
+date: "2025-09-10T10:01:09Z"
 link: "https://bookdown.org/lud_oudin/hydrologie_generale/"
 length_weight: "5.7%"
 repo: "rstudio/bookdown-demo"
