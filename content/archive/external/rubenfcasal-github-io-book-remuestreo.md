@@ -1,7 +1,7 @@
 ---
 title: "Técnicas de Remuestreo"
 author: "Ricardo Cao Abad (rcao@udc.es) y Rubén Fernández Casal (rfcasal@udc.es)"
-date: "2022-09-05"
+date: ""
 tags: [Github]
 link: "https://rubenfcasal.github.io/book_remuestreo/"
 length_weight: "6.5%"
