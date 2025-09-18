@@ -1,10 +1,11 @@
 ---
 title: "Linear Algebra"
 author: "Bakti Siregar, M.Sc., CDS."
-date: "2025-09-03T06:31:09Z"
+date: "2025-09-13T11:37:02Z"
 tags: [Models]
 link: "https://bookdown.org/dsciencelabs/linear_algebra/"
-length_weight: "1.5%"
+length_weight: "7.2%"
+cover: "https://bookdown.org/dsciencelabs/linear_algebra/images/Cover.png"
 pinned: false
 ---
 

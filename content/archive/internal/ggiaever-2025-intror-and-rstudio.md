@@ -1,10 +1,10 @@
 ---
 title: "Starting out with R and RStudio"
 author: "ggiaever"
-date: "2025-09-02T00:27:10Z"
+date: "2025-09-12T18:04:59Z"
 tags: [Course]
 link: "https://bookdown.org/ggiaever/2025_IntroR_and_RStudio/"
-length_weight: "7.8%"
+length_weight: "7.9%"
 cover: "https://bookdown.org/ggiaever/2025_IntroR_and_RStudio/img/koos10.png"
 repo: "gurinina/2025_IntroR_and_RStudio"
 pinned: false
