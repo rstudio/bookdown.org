@@ -1,7 +1,7 @@
 ---
 title: "GDP ETL Documentation"
 author: "Jaromír Koflák"
-date: "2025-09-05T12:02:48Z"
+date: "2025-09-12T13:16:41Z"
 tags: [Statistics]
 link: "https://bookdown.org/jaromir_koflak/GDP_ETL_Documentation/"
 length_weight: "2.5%"

@@ -1,10 +1,10 @@
 ---
 title: "Reporters Without Borders (RWB)"
 author: "Peter Baumgartner"
-date: "2025-09-08T18:35:32Z"
+date: "2025-09-16T18:18:14Z"
 tags: [Shiny]
 link: "https://bookdown.org/pbaumgartner/rwb-book/"
-length_weight: "10.5%"
+length_weight: "11.4%"
 pinned: false
 ---
 

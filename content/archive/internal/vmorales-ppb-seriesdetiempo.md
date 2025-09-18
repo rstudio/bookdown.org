@@ -1,8 +1,8 @@
 ---
 title: "Series de Tiempo"
-author: "victor_morales"
-date: "2023-12-23T11:33:58Z"
-link: "https://bookdown.org/victor_morales/SeriesdeTiempo/"
+author: "vmorales_ppb"
+date: "2025-09-17T03:55:58Z"
+link: "https://bookdown.org/vmorales_ppb/SeriesdeTiempo/"
 length_weight: "7.9%"
 pinned: false
 ---
