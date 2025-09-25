@@ -1,10 +1,10 @@
 ---
 title: "Analysing Data using Linear Models"
 author: "Stéphanie M. van den Berg"
-date: "2024-07-02T07:54:19Z"
+date: "2025-09-19T14:59:23Z"
 tags: [Models, Data Analysis, Textbook, Mixed Models]
 link: "https://bookdown.org/pingapang9/linear_models_bookdown/"
-length_weight: "100%"
+length_weight: "6.3%"
 repo: "pingapang/linear_models_bookdown"
 pinned: false
 ---

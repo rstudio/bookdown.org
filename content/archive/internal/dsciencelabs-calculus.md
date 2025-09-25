@@ -1,10 +1,10 @@
 ---
 title: "Calculus and Its Applications"
 author: "Bakti Siregar, M.Sc., CDS."
-date: "2025-09-16T15:55:29Z"
+date: "2025-09-24T14:40:22Z"
 tags: [Data Science, Models]
 link: "https://bookdown.org/dsciencelabs/calculus/"
-length_weight: "4.3%"
+length_weight: "4.6%"
 cover: "https://bookdown.org/dsciencelabs/calculus/images/Cover.png"
 pinned: false
 ---

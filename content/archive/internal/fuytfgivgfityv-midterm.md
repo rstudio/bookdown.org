@@ -1,10 +1,10 @@
 ---
 title: "UNOFFICIAL notes"
 author: "fuytfgivgfityv"
-date: "2025-09-16T15:30:23Z"
+date: "2025-09-22T01:22:28Z"
 tags: [Package]
 link: "https://bookdown.org/fuytfgivgfityv/midterm/"
-length_weight: "2.6%"
+length_weight: "2.8%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
