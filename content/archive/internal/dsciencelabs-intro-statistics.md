@@ -1,11 +1,11 @@
 ---
-title: "Basis Statistics"
-author: "Bakti Siregar, M.Sc., CDSS."
-date: "2025-09-02T14:59:19Z"
+title: "Introduction to Statistics"
+author: "Bakti Siregar, M.Sc., CDS."
+date: "2025-09-22T12:53:28Z"
 tags: [Statistics]
-link: "https://bookdown.org/dsciencelabs/basic_statistics/"
-length_weight: "1.5%"
-cover: "https://bookdown.org/dsciencelabs/data_science_programming/images/Cover.png"
+link: "https://bookdown.org/dsciencelabs/intro_statistics/"
+length_weight: "5.2%"
+cover: "https://bookdown.org/dsciencelabs/intro_statistics/images/Book_Cover.png"
 pinned: false
 ---
 

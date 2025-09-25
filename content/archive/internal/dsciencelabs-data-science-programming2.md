@@ -1,10 +1,10 @@
 ---
 title: "Advanced Data Science Programming"
 author: "Bakti Siregar, M.Sc.,CDS"
-date: "2025-09-02T07:23:02Z"
+date: "2025-09-23T06:38:15Z"
 tags: [Data Science, Predictive Model]
 link: "https://bookdown.org/dsciencelabs/data_science_programming2/"
-length_weight: "1.5%"
+length_weight: "3.5%"
 cover: "https://bookdown.org/dsciencelabs/data_science_programming/images/Cover.png"
 pinned: false
 ---

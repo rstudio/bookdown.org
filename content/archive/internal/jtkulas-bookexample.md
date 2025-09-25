@@ -1,7 +1,7 @@
 ---
 title: "Technical Communication for the Social, Behavioral, and Management Sciences"
 author: "John Kulas"
-date: "2025-07-20T16:55:29Z"
+date: "2025-09-21T14:49:11Z"
 tags: [Course, Data Science]
 link: "https://bookdown.org/jtkulas/bookexample/"
 length_weight: "3.6%"
