@@ -1,6 +1,11 @@
 ## This file is useful to manually restore some file during PR review of GHA auto update
 ## TODO: update automatic rules to fix the issue
 
+# main should be up to date
+gert::git_branch_checkout("main")
+gert::git_pull("upstream", refspec = "main", rebase = TRUE)
+gert::git_branch_checkout("updates/gha-auto")
+
 files <- fs::dir_ls("content/archive/internal/", glob = "*.md")
 
 res <- purrr::map_lgl(files, ~ grepl("R course at Ewha Womans University.", brio::read_file(.x)))
@@ -18,10 +23,6 @@ files[res]
 
 
 # restore some file
-gert::git_branch_checkout("main")
-gert::git_pull("upstream", refspec = "main", rebase = TRUE)
-gert::git_branch_checkout("updates/gha-auto")
-
 git_restore <- function(file) {
   if (file.exists(file)) return()
   sys::exec_wait("git", c("checkout", "main", "--", file))
