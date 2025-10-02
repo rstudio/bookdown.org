@@ -1,7 +1,7 @@
 ---
 title: "STRUCTURAL EQUATION MODELING"
 author: "李喻骏 Yujun Li"
-date: "2025-05-14T02:09:48Z"
+date: "2025-09-26T03:50:29Z"
 tags: [Course]
 link: "https://bookdown.org/Yujun_Li_QuantPsych/sem/"
 length_weight: "7%"
