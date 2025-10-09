@@ -58,6 +58,7 @@ git_restore("content/archive/internal/ggiaever-r4ds-ggplot2.md")
 git_restore("content/archive/internal/ggiaever-2024-rna-seq-analysis.md")
 git_restore("content/archive/internal/dsciencelabs-alin-tambang.md")
 git_restore("content/archive/internal/blazej-kochanski-statystyka2.md")
+git_restore("content/archive/internal/andrew-grant-resamplingmethods.md")
 
 added <- gert::git_add("content/archive/internal")
 if (any(added$staged)) gert::git_commit("Restore some files")
