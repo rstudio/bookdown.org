@@ -1,7 +1,7 @@
 ---
 title: "index"
 author: "rpuziol_oliveira"
-date: "2025-09-08T20:59:54Z"
+date: "2025-10-07T15:17:03Z"
 link: "https://bookdown.org/rpuziol_oliveira/processos-estocasticos/"
 length_weight: "100%"
 pinned: false
