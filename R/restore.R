@@ -1,10 +1,11 @@
 ## This file is useful to manually restore some file during PR review of GHA auto update
 ## TODO: update automatic rules to fix the issue
 
-# main should be up to date
-gert::git_branch_checkout("main")
-gert::git_pull("upstream", refspec = "main", rebase = TRUE)
-gert::git_branch_checkout("updates/gha-auto")
+# main should be up to date - do that before
+
+# gert::git_branch_checkout("main")
+# gert::git_pull("upstream", refspec = "main", rebase = TRUE)
+# gert::git_branch_checkout("updates/gha-auto")
 
 files <- fs::dir_ls("content/archive/internal/", glob = "*.md")
 
