@@ -1,7 +1,7 @@
 ---
 title: "李喻骏Yujun Li"
 author: "Yujun_Li_QuantPsych"
-date: "2025-08-31T08:22:41Z"
+date: "2025-10-05T07:10:51Z"
 tags: [Psychology, Education, Statistics, Social Science]
 link: "https://bookdown.org/Yujun_Li_QuantPsych/home/"
 length_weight: "2.2%"
