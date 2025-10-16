@@ -1,10 +1,10 @@
 ---
 title: "Geoestadística con GeoModels"
 author: "vmorales_ppb"
-date: "2025-10-07T10:18:57Z"
+date: "2025-10-15T03:52:06Z"
 tags: [Models]
 link: "https://bookdown.org/vmorales_ppb/GeoestadisticaGeoModels/"
-length_weight: "6.1%"
+length_weight: "6.3%"
 pinned: false
 ---
 
