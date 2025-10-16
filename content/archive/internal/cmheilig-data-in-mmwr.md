@@ -1,9 +1,9 @@
 ---
 title: "Data in the MMWR"
 author: "Chad Heilig"
-date: "2025-10-09T03:41:47Z"
+date: "2025-10-15T14:37:57Z"
 link: "https://bookdown.org/cmheilig/data-in-mmwr/"
-length_weight: "9.5%"
+length_weight: "9.6%"
 pinned: false
 ---
 
