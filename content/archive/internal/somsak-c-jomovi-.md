@@ -1,10 +1,10 @@
 ---
 title: "Jamovi Manual"
 author: "อ.ดร.สมศักดิ์ จันทร์เอม"
-date: "2025-04-27T11:47:36Z"
+date: "2025-10-23T03:22:21Z"
 tags: [Econometrics]
 link: "https://bookdown.org/somsak_c/_jomovi_/"
-length_weight: "9.2%"
+length_weight: "0%"
 cover: "https://bookdown.org/somsak_c/_jomovi_/cover.png"
 pinned: false
 ---
