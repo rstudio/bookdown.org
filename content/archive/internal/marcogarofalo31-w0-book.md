@@ -1,9 +1,9 @@
 ---
 title: "w0_book"
 author: "Norah Jones"
-date: "2025-10-15T14:11:54Z"
+date: "2025-10-16T15:54:01Z"
 link: "https://bookdown.org/marcogarofalo31/w0_book/"
-length_weight: "3.9%"
+length_weight: "4%"
 pinned: false
 ---
 

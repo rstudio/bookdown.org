@@ -1,10 +1,10 @@
 ---
 title: "Metod i kriminologi"
 author: "Kriminolog grupp vid Umeå universitet"
-date: "2025-10-02T10:05:49Z"
+date: "2025-10-16T13:09:36Z"
 tags: [Package]
 link: "https://bookdown.org/jeffreymichaelmitchell/Krim_bok/"
-length_weight: "5.1%"
+length_weight: "10.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

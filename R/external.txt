@@ -88,7 +88,6 @@ https://paleolimbot.github.io/physical-geology/
 https://paulcbauer.github.io/apis_for_social_scientists_a_review/
 https://pbiecek.github.io/ema/
 https://physikbuch.schule/
-https://plotly-book.cpsievert.me/
 https://privefl.github.io/advr38book/
 https://psyc2016.whatanimalssee.com/
 https://psyteachr.github.io/msc-data-skills/

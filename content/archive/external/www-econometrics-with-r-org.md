@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Econometrics with R"
 author: "Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer"
-date: "2025-07-23"
+date: "2025-10-17"
 tags: [Econometrics, Statistics, Textbook, R Programming, Guide, Visualization]
 link: "https://www.econometrics-with-r.org/"
 length_weight: "10.6%"
