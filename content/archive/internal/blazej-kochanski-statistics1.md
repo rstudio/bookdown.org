@@ -1,10 +1,10 @@
 ---
 title: "Statistics 1"
 author: "Błażej Kochański"
-date: "2025-10-23T03:34:51Z"
+date: "2025-10-29T19:59:55Z"
 tags: [Statistics, Course, Package]
 link: "https://bookdown.org/blazej_kochanski/statistics1/"
-length_weight: "4.9%"
+length_weight: "1.5%"
 repo: "bkochanski/statistics1"
 pinned: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Targeted Learning for Real-World Evidence"
 author: "amertens"
-date: "2025-10-21T18:21:03Z"
+date: "2025-10-27T20:03:16Z"
 tags: [Epidemiology]
 link: "https://bookdown.org/amertens/causal-learning-handbook/"
-length_weight: "3.1%"
+length_weight: "3.8%"
 pinned: false
 ---
 
