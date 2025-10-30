@@ -1,9 +1,9 @@
 ---
 title: "Mantrams for Mindfulness and Healing"
 author: "José Becerra"
-date: "2025-10-13T12:58:12Z"
+date: "2025-10-29T21:05:26Z"
 link: "https://bookdown.org/becerra_je/Mantrams/"
-length_weight: "3.2%"
+length_weight: "3.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
