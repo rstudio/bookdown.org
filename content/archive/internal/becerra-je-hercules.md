@@ -1,9 +1,9 @@
 ---
 title: "The Twelve Labors of Hercules"
 author: "José Becerra"
-date: "2025-10-29T21:51:02Z"
+date: "2025-10-31T16:03:02Z"
 link: "https://bookdown.org/becerra_je/Hercules/"
-length_weight: "4.2%"
+length_weight: "4.4%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---

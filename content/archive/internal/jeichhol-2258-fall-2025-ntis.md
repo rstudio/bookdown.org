@@ -1,10 +1,10 @@
 ---
-title: "Block 1"
-author: "Joseph Eichholz"
-date: "2025-10-24T19:28:55Z"
+title: "Math 141 NTIs Fall 2025"
+author: "John Doe"
+date: "2025-11-05T18:15:46Z"
 tags: [Package, Course]
 link: "https://bookdown.org/jeichhol/2258_Fall_2025_NTIs/"
-length_weight: "8.5%"
+length_weight: "2.2%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
