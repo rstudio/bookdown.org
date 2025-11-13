@@ -1,10 +1,10 @@
 ---
 title: "STAT 142"
 author: "slcodia"
-date: "2025-10-29T14:42:02Z"
+date: "2025-11-13T04:43:07Z"
 tags: [Statistics, Statistical Methods]
 link: "https://bookdown.org/slcodia/Stat_142/"
-length_weight: "10%"
+length_weight: "10.1%"
 pinned: false
 ---
 
