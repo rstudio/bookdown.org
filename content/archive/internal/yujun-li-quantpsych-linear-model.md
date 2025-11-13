@@ -1,7 +1,7 @@
 ---
 title: "Linear Model"
 author: "李喻骏 Yujun Li"
-date: "2025-11-06T04:04:48Z"
+date: "2025-11-07T02:22:55Z"
 tags: [Course]
 link: "https://bookdown.org/Yujun_Li_QuantPsych/linear_model/"
 length_weight: "8.6%"
