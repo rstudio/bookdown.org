@@ -30,7 +30,6 @@ https://dataanalyticsbook.info/
 https://datascience4psych.github.io/DataScience4Psych/
 https://datasciencedesign.com/
 https://datascienceineducation.com/
-https://datasciencepractice.study/
 https://daviddalpiaz.github.io/r4sl/
 https://davidjohnbaker1.github.io/document/
 https://designexptr.org/
@@ -118,7 +117,6 @@ https://steverxd.github.io/Stat_tests/
 https://t4rstats.netlify.app/
 https://thefaylab.github.io/lab-manual/
 https://therinspark.com/
-https://thesis.earo.me/
 https://tidy-finance.org/
 https://tidy-survey-r.github.io/tidy-survey-book/
 https://tidyeval.tidyverse.org/
