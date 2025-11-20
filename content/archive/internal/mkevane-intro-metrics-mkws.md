@@ -1,7 +1,7 @@
 ---
 title: "Intro to Econometrics"
 author: "Michael Kevane and William Sundstrom"
-date: "2025-10-30T22:48:16Z"
+date: "2025-11-17T22:07:00Z"
 tags: [Econometrics, Textbook, Course, Data Analysis, Education, Statistical Computing, Visualization]
 link: "https://bookdown.org/mkevane/Intro_Metrics_MKWS/"
 length_weight: "100%"
