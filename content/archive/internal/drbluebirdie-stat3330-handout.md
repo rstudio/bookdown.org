@@ -1,9 +1,9 @@
 ---
 title: "Handbook of STAT3330"
 author: "Dr. Panfeng Liang"
-date: "2025-11-19T21:28:57Z"
+date: "2025-11-24T22:07:33Z"
 link: "https://bookdown.org/drbluebirdie/STAT3330_handout/"
-length_weight: "9.6%"
+length_weight: "9.7%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
