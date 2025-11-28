@@ -1,9 +1,9 @@
 ---
 title: "Operación Serenidad 2025"
 author: "José Becerra"
-date: "2025-11-03T01:51:16Z"
+date: "2025-11-24T12:50:12Z"
 link: "https://bookdown.org/becerra_je/serenidad/"
-length_weight: "8.9%"
+length_weight: "9.1%"
 repo: "rstudio/bookdown-demo"
 pinned: false
 ---
