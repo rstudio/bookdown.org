@@ -1,7 +1,7 @@
 ---
 title: "BIOS 526 Modern Regression Analysis"
 author: "Emily Peterson"
-date: "2025-11-16T19:30:12Z"
+date: "2025-12-01T04:51:29Z"
 tags: [Course]
 link: "https://bookdown.org/epeterson_2010/bios526_book/"
 length_weight: "100%"
