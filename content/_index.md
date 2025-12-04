@@ -4,42 +4,6 @@ title: Home
 
 # BOOKDOWN
 
-<style>
-.announcement-banner {
-  background: linear-gradient(135deg, #f0ad4e 0%, #ec971f 100%);
-  color: #000;
-  padding: 1.25em 1.5em;
-  text-align: left;
-  margin-bottom: 1.5em;
-  border-radius: 5px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  border-left: 5px solid #d58512;
-  line-height: 1.6;
-}
-.announcement-banner-header {
-  font-weight: bold;
-  font-size: 1.1em;
-  margin-bottom: 0.5em;
-  display: block;
-}
-.announcement-banner a {
-  color: #1a1a1a;
-  text-decoration: underline;
-  font-weight: bold;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 2px;
-}
-.announcement-banner a:hover {
-  color: #000;
-  text-decoration-thickness: 3px;
-}
-</style>
-
-<div class="announcement-banner">
-  <span class="announcement-banner-header">⚠️ Important</span>
-  bookdown.org hosting service will be disabled on <strong>January 31, 2026</strong>. Please migrate your content now. New account registration is permanently disabled. <a href="https://posit.co/blog/bookdown-org-sunset">See the announcement blog post →</a>
-</div>
-
 ## Write HTML, PDF, ePub, and Kindle books with R Markdown
 
 <img src="https://bookdown.org/yihui/bookdown/images/logo.png" alt="The bookdown logo" align="right" style="margin-left:1em;max-width:30%;" />

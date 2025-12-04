@@ -1,0 +1,48 @@
+{{/*
+  Project-level override of themes/hugo-xmin/layouts/partials/header.html
+
+  This file is a copy of the theme's header with ONE addition:
+  - Line 40: {{ partial "announcement.html" . }} - Injects site-wide announcement banner
+
+  The announcement banner is configured in config.toml under [params.announcement]
+
+  Created: 2025-01-04 for bookdown.org sunset announcement
+*/}}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="bookdown: Authoring Books and Technical Documents with R Markdown" />
+    <meta name="twitter:description" content="The platform bookdown.org is provided by RStudio for authors to publish books online for free. The bookdown package is an open-source R package that facilitates writing books and long-form articles/reports with R Markdown." />
+    <meta name="twitter:image" content="https://bookdown.org/yihui/bookdown/images/logo.png" />
+    <meta property="og:image" content="https://bookdown.org/yihui/bookdown/images/logo.png" />
+    <link rel="icon" type="image/png" href="{{ "/images/favicon.png" | relURL }}" />
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
+  </head>
+
+  <body>
+    <nav class="menu">
+    {{ partial "icons.html" . }}
+    <ul>
+      {{ range .Site.Menus.logo }}
+      <li class="icon left">
+        <a href="{{ .URL | relURL }}"><img src="{{ relURL .Pre }}" alt="{{ .Name }}" title="{{ .Name }}" /></a>
+      </li>
+      {{ end }}
+      {{ range .Site.Menus.main }}
+      <li{{ if .Identifier }} class="optional"{{ end }}>
+        <a href="{{ .URL | relURL }}"{{ if eq .URL $.RelPermalink }} class="active"{{ end }}>{{ .Name }}</a>
+      </li>
+      {{ end }}
+      {{ range .Site.Menus.icons }}
+      <li class="icon right">
+        <a href="{{ .URL | relURL }}"><svg viewBox="0 0 16 16"><use xlink:href="#icon-{{ .Post }}"></use></svg></a>
+      </li>
+      {{ end }}
+    </ul>
+    </nav>
+{{ partial "announcement.html" . }}

@@ -68,6 +68,13 @@ footnotereturnlinkcontents = "↩"
     description = "Write HTML, PDF, ePub, and Kindle books with R Markdown"
     footer = "&copy; [RStudio, PBC](https://www.rstudio.com) 2016 -- 2020"
 
+[params.announcement]
+    enabled = true
+    header = "⚠️ Important"
+    message = """bookdown.org hosting service will be disabled on <strong>January 31, 2026</strong>. \
+Please migrate your content now. New account registration is permanently disabled.<br> \
+<a href="https://posit.co/blog/bookdown-org-sunset">See the announcement blog post →</a>"""
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
