@@ -37,7 +37,7 @@ title: Home
 
 <div class="announcement-banner">
   <span class="announcement-banner-header">⚠️ Important</span>
-  bookdown.org hosting service will be disabled on <strong>January 31, 2026</strong>. Please migrate your content now. New user signups are permanently disabled. <a href="https://posit.co/blog/bookdown-org-sunset">See the announcement blog post →</a>
+  bookdown.org hosting service will be disabled on <strong>January 31, 2026</strong>. Please migrate your content now. New account registration is permanently disabled. <a href="https://posit.co/blog/bookdown-org-sunset">See the announcement blog post →</a>
 </div>
 
 ## Write HTML, PDF, ePub, and Kindle books with R Markdown
