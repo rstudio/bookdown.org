@@ -71,8 +71,7 @@ footnotereturnlinkcontents = "↩"
 [params.announcement]
     enabled = true
     header = "⚠️ Important"
-    message = """bookdown.org hosting service will be disabled on <strong>January 31, 2026</strong>. \
-Please migrate your content now. New account registration is permanently disabled.<br> \
+    message = """The bookdown.org hosting service is being decommissioned.<br> \
 <a href="https://posit.co/blog/bookdown-org-sunset">See the announcement blog post →</a>"""
 
 [markup]
