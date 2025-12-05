@@ -1,0 +1,58 @@
+{{/*
+  Site-wide announcement banner partial
+
+  Displays a configurable announcement banner at the top of all pages.
+  Banner content and settings are configured in config.toml under [params.announcement]
+
+  To disable: Set enabled = false in config.toml
+  To update message: Edit the message field in config.toml
+
+  Created: 2025-01-04 for bookdown.org sunset announcement
+*/}}
+{{ if .Site.Params.announcement.enabled }}
+<style>
+.announcement-banner-wrapper {
+  background: linear-gradient(135deg, #f0ad4e 0%, #ec971f 100%);
+  width: 100%;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  margin-bottom: 1em;
+}
+.announcement-banner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0.75em 1.25em;
+  color: #000;
+  text-align: left;
+  line-height: 1.4;
+  font-size: 0.95em;
+}
+.announcement-banner-header {
+  font-weight: bold;
+  font-size: 1em;
+  margin-bottom: 0.3em;
+  display: block;
+}
+.announcement-banner a {
+  color: #1a1a1a;
+  text-decoration: underline;
+  font-weight: bold;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+  display: inline-block;
+  margin-top: 0.4em;
+}
+.announcement-banner a:hover {
+  color: #000;
+  text-decoration-thickness: 3px;
+}
+</style>
+
+<div class="announcement-banner-wrapper">
+  <div class="announcement-banner">
+    {{ with .Site.Params.announcement.header }}
+    <span class="announcement-banner-header">{{ . | safeHTML }}</span>
+    {{ end }}
+    {{ .Site.Params.announcement.message | safeHTML }}
+  </div>
+</div>
+{{ end }}
