@@ -1,7 +1,7 @@
 ---
 title: "Clinical Biostatistics"
 author: "Leonhard Held, with contributions from Charlotte Micheloud, Lisa Hofer, Stefanie von Felten, Samuel Pawel and Minghan Yang"
-date: "2025-11-03T21:41:06Z"
+date: "2025-12-03T14:34:06Z"
 tags: [Statistics, Medicine, Data Science, Statistical Methods]
 link: "https://bookdown.org/charlotte_micheloud93/Clinical_Biostatistics/"
 length_weight: "100%"
@@ -13,5 +13,5 @@ Based on the lecture notes from STA404: Clinical Biostatistics. [...] “Medicin
 data science (Lee et al, 2019). As the science of
 managing medical uncertainty, biostatistical methods play a key
 role in the scientific assessment of all areas of medical
-practice: from aetilogy to diagnosis and from treatment to prognosis. This script is based on a series of lectures in Clinical Biostatistics
+practice: from aetiology to diagnosis and from treatment to prognosis. This script is based on a series of lectures in Clinical Biostatistics
 that I gave at the University of Zurich for Master ...
