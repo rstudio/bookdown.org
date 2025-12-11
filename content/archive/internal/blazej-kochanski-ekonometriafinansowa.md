@@ -1,9 +1,9 @@
 ---
 title: "Ekonometria finansowa"
 author: "Błażej Kochański"
-date: "2025-11-11T15:10:24Z"
+date: "2025-12-06T08:55:23Z"
 link: "https://bookdown.org/blazej_kochanski/ekonometriafinansowa/"
-length_weight: "2.8%"
+length_weight: "1.1%"
 repo: "bkochanski/ekonometriafinansowa"
 pinned: false
 ---
