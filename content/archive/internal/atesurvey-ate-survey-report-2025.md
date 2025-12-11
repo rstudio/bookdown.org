@@ -1,7 +1,7 @@
 ---
 title: "ATE Survey 2025"
 author: "atesurvey"
-date: "2025-10-27T18:38:21Z"
+date: "2025-12-09T21:00:09Z"
 tags: [Education]
 link: "https://bookdown.org/atesurvey/ate_survey_report_2025/"
 length_weight: "5.1%"

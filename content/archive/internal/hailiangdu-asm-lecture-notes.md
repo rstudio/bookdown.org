@@ -1,7 +1,7 @@
 ---
 title: "Advanced Statistical Modelling"
 author: "Dr. H. Du"
-date: "2025-11-30T10:49:08Z"
+date: "2025-12-08T15:48:03Z"
 tags: [Course, Machine Learning, Data Science]
 link: "https://bookdown.org/hailiangdu/ASM_Lecture_Notes/"
 length_weight: "100%"

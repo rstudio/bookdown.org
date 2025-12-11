@@ -4,7 +4,7 @@ author: "王 超辰 Chaochen Wang"
 date: "2023-09-04"
 tags: [醫學]
 link: "https://wangcc.me/LSHTMlearningnote/"
-length_weight: "100%"
+length_weight: "0%"
 cover: "https://wangcc.me/LSHTMlearningnote/img/cover.jpg"
 repo: "winterwang/LSHTMlearningnote"
 pinned: false

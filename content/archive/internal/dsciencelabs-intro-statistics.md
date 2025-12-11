@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Statistics"
 author: "Bakti Siregar, M.Sc., CDS."
-date: "2025-12-01T03:10:25Z"
+date: "2025-12-08T09:39:35Z"
 tags: [Statistics]
 link: "https://bookdown.org/dsciencelabs/intro_statistics/"
-length_weight: "8.1%"
+length_weight: "8.5%"
 cover: "https://bookdown.org/dsciencelabs/intro_statistics/images/Book_Cover.png"
 pinned: false
 ---

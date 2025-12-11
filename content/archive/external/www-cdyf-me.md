@@ -1,6 +1,6 @@
 ---
 title: "Coding Your Future: A Guidebook for Students"
-author: "Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 03 December, 2025, Duncan Hull and Bryan Mathers"
+author: "Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 10 December, 2025, Duncan Hull and Bryan Mathers"
 date: ""
 tags: [Guide]
 link: "https://www.cdyf.me/"
