@@ -1,7 +1,7 @@
 ---
 title: "STAT 136"
 author: "slcodia"
-date: "2025-12-07T05:43:02Z"
+date: "2025-12-17T18:05:46Z"
 tags: [Course]
 link: "https://bookdown.org/slcodia/Stat_136/"
 length_weight: "100%"
