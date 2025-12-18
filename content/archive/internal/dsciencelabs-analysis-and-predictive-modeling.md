@@ -1,10 +1,10 @@
 ---
 title: "Analysis and Predictive Modeling"
 author: "Bakti Siregar, M.Sc., CDS"
-date: "2025-11-28T03:27:30Z"
+date: "2025-12-12T05:13:08Z"
 tags: [Predictive Model, Data Science, Course]
 link: "https://bookdown.org/dsciencelabs/analysis_and_predictive_modeling/"
-length_weight: "7%"
+length_weight: "8%"
 cover: "https://bookdown.org/dsciencelabs/analysis_and_predictive_modeling/images/Cover.png"
 pinned: false
 ---
