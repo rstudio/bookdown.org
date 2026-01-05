@@ -1,7 +1,7 @@
 ---
 title: "Leaflet in Practice: Create webmaps using the JavaScript Leaflet library"
 author: "Samuel Gachuhi Ngugi"
-date: "2023-09-04T05:14:36Z"
+date: "2025-12-26T10:51:34Z"
 tags: [Package, Guide]
 link: "https://bookdown.org/sammigachuhi/book-leaflet/"
 length_weight: "8.2%"
