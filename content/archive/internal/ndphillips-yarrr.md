@@ -1,7 +1,7 @@
 ---
 title: "YaRrr! The Pirate’s Guide to R"
 author: "Nathaniel D. Phillips"
-date: "2024-11-11T19:34:44Z"
+date: "2026-01-06T23:11:19Z"
 tags: [Guide]
 link: "https://bookdown.org/ndphillips/YaRrr/"
 length_weight: "100%"
